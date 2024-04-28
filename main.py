@@ -91,6 +91,7 @@ for url in urls:
 all_lines = ys_lines + ['\n'] + ws_lines + ['\n'] + ty_lines
 
 # 将合并后的文本写入文件
+print(f"文件路径: {os.getcwd()}")
 output_file = "merged_output.txt"
 others_file = "others_output.txt"
 try:
