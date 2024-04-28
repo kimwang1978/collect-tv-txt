@@ -34,4 +34,21 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: generated-files
-        path: merged_output.txt
+        path: |
+          merged_output.txt
+          others_output.txt
+
+    - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add merged_output.txt
+          git add others_output.txt
+          git commit -m "Update generated files"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+        
