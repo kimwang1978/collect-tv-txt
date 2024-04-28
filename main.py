@@ -1,6 +1,5 @@
 import urllib.request
 import re #正则
-import os
 
 # 定义要访问的多个URL
 urls = [
@@ -16,11 +15,6 @@ ty_lines = []
 # favorite_lines = []
 
 other_lines = []
-
-ys_lines.append("央视频道,#genre#")
-ws_lines.append("卫视频道,#genre#")
-ty_lines.append("体育频道,#genre#")
-
 
 def process_name_string(input_str):
     parts = input_str.split(',')
@@ -88,11 +82,28 @@ for url in urls:
     print(f"处理URL: {url}")
     process_url(url)
 
+
+
+# 定义一个函数，提取每行中逗号前面的数字部分作为排序的依据
+def extract_number(s):
+    num_str = s.split(',')[0].split('-')[1]  # 提取逗号前面的数字部分
+    numbers = re.findall(r'\d+', num_str)   #因为有+和K
+    return int(numbers[-1]) if numbers else 0
+# 定义一个自定义排序函数
+def custom_sort(s):
+    if "CCTV-4K" in s:
+        return 1  # 将包含 "4K" 的字符串排在后面
+    elif "CCTV-8K" in s:
+        return 2  # 将包含 "8K" 的字符串排在后面
+    else:
+        return 0  # 其他字符串保持原顺序
+
 # 合并所有对象中的行文本
-all_lines = ys_lines + ['\n'] + ws_lines + ['\n'] + ty_lines
+all_lines =  ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
+             ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
+             ["体育频道,#genre#"] + sorted(set(ty_lines))
 
 # 将合并后的文本写入文件
-print(f"文件路径: {os.getcwd()}")
 output_file = "merged_output.txt"
 others_file = "others_output.txt"
 try:
