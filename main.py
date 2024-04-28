@@ -6,6 +6,8 @@ urls = [
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
     'https://m3u.ibert.me/txt/y_g.txt'
+    'https://m3u.ibert.me/txt/j_home.txt'
+
 ]
 
 # 定义多个对象用于存储不同内容的行文本
@@ -31,16 +33,7 @@ def process_part(part_str):
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         return "CCTV-"+filtered_str
-        # pattern = r'CCTV-(\d+)([+\d]*).*'  # 匹配CCTV-数字后可能有+和数字_任意字符
-        # #pattern = r'CCTV-(\d+)[+\d]*[「"“].*'
-        # match = re.match(pattern, part_str)
-        # if match:
-        #     number = match.group(1)
-        #     plus_part = match.group(2)
-        #     modified_str = f"CCTV-{number}"
-        #     if plus_part and (plus_part[0] == '+' or plus_part.isdigit()):
-        #         modified_str += '+'
-        #     return modified_str
+    
     elif "卫视" in part_str:
         # 定义正则表达式模式，匹配“卫视”后面的内容
         pattern = r'卫视「.*」'
@@ -98,7 +91,7 @@ def custom_sort(s):
     else:
         return 0  # 其他字符串保持原顺序
 
-# 合并所有对象中的行文本
+# 合并所有对象中的行文本（去重，排序后拼接）
 all_lines =  ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines))
