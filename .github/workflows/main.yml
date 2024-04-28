@@ -1,0 +1,26 @@
+name: Daily Job
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天UTC时间00:00运行
+
+jobs:
+  run_job:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'  # 选择您的 Python 版本
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        #pip install -r requirements.txt  # 如果有依赖需要安装
+        
+    - name: Run Python script
+      run: python main.py  # 替换为您的脚本文件名
