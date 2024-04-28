@@ -3,6 +3,12 @@ name: 'Daily Job'
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天UTC时间00:00运行
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'production'
 
 jobs:
   run_job:
