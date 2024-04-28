@@ -35,7 +35,7 @@ def process_part(part_str):
     # 处理逻辑
     if "CCTV" in part_str:
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
-        filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K')
+        filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         return "CCTV-"+filtered_str
         # pattern = r'CCTV-(\d+)([+\d]*).*'  # 匹配CCTV-数字后可能有+和数字_任意字符
         # #pattern = r'CCTV-(\d+)[+\d]*[「"“].*'
