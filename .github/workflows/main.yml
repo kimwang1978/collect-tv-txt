@@ -42,8 +42,8 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add -f merged_output.txt
-          git add -f others_output.txt
+          git add merged_output.txt
+          git add others_output.txt
           git commit -m "Update generated files"
           
       - name: Push changes
