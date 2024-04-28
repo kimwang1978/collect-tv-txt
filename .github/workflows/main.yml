@@ -35,5 +35,5 @@ jobs:
       with:
         name: generated-files
         path: |
-          path/to/merged_output.txt
-          path/to/others_output.txt
+          merged_output.txt
+          others_output.txt
