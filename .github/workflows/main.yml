@@ -15,7 +15,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12'  # 选择您的 Python 版本
+        python-version: '3.11'  # 选择您的 Python 版本
         
     - name: Install dependencies
       run: |
