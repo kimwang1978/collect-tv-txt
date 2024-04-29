@@ -5,6 +5,7 @@ import re #正则
 urls = [
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/master/result.txt',
+    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
     'https://m3u.ibert.me/txt/y_g.txt'
