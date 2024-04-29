@@ -4,7 +4,7 @@ import re #正则
 # 定义要访问的多个URL
 urls = [
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
-    'https://raw.githubusercontent.com/Guovin/TV/master/result.txt',
+    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
