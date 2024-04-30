@@ -8,8 +8,9 @@ urls = [
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
-    'https://m3u.ibert.me/txt/y_g.txt'
-    'https://m3u.ibert.me/txt/j_home.txt'
+    'https://m3u.ibert.me/txt/y_g.txt',
+    'https://m3u.ibert.me/txt/j_home.txt',
+    'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt'
 ]
 
 # 定义多个对象用于存储不同内容的行文本
