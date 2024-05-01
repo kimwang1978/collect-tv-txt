@@ -40,7 +40,7 @@ def process_part(part_str):
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         if not filtered_str.strip(): #处理特殊情况，如果发现没有找到频道数字返回原名称
-            filtered_str=part_str 
+            filtered_str=part_str.replace("CCTV", "")
         return "CCTV-"+filtered_str 
         
     elif "卫视" in part_str:
