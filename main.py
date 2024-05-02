@@ -16,6 +16,7 @@ urls = [
 ]
 
 # 定义多个对象用于存储不同内容的行文本
+sh_lines = []
 ys_lines = []
 ws_lines = []
 ty_lines = []
@@ -66,7 +67,7 @@ def process_url(url):
             # 逐行处理内容
             lines = text.split('\n')
             for line in lines:
-                if  "#genre#" not in line and "," in line:
+                if  "#genre#" not in line and "," in line and ":" in line:
                     channel_name=line.split(',')[0].strip()
                     channel_address=line.split(',')[1].strip()
                     # 根据行内容判断存入哪个对象
@@ -80,6 +81,8 @@ def process_url(url):
                         dy_lines.append(process_name_string(line.strip()))
                     elif channel_name in dsj_dictionary:  #电视剧频道
                         dsj_lines.append(process_name_string(line.strip()))
+                    elif channel_name in sh_dictionary:  #上海频道
+                        sh_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -106,7 +109,7 @@ def read_txt_to_array(file_name):
 #读取文本
 dy_dictionary=read_txt_to_array('电影.txt')
 dsj_dictionary=read_txt_to_array('电视剧.txt')
-
+sh_dictionary=read_txt_to_array('shanghai.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -130,7 +133,8 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 # 合并所有对象中的行文本（去重，排序后拼接）
-all_lines =  ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
+all_lines =  ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
+             ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
