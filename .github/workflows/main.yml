@@ -45,6 +45,12 @@ jobs:
           git add merged_output.txt
           git add others_output.txt
           git commit -m "Update generated files"
+
+          current_datetime=$(date +"%Y%m%d%H%M%S")
+          cp merged_output.txt history/"${current_datetime}_merged_output.txt"
+          git add history/"${current_datetime}_merged_output.txt"
+          
+          git commit -m "Archive file with timestamp"
           
     - name: Push changes
       uses: ad-m/github-push-action@master
