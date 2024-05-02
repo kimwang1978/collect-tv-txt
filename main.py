@@ -119,7 +119,7 @@ for url in urls:
 def extract_number(s):
     num_str = s.split(',')[0].split('-')[1]  # 提取逗号前面的数字部分
     numbers = re.findall(r'\d+', num_str)   #因为有+和K
-    return int(numbers[-1]) if numbers else 0
+    return int(numbers[-1]) if numbers else 999
 # 定义一个自定义排序函数
 def custom_sort(s):
     if "CCTV-4K" in s:
