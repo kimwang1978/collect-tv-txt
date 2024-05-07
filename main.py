@@ -23,6 +23,9 @@ ws_lines = []
 ty_lines = []
 dy_lines = []
 dsj_lines = []
+gat_lines = [] #港澳台
+gj_lines = [] #国际台
+
 # favorite_lines = []
 
 other_lines = []
@@ -84,6 +87,10 @@ def process_url(url):
                         dsj_lines.append(process_name_string(line.strip()))
                     elif channel_name in sh_dictionary:  #上海频道
                         sh_lines.append(process_name_string(line.strip()))
+                    elif channel_name in gat_dictionary:  #港澳台
+                        gat_lines.append(process_name_string(line.strip()))
+                    elif channel_name in gj_dictionary:  #国际台
+                        gj_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -111,6 +118,8 @@ def read_txt_to_array(file_name):
 dy_dictionary=read_txt_to_array('电影.txt')
 dsj_dictionary=read_txt_to_array('电视剧.txt')
 sh_dictionary=read_txt_to_array('shanghai.txt')
+gat_dictionary=read_txt_to_array('港澳台.txt')
+gj_dictionary=read_txt_to_array('国际台.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -141,7 +150,9 @@ all_lines =  [version]+\
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
-             ["电视剧频道,#genre#"] + sorted(set(dsj_lines))
+             ["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
+             ["港澳台,#genre#"] + sorted(set(gat_lines)) + ['\n'] + \
+             ["国际台,#genre#"] + sorted(set(gj_lines))
 
 # 将合并后的文本写入文件
 output_file = "merged_output.txt"
