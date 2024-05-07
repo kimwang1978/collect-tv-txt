@@ -134,9 +134,9 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 # 合并所有对象中的行文本（去重，排序后拼接）
-current_date = datetime.now()
-date_string = current_date.strftime("%Y-%m-%d")
-all_lines =  ["{date_string},#genre#"] + ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
+version=datetime.now().strftime("%Y%m%d")+",#genre#"
+all_lines =  [version]+\
+             ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
              ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
