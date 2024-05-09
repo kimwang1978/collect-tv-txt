@@ -146,7 +146,7 @@ def custom_sort(s):
 # 合并所有对象中的行文本（去重，排序后拼接）
 
 version=datetime.now().strftime("%Y%m%d")+",url"
-all_lines =  ["更新时间,#genre#"] +[version]+\
+all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
              ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
