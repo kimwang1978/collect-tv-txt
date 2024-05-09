@@ -13,7 +13,8 @@ urls = [
     'https://m3u.ibert.me/txt/y_g.txt',
     'https://m3u.ibert.me/txt/j_home.txt',
     'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
-    'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt'
+    'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
+    'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt'
 ]
 
 # 定义多个对象用于存储不同内容的行文本
@@ -143,8 +144,9 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 # 合并所有对象中的行文本（去重，排序后拼接）
-version=datetime.now().strftime("%Y%m%d")+",#genre#"
-all_lines =  [version]+\
+
+version=datetime.now().strftime("%Y%m%d")+",url"
+all_lines =  ["更新时间,#genre#"] +[version]+\
              ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
              ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
