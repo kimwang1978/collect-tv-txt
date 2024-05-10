@@ -26,6 +26,8 @@ dy_lines = []
 dsj_lines = []
 gat_lines = [] #港澳台
 gj_lines = [] #国际台
+jlp_lines = [] #记录片
+dhp_lines = [] #动画片
 
 # favorite_lines = []
 
@@ -92,6 +94,10 @@ def process_url(url):
                         gat_lines.append(process_name_string(line.strip()))
                     elif channel_name in gj_dictionary:  #国际台
                         gj_lines.append(process_name_string(line.strip()))
+                    elif channel_name in jlp_dictionary:  #纪录片
+                        gj_lines.append(process_name_string(line.strip()))
+                    elif channel_name in dhp_dictionary:  #动画片
+                        gj_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -121,6 +127,8 @@ dsj_dictionary=read_txt_to_array('电视剧.txt')
 sh_dictionary=read_txt_to_array('shanghai.txt')
 gat_dictionary=read_txt_to_array('港澳台.txt')
 gj_dictionary=read_txt_to_array('国际台.txt')
+jlp_dictionary=read_txt_to_array('纪录片.txt')
+dhp_dictionary=read_txt_to_array('动画片.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -154,7 +162,9 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
              ["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
              ["港澳台,#genre#"] + sorted(set(gat_lines)) + ['\n'] + \
-             ["国际台,#genre#"] + sorted(set(gj_lines))
+             ["国际台,#genre#"] + sorted(set(gj_lines)) + ['\n'] + \
+             ["纪录片,#genre#"] + sorted(set(jlp_lines)) + ['\n'] + \
+             ["动画片,#genre#"] + sorted(set(dhp_lines))
 
 # 将合并后的文本写入文件
 output_file = "merged_output.txt"
