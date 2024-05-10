@@ -95,9 +95,9 @@ def process_url(url):
                     elif channel_name in gj_dictionary:  #国际台
                         gj_lines.append(process_name_string(line.strip()))
                     elif channel_name in jlp_dictionary:  #纪录片
-                        gj_lines.append(process_name_string(line.strip()))
+                        jlp_lines.append(process_name_string(line.strip()))
                     elif channel_name in dhp_dictionary:  #动画片
-                        gj_lines.append(process_name_string(line.strip()))
+                        dhp_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
