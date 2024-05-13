@@ -14,7 +14,9 @@ urls = [
     'https://m3u.ibert.me/txt/j_home.txt',
     'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
-    'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt'
+    'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
+    'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
+    'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt' #1小时自动更新1次11:11 2024/05/13
 ]
 
 # 定义多个对象用于存储不同内容的行文本
@@ -28,6 +30,8 @@ gat_lines = [] #港澳台
 gj_lines = [] #国际台
 jlp_lines = [] #记录片
 dhp_lines = [] #动画片
+xq_lines = [] #戏曲
+js_lines = [] #解说
 
 # favorite_lines = []
 
@@ -98,6 +102,10 @@ def process_url(url):
                         jlp_lines.append(process_name_string(line.strip()))
                     elif channel_name in dhp_dictionary:  #动画片
                         dhp_lines.append(process_name_string(line.strip()))
+                    elif channel_name in xq_dictionary:  #戏曲
+                        xq_lines.append(process_name_string(line.strip()))
+                    elif channel_name in js_dictionary:  #解说
+                        js_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -129,6 +137,8 @@ gat_dictionary=read_txt_to_array('港澳台.txt')
 gj_dictionary=read_txt_to_array('国际台.txt')
 jlp_dictionary=read_txt_to_array('纪录片.txt')
 dhp_dictionary=read_txt_to_array('动画片.txt')
+xq_dictionary=read_txt_to_array('戏曲频道.txt')
+js_dictionary=read_txt_to_array('解说频道.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -164,7 +174,10 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["港澳台,#genre#"] + sorted(set(gat_lines)) + ['\n'] + \
              ["国际台,#genre#"] + sorted(set(gj_lines)) + ['\n'] + \
              ["纪录片,#genre#"] + sorted(set(jlp_lines)) + ['\n'] + \
-             ["动画片,#genre#"] + sorted(set(dhp_lines))
+             ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
+             ["戏曲频道,#genre#"] + sorted(set(xq_lines)) + ['\n'] + \
+             ["解说频道,#genre#"] + sorted(set(js_lines))
+
 
 # 将合并后的文本写入文件
 output_file = "merged_output.txt"
