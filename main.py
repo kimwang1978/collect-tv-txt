@@ -6,7 +6,7 @@ from datetime import datetime
 # 定义要访问的多个URL
 urls = [
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
-    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
+    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #1天自动更新1次
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
@@ -32,6 +32,7 @@ jlp_lines = [] #记录片
 dhp_lines = [] #动画片
 xq_lines = [] #戏曲
 js_lines = [] #解说
+cw_lines = [] #春晚
 
 # favorite_lines = []
 
@@ -106,6 +107,8 @@ def process_url(url):
                         xq_lines.append(process_name_string(line.strip()))
                     elif channel_name in js_dictionary:  #解说
                         js_lines.append(process_name_string(line.strip()))
+                    elif channel_name in cw_dictionary:  #春晚
+                        cw_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -139,6 +142,7 @@ jlp_dictionary=read_txt_to_array('纪录片.txt')
 dhp_dictionary=read_txt_to_array('动画片.txt')
 xq_dictionary=read_txt_to_array('戏曲频道.txt')
 js_dictionary=read_txt_to_array('解说频道.txt')
+cw_dictionary=read_txt_to_array('春晚.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -176,7 +180,8 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["纪录片,#genre#"] + sorted(set(jlp_lines)) + ['\n'] + \
              ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
              ["戏曲频道,#genre#"] + sorted(set(xq_lines)) + ['\n'] + \
-             ["解说频道,#genre#"] + sorted(set(js_lines))
+             ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
+             ["春晚,#genre#"] + sorted(set(cw_lines))
 
 
 # 将合并后的文本写入文件
