@@ -6,8 +6,8 @@ from datetime import datetime
 # 定义要访问的多个URL
 urls = [
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
-    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #1天自动更新1次
-    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
+    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
+    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
     'https://m3u.ibert.me/txt/y_g.txt',
@@ -16,7 +16,8 @@ urls = [
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
     'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
-    'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt' #1小时自动更新1次11:11 2024/05/13
+    'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
+    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
 ]
 
 # 定义多个对象用于存储不同内容的行文本
