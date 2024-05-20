@@ -35,6 +35,7 @@ xq_lines = [] #戏曲
 js_lines = [] #解说
 cw_lines = [] #春晚
 mx_lines = [] #明星
+ztp_lines = [] #主题片
 
 # favorite_lines = []
 
@@ -111,8 +112,10 @@ def process_url(url):
                         js_lines.append(process_name_string(line.strip()))
                     elif channel_name in cw_dictionary:  #春晚
                         cw_lines.append(process_name_string(line.strip()))
-                    elif channel_name in mx_dictionary:  #春晚
+                    elif channel_name in mx_dictionary:  #明星
                         mx_lines.append(process_name_string(line.strip()))
+                    elif channel_name in ztp_dictionary:  #主题片
+                        ztp_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -148,6 +151,7 @@ xq_dictionary=read_txt_to_array('戏曲频道.txt')
 js_dictionary=read_txt_to_array('解说频道.txt')
 cw_dictionary=read_txt_to_array('春晚.txt')
 mx_dictionary=read_txt_to_array('明星.txt')
+ztp_dictionary=read_txt_to_array('主题片.txt')
 
 # 循环处理每个URL
 for url in urls:
