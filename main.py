@@ -185,6 +185,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
              ["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
              ["明星,#genre#"] + sorted(set(mx_lines)) + ['\n'] + \
+             ["主题片,#genre#"] + sorted(set(ztp_lines)) + ['\n'] + \
              ["港澳台,#genre#"] + sorted(set(gat_lines)) + ['\n'] + \
              ["国际台,#genre#"] + sorted(set(gj_lines)) + ['\n'] + \
              ["纪录片,#genre#"] + sorted(set(jlp_lines)) + ['\n'] + \
