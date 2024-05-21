@@ -211,3 +211,24 @@ try:
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
+
+################# 添加生成m3u文件
+output_text = "#EXTM3U\n"
+
+with open(output_file, "r") as file:
+    input_text = file.read()
+
+lines = input_text.strip().split("\n")
+group_name = ""
+for line in lines:
+    parts = line.split(",")
+    if len(parts) == 2 and "#genre#" in line:
+        group_name = parts[0]
+    elif len(parts) == 2:
+        output_text += f"#EXTINF:-1 group-title=\"{group_name}\",{parts[0]}\n"
+        output_text += f"{parts[1]}\n"
+
+with open("merged_output.m3u", "w") as file:
+    file.write(output_text)
+
+print("merged_output.m3u文件已生成。")
