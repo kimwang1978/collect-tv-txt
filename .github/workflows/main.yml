@@ -29,13 +29,6 @@ jobs:
         
     - name: Run Python script
       run: python main.py
-
-    - name: Convert TXT to M3U
-      run: |
-        for txtfile in $(find . -name 'merged_output.txt'); do
-          m3ufile="${txtfile%.txt}.m3u"
-          python txt_to_m3u.py "$txtfile" "$m3ufile"
-        done
       
     - name: Upload generated files
       uses: actions/upload-artifact@v2
