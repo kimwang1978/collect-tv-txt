@@ -758,7 +758,6 @@ CETV1,http://39.134.66.110/PLTV/88888888/224/3221225563/index.m3u8
 蘑菇影厅,http://43.138.170.29:35455/huya/11601981
 搞笑恐怖,http://43.138.170.29:35455/huya/11601960
 死神来了,http://43.138.170.29:35455/huya/11352903
-变形金刚,http://43.138.170.29:35455/huya/21059596
 怪兽系列,http://43.138.170.29:35455/huya/21059554
 老三国,http://43.138.170.29:35455/huya/11602081
 新水浒,http://43.138.170.29:35455/huya/11342384
@@ -960,7 +959,6 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 插翅难逃,http://43.138.170.29:35455/yy/1355279371
 薛元帅传奇,http://43.138.170.29:35455/yy/31313785
 野山鹰-影视剧,http://43.138.170.29:35455/yy/1354932395
-百家讲坛――之明太祖朱元璋,http://43.138.170.29:35455/yy/1354936149
 赵本山小品,http://43.138.170.29:35455/yy/28882933
 华子系列,http://43.138.170.29:35455/yy/1354888726
 【玄幻电影】,http://43.138.170.29:35455/yy/1355065896
@@ -973,10 +971,8 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 鸡毛飞上天,http://43.138.170.29:35455/yy/1354806550
 欢乐集结号,http://43.138.170.29:35455/yy/1382735550
 热门喜剧,http://43.138.170.29:35455/yy/1354931495
-毒液：致命守护者,http://43.138.170.29:35455/yy/1382745095
 枕上书正在直播,http://43.138.170.29:35455/yy/1351844200
 【爱靓】虎子鬼片,http://43.138.170.29:35455/yy/1356075628
-变形金刚,http://43.138.170.29:35455/yy/1382736803
 《神雕侠侣》黯然销魂,http://43.138.170.29:35455/yy/1394000563
 的直播间,http://43.138.170.29:35455/yy/1354129442
 余zui,http://43.138.170.29:35455/yy/31809939
@@ -999,7 +995,6 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 林正英鬼片 陪你惊悚,http://43.138.170.29:35455/yy/1356072278
 澳门风云,http://43.138.170.29:35455/yy/1459243913
 本山快乐营,http://43.138.170.29:35455/yy/1354933529
-单挑荒野第一季,http://43.138.170.29:35455/yy/1354933535
 法证先锋2,http://43.138.170.29:35455/yy/1382736870
 血色浪漫,http://43.138.170.29:35455/yy/1354926676
 战争 二战 《狙击电影》,http://43.138.170.29:35455/yy/1450828388
@@ -1096,7 +1091,6 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 水浒传梁山好汉,http://43.138.170.29:35455/yy/1382832087
 [ 经典] 鹿鼎记,http://43.138.170.29:35455/yy/1355526531
 来看修牛蹄,http://43.138.170.29:35455/yy/1382749887
-大太监-tvb经典古装,http://43.138.170.29:35455/yy/1382736886
 花儿开心吧-小品,http://43.138.170.29:35455/yy/1382736917
 动作大片,http://43.138.170.29:35455/yy/1354888739
 科幻片：来看神奇的地球,http://43.138.170.29:35455/yy/1354930897
@@ -1180,7 +1174,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 致敬星爷致敬经典,http://43.138.170.29:35455/yy/1354889048
 影视娱乐剧场,http://43.138.170.29:35455/yy/1354748830
 红色经典影视剧-风语,http://43.138.170.29:35455/yy/1354926671
-家有九凤-影视剧,http://43.138.170.29:35455/yy/1354930894
+回家的诱惑,http://43.138.170.29:35455/yy/1354658043
 国产动作电影,http://43.138.170.29:35455/yy/1382736858
 机械战警1-3,http://43.138.170.29:35455/yy/1382736854
 国外侦探,http://43.138.170.29:35455/yy/1382736896
@@ -1205,7 +1199,6 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 攻壳机动队,http://43.138.170.29:35455/yy/1382745089
 国外动作片,http://43.138.170.29:35455/yy/1382749913
 开心俱乐部,http://43.138.170.29:35455/yy/1382735541
-大江大河2-高分影视推荐,http://43.138.170.29:35455/yy/1382736797
 漫威超级英雄系列,http://43.138.170.29:35455/yy/1354932402
 银河护卫队-国外科幻巨作,http://43.138.170.29:35455/yy/1382736815
 吾儿可教,http://43.138.170.29:35455/yy/1354932391
@@ -1602,6 +1595,7 @@ NewTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
 游戏风云,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+回家的诱惑,https://lunbo.freetv.top/yy/1382851148
 金星脱口秀,https://live.metshop.top/yy/1354932407,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 杨紫琼-爱似流星,https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
 李丽芬-得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
@@ -1698,42 +1692,43 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000002400
 央视文化精品,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
 电视指南,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
-湖南公共,http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://223.159.10.211:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南国际,http://175.10.228.184:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南公共,http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://175.10.228.184:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://42.48.17.188:9901/tsfile/live/37229_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南国际,http://223.159.10.211:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南国际,http://175.10.228.184:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://223.159.10.211:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南娱乐,http://175.10.228.184:9998/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://42.48.17.188:9901/tsfile/live/37221_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://223.159.10.211:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://223.159.10.211:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南娱乐,http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://42.48.17.188:9901/tsfile/live/37223_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://223.159.10.211:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://175.10.228.184:9998/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://42.48.17.188:9901/tsfile/live/37220_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://223.159.10.211:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://223.159.10.211:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南电影,http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://42.48.17.188:9901/tsfile/live/37219_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://223.159.10.211:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://223.159.10.211:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南电视剧,http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://42.48.17.188:9901/tsfile/live/37217_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://223.159.10.211:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://175.10.228.184:9998/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://223.159.10.211:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南经视,http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://42.48.17.188:9901/tsfile/live/37218_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://223.159.10.211:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南都市,http://175.10.228.184:9998/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://124.228.160.211:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://223.159.10.211:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南都市,http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://223.159.10.211:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰纪实,http://124.228.160.211:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 J2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻台,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -1851,7 +1846,7 @@ Music876年代音乐电台,https://fanmingming.com/fm?id=1277
 年代音乐1022,https://fanmingming.com/fm?id=1600
 年代音乐889,https://fanmingming.com/fm?id=2397
 年代音乐1032,https://fanmingming.com/fm?id=2398
-20:28:13,url
+20:29:05,url
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
