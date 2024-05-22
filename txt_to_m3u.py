@@ -4,9 +4,8 @@ def convert(txt_file, m3u_file):
     with open(txt_file, 'r') as txt, open(m3u_file, 'w') as m3u:
         m3u.write("#EXTM3U\n")
 
-        lines = txt.strip().split("\n")
         group_name = ""
-        for line in lines:
+        for line in txt:
             line = line.strip()
             parts = line.split(",")
             if len(parts) == 2 and "#genre#" in line:
