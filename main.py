@@ -53,7 +53,7 @@ def process_name_string(input_str):
 
 def process_part(part_str):
     # 处理逻辑
-    if "CCTV" in part_str:
+    if "CCTV" in part_str  and "://" not in part_str:
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         if not filtered_str.strip(): #处理特殊情况，如果发现没有找到频道数字返回原名称
@@ -220,7 +220,7 @@ except Exception as e:
 ################# 添加生成m3u文件
 output_text = "#EXTM3U\n"
 
-with open(output_file, "r") as file:
+with open(output_file, "r", encoding='utf-8') as file:
     input_text = file.read()
 
 lines = input_text.strip().split("\n")
@@ -233,7 +233,7 @@ for line in lines:
         output_text += f"#EXTINF:-1 group-title=\"{group_name}\",{parts[0]}\n"
         output_text += f"{parts[1]}\n"
 
-with open("merged_output.m3u", "w") as file:
+with open("merged_output.m3u", "w", encoding='utf-8') as file:
     file.write(output_text)
 
 print("merged_output.m3u文件已生成。")
