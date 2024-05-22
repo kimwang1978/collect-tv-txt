@@ -36,6 +36,7 @@ js_lines = [] #解说
 cw_lines = [] #春晚
 mx_lines = [] #明星
 ztp_lines = [] #主题片
+zy_lines = [] #综艺频道
 
 # favorite_lines = []
 
@@ -116,6 +117,8 @@ def process_url(url):
                         mx_lines.append(process_name_string(line.strip()))
                     elif channel_name in ztp_dictionary:  #主题片
                         ztp_lines.append(process_name_string(line.strip()))
+                    elif channel_name in zy_dictionary:  #综艺频道
+                        zy_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -152,6 +155,7 @@ js_dictionary=read_txt_to_array('解说频道.txt')
 cw_dictionary=read_txt_to_array('春晚.txt')
 mx_dictionary=read_txt_to_array('明星.txt')
 ztp_dictionary=read_txt_to_array('主题片.txt')
+zy_dictionary=read_txt_to_array('综艺频道.txt')
 
 # 循环处理每个URL
 for url in urls:
@@ -192,6 +196,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
              ["戏曲频道,#genre#"] + sorted(set(xq_lines)) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
+             ["综艺频道,#genre#"] + sorted(set(zy_lines)) + ['\n'] + \
              ["春晚,#genre#"] + sorted(set(cw_lines))
 
 
