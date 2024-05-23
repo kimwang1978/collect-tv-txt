@@ -62,9 +62,10 @@ def process_part(part_str):
         if len(filtered_str) > 2 and re.search(r'4K|8K', filtered_str):   # 特殊处理CCTV中部分4K和8K名称
             # 使用正则表达式替换，删除4K或8K后面的字符，并且保留4K或8K
             filtered_str = re.sub(r'(4K|8K).*', r'\1', filtered_str)
-            # 给4K或8K添加括号
-            filtered_str = re.sub(r'(4K|8K)', r'(\1)', filtered_str)
-            
+            if len(filtered_str) > 2: 
+                # 给4K或8K添加括号
+                filtered_str = re.sub(r'(4K|8K)', r'(\1)', filtered_str)
+
         return "CCTV-"+filtered_str 
         
     elif "卫视" in part_str:
@@ -179,9 +180,11 @@ def extract_number(s):
 # 定义一个自定义排序函数
 def custom_sort(s):
     if "CCTV-4K" in s:
-        return 1  # 将包含 "4K" 的字符串排在后面
+        return 2  # 将包含 "4K" 的字符串排在后面
     elif "CCTV-8K" in s:
-        return 2  # 将包含 "8K" 的字符串排在后面
+        return 3  # 将包含 "8K" 的字符串排在后面 
+    elif "(4K)" in s:
+        return 1  # 将包含 " (4K)" 的字符串排在后面
     else:
         return 0  # 其他字符串保持原顺序
 
