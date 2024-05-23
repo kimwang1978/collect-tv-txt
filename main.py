@@ -58,6 +58,13 @@ def process_part(part_str):
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         if not filtered_str.strip(): #处理特殊情况，如果发现没有找到频道数字返回原名称
             filtered_str=part_str.replace("CCTV", "")
+
+        if len(filtered_str) > 2 and re.search(r'4K|8K', filtered_str):   # 特殊处理CCTV中部分4K和8K名称
+            # 使用正则表达式替换，删除4K或8K后面的字符，并且保留4K或8K
+            filtered_str = re.sub(r'(4K|8K).*', r'\1', filtered_str)
+            # 给4K或8K添加括号
+            filtered_str = re.sub(r'(4K|8K)', r'(\1)', filtered_str)
+            
         return "CCTV-"+filtered_str 
         
     elif "卫视" in part_str:
@@ -83,7 +90,7 @@ def process_url(url):
             # 逐行处理内容
             lines = text.split('\n')
             for line in lines:
-                if  "#genre#" not in line and "," in line and ":" in line:
+                if  "#genre#" not in line and "," in line and "://" in line:
                     channel_name=line.split(',')[0].strip()
                     channel_address=line.split(',')[1].strip()
                     # 根据行内容判断存入哪个对象
