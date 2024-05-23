@@ -168,7 +168,7 @@ cw_dictionary=read_txt_to_array('春晚.txt')
 mx_dictionary=read_txt_to_array('明星.txt')
 ztp_dictionary=read_txt_to_array('主题片.txt')
 zy_dictionary=read_txt_to_array('综艺频道.txt')
-yy_dictionary=read_txt_to_array('综艺频道.txt')
+yy_dictionary=read_txt_to_array('音乐频道.txt')
 
 # 循环处理每个URL
 for url in urls:
