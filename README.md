@@ -6,7 +6,7 @@
 
 直播源（txt）：https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 
    
-   (ShorterLink：https://t.ly/gdp4C )
+   (ShortLink：https://t.ly/gdp4C )
 
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 
