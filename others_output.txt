@@ -373,10 +373,7 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 埋堆堆_𝟚𝟜,http://live.iill.top/huya.php?id=23865171
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
-音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
 音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
-治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
-阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
 挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
 挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
 互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
@@ -1514,7 +1511,7 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 无线新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳门澳视,http://nz189l149.bb27109.ctm.net:8891/bysid/91
-J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+J2,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
@@ -1671,28 +1668,32 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000002400
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
 电视指南,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
 湖南公共,http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南公共,http://223.159.10.238:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南公共,http://223.159.8.103:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南国际,http://42.48.17.188:9901/tsfile/live/37229_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://223.159.8.103:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南国际,http://223.159.10.238:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南娱乐,http://42.48.17.188:9901/tsfile/live/37221_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://223.159.8.103:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://223.159.10.238:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南教育,http://223.159.10.238:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南教育,http://223.159.8.103:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://42.48.17.188:9901/tsfile/live/37220_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://223.159.8.103:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://223.159.10.238:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电视剧,http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://223.159.8.103:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://223.159.10.238:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南经视,http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://223.159.10.238:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南经视,http://223.159.8.103:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://223.159.8.103:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://223.159.10.238:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰纪实,http://124.228.160.211:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://223.159.10.238:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰纪实,http://223.159.8.103:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 J2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻台,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -1771,7 +1772,6 @@ Music876年代音乐电台,https://fanmingming.com/fm?id=1277
 年代音乐1022,https://fanmingming.com/fm?id=1600
 年代音乐889,https://fanmingming.com/fm?id=2397
 年代音乐1032,https://fanmingming.com/fm?id=2398
-20:27:31,url
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
@@ -2027,9 +2027,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
 人在囧途之囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
-倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 美人鱼,https://free-adsmind.ugdtimg.com/0b2etuaamaaaeuanvs4p4nqvbhoda2oqabqa.f10002.mp4
 搞定岳父大人,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
 给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
