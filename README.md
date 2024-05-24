@@ -6,6 +6,8 @@
 
 直播源（txt）：https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 
 
+镜像源（txt）：https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+
 直播源（m3u）：https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 
 | 类 别  | 直播源                                       | ShortLink   |
