@@ -24,7 +24,7 @@ urls = [
 sh_lines = []
 ys_lines = []
 ws_lines = []
-ty_lines = []
+ty_lines = [] #体育频道
 dy_lines = []
 dsj_lines = []
 gat_lines = [] #港澳台
@@ -101,7 +101,8 @@ def process_url(url):
                         ys_lines.append(process_name_string(line.strip()))
                     elif "卫视" in channel_name:
                         ws_lines.append(process_name_string(line.strip()))
-                    elif "体育" in channel_name:
+                    #elif "体育" in channel_name:
+                    elif channel_name in  ty_dictionary:  #体育频道
                         ty_lines.append(process_name_string(line.strip()))
                     elif channel_name in dy_dictionary:  #电影频道
                         dy_lines.append(process_name_string(line.strip()))
@@ -155,6 +156,7 @@ def read_txt_to_array(file_name):
         print(f"An error occurred: {e}")
         return []
 #读取文本
+ty_dictionary=read_txt_to_array('体育频道.txt')
 dy_dictionary=read_txt_to_array('电影.txt')
 dsj_dictionary=read_txt_to_array('电视剧.txt')
 sh_dictionary=read_txt_to_array('shanghai.txt')
