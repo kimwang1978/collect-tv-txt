@@ -22,8 +22,8 @@ urls = [
 
 # 定义多个对象用于存储不同内容的行文本
 sh_lines = []
-ys_lines = []
-ws_lines = []
+ys_lines = [] #CCTV
+ws_lines = [] #卫视频道
 ty_lines = [] #体育频道
 dy_lines = []
 dsj_lines = []
@@ -99,7 +99,8 @@ def process_url(url):
                     # 根据行内容判断存入哪个对象
                     if "CCTV" in channel_name:
                         ys_lines.append(process_name_string(line.strip()))
-                    elif "卫视" in channel_name:
+                    #elif "卫视" in channel_name:
+                    elif channel_name in ws_dictionary:
                         ws_lines.append(process_name_string(line.strip()))
                     #elif "体育" in channel_name:
                     elif channel_name in  ty_dictionary:  #体育频道
@@ -157,6 +158,7 @@ def read_txt_to_array(file_name):
         return []
 #读取文本
 ys_dictionary=read_txt_to_array('CCTV.txt') #仅排序用
+ws_dictionary=read_txt_to_array('卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('体育频道.txt') #过滤
 dy_dictionary=read_txt_to_array('电影.txt') #过滤
 dsj_dictionary=read_txt_to_array('电视剧.txt') #过滤
@@ -240,11 +242,12 @@ def custom_sort(s):
 # 合并所有对象中的行文本（去重，排序后拼接）
 #["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
 #["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
+#["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(ys_lines)) + ['\n'] + \
-             ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
+             ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
              ["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
