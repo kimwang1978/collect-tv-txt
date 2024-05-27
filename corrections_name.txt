@@ -6,7 +6,7 @@
 河北卫视,河北卫视「IPV6
 辽宁卫视,辽宁卫视「IPV6
 东南卫视,福建东南卫视
-精品体育,NEWTV精品体育,NewTV_精品体育,NewTV_精品体育「IPV6」
-超级体育,NewTV_超级体育「IPV6」,NewTV超级体育
+精品体育,NEWTV精品体育,NewTV_精品体育,NewTV_精品体育「IPV6」,NewTV精品体育
+超级体育,NewTV_超级体育「IPV6」,NewTV超级体育,NEWTV超级体育
 咪咕体育,咪咕体育-4K-HLG源,咪咕体育-4K源-2
 咪咕运动,咪咕运动「IPV6」
