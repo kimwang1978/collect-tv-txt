@@ -156,6 +156,7 @@ def read_txt_to_array(file_name):
         print(f"An error occurred: {e}")
         return []
 #读取文本
+ys_dictionary=read_txt_to_array('CCTV.txt') #仅排序用
 ty_dictionary=read_txt_to_array('体育频道.txt')
 dy_dictionary=read_txt_to_array('电影.txt')
 dsj_dictionary=read_txt_to_array('电视剧.txt')
@@ -171,6 +172,21 @@ mx_dictionary=read_txt_to_array('明星.txt')
 ztp_dictionary=read_txt_to_array('主题片.txt')
 zy_dictionary=read_txt_to_array('综艺频道.txt')
 yy_dictionary=read_txt_to_array('音乐频道.txt')
+
+
+def sort_data(order, data):
+    # 创建一个字典来存储每行数据的索引
+    order_dict = {name: i for i, name in enumerate(order)}
+    
+    # 定义一个排序键函数，处理不在 order_dict 中的字符串
+    def sort_key(line):
+        name = line.split(',')[0]
+        return order_dict.get(name, len(order))
+    
+    # 按照 order 中的顺序对数据进行排序
+    sorted_data = sorted(data, key=sort_key)
+    return sorted_data
+
 
 # 循环处理每个URL
 for url in urls:
@@ -196,11 +212,12 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 # 合并所有对象中的行文本（去重，排序后拼接）
-
+#["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
+#["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
-             ["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
+             ["上海频道,#genre#"] + sort_data(sh_dictionary,set(sh_lines)) + ['\n'] + \
+             ["央视频道,#genre#"] + sort_data(ys_dictionary,set(ys_lines)) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
              ["电影频道,#genre#"] + sorted(set(dy_lines)) + ['\n'] + \
