@@ -157,21 +157,47 @@ def read_txt_to_array(file_name):
         return []
 #读取文本
 ys_dictionary=read_txt_to_array('CCTV.txt') #仅排序用
-ty_dictionary=read_txt_to_array('体育频道.txt')
-dy_dictionary=read_txt_to_array('电影.txt')
-dsj_dictionary=read_txt_to_array('电视剧.txt')
-sh_dictionary=read_txt_to_array('shanghai.txt')
-gat_dictionary=read_txt_to_array('港澳台.txt')
-gj_dictionary=read_txt_to_array('国际台.txt')
-jlp_dictionary=read_txt_to_array('纪录片.txt')
-dhp_dictionary=read_txt_to_array('动画片.txt')
-xq_dictionary=read_txt_to_array('戏曲频道.txt')
-js_dictionary=read_txt_to_array('解说频道.txt')
-cw_dictionary=read_txt_to_array('春晚.txt')
-mx_dictionary=read_txt_to_array('明星.txt')
-ztp_dictionary=read_txt_to_array('主题片.txt')
-zy_dictionary=read_txt_to_array('综艺频道.txt')
-yy_dictionary=read_txt_to_array('音乐频道.txt')
+ty_dictionary=read_txt_to_array('体育频道.txt') #过滤
+dy_dictionary=read_txt_to_array('电影.txt') #过滤
+dsj_dictionary=read_txt_to_array('电视剧.txt') #过滤
+sh_dictionary=read_txt_to_array('shanghai.txt') #过滤+排序
+gat_dictionary=read_txt_to_array('港澳台.txt') #过滤
+gj_dictionary=read_txt_to_array('国际台.txt') #过滤
+jlp_dictionary=read_txt_to_array('纪录片.txt') #过滤
+dhp_dictionary=read_txt_to_array('动画片.txt') #过滤
+xq_dictionary=read_txt_to_array('戏曲频道.txt') #过滤
+js_dictionary=read_txt_to_array('解说频道.txt') #过滤
+cw_dictionary=read_txt_to_array('春晚.txt') #过滤
+mx_dictionary=read_txt_to_array('明星.txt') #过滤
+ztp_dictionary=read_txt_to_array('主题片.txt') #过滤
+zy_dictionary=read_txt_to_array('综艺频道.txt') #过滤
+yy_dictionary=read_txt_to_array('音乐频道.txt') #过滤
+
+#读取纠错频道名称方法
+def load_corrections_name(filename):
+    corrections = {}
+    with open(filename, 'r', encoding='utf-8') as f:
+        for line in f:
+            parts = line.strip().split(',')
+            correct_name = parts[0]
+            for name in parts[1:]:
+                corrections[name] = correct_name
+    return corrections
+
+#读取纠错文件
+corrections_name = load_corrections_name('corrections_name.txt')
+
+#纠错频道名称
+#correct_name_data(corrections_name,xxxx)
+def correct_name_data(corrections, data):
+    corrected_data = []
+    for line in data:
+        name, url = line.split(',', 1)
+        if name in corrections and name != corrections[name]:
+            name = corrections[name]
+        corrected_data.append(f"{name},{url}")
+    return corrected_data
+
 
 
 def sort_data(order, data):
@@ -216,7 +242,7 @@ def custom_sort(s):
 #["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["上海频道,#genre#"] + sort_data(sh_dictionary,set(sh_lines)) + ['\n'] + \
+             ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(ys_lines)) + ['\n'] + \
              ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(ty_lines)) + ['\n'] + \
