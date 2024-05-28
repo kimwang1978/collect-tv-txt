@@ -169,7 +169,7 @@ jlp_dictionary=read_txt_to_array('纪录片.txt') #过滤
 dhp_dictionary=read_txt_to_array('动画片.txt') #过滤
 xq_dictionary=read_txt_to_array('戏曲频道.txt') #过滤
 js_dictionary=read_txt_to_array('解说频道.txt') #过滤
-cw_dictionary=read_txt_to_array('春晚.txt') #过滤
+cw_dictionary=read_txt_to_array('春晚.txt') #过滤+排序
 mx_dictionary=read_txt_to_array('明星.txt') #过滤
 ztp_dictionary=read_txt_to_array('主题片.txt') #过滤
 zy_dictionary=read_txt_to_array('综艺频道.txt') #过滤
@@ -243,6 +243,7 @@ def custom_sort(s):
 #["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
 #["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
 #["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
+#["春晚,#genre#"] + sorted(set(cw_lines))
 version=datetime.now().strftime("%Y%m%d")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
@@ -261,7 +262,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(zy_lines)) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
-             ["春晚,#genre#"] + sorted(set(cw_lines))
+             ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines)) 
 
 
 # 将合并后的文本写入文件
