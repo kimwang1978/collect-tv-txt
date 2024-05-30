@@ -247,7 +247,7 @@ def custom_sort(s):
 version=datetime.now().strftime("%Y%m%d")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
-             ["央视频道,#genre#"] + sort_data(ys_dictionary,set(ys_lines)) + ['\n'] + \
+             ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sorted(set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
