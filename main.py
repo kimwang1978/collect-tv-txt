@@ -258,7 +258,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["国际台,#genre#"] + sorted(set(gj_lines)) + ['\n'] + \
              ["纪录片,#genre#"] + sorted(set(jlp_lines)) + ['\n'] + \
              ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
-             ["戏曲频道,#genre#"] + sorted(set(xq_lines)) + ['\n'] + \
+             ["戏曲频道,#genre#"] + sorted(set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(zy_lines)) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
