@@ -39,7 +39,8 @@ ztp_lines = [] #主题片
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
 zj_lines = [] #地方台-浙江频道
-
+gd_lines = [] #地方台-广东频道
+hn_lines = [] #地方台-湖南频道
 
 # favorite_lines = []
 
@@ -136,6 +137,10 @@ def process_url(url):
                         yy_lines.append(process_name_string(line.strip()))
                     elif channel_name in zj_dictionary:  #地方台-浙江频道
                         zj_lines.append(process_name_string(line.strip()))
+                    elif channel_name in gd_dictionary:  #地方台-广东频道
+                        gd_lines.append(process_name_string(line.strip()))
+                    elif channel_name in hn_dictionary:  #地方台-湖南频道
+                        hn_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -179,6 +184,8 @@ zy_dictionary=read_txt_to_array('综艺频道.txt') #过滤
 yy_dictionary=read_txt_to_array('音乐频道.txt') #过滤
 
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
+gd_dictionary=read_txt_to_array('地方台/广东频道.txt') #过滤
+hn_dictionary=read_txt_to_array('地方台/湖南频道.txt') #过滤
 
 
 #读取纠错频道名称方法
