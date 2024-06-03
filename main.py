@@ -273,9 +273,11 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
              ["戏曲频道,#genre#"] + sorted(set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
-             ["综艺频道,#genre#"] + sorted(set(zy_lines)) + ['\n'] + \
+             ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
              ["浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
+             ["湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
+             ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines)) 
 
 
