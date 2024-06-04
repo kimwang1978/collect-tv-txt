@@ -29,6 +29,7 @@ CCTV-风云音乐
 CCTV-女性时尚
 CCTV-怀旧剧场
 CCTV-央视文化精品
+CCTV-文化精品
 CCTV-电视指南
 CCTV-1(4K)
 CCTV-3(4K)

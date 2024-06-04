@@ -38,6 +38,7 @@ mx_lines = [] #明星
 ztp_lines = [] #主题片
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
+game_lines = [] #游戏频道
 zj_lines = [] #地方台-浙江频道
 gd_lines = [] #地方台-广东频道
 hn_lines = [] #地方台-湖南频道
@@ -136,6 +137,8 @@ def process_url(url):
                         zy_lines.append(process_name_string(line.strip()))
                     elif channel_name in yy_dictionary:  #音乐频道
                         yy_lines.append(process_name_string(line.strip()))
+                    elif channel_name in game_dictionary:  #游戏频道
+                        game_lines.append(process_name_string(line.strip()))
                     elif channel_name in zj_dictionary:  #地方台-浙江频道
                         zj_lines.append(process_name_string(line.strip()))
                     elif channel_name in gd_dictionary:  #地方台-广东频道
@@ -183,6 +186,7 @@ mx_dictionary=read_txt_to_array('明星.txt') #过滤
 ztp_dictionary=read_txt_to_array('主题片.txt') #过滤
 zy_dictionary=read_txt_to_array('综艺频道.txt') #过滤
 yy_dictionary=read_txt_to_array('音乐频道.txt') #过滤
+game_dictionary=read_txt_to_array('游戏频道.txt') #过滤
 
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 gd_dictionary=read_txt_to_array('地方台/广东频道.txt') #过滤
@@ -276,6 +280,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
+             ["游戏频道,#genre#"] + sorted(set(game_lines)) + ['\n'] + \
              ["浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
              ["湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
