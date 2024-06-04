@@ -266,7 +266,6 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
 「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
 「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
-「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
 「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
