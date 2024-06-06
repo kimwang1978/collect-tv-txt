@@ -7,7 +7,6 @@ TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 珠海,http://113.86.204.95:9999/udp/239.77.0.155:5146
 上海,http://123.189.36.80:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 东南,http://123.189.36.80:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -154,7 +153,6 @@ Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild_Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 Clarity_4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
@@ -225,14 +223,20 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 咪咕直播_𝟛𝟜「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 咪咕直播_𝟛𝟝「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 咪咕直播_𝟛𝟞「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
+「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
 「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
 「虎牙」英雄联盟_𝟚,http://live.iill.top/huya.php?id=660001
 「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
-「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=998
+「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
+「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
+「B站」王者荣耀_𝟙,http://live.iill.top/bilibili.php?id=55
+「B站」王者荣耀_𝟚,http://live.iill.top/bilibili.php?id=21654762
 「虎牙」王者荣耀_𝟙,http://live.iill.top/huya.php?id=660002
 「虎牙」王者荣耀_𝟚,http://live.iill.top/huya.php?id=660164
 「斗鱼」王者荣耀_𝟙,http://live.iill.top/douyu.php?id=1863767
 「斗鱼」王者荣耀_𝟚,http://live.iill.top/douyu.php?id=1984839
+「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
 「虎牙」绝地求生_𝟙,http://live.iill.top/huya.php?id=660004
 「虎牙」绝地求生_𝟚,http://live.iill.top/huya.php?id=660005
 「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
@@ -240,25 +244,31 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
 「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
 「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
-「斗鱼」CSGO,http://live.iill.top/douyu.php?id=601514
 「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
 「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
 「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
 「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
+「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
+「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
 「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
 「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
 「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
 「斗鱼」穿越火线_𝟙,http://live.iill.top/douyu.php?id=605964
 「斗鱼」穿越火线_𝟚,http://live.iill.top/douyu.php?id=5388537
 「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
+「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
 「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
-「斗鱼」第五人格_𝟙,http://live.iill.top/douyu.php?id=3226194
-「斗鱼」第五人格_𝟚,http://live.iill.top/douyu.php?id=11030737
+「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
 「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
+「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
+「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
+「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
 「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
+「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
 「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
-「虎牙」无畏契约_𝟙,http://live.iill.top/huya.php?id=660679
-「斗鱼」无畏契约_𝟚,http://live.iill.top/douyu.php?id=4585645
+「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
+「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
+「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
 「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
 「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
 「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
@@ -1457,10 +1467,8 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000002400
 先锋乒羽,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
 四海钓鱼,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
 快乐垂钓,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
-梨园,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308847/main.m3u8
 优优宝贝,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 山东教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8
-天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 文物宝库,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
 武术世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
 中华特产,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448845/main.m3u8
@@ -1611,7 +1619,6 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 茶,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 NEWTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NEWTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -1637,7 +1644,6 @@ NEWTV金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 北京冬奥纪实,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
-北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 大庆公共,http://39.134.66.66/PLTV/88888888/224/3221225734/index.m3u8
 大庆新闻综合,http://39.134.66.66/PLTV/88888888/224/3221225736/index.m3u8
 哈尔滨生活,http://39.134.66.66/PLTV/88888888/224/3221225698/index.m3u8
@@ -1753,8 +1759,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
 不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
 不见不散,https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
-拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
 超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
 城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
