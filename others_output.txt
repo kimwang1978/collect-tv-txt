@@ -223,57 +223,6 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 咪咕直播_𝟛𝟜「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 咪咕直播_𝟛𝟝「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 咪咕直播_𝟛𝟞「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
-「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
-「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
-「虎牙」英雄联盟_𝟚,http://live.iill.top/huya.php?id=660001
-「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
-「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
-「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
-「B站」王者荣耀_𝟙,http://live.iill.top/bilibili.php?id=55
-「B站」王者荣耀_𝟚,http://live.iill.top/bilibili.php?id=21654762
-「虎牙」王者荣耀_𝟙,http://live.iill.top/huya.php?id=660002
-「虎牙」王者荣耀_𝟚,http://live.iill.top/huya.php?id=660164
-「斗鱼」王者荣耀_𝟙,http://live.iill.top/douyu.php?id=1863767
-「斗鱼」王者荣耀_𝟚,http://live.iill.top/douyu.php?id=1984839
-「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
-「虎牙」绝地求生_𝟙,http://live.iill.top/huya.php?id=660004
-「虎牙」绝地求生_𝟚,http://live.iill.top/huya.php?id=660005
-「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
-「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
-「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
-「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
-「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
-「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
-「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
-「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
-「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
-「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
-「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
-「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
-「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
-「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
-「斗鱼」穿越火线_𝟙,http://live.iill.top/douyu.php?id=605964
-「斗鱼」穿越火线_𝟚,http://live.iill.top/douyu.php?id=5388537
-「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
-「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
-「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
-「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
-「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
-「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
-「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
-「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
-「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
-「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
-「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
-「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
-「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
-「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
-「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
-「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
-「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
-「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
-「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
 埋堆堆_𝟚,http://live.iill.top/huya.php?id=23749096
 埋堆堆_𝟛,http://live.iill.top/huya.php?id=23735126
@@ -797,6 +746,7 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 案发现场全集,http://43.138.170.29:35455/yy/1354775242
 新主播，求照顾,http://43.138.170.29:35455/yy/1394102549
 战狼6吴京首播,http://43.138.170.29:35455/yy/1354330332
+24H欧美惊悚科幻,http://43.138.170.29:35455/yy/1382656234
 燃爆动作片,http://43.138.170.29:35455/yy/1382736801
 欢乐集结号,http://43.138.170.29:35455/yy/1354931582
 小欢喜,http://43.138.170.29:35455/yy/1382737888
@@ -905,6 +855,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 金庸武侠系列,http://43.138.170.29:35455/yy/40959929
 超级英雄系列电影,http://43.138.170.29:35455/yy/1382736863
 国威影院 仙侠系列,http://43.138.170.29:35455/yy/1354866665
+人生必看的科幻片,http://43.138.170.29:35455/yy/1382745114
 国内战争大片合集,http://43.138.170.29:35455/yy/1382749950
 正阳门下小女人,http://43.138.170.29:35455/yy/1508778570
 大汉贤后卫子夫,http://43.138.170.29:35455/yy/1382735569
