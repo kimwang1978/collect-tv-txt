@@ -39,9 +39,13 @@ ztp_lines = [] #主题片
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
 game_lines = [] #游戏频道
+
+
 zj_lines = [] #地方台-浙江频道
 gd_lines = [] #地方台-广东频道
 hn_lines = [] #地方台-湖南频道
+hain_lines = [] #地方台-海南频道
+nm_lines = [] #地方台-内蒙频道
 
 # favorite_lines = []
 
@@ -145,6 +149,10 @@ def process_url(url):
                         gd_lines.append(process_name_string(line.strip()))
                     elif channel_name in hn_dictionary:  #地方台-湖南频道
                         hn_lines.append(process_name_string(line.strip()))
+                    elif channel_name in hain_dictionary:  #地方台-海南频道
+                        hain_lines.append(process_name_string(line.strip()))
+                    elif channel_name in nm_dictionary:  #地方台-内蒙频道
+                        nm_lines.append(process_name_string(line.strip()))
                     else:
                         other_lines.append(line.strip())
 
@@ -191,6 +199,8 @@ game_dictionary=read_txt_to_array('游戏频道.txt') #过滤
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 gd_dictionary=read_txt_to_array('地方台/广东频道.txt') #过滤
 hn_dictionary=read_txt_to_array('地方台/湖南频道.txt') #过滤
+hain_dictionary=read_txt_to_array('地方台/海南频道.txt') #过滤
+nm_dictionary=read_txt_to_array('地方台/内蒙频道.txt') #过滤
 
 
 #读取纠错频道名称方法
@@ -270,11 +280,11 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
-             ["电影频道,#genre#"] + sorted(set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
+             ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["电视剧频道,#genre#"] + sort_data(dsj_dictionary,set(correct_name_data(corrections_name,dsj_lines))) + ['\n'] + \
              ["明星,#genre#"] + sort_data(mx_dictionary,set(correct_name_data(corrections_name,mx_lines))) + ['\n'] + \
              ["主题片,#genre#"] + sort_data(ztp_dictionary,set(correct_name_data(corrections_name,ztp_lines))) + ['\n'] + \
-             ["港澳台,#genre#"] + sorted(set(correct_name_data(corrections_name,gat_lines))) + ['\n'] + \
+             ["港澳台,#genre#"] + sort_data(gat_dictionary,set(correct_name_data(corrections_name,gat_lines))) + ['\n'] + \
              ["国际台,#genre#"] + sort_data(gj_dictionary,set(correct_name_data(corrections_name,gj_lines))) + ['\n'] + \
              ["纪录片,#genre#"] + sort_data(jlp_dictionary,set(correct_name_data(corrections_name,jlp_lines)))+ ['\n'] + \
              ["动画片,#genre#"] + sorted(set(dhp_lines)) + ['\n'] + \
@@ -286,6 +296,8 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
              ["湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
+             ["海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
+             ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines)) 
 
 
