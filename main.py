@@ -39,7 +39,7 @@ ztp_lines = [] #主题片
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
 game_lines = [] #游戏频道
-
+radio_lines = [] #收音机频道
 
 zj_lines = [] #地方台-浙江频道
 gd_lines = [] #地方台-广东频道
@@ -64,7 +64,7 @@ def process_part(part_str):
     # 处理逻辑
     if "CCTV" in part_str  and "://" not in part_str:
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
-        part_str=part_str.replace("PLUS", "+")  #先剔除IPV6字样
+        part_str=part_str.replace("PLUS", "+")  #替换
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         if not filtered_str.strip(): #处理特殊情况，如果发现没有找到频道数字返回原名称
             filtered_str=part_str.replace("CCTV", "")
@@ -143,6 +143,8 @@ def process_url(url):
                         yy_lines.append(process_name_string(line.strip()))
                     elif channel_name in game_dictionary:  #游戏频道
                         game_lines.append(process_name_string(line.strip()))
+                    elif channel_name in radio_dictionary:  #收音机频道
+                        radio_lines.append(process_name_string(line.strip()))
                     elif channel_name in zj_dictionary:  #地方台-浙江频道
                         zj_lines.append(process_name_string(line.strip()))
                     elif channel_name in gd_dictionary:  #地方台-广东频道
@@ -195,6 +197,7 @@ ztp_dictionary=read_txt_to_array('主题片.txt') #过滤
 zy_dictionary=read_txt_to_array('综艺频道.txt') #过滤
 yy_dictionary=read_txt_to_array('音乐频道.txt') #过滤
 game_dictionary=read_txt_to_array('游戏频道.txt') #过滤
+radio_dictionary=read_txt_to_array('收音机频道.txt') #过滤
 
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 gd_dictionary=read_txt_to_array('地方台/广东频道.txt') #过滤
@@ -298,7 +301,8 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
              ["海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
              ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
-             ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines)) 
+             ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines))  + ['\n'] + \
+             ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines)) 
 
 
 # 将合并后的文本写入文件
