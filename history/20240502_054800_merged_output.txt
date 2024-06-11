@@ -12,7 +12,6 @@ CCTV-1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV-1,http://42.5.185.242:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
-CCTV-1,video://https://yangshipin.cn/#/tv/home?pid=600001859
 CCTV-1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
