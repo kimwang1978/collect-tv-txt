@@ -1,3 +1,6 @@
+#检索1：http://tonkiang.us
+
+
 import urllib.request
 import re #正则
 import os
@@ -76,7 +79,7 @@ def process_part(part_str):
                 # 给4K或8K添加括号
                 filtered_str = re.sub(r'(4K|8K)', r'(\1)', filtered_str)
 
-        return "CCTV-"+filtered_str 
+        return "CCTV"+filtered_str 
         
     elif "卫视" in part_str:
         # 定义正则表达式模式，匹配“卫视”后面的内容
