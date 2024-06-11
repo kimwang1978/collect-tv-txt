@@ -45,7 +45,7 @@ jobs:
           git add merged_output.txt
           git add merged_output.m3u
           git add others_output.txt
-          git commit -m "AutoUpdate generated files"
+          git commit -m ":tada:  AutoUpdate generated files"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
           cp merged_output.txt history/"${current_datetime}_merged_output.txt"
