@@ -1,6 +1,3 @@
-#检索1：http://tonkiang.us
-
-
 import urllib.request
 import re #正则
 import os
@@ -285,7 +282,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
-             ["体育频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
+             ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["电视剧频道,#genre#"] + sort_data(dsj_dictionary,set(correct_name_data(corrections_name,dsj_lines))) + ['\n'] + \
              ["明星,#genre#"] + sort_data(mx_dictionary,set(correct_name_data(corrections_name,mx_lines))) + ['\n'] + \
@@ -345,3 +342,9 @@ with open("merged_output.m3u", "w", encoding='utf-8') as file:
     file.write(output_text)
 
 print("merged_output.m3u文件已生成。")
+
+
+
+#备用1：http://tonkiang.us
+#备用2：
+#备用3：
