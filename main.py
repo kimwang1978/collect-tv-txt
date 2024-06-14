@@ -277,7 +277,7 @@ def custom_sort(s):
 #["春晚,#genre#"] + sorted(set(cw_lines))
 #["主题片,#genre#"] + sorted(set(ztp_lines)) + ['\n'] + \
 #["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
-version=datetime.now().strftime("%Y%m%d")+",url"
+version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
