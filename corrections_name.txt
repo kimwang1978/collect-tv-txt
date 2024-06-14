@@ -35,8 +35,8 @@ CHC动作电影,CHC动作电影频道
 三立戏剧,三立戏剧台,三立戲劇台
 CCTV.com,CCTV-.com
 CCTV-文化精品,CCTV-央视文化精品
-超级综艺,NewTV超级综艺
-金牌综艺,NewTV金牌综艺
+超级综艺,NewTV超级综艺,NEWTV超级综艺
+金牌综艺,NewTV金牌综艺,NEWTV金牌综艺
 TVBS亚洲,TVBS亚洲台,TVBS亞洲,TVBS-Asia
 TVBS新闻,TVBS新聞,TVBS新闻台
 TVB星河,TVB星河台
