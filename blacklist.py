@@ -12,11 +12,15 @@ def read_txt_file(file_path):
     return lines
 
 # 检测URL是否可访问并记录响应时间
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+}
 def check_url(url, timeout=8):
     try:
     	if  "://" in url:
             start_time = time.time()
-            with urllib.request.urlopen(url, timeout=timeout) as response:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as response:
                 elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
                 if response.status == 200:
                     return elapsed_time, True
