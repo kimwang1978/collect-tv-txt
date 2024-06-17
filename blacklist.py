@@ -39,7 +39,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=10):
+def process_urls_multithreaded(lines, max_workers=11):
     blacklist = []
     successlist = []
 
