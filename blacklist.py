@@ -12,7 +12,7 @@ def read_txt_file(file_path):
     return lines
 
 # 检测URL是否可访问并记录响应时间
-def check_url(url, timeout=5):
+def check_url(url, timeout=8):
     try:
     	if  "://" in url:
             start_time = time.time()
