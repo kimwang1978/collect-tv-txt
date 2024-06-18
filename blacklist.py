@@ -53,14 +53,6 @@ def process_line(line):
 def process_urls_multithreaded(lines, max_workers=11):
     blacklist = []
     successlist = []
-    version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
-    blacklist.append("更新时间,#genre#")
-    blacklist.append(version)
-    blacklist.append("blacklist,#genre#")
-
-    successlist.append("更新时间,#genre#")
-    successlist.append(version)
-    successlist.append("RespoTime,whitelist,#genre#")
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_line, line): line for line in lines}
@@ -94,9 +86,26 @@ if __name__ == "__main__":
 
     # 处理URL并生成成功清单和黑名单
     successlist, blacklist = process_urls_multithreaded(lines)
+    
+    # 给successlist, blacklist排序
+    # 定义排序函数
+    def successlist_sort_key(item):
+        time_str = item.split(',')[0].replace('ms', '')
+        return float(time_str)
+    
+    successlist=sorted(successlist, key=successlist_sort_key)
+    blacklist=sorted(blacklist)
+
     # 计算check后ok和ng个数
-    urls_ok = len(successlist)-3
-    urls_ng = len(blacklist)-3
+    urls_ok = len(successlist)
+    urls_ng = len(blacklist)
+
+    # 加时间戳等
+    version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+    successlist = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                  ["RespoTime,whitelist,#genre#"] + successlist
+    blacklist = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                ["blacklist,#genre#"]  + blacklist
 
     # 写入成功清单文件
     write_list(success_file, successlist)
