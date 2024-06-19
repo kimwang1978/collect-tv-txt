@@ -3,6 +3,7 @@
 自动收集整理大佬们的直播源，程序小白自用，如有侵权请联系。
 
 每日自动更新一次，喜欢的话可以直接引用下面直播源。
+**（已加入Blacklist过滤失效源提高直播源有效性20240618）**
 
 直播源（txt）：https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 
 
