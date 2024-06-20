@@ -119,7 +119,7 @@ def process_url(url):
             data = response.read()
             # 将二进制数据解码为字符串
             text = data.decode('utf-8')
-            if get_url_file_extension(url)==".m3u":
+            if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
                 urls_all_lines.append(convert_m3u_to_txt(text))
             elif get_url_file_extension(url)==".txt":
                 lines = text.split('\n')
