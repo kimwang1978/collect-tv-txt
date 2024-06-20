@@ -83,7 +83,8 @@ def process_part(part_str):
     # 处理逻辑
     if "CCTV" in part_str  and "://" not in part_str:
         part_str=part_str.replace("IPV6", "")  #先剔除IPV6字样
-        part_str=part_str.replace("PLUS", "+")  #替换
+        part_str=part_str.replace("PLUS", "+")  #替换PLUS
+        part_str=part_str.replace("1080", "")  #替换1080
         filtered_str = ''.join(char for char in part_str if char.isdigit() or char == 'K' or char == '+')
         if not filtered_str.strip(): #处理特殊情况，如果发现没有找到频道数字返回原名称
             filtered_str=part_str.replace("CCTV", "")
