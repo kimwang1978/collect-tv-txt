@@ -1,8 +1,10 @@
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
-
 from datetime import datetime
+import os
+from urllib.parse import urlparse
+
 
 timestart = datetime.now()
 
@@ -71,7 +73,77 @@ def write_list(file_path, data_list):
         for item in data_list:
             file.write(item + '\n')
 
+# 增加外部url到检测清单，同时支持检测m3u格式url
+# urls里所有的源都读到这里。
+urls_all_lines = []
+
+def get_url_file_extension(url):
+    # 解析URL
+    parsed_url = urlparse(url)
+    # 获取路径部分
+    path = parsed_url.path
+    # 提取文件扩展名
+    extension = os.path.splitext(path)[1]
+    return extension
+
+def convert_m3u_to_txt(m3u_content):
+    # 分行处理
+    lines = m3u_content.split('\n')
+    
+    # 用于存储结果的列表
+    txt_lines = []
+    
+    # 临时变量用于存储频道名称
+    channel_name = ""
+    
+    for line in lines:
+        # 过滤掉 #EXTM3U 开头的行
+        if line.startswith("#EXTM3U"):
+            continue
+        # 处理 #EXTINF 开头的行
+        if line.startswith("#EXTINF"):
+            # 获取频道名称（假设频道名称在引号后）
+            channel_name = line.split(',')[-1].strip()
+        # 处理 URL 行
+        elif line.startswith("http"):
+            txt_lines.append(f"{channel_name},{line.strip()}")
+    
+    # 将结果合并成一个字符串，以换行符分隔
+    return '\n'.join(txt_lines)
+
+def process_url(url):
+    try:
+        # 打开URL并读取内容
+        with urllib.request.urlopen(url) as response:
+            # 以二进制方式读取数据
+            data = response.read()
+            # 将二进制数据解码为字符串
+            text = data.decode('utf-8')
+            if get_url_file_extension(url)==".m3u":
+                urls_all_lines.append(convert_m3u_to_txt(text))
+            elif get_url_file_extension(url)==".txt":
+                lines = text.split('\n')
+                for line in lines:
+                    if  "#genre#" not in line and "," in line and "://" in line:
+                        #channel_name=line.split(',')[0].strip()
+                        #channel_address=line.split(',')[1].strip()
+                        urls_all_lines.append(line.strip())
+    
+    except Exception as e:
+        print(f"处理URL时发生错误：{e}")
+
+
 if __name__ == "__main__":
+    # 定义要访问的多个URL
+    urls = [
+        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+        'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
+    ]
+    for url in urls:
+        print(f"处理URL: {url}")
+        process_url(url)   #读取上面url清单中直播源存入urls_all_lines
+
     input_file1 = 'merged_output.txt'  # 输入文件路径
     input_file2 = 'blacklist_auto.txt'  # 输入文件路径2 
     success_file = 'whitelist_auto.txt'  # 成功清单文件路径
@@ -80,7 +152,7 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
-    lines=list(set(lines1 + lines2))
+    lines=list(set(urls_all_lines + lines1 + lines2))
     # 计算合并后合计个数
     urls_hj = len(lines)
 
