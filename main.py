@@ -142,6 +142,69 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
+# 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
+def process_channel_line(line):
+    if  "#genre#" not in line and "," in line and "://" in line:
+        channel_name=line.split(',')[0].strip()
+        channel_address=line.split(',')[1].strip()
+        if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
+            # 根据行内容判断存入哪个对象，开始分发
+            if "CCTV" in channel_name: #央视频道
+                ys_lines.append(process_name_string(line.strip()))
+            elif channel_name in ws_dictionary: #卫视频道
+                ws_lines.append(process_name_string(line.strip()))
+            elif channel_name in  ty_dictionary:  #体育频道
+                ty_lines.append(process_name_string(line.strip()))
+            elif channel_name in dy_dictionary:  #电影频道
+                dy_lines.append(process_name_string(line.strip()))
+            elif channel_name in dsj_dictionary:  #电视剧频道
+                dsj_lines.append(process_name_string(line.strip()))
+            elif channel_name in sh_dictionary:  #上海频道
+                sh_lines.append(process_name_string(line.strip()))
+            elif channel_name in gat_dictionary:  #港澳台
+                gat_lines.append(process_name_string(line.strip()))
+            elif channel_name in gj_dictionary:  #国际台
+                gj_lines.append(process_name_string(line.strip()))
+            elif channel_name in jlp_dictionary:  #纪录片
+                jlp_lines.append(process_name_string(line.strip()))
+            elif channel_name in dhp_dictionary:  #动画片
+                dhp_lines.append(process_name_string(line.strip()))
+            elif channel_name in xq_dictionary:  #戏曲
+                xq_lines.append(process_name_string(line.strip()))
+            elif channel_name in js_dictionary:  #解说
+                js_lines.append(process_name_string(line.strip()))
+            elif channel_name in cw_dictionary:  #春晚
+                cw_lines.append(process_name_string(line.strip()))
+            elif channel_name in mx_dictionary:  #明星
+                mx_lines.append(process_name_string(line.strip()))
+            elif channel_name in ztp_dictionary:  #主题片
+                ztp_lines.append(process_name_string(line.strip()))
+            elif channel_name in zy_dictionary:  #综艺频道
+                zy_lines.append(process_name_string(line.strip()))
+            elif channel_name in yy_dictionary:  #音乐频道
+                yy_lines.append(process_name_string(line.strip()))
+            elif channel_name in game_dictionary:  #游戏频道
+                game_lines.append(process_name_string(line.strip()))
+            elif channel_name in radio_dictionary:  #收音机频道
+                radio_lines.append(process_name_string(line.strip()))
+            elif channel_name in zj_dictionary:  #地方台-浙江频道
+                zj_lines.append(process_name_string(line.strip()))
+            elif channel_name in gd_dictionary:  #地方台-广东频道
+                gd_lines.append(process_name_string(line.strip()))
+            elif channel_name in hn_dictionary:  #地方台-湖南频道
+                hn_lines.append(process_name_string(line.strip()))
+            elif channel_name in hb_dictionary:  #地方台-湖北频道
+                hb_lines.append(process_name_string(line.strip()))
+            elif channel_name in hain_dictionary:  #地方台-海南频道
+                hain_lines.append(process_name_string(line.strip()))
+            elif channel_name in nm_dictionary:  #地方台-内蒙频道
+                nm_lines.append(process_name_string(line.strip()))
+            elif channel_name in ln_dictionary:  #地方台-辽宁频道
+                ln_lines.append(process_name_string(line.strip()))
+            else:
+                other_lines.append(line.strip())
+
+
 def process_url(url):
     try:
         # 打开URL并读取内容
@@ -153,75 +216,15 @@ def process_url(url):
             channel_name=""
             channel_address=""
 
-            #处理m3u和m3u8
+            #处理m3u和m3u8，提取channel_name和channel_address
             if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
                 text=convert_m3u_to_txt(text)
 
             # 逐行处理内容
             lines = text.split('\n')
             for line in lines:
-                if  "#genre#" not in line and "," in line and "://" in line:
-                    channel_name=line.split(',')[0].strip()
-                    channel_address=line.split(',')[1].strip()
-                    
-                    if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
-                        # 根据行内容判断存入哪个对象
-                        if "CCTV" in channel_name: #央视频道
-                            ys_lines.append(process_name_string(line.strip()))
-                        elif channel_name in ws_dictionary: #卫视频道
-                            ws_lines.append(process_name_string(line.strip()))
-                        elif channel_name in  ty_dictionary:  #体育频道
-                            ty_lines.append(process_name_string(line.strip()))
-                        elif channel_name in dy_dictionary:  #电影频道
-                            dy_lines.append(process_name_string(line.strip()))
-                        elif channel_name in dsj_dictionary:  #电视剧频道
-                            dsj_lines.append(process_name_string(line.strip()))
-                        elif channel_name in sh_dictionary:  #上海频道
-                            sh_lines.append(process_name_string(line.strip()))
-                        elif channel_name in gat_dictionary:  #港澳台
-                            gat_lines.append(process_name_string(line.strip()))
-                        elif channel_name in gj_dictionary:  #国际台
-                            gj_lines.append(process_name_string(line.strip()))
-                        elif channel_name in jlp_dictionary:  #纪录片
-                            jlp_lines.append(process_name_string(line.strip()))
-                        elif channel_name in dhp_dictionary:  #动画片
-                            dhp_lines.append(process_name_string(line.strip()))
-                        elif channel_name in xq_dictionary:  #戏曲
-                            xq_lines.append(process_name_string(line.strip()))
-                        elif channel_name in js_dictionary:  #解说
-                            js_lines.append(process_name_string(line.strip()))
-                        elif channel_name in cw_dictionary:  #春晚
-                            cw_lines.append(process_name_string(line.strip()))
-                        elif channel_name in mx_dictionary:  #明星
-                            mx_lines.append(process_name_string(line.strip()))
-                        elif channel_name in ztp_dictionary:  #主题片
-                            ztp_lines.append(process_name_string(line.strip()))
-                        elif channel_name in zy_dictionary:  #综艺频道
-                            zy_lines.append(process_name_string(line.strip()))
-                        elif channel_name in yy_dictionary:  #音乐频道
-                            yy_lines.append(process_name_string(line.strip()))
-                        elif channel_name in game_dictionary:  #游戏频道
-                            game_lines.append(process_name_string(line.strip()))
-                        elif channel_name in radio_dictionary:  #收音机频道
-                            radio_lines.append(process_name_string(line.strip()))
-                        elif channel_name in zj_dictionary:  #地方台-浙江频道
-                            zj_lines.append(process_name_string(line.strip()))
-                        elif channel_name in gd_dictionary:  #地方台-广东频道
-                            gd_lines.append(process_name_string(line.strip()))
-                        elif channel_name in hn_dictionary:  #地方台-湖南频道
-                            hn_lines.append(process_name_string(line.strip()))
-                        elif channel_name in hb_dictionary:  #地方台-湖北频道
-                            hb_lines.append(process_name_string(line.strip()))
-                        elif channel_name in hain_dictionary:  #地方台-海南频道
-                            hain_lines.append(process_name_string(line.strip()))
-                        elif channel_name in nm_dictionary:  #地方台-内蒙频道
-                            nm_lines.append(process_name_string(line.strip()))
-                        elif channel_name in ln_dictionary:  #地方台-辽宁频道
-                            ln_lines.append(process_name_string(line.strip()))
-                        else:
-                            other_lines.append(line.strip())
+                process_channel_line(line)
 
-                
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
 
