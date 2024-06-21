@@ -52,8 +52,8 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=11):
-    blacklist = []
+def process_urls_multithreaded(lines, max_workers=18):
+    blacklist =  [] 
     successlist = []
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -147,6 +147,7 @@ if __name__ == "__main__":
     input_file1 = 'merged_output.txt'  # 输入文件路径
     input_file2 = 'blacklist_auto.txt'  # 输入文件路径2 
     success_file = 'whitelist_auto.txt'  # 成功清单文件路径
+    success_file_tv = 'whitelist_auto_tv.txt'  # 成功清单文件路径（另存一份直接引用源）
     blacklist_file = 'blacklist_auto.txt'  # 黑名单文件路径
 
     # 读取输入文件内容
@@ -172,8 +173,20 @@ if __name__ == "__main__":
     urls_ok = len(successlist)
     urls_ng = len(blacklist)
 
+    # 把successlist整理一下，生成一个可以直接引用的源，方便用zyplayer手动check
+    def remove_prefix_from_lines(lines):
+        result = []
+        for line in lines:
+            if  "#genre#" not in line and "," in line and "://" in line:
+                parts = line.split(",")
+                result.append(",".join(parts[1:]))
+        return result
+
+
     # 加时间戳等
     version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+    successlist_tv = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                  ["whitelist,#genre#"] + remove_prefix_from_lines(successlist)
     successlist = ["更新时间,#genre#"] +[version] + ['\n'] +\
                   ["RespoTime,whitelist,#genre#"] + successlist
     blacklist = ["更新时间,#genre#"] +[version] + ['\n'] +\
@@ -181,12 +194,14 @@ if __name__ == "__main__":
 
     # 写入成功清单文件
     write_list(success_file, successlist)
+    write_list(success_file_tv, successlist_tv)
 
     # 写入黑名单文件
     write_list(blacklist_file, blacklist)
 
     print(f"成功清单文件已生成: {success_file}")
-    print(f"黑名单文件已生成: {blacklist}")
+    print(f"成功清单文件已生成(tv): {success_file_tv}")
+    print(f"黑名单文件已生成: {blacklist_file}")
 
     # 写入history
     timenow=datetime.now().strftime("%Y%m%d_%H_%M_%S")
