@@ -29,9 +29,17 @@ ABC新闻频道
 日本CGN
 日本QVC
 日本NHK
+NHK_BS1
+NHK教育
+NHK世界
+NHK総合
 美国CNN
+新加坡国际
+新加坡中文台
 新加坡CNA
 韩国大田
+韩国KBS
 泰国Thai
 半岛国际新闻台
 东森美洲卫视
+东映チャンネル

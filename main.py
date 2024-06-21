@@ -223,7 +223,7 @@ def process_url(url):
             # 逐行处理内容
             lines = text.split('\n')
             for line in lines:
-                process_channel_line(line)
+                process_channel_line(line) # 每行按照规则进行分发
 
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
@@ -337,13 +337,24 @@ def custom_sort(s):
     else:
         return 0  # 其他字符串保持原顺序
 
+
+
+#读取whitelist,把高响应源从白名单中抽出加入merged_output。
+whitelist_auto_lines=read_txt_to_array('whitelist_auto.txt') #
+#whitelist_lines = whitelist_auto.strip().split("\n")
+for whitelist_line in whitelist_auto_lines:
+    if  "#genre#" not in whitelist_line and "," in whitelist_line and "://" in whitelist_line:
+        whitelist_parts = whitelist_line.split(",")
+        try:
+            response_time = float(whitelist_parts[0].replace("ms", ""))
+        except ValueError:
+            print(f"response_time转换失败: {whitelist_line}")
+            response_time = 60000  # 单位毫秒，转换失败给个60秒
+        if response_time < 2000:  #2s以内的高响应源
+            process_channel_line(",".join(whitelist_parts[1:]))
+
+
 # 合并所有对象中的行文本（去重，排序后拼接）
-#["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n'] + \
-#["央视频道,#genre#"] + sorted(sorted(set(ys_lines),key=lambda x: extract_number(x)), key=custom_sort) + ['\n'] + \
-#["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n'] + \
-#["春晚,#genre#"] + sorted(set(cw_lines))
-#["主题片,#genre#"] + sorted(set(ztp_lines)) + ['\n'] + \
-#["电视剧频道,#genre#"] + sorted(set(dsj_lines)) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
