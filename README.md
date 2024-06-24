@@ -9,7 +9,7 @@
 |黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会从直播源过滤掉   |
 |白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇总到直播源   |
 
-**直播源（txt）：**
+###**直播源（txt）：**
 ```
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
@@ -21,7 +21,7 @@ https://t.ly/GpW7Z
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
-**直播源（m3u）：**
+###**直播源（m3u）：**
 ```
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 ```
