@@ -13,7 +13,7 @@
 ```
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
-**直播源（txt）短链：**
+直播源（txt）短链：
 ```
 https://t.ly/GpW7Z
 ```
@@ -25,7 +25,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt
 ```
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 ```
-**直播源（m3u）短链：**
+直播源（m3u）短链：
 ```
 https://t.ly/RqPQ-
 ```
