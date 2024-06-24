@@ -12,7 +12,8 @@
 每日自动更新一次，喜欢的话可以直接引用下面直播源。
 **（已加入Blacklist过滤失效源提高直播源有效性20240618）**
 
-直播源（txt）：https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 
+直播源（txt）：
+```https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt```
 
 镜像源（txt）：https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 
