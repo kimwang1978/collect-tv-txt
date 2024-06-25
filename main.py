@@ -246,10 +246,10 @@ def read_txt_to_array(file_name):
         print(f"An error occurred: {e}")
         return []
 #读取文本
-ys_dictionary=read_txt_to_array('CCTV.txt') #仅排序用
-sh_dictionary=read_txt_to_array('shanghai.txt') #过滤+排序
-ws_dictionary=read_txt_to_array('卫视频道.txt') #过滤+排序
-ty_dictionary=read_txt_to_array('体育频道.txt') #过滤
+ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
+sh_dictionary=read_txt_to_array('主频道/shanghai.txt') #过滤+排序
+ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
+ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
