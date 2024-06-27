@@ -145,11 +145,16 @@ if __name__ == "__main__":
         print(f"处理URL: {url}")
         process_url(url)   #读取上面url清单中直播源存入urls_all_lines
 
-    input_file1 = 'merged_output.txt'  # 输入文件路径
-    input_file2 = 'blacklist_auto.txt'  # 输入文件路径2 
-    success_file = 'whitelist_auto.txt'  # 成功清单文件路径
-    success_file_tv = 'whitelist_auto_tv.txt'  # 成功清单文件路径（另存一份直接引用源）
-    blacklist_file = 'blacklist_auto.txt'  # 黑名单文件路径
+    # 获取当前脚本所在的目录
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 获取上一层目录
+    parent_dir = os.path.dirname(current_dir)
+
+    input_file1 = os.path.join(parent_dir, 'merged_output.txt')  # 输入文件路径1
+    input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2 
+    success_file = os.path.join(current_dir, 'whitelist_auto.txt')  # 成功清单文件路径
+    success_file_tv = os.path.join(current_dir, 'whitelist_auto_tv.txt')  # 成功清单文件路径（另存一份直接引用源）
+    blacklist_file = os.path.join(current_dir, 'blacklist_auto.txt')  # 黑名单文件路径
 
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)

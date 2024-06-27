@@ -32,8 +32,8 @@ def read_blacklist_from_txt(file_path):
     BlackList = [line.split(',')[1].strip() for line in lines if ',' in line]
     return BlackList
 
-blacklist_auto=read_blacklist_from_txt('blacklist_auto.txt') 
-blacklist_manual=read_blacklist_from_txt('blacklist_manual.txt') 
+blacklist_auto=read_blacklist_from_txt('blacklist/blacklist_auto.txt') 
+blacklist_manual=read_blacklist_from_txt('blacklist/blacklist_manual.txt') 
 combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 
 # 定义多个对象用于存储不同内容的行文本
@@ -341,7 +341,7 @@ def custom_sort(s):
 
 
 #读取whitelist,把高响应源从白名单中抽出加入merged_output。
-whitelist_auto_lines=read_txt_to_array('whitelist_auto.txt') #
+whitelist_auto_lines=read_txt_to_array('blacklist/whitelist_auto.txt') #
 for whitelist_line in whitelist_auto_lines:
     if  "#genre#" not in whitelist_line and "," in whitelist_line and "://" in whitelist_line:
         whitelist_parts = whitelist_line.split(",")
