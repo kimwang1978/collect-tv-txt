@@ -43,7 +43,8 @@ http://gg.gg/tv-live-m3u
 
 如果有其他定期更新稳定的源也可以留言，有时间一起加在收集列表里。
 
-<img src="https://star-history.com/#kimwang1978/collect-tv-txt&Date" width="550px">
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
 
 
