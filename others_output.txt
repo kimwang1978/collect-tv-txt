@@ -1072,33 +1072,27 @@ MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-2套,http://1.80.231.173:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉2电视剧,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-4套,http://1.80.231.173:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-4套,http://1.80.231.187:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-5套,http://1.80.231.173:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-8套,http://1.80.231.173:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-8套,http://1.80.231.187:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2,http://111.225.112.48:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://119.39.97.2:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://113.218.229.25:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://112.235.202.148:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://112.235.202.172:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-公共,http://61.136.67.238:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-北京,http://112.235.202.148:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-北京,http://112.235.202.172:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-新农村,http://61.136.67.238:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻,http://61.136.67.238:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉教育,http://58.48.37.158:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-法制,http://61.136.67.238:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+三明综合,http://117.27.190.42:9998/tsfile/live/23298_1.m3u8?key=txiptv&playlive=1&authid=0
+中国交通,http://111.225.112.48:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+公共新闻,http://58.51.111.46:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+平潭综合,http://117.27.190.42:9998/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.0.186.75:9900/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+武术世界,http://111.225.112.48:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+河北公共,http://111.225.112.48:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北杂技,http://111.225.112.48:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+泉州综合,http://117.27.190.42:9998/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北电视台,http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧,http://61.136.67.238:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-科教影视,http://123.154.30.68:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.30.68:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-都市,http://61.136.67.238:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-钱江,http://123.154.30.68:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视1,https://pi.0472.org/itv/hnwsH265.m3u8
-湖南卫视2,https://pi.0472.org/hls/hunws.m3u8
-重温经典,https://pi.0472.org/itv/CWJD.m3u8
+漳州综合,http://117.27.190.42:9998/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江公共,http://183.0.186.75:9900/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江新闻,http://183.0.186.75:9900/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
+福建旅游,http://117.27.190.42:9998/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+茂名综合,http://183.0.186.75:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+莆田综合,http://117.27.190.42:9998/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN记录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 CGTN俄语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
@@ -1236,8 +1230,10 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 野行者「其他」,http://live.iill.top/huya.php?id=20072663
 跳舞「其他」,http://live.iill.top/huya.php?id=24634408
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-CETV4空中课堂频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
+CETV1中国教育电视台一套,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
+CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -2263,102 +2259,6 @@ RTHK,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 Прямий,http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtndoc.m3u8
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
-亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
-澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-公视,https://bsex.serv00.net/Smart.php?id=ctv_taiwan
-华视,https://bsex.serv00.net/Smart.php?id=ctshd_twn
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-台视,https://bsex.serv00.net/Smart.php?id=ttv_taiwan
-中视,https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
-中天亚洲台,https://bsex.serv00.net/Smart.php?id=ctiasia_twn
-纬来日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8?wowzasessionid=64000?zgangd
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-1905电影网1(国内电影),http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905电影网2(国外电影),http://php.jdshipin.com:8880/1905.php?id=1905dy2
-美亚电影台,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV超级电视剧,http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1713337309&from=4&hms_devid=991&online=1713337309&vqe=3
-NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV潮妈辣婆,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
-NewTV哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-NewTV古装剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NewTV海外剧场,http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-NewTV精品综合,http://117.175.185.226:4088/rtp/239.11.0.147:5140
-NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTV热播精选,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV炫舞未来,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-NewTV武搏世界,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010135/1.m3u8
-NewTV怡伴健康,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang1989
-法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang1989
-欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang1989
-金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang1989
-乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang1989
-文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-杨紫琼-爱似流星,https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
-李丽芬-得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
-钟镇涛-让一切随风,http://em.21dtv.com/songs/60036211.mkv
-萨顶顶-自由行走的花,http://em.21dtv.com/songs/60070271.mkv
-草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
-草蜢-半点心(国语),http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-古皓-爱情没有那么美,http://em.21dtv.com/songs/60008311.mkv
-刘德华-世界第一等,http://em.21dtv.com/songs/60039261.mkv
-陈力-葬花吟,https://vd3.bdstatic.com/mda-kicqa9beeahmrkjs/v1-cae/1080p/mda-kicqa9beeahmrkjs.mp4?auth_key=1602768982-0-0-b973a2f59d11c0b2beed45cc4bb0c56b&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=4322&split=3824042
-AOA-短裤,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-BlackPink-Loser(失败者),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
-BlackPink-彩排,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
-蜡笔团-FM,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
-蜡笔团-星期六晚上,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
-CLCDevil(魔鬼),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
-追梦者-Breaking Out(爆发),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
-追梦者-德扎普,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
-女孩节-Something,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
-少女时代-Gee(哇),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
-少女时代-狮子心,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
-少女时代-Oh,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
-(G)IDLE-LATATA,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
-(G)IDLE-Uhoh,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
-张多慧-我们不能在一起说话,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
-蜂蜜爆米花迪塞奥斯塔,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
-J.FlaSenorita(小姐),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
-拉布姆糖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
-MAMAMOO-Gogobebe,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
-Secret-YooHoo,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
-Sistar-我一个人,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
-Tara-无糖的,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
-2NE1-不能没有人,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-2NE1-打开,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
-重温经典,https://pi.0472.org/itv/CWJD.m3u8
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 CGTN俄语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
@@ -2412,173 +2312,173 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-1905-电影网,http://b7259c.netsite.cc/proxy/1747360543/1747360543.m3u8
-新疆兵团卫视,http://b7259c.netsite.cc/proxy/1502802665/1502802665.m3u8
-CGTN,http://b7259c.netsite.cc/proxy/1464174866/1464174866.m3u8
-CGTN法语频道,http://b7259c.netsite.cc/proxy/1237082374/1237082374.m3u8
-CGTN俄语频道,http://b7259c.netsite.cc/proxy/1081207990/1081207990.m3u8
-CGTN阿拉伯语频道,http://b7259c.netsite.cc/proxy/1911119040/1911119040.m3u8
-CGTN西班牙语频道,http://b7259c.netsite.cc/proxy/657032256/657032256.m3u8
-CGTN外语记录频道,http://b7259c.netsite.cc/proxy/97135501/97135501.m3u8
-上海外语频道,http://b7259c.netsite.cc/proxy/1701776112/1701776112.m3u8
-上海都市频道,http://b7259c.netsite.cc/proxy/2116818558/2116818558.m3u8
-上海点掌财经,http://b7259c.netsite.cc/proxy/1577752441/1577752441.m3u8
-浙江钱江生活,http://b7259c.netsite.cc/proxy/1237073829/1237073829.m3u8
-浙江教育科技频道,http://b7259c.netsite.cc/proxy/1253636999/1253636999.m3u8
-浙江少儿频道,http://b7259c.netsite.cc/proxy/761839305/761839305.m3u8
-浙江好易购,http://b7259c.netsite.cc/proxy/2047524408/2047524408.m3u8
-浙江之江记录,http://b7259c.netsite.cc/proxy/147568391/147568391.m3u8
-维吾尔语新闻综合频道,http://b7259c.netsite.cc/proxy/1972456959/1972456959.m3u8
-哈萨克语新闻综合频道,http://b7259c.netsite.cc/proxy/1017241472/1017241472.m3u8
-汉语综艺频道,http://b7259c.netsite.cc/proxy/261541641/261541641.m3u8
-维吾尔语影视频道,http://b7259c.netsite.cc/proxy/132921121/132921121.m3u8
-汉语经济生活频道,http://b7259c.netsite.cc/proxy/43123930/43123930.m3u8
-哈萨克语综艺频道,http://b7259c.netsite.cc/proxy/1914541671/1914541671.m3u8
-维吾尔语经济生活频道,http://b7259c.netsite.cc/proxy/657274245/657274245.m3u8
-汉语体育健康频道,http://b7259c.netsite.cc/proxy/161007620/161007620.m3u8
-汉语信息服务频道,http://b7259c.netsite.cc/proxy/741753645/741753645.m3u8
-新疆少儿频道,http://b7259c.netsite.cc/proxy/2128293013/2128293013.m3u8
-内蒙古新闻综合,http://b7259c.netsite.cc/proxy/862381212/862381212.m3u8
-内蒙古少儿频道,http://b7259c.netsite.cc/proxy/772314677/772314677.m3u8
-内蒙古文化娱乐,http://b7259c.netsite.cc/proxy/844409203/844409203.m3u8
-内蒙古农牧频道,http://b7259c.netsite.cc/proxy/700721138/700721138.m3u8
-内蒙古蒙古语文化,http://b7259c.netsite.cc/proxy/818789140/818789140.m3u8
-贵州公共频道,http://b7259c.netsite.cc/proxy/730375068/730375068.m3u8
-贵州影视文艺,http://b7259c.netsite.cc/proxy/277498502/277498502.m3u8
-贵州大众生活,http://b7259c.netsite.cc/proxy/1102719883/1102719883.m3u8
-贵州生态乡村,http://b7259c.netsite.cc/proxy/2087588014/2087588014.m3u8
-贵州科教健康,http://b7259c.netsite.cc/proxy/1162947109/1162947109.m3u8
-贵州移动电视频道,http://b7259c.netsite.cc/proxy/1401142653/1401142653.m3u8
-重庆新闻,http://b7259c.netsite.cc/proxy/1555453135/1555453135.m3u8
-陕西农林,http://b7259c.netsite.cc/proxy/1359389546/1359389546.m3u8
-陕西新闻资讯,http://b7259c.netsite.cc/proxy/1595881474/1595881474.m3u8
-陕西都市青春,http://b7259c.netsite.cc/proxy/391844543/391844543.m3u8
-陕西生活频道,http://b7259c.netsite.cc/proxy/286895848/286895848.m3u8
-陕西公共频道,http://b7259c.netsite.cc/proxy/1782806707/1782806707.m3u8
-陕西购物,http://b7259c.netsite.cc/proxy/1183146985/1183146985.m3u8
-陕西体育休闲,http://b7259c.netsite.cc/proxy/742107634/742107634.m3u8
-福建综合频道,http://b7259c.netsite.cc/proxy/269896449/269896449.m3u8
-福建公共频道,http://b7259c.netsite.cc/proxy/639164858/639164858.m3u8
-福建新闻频道,http://b7259c.netsite.cc/proxy/199601741/199601741.m3u8
-福建电视剧,http://b7259c.netsite.cc/proxy/1180178372/1180178372.m3u8
-福建旅游频道,http://b7259c.netsite.cc/proxy/1739179131/1739179131.m3u8
-福建经视频道,http://b7259c.netsite.cc/proxy/561753807/561753807.m3u8
-福建体育频道,http://b7259c.netsite.cc/proxy/1771344389/1771344389.m3u8
-福建少儿频道,http://b7259c.netsite.cc/proxy/253585251/253585251.m3u8
-福建海峡卫视,http://b7259c.netsite.cc/proxy/1400186150/1400186150.m3u8
-吉林延边卫视,http://b7259c.netsite.cc/proxy/454807708/454807708.m3u8
-吉林延边汉语综合,http://b7259c.netsite.cc/proxy/461796199/461796199.m3u8
-吉林延边朝鲜语综合,http://b7259c.netsite.cc/proxy/127471106/127471106.m3u8
-河北经济生活,http://b7259c.netsite.cc/proxy/839342764/839342764.m3u8
-河北农民频道,http://b7259c.netsite.cc/proxy/1382120425/1382120425.m3u8
-河北都市,http://b7259c.netsite.cc/proxy/1382613512/1382613512.m3u8
-河北影视剧,http://b7259c.netsite.cc/proxy/105462334/105462334.m3u8
-河北公共,http://b7259c.netsite.cc/proxy/1380350629/1380350629.m3u8
-河北三佳购物,http://b7259c.netsite.cc/proxy/1490274429/1490274429.m3u8
-甘肃经济频道,http://b7259c.netsite.cc/proxy/1373372389/1373372389.m3u8
-甘肃文化影视,http://b7259c.netsite.cc/proxy/1573084994/1573084994.m3u8
-甘肃公共应急,http://b7259c.netsite.cc/proxy/1726841360/1726841360.m3u8
-甘肃少儿频道,http://b7259c.netsite.cc/proxy/1645236406/1645236406.m3u8
-甘肃都市频道,http://b7259c.netsite.cc/proxy/1238488351/1238488351.m3u8
-河南都市频道,http://b7259c.netsite.cc/proxy/1492902938/1492902938.m3u8
-河南民生频道,http://b7259c.netsite.cc/proxy/1346087362/1346087362.m3u8
-河南法制频道,http://b7259c.netsite.cc/proxy/1472420660/1472420660.m3u8
-河南电视剧频道,http://b7259c.netsite.cc/proxy/493614280/493614280.m3u8
-河南新闻频道,http://b7259c.netsite.cc/proxy/1692770748/1692770748.m3u8
-河南欢腾购物频道,http://b7259c.netsite.cc/proxy/933026680/933026680.m3u8
-河南公共频道,http://b7259c.netsite.cc/proxy/1779518772/1779518772.m3u8
-河南乡村频道,http://b7259c.netsite.cc/proxy/1890775902/1890775902.m3u8
-河南武术世界,http://b7259c.netsite.cc/proxy/503866921/503866921.m3u8
-河南晴彩中原频道,http://b7259c.netsite.cc/proxy/437233355/437233355.m3u8
-河南梨园频道,http://b7259c.netsite.cc/proxy/1836590379/1836590379.m3u8
-河南移动戏曲频道,http://b7259c.netsite.cc/proxy/606632094/606632094.m3u8
-河南文物宝库频道,http://b7259c.netsite.cc/proxy/908742171/908742171.m3u8
-河南洛阳新闻综合频道,http://b7259c.netsite.cc/proxy/95478034/95478034.m3u8
-快乐购,http://b7259c.netsite.cc/proxy/970312636/970312636.m3u8
-电视剧,http://b7259c.netsite.cc/proxy/649200103/649200103.m3u8
-国际频道,http://b7259c.netsite.cc/proxy/1627651873/1627651873.m3u8
-茶频道,http://b7259c.netsite.cc/proxy/1322311734/1322311734.m3u8
-先锋乒羽,http://b7259c.netsite.cc/proxy/1789306185/1789306185.m3u8
-长沙新闻综合,http://b7259c.netsite.cc/proxy/1524274658/1524274658.m3u8
-长沙政法频道,http://b7259c.netsite.cc/proxy/298063278/298063278.m3u8
-长沙女性频道,http://b7259c.netsite.cc/proxy/1812024686/1812024686.m3u8
-常德新闻综合频道,http://b7259c.netsite.cc/proxy/1299968106/1299968106.m3u8
-无锡新闻综合频道,http://b7259c.netsite.cc/proxy/1808503557/1808503557.m3u8
-无锡都市资讯频道,http://b7259c.netsite.cc/proxy/1260824748/1260824748.m3u8
-无锡娱乐频道,http://b7259c.netsite.cc/proxy/461270403/461270403.m3u8
-无锡经济频道,http://b7259c.netsite.cc/proxy/326472624/326472624.m3u8
-无锡生活频道,http://b7259c.netsite.cc/proxy/995802232/995802232.m3u8
-常州新闻综合频道,http://b7259c.netsite.cc/proxy/1762429386/1762429386.m3u8
-常州生活频道,http://b7259c.netsite.cc/proxy/692207623/692207623.m3u8
-常州公共频道,http://b7259c.netsite.cc/proxy/1874518057/1874518057.m3u8
-连云港新闻综合频道,http://b7259c.netsite.cc/proxy/1249456251/1249456251.m3u8
-沛县新闻综合,http://b7259c.netsite.cc/proxy/2058383266/2058383266.m3u8
-镇江二套社会民生频道,http://b7259c.netsite.cc/proxy/1259661680/1259661680.m3u8
-四川观察,http://b7259c.netsite.cc/proxy/2061240764/2061240764.m3u8
-北京国际雕塑公园,http://b7259c.netsite.cc/proxy/1070308851/1070308851.m3u8
-北京密云司马台长城,http://b7259c.netsite.cc/proxy/771753543/771753543.m3u8
-北京昌平居庸关长城,http://b7259c.netsite.cc/proxy/1214950026/1214950026.m3u8
-北京鸟巢和水立方,http://b7259c.netsite.cc/proxy/2139720500/2139720500.m3u8
-北京密云古北水镇,http://b7259c.netsite.cc/proxy/698677872/698677872.m3u8
-北京怀柔黄花城水长城,http://b7259c.netsite.cc/proxy/1266694830/1266694830.m3u8
-湖南张家界武陵源景区,http://b7259c.netsite.cc/proxy/762554012/762554012.m3u8
-湖南长沙果园镇田汉文化园,http://b7259c.netsite.cc/proxy/1933462135/1933462135.m3u8
-湖南张家界天门山景区,http://b7259c.netsite.cc/proxy/1114678886/1114678886.m3u8
-湖南湘西凤凰古城,http://b7259c.netsite.cc/proxy/1244287653/1244287653.m3u8
-湖南张家界大峡谷景区,http://b7259c.netsite.cc/proxy/848407143/848407143.m3u8
-湖南邵阳崀山风景名胜区,http://b7259c.netsite.cc/proxy/2086847518/2086847518.m3u8
-湖南沙洲瑶族村,http://b7259c.netsite.cc/proxy/1641373861/1641373861.m3u8
-江苏南京永宁张圩花海,http://b7259c.netsite.cc/proxy/25264739/25264739.m3u8
-江苏徐州之夜,http://b7259c.netsite.cc/proxy/391073776/391073776.m3u8
-江苏无锡惠山二茅峰望锡城,http://b7259c.netsite.cc/proxy/1877891602/1877891602.m3u8
-江苏南京长江大桥,http://b7259c.netsite.cc/proxy/1764141811/1764141811.m3u8
-江苏南京玄武湖,http://b7259c.netsite.cc/proxy/1985889373/1985889373.m3u8
-南京南站,http://b7259c.netsite.cc/proxy/2072143452/2072143452.m3u8
-南京紫金山,http://b7259c.netsite.cc/proxy/177566095/177566095.m3u8
-南京情侣园,http://b7259c.netsite.cc/proxy/185079179/185079179.m3u8
-南京长江大桥,http://b7259c.netsite.cc/proxy/1033254824/1033254824.m3u8
-南京栖霞山,http://b7259c.netsite.cc/proxy/182710545/182710545.m3u8
-南京鼓楼广场,http://b7259c.netsite.cc/proxy/960879458/960879458.m3u8
-南京新街口,http://b7259c.netsite.cc/proxy/183420062/183420062.m3u8
-南京紫峰眺望,http://b7259c.netsite.cc/proxy/1222351744/1222351744.m3u8
-南京白鹭洲公园,http://b7259c.netsite.cc/proxy/320590871/320590871.m3u8
-南京北极阁,http://b7259c.netsite.cc/proxy/188239043/188239043.m3u8
-南京三汊河,http://b7259c.netsite.cc/proxy/189455176/189455176.m3u8
-南京黄龙砚,http://b7259c.netsite.cc/proxy/169184085/169184085.m3u8
-南京矿坑公园,http://b7259c.netsite.cc/proxy/1263482067/1263482067.m3u8
-南京百家湖,http://b7259c.netsite.cc/proxy/179633244/179633244.m3u8
-南京眼,http://b7259c.netsite.cc/proxy/1734263806/1734263806.m3u8
-南京五马渡,http://b7259c.netsite.cc/proxy/188955121/188955121.m3u8
-浙江台州三门核电站,http://b7259c.netsite.cc/proxy/1382819378/1382819378.m3u8
-浙江舟山嵊泗县中心渔港,http://b7259c.netsite.cc/proxy/748822183/748822183.m3u8
-浙江温州泰顺县廊桥文化园,http://b7259c.netsite.cc/proxy/1144314894/1144314894.m3u8
-浙江舟山东极岛,http://b7259c.netsite.cc/proxy/1973269961/1973269961.m3u8
-浙江杭州千岛湖,http://b7259c.netsite.cc/proxy/1683811739/1683811739.m3u8
-浙江嘉兴乌镇,http://b7259c.netsite.cc/proxy/463129046/463129046.m3u8
-安徽黄山黟县,http://b7259c.netsite.cc/proxy/1759244982/1759244982.m3u8
-上海南浦大桥,http://b7259c.netsite.cc/proxy/1514561649/1514561649.m3u8
-西藏林芝米林岷山彩门民宿,http://b7259c.netsite.cc/proxy/751076408/751076408.m3u8
-西藏林芝岷山错高民宿,http://b7259c.netsite.cc/proxy/680426319/680426319.m3u8
-西藏日喀则珠穆朗玛峰,http://b7259c.netsite.cc/proxy/209923082/209923082.m3u8
-西藏拉萨布达拉宫,http://b7259c.netsite.cc/proxy/800329695/800329695.m3u8
-西藏林芝墨脱县,http://b7259c.netsite.cc/proxy/476608588/476608588.m3u8
-新疆喀什达瓦昆景区,http://b7259c.netsite.cc/proxy/404107611/404107611.m3u8
-新疆伊犁州蝶湖公园,http://b7259c.netsite.cc/proxy/132379804/132379804.m3u8
-新疆昌吉州天山天池风景区,http://b7259c.netsite.cc/proxy/1482666116/1482666116.m3u8
-安徽黄山风景区,http://b7259c.netsite.cc/proxy/2125074276/2125074276.m3u8
-四川邛崃天台山,http://b7259c.netsite.cc/proxy/690671060/690671060.m3u8
-四川甘孜州石渠县,http://b7259c.netsite.cc/proxy/682530961/682530961.m3u8
-四川西昌市邛海景区,http://b7259c.netsite.cc/proxy/239112006/239112006.m3u8
-四川成都东安湖体育公园,http://b7259c.netsite.cc/proxy/648790008/648790008.m3u8
-四川成都安顺廊桥,http://b7259c.netsite.cc/proxy/1937762418/1937762418.m3u8
-四川成都天府熊猫塔,http://b7259c.netsite.cc/proxy/1936214178/1936214178.m3u8
-四川成都春熙路,http://b7259c.netsite.cc/proxy/614090729/614090729.m3u8
-四川阿坝州汶川映秀新城,http://b7259c.netsite.cc/proxy/369813965/369813965.m3u8
-四川阿坝州黄龙五彩池,http://b7259c.netsite.cc/proxy/411064268/411064268.m3u8
-四川乐山市峨眉山风景区,http://b7259c.netsite.cc/proxy/1575586364/1575586364.m3u8
-重庆巫山长江画卷,http://b7259c.netsite.cc/proxy/923062896/923062896.m3u8
-重庆李子坝站,http://b7259c.netsite.cc/proxy/1077381778/1077381778.m3u8
-重庆巫山长江大桥,http://b7259c.netsite.cc/proxy/1215290450/1215290450.m3u8
+1905-电影网,http://67e8f7.netsite.cc/proxy/1747360543/1747360543.m3u8
+新疆兵团卫视,http://67e8f7.netsite.cc/proxy/1502802665/1502802665.m3u8
+CGTN,http://67e8f7.netsite.cc/proxy/1464174866/1464174866.m3u8
+CGTN法语频道,http://67e8f7.netsite.cc/proxy/1237082374/1237082374.m3u8
+CGTN俄语频道,http://67e8f7.netsite.cc/proxy/1081207990/1081207990.m3u8
+CGTN阿拉伯语频道,http://67e8f7.netsite.cc/proxy/1911119040/1911119040.m3u8
+CGTN西班牙语频道,http://67e8f7.netsite.cc/proxy/657032256/657032256.m3u8
+CGTN外语记录频道,http://67e8f7.netsite.cc/proxy/97135501/97135501.m3u8
+上海外语频道,http://67e8f7.netsite.cc/proxy/1701776112/1701776112.m3u8
+上海都市频道,http://67e8f7.netsite.cc/proxy/2116818558/2116818558.m3u8
+上海点掌财经,http://67e8f7.netsite.cc/proxy/1577752441/1577752441.m3u8
+浙江钱江生活,http://67e8f7.netsite.cc/proxy/1237073829/1237073829.m3u8
+浙江教育科技频道,http://67e8f7.netsite.cc/proxy/1253636999/1253636999.m3u8
+浙江少儿频道,http://67e8f7.netsite.cc/proxy/761839305/761839305.m3u8
+浙江好易购,http://67e8f7.netsite.cc/proxy/2047524408/2047524408.m3u8
+浙江之江记录,http://67e8f7.netsite.cc/proxy/147568391/147568391.m3u8
+维吾尔语新闻综合频道,http://67e8f7.netsite.cc/proxy/1972456959/1972456959.m3u8
+哈萨克语新闻综合频道,http://67e8f7.netsite.cc/proxy/1017241472/1017241472.m3u8
+汉语综艺频道,http://67e8f7.netsite.cc/proxy/261541641/261541641.m3u8
+维吾尔语影视频道,http://67e8f7.netsite.cc/proxy/132921121/132921121.m3u8
+汉语经济生活频道,http://67e8f7.netsite.cc/proxy/43123930/43123930.m3u8
+哈萨克语综艺频道,http://67e8f7.netsite.cc/proxy/1914541671/1914541671.m3u8
+维吾尔语经济生活频道,http://67e8f7.netsite.cc/proxy/657274245/657274245.m3u8
+汉语体育健康频道,http://67e8f7.netsite.cc/proxy/161007620/161007620.m3u8
+汉语信息服务频道,http://67e8f7.netsite.cc/proxy/741753645/741753645.m3u8
+新疆少儿频道,http://67e8f7.netsite.cc/proxy/2128293013/2128293013.m3u8
+内蒙古新闻综合,http://67e8f7.netsite.cc/proxy/862381212/862381212.m3u8
+内蒙古少儿频道,http://67e8f7.netsite.cc/proxy/772314677/772314677.m3u8
+内蒙古文化娱乐,http://67e8f7.netsite.cc/proxy/844409203/844409203.m3u8
+内蒙古农牧频道,http://67e8f7.netsite.cc/proxy/700721138/700721138.m3u8
+内蒙古蒙古语文化,http://67e8f7.netsite.cc/proxy/818789140/818789140.m3u8
+贵州公共频道,http://67e8f7.netsite.cc/proxy/730375068/730375068.m3u8
+贵州影视文艺,http://67e8f7.netsite.cc/proxy/277498502/277498502.m3u8
+贵州大众生活,http://67e8f7.netsite.cc/proxy/1102719883/1102719883.m3u8
+贵州生态乡村,http://67e8f7.netsite.cc/proxy/2087588014/2087588014.m3u8
+贵州科教健康,http://67e8f7.netsite.cc/proxy/1162947109/1162947109.m3u8
+贵州移动电视频道,http://67e8f7.netsite.cc/proxy/1401142653/1401142653.m3u8
+重庆新闻,http://67e8f7.netsite.cc/proxy/1555453135/1555453135.m3u8
+陕西农林,http://67e8f7.netsite.cc/proxy/1359389546/1359389546.m3u8
+陕西新闻资讯,http://67e8f7.netsite.cc/proxy/1595881474/1595881474.m3u8
+陕西都市青春,http://67e8f7.netsite.cc/proxy/391844543/391844543.m3u8
+陕西生活频道,http://67e8f7.netsite.cc/proxy/286895848/286895848.m3u8
+陕西公共频道,http://67e8f7.netsite.cc/proxy/1782806707/1782806707.m3u8
+陕西购物,http://67e8f7.netsite.cc/proxy/1183146985/1183146985.m3u8
+陕西体育休闲,http://67e8f7.netsite.cc/proxy/742107634/742107634.m3u8
+福建综合频道,http://67e8f7.netsite.cc/proxy/269896449/269896449.m3u8
+福建公共频道,http://67e8f7.netsite.cc/proxy/639164858/639164858.m3u8
+福建新闻频道,http://67e8f7.netsite.cc/proxy/199601741/199601741.m3u8
+福建电视剧,http://67e8f7.netsite.cc/proxy/1180178372/1180178372.m3u8
+福建旅游频道,http://67e8f7.netsite.cc/proxy/1739179131/1739179131.m3u8
+福建经视频道,http://67e8f7.netsite.cc/proxy/561753807/561753807.m3u8
+福建体育频道,http://67e8f7.netsite.cc/proxy/1771344389/1771344389.m3u8
+福建少儿频道,http://67e8f7.netsite.cc/proxy/253585251/253585251.m3u8
+福建海峡卫视,http://67e8f7.netsite.cc/proxy/1400186150/1400186150.m3u8
+吉林延边卫视,http://67e8f7.netsite.cc/proxy/454807708/454807708.m3u8
+吉林延边汉语综合,http://67e8f7.netsite.cc/proxy/461796199/461796199.m3u8
+吉林延边朝鲜语综合,http://67e8f7.netsite.cc/proxy/127471106/127471106.m3u8
+河北经济生活,http://67e8f7.netsite.cc/proxy/839342764/839342764.m3u8
+河北农民频道,http://67e8f7.netsite.cc/proxy/1382120425/1382120425.m3u8
+河北都市,http://67e8f7.netsite.cc/proxy/1382613512/1382613512.m3u8
+河北影视剧,http://67e8f7.netsite.cc/proxy/105462334/105462334.m3u8
+河北公共,http://67e8f7.netsite.cc/proxy/1380350629/1380350629.m3u8
+河北三佳购物,http://67e8f7.netsite.cc/proxy/1490274429/1490274429.m3u8
+甘肃经济频道,http://67e8f7.netsite.cc/proxy/1373372389/1373372389.m3u8
+甘肃文化影视,http://67e8f7.netsite.cc/proxy/1573084994/1573084994.m3u8
+甘肃公共应急,http://67e8f7.netsite.cc/proxy/1726841360/1726841360.m3u8
+甘肃少儿频道,http://67e8f7.netsite.cc/proxy/1645236406/1645236406.m3u8
+甘肃都市频道,http://67e8f7.netsite.cc/proxy/1238488351/1238488351.m3u8
+河南都市频道,http://67e8f7.netsite.cc/proxy/1492902938/1492902938.m3u8
+河南民生频道,http://67e8f7.netsite.cc/proxy/1346087362/1346087362.m3u8
+河南法制频道,http://67e8f7.netsite.cc/proxy/1472420660/1472420660.m3u8
+河南电视剧频道,http://67e8f7.netsite.cc/proxy/493614280/493614280.m3u8
+河南新闻频道,http://67e8f7.netsite.cc/proxy/1692770748/1692770748.m3u8
+河南欢腾购物频道,http://67e8f7.netsite.cc/proxy/933026680/933026680.m3u8
+河南公共频道,http://67e8f7.netsite.cc/proxy/1779518772/1779518772.m3u8
+河南乡村频道,http://67e8f7.netsite.cc/proxy/1890775902/1890775902.m3u8
+河南武术世界,http://67e8f7.netsite.cc/proxy/503866921/503866921.m3u8
+河南晴彩中原频道,http://67e8f7.netsite.cc/proxy/437233355/437233355.m3u8
+河南梨园频道,http://67e8f7.netsite.cc/proxy/1836590379/1836590379.m3u8
+河南移动戏曲频道,http://67e8f7.netsite.cc/proxy/606632094/606632094.m3u8
+河南文物宝库频道,http://67e8f7.netsite.cc/proxy/908742171/908742171.m3u8
+河南洛阳新闻综合频道,http://67e8f7.netsite.cc/proxy/95478034/95478034.m3u8
+快乐购,http://67e8f7.netsite.cc/proxy/970312636/970312636.m3u8
+电视剧,http://67e8f7.netsite.cc/proxy/649200103/649200103.m3u8
+国际频道,http://67e8f7.netsite.cc/proxy/1627651873/1627651873.m3u8
+茶频道,http://67e8f7.netsite.cc/proxy/1322311734/1322311734.m3u8
+先锋乒羽,http://67e8f7.netsite.cc/proxy/1789306185/1789306185.m3u8
+长沙新闻综合,http://67e8f7.netsite.cc/proxy/1524274658/1524274658.m3u8
+长沙政法频道,http://67e8f7.netsite.cc/proxy/298063278/298063278.m3u8
+长沙女性频道,http://67e8f7.netsite.cc/proxy/1812024686/1812024686.m3u8
+常德新闻综合频道,http://67e8f7.netsite.cc/proxy/1299968106/1299968106.m3u8
+无锡新闻综合频道,http://67e8f7.netsite.cc/proxy/1808503557/1808503557.m3u8
+无锡都市资讯频道,http://67e8f7.netsite.cc/proxy/1260824748/1260824748.m3u8
+无锡娱乐频道,http://67e8f7.netsite.cc/proxy/461270403/461270403.m3u8
+无锡经济频道,http://67e8f7.netsite.cc/proxy/326472624/326472624.m3u8
+无锡生活频道,http://67e8f7.netsite.cc/proxy/995802232/995802232.m3u8
+常州新闻综合频道,http://67e8f7.netsite.cc/proxy/1762429386/1762429386.m3u8
+常州生活频道,http://67e8f7.netsite.cc/proxy/692207623/692207623.m3u8
+常州公共频道,http://67e8f7.netsite.cc/proxy/1874518057/1874518057.m3u8
+连云港新闻综合频道,http://67e8f7.netsite.cc/proxy/1249456251/1249456251.m3u8
+沛县新闻综合,http://67e8f7.netsite.cc/proxy/2058383266/2058383266.m3u8
+镇江二套社会民生频道,http://67e8f7.netsite.cc/proxy/1259661680/1259661680.m3u8
+四川观察,http://67e8f7.netsite.cc/proxy/2061240764/2061240764.m3u8
+北京国际雕塑公园,http://67e8f7.netsite.cc/proxy/1070308851/1070308851.m3u8
+北京密云司马台长城,http://67e8f7.netsite.cc/proxy/771753543/771753543.m3u8
+北京昌平居庸关长城,http://67e8f7.netsite.cc/proxy/1214950026/1214950026.m3u8
+北京鸟巢和水立方,http://67e8f7.netsite.cc/proxy/2139720500/2139720500.m3u8
+北京密云古北水镇,http://67e8f7.netsite.cc/proxy/698677872/698677872.m3u8
+北京怀柔黄花城水长城,http://67e8f7.netsite.cc/proxy/1266694830/1266694830.m3u8
+湖南张家界武陵源景区,http://67e8f7.netsite.cc/proxy/762554012/762554012.m3u8
+湖南长沙果园镇田汉文化园,http://67e8f7.netsite.cc/proxy/1933462135/1933462135.m3u8
+湖南张家界天门山景区,http://67e8f7.netsite.cc/proxy/1114678886/1114678886.m3u8
+湖南湘西凤凰古城,http://67e8f7.netsite.cc/proxy/1244287653/1244287653.m3u8
+湖南张家界大峡谷景区,http://67e8f7.netsite.cc/proxy/848407143/848407143.m3u8
+湖南邵阳崀山风景名胜区,http://67e8f7.netsite.cc/proxy/2086847518/2086847518.m3u8
+湖南沙洲瑶族村,http://67e8f7.netsite.cc/proxy/1641373861/1641373861.m3u8
+江苏南京永宁张圩花海,http://67e8f7.netsite.cc/proxy/25264739/25264739.m3u8
+江苏徐州之夜,http://67e8f7.netsite.cc/proxy/391073776/391073776.m3u8
+江苏无锡惠山二茅峰望锡城,http://67e8f7.netsite.cc/proxy/1877891602/1877891602.m3u8
+江苏南京长江大桥,http://67e8f7.netsite.cc/proxy/1764141811/1764141811.m3u8
+江苏南京玄武湖,http://67e8f7.netsite.cc/proxy/1985889373/1985889373.m3u8
+南京南站,http://67e8f7.netsite.cc/proxy/2072143452/2072143452.m3u8
+南京紫金山,http://67e8f7.netsite.cc/proxy/177566095/177566095.m3u8
+南京情侣园,http://67e8f7.netsite.cc/proxy/185079179/185079179.m3u8
+南京长江大桥,http://67e8f7.netsite.cc/proxy/1033254824/1033254824.m3u8
+南京栖霞山,http://67e8f7.netsite.cc/proxy/182710545/182710545.m3u8
+南京鼓楼广场,http://67e8f7.netsite.cc/proxy/960879458/960879458.m3u8
+南京新街口,http://67e8f7.netsite.cc/proxy/183420062/183420062.m3u8
+南京紫峰眺望,http://67e8f7.netsite.cc/proxy/1222351744/1222351744.m3u8
+南京白鹭洲公园,http://67e8f7.netsite.cc/proxy/320590871/320590871.m3u8
+南京北极阁,http://67e8f7.netsite.cc/proxy/188239043/188239043.m3u8
+南京三汊河,http://67e8f7.netsite.cc/proxy/189455176/189455176.m3u8
+南京黄龙砚,http://67e8f7.netsite.cc/proxy/169184085/169184085.m3u8
+南京矿坑公园,http://67e8f7.netsite.cc/proxy/1263482067/1263482067.m3u8
+南京百家湖,http://67e8f7.netsite.cc/proxy/179633244/179633244.m3u8
+南京眼,http://67e8f7.netsite.cc/proxy/1734263806/1734263806.m3u8
+南京五马渡,http://67e8f7.netsite.cc/proxy/188955121/188955121.m3u8
+浙江台州三门核电站,http://67e8f7.netsite.cc/proxy/1382819378/1382819378.m3u8
+浙江舟山嵊泗县中心渔港,http://67e8f7.netsite.cc/proxy/748822183/748822183.m3u8
+浙江温州泰顺县廊桥文化园,http://67e8f7.netsite.cc/proxy/1144314894/1144314894.m3u8
+浙江舟山东极岛,http://67e8f7.netsite.cc/proxy/1973269961/1973269961.m3u8
+浙江杭州千岛湖,http://67e8f7.netsite.cc/proxy/1683811739/1683811739.m3u8
+浙江嘉兴乌镇,http://67e8f7.netsite.cc/proxy/463129046/463129046.m3u8
+安徽黄山黟县,http://67e8f7.netsite.cc/proxy/1759244982/1759244982.m3u8
+上海南浦大桥,http://67e8f7.netsite.cc/proxy/1514561649/1514561649.m3u8
+西藏林芝米林岷山彩门民宿,http://67e8f7.netsite.cc/proxy/751076408/751076408.m3u8
+西藏林芝岷山错高民宿,http://67e8f7.netsite.cc/proxy/680426319/680426319.m3u8
+西藏日喀则珠穆朗玛峰,http://67e8f7.netsite.cc/proxy/209923082/209923082.m3u8
+西藏拉萨布达拉宫,http://67e8f7.netsite.cc/proxy/800329695/800329695.m3u8
+西藏林芝墨脱县,http://67e8f7.netsite.cc/proxy/476608588/476608588.m3u8
+新疆喀什达瓦昆景区,http://67e8f7.netsite.cc/proxy/404107611/404107611.m3u8
+新疆伊犁州蝶湖公园,http://67e8f7.netsite.cc/proxy/132379804/132379804.m3u8
+新疆昌吉州天山天池风景区,http://67e8f7.netsite.cc/proxy/1482666116/1482666116.m3u8
+安徽黄山风景区,http://67e8f7.netsite.cc/proxy/2125074276/2125074276.m3u8
+四川邛崃天台山,http://67e8f7.netsite.cc/proxy/690671060/690671060.m3u8
+四川甘孜州石渠县,http://67e8f7.netsite.cc/proxy/682530961/682530961.m3u8
+四川西昌市邛海景区,http://67e8f7.netsite.cc/proxy/239112006/239112006.m3u8
+四川成都东安湖体育公园,http://67e8f7.netsite.cc/proxy/648790008/648790008.m3u8
+四川成都安顺廊桥,http://67e8f7.netsite.cc/proxy/1937762418/1937762418.m3u8
+四川成都天府熊猫塔,http://67e8f7.netsite.cc/proxy/1936214178/1936214178.m3u8
+四川成都春熙路,http://67e8f7.netsite.cc/proxy/614090729/614090729.m3u8
+四川阿坝州汶川映秀新城,http://67e8f7.netsite.cc/proxy/369813965/369813965.m3u8
+四川阿坝州黄龙五彩池,http://67e8f7.netsite.cc/proxy/411064268/411064268.m3u8
+四川乐山市峨眉山风景区,http://67e8f7.netsite.cc/proxy/1575586364/1575586364.m3u8
+重庆巫山长江画卷,http://67e8f7.netsite.cc/proxy/923062896/923062896.m3u8
+重庆李子坝站,http://67e8f7.netsite.cc/proxy/1077381778/1077381778.m3u8
+重庆巫山长江大桥,http://67e8f7.netsite.cc/proxy/1215290450/1215290450.m3u8
 4K电影,http://allinone.netsite.cc/douyu/9249162
 华语电影1,http://allinone.netsite.cc/douyu/122402
 华语电影2,http://allinone.netsite.cc/douyu/85894
@@ -2592,8 +2492,8 @@ CGTN外语记录频道,http://b7259c.netsite.cc/proxy/97135501/97135501.m3u8
 斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
 斗鱼电影5,http://allinone.netsite.cc/douyu/323876
 榜单电影,http://allinone.netsite.cc/douyu/8770422
-亚洲中文,http://b7259c.netsite.cc/proxy/847703940/847703940.m3u8
-大立電視台,http://b7259c.netsite.cc/proxy/1485397580/1485397580.m3u8
+亚洲中文,http://67e8f7.netsite.cc/proxy/847703940/847703940.m3u8
+大立電視台,http://67e8f7.netsite.cc/proxy/1485397580/1485397580.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -2655,6 +2555,7 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 金色学堂,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+NewTV军旅剧场,http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
