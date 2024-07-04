@@ -61,6 +61,7 @@ zj_lines = [] #地方台-浙江频道
 jsu_lines = [] #地方台-江苏频道
 gd_lines = [] #地方台-广东频道
 hn_lines = [] #地方台-湖南频道
+ah_lines = [] #地方台-安徽频道
 hain_lines = [] #地方台-海南频道
 nm_lines = [] #地方台-内蒙频道
 hb_lines = [] #地方台-湖北频道
@@ -199,6 +200,8 @@ def process_channel_line(line):
                 hn_lines.append(process_name_string(line.strip()))
             elif channel_name in hb_dictionary:  #地方台-湖北频道
                 hb_lines.append(process_name_string(line.strip()))
+            elif channel_name in ah_dictionary:  #地方台-安徽频道
+                ah_lines.append(process_name_string(line.strip()))
             elif channel_name in hain_dictionary:  #地方台-海南频道
                 hain_lines.append(process_name_string(line.strip()))
             elif channel_name in nm_dictionary:  #地方台-内蒙频道
@@ -273,6 +276,7 @@ zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 jsu_dictionary=read_txt_to_array('地方台/江苏频道.txt') #过滤
 gd_dictionary=read_txt_to_array('地方台/广东频道.txt') #过滤
 hn_dictionary=read_txt_to_array('地方台/湖南频道.txt') #过滤
+ah_dictionary=read_txt_to_array('地方台/安徽频道.txt') #过滤
 hain_dictionary=read_txt_to_array('地方台/海南频道.txt') #过滤
 nm_dictionary=read_txt_to_array('地方台/内蒙频道.txt') #过滤
 hb_dictionary=read_txt_to_array('地方台/湖北频道.txt') #过滤
@@ -382,6 +386,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["江苏频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jsu_lines))) + ['\n'] + \
              ["湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["湖北频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
+             ["安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
              ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
              ["海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
              ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
