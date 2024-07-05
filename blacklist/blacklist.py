@@ -139,7 +139,8 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
-        'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt'
+        'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
+        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt'
     ]
     for url in urls:
         print(f"处理URL: {url}")
