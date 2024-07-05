@@ -66,7 +66,8 @@ hain_lines = [] #地方台-海南频道
 nm_lines = [] #地方台-内蒙频道
 hb_lines = [] #地方台-湖北频道
 ln_lines = [] #地方台-辽宁频道
-
+sx_lines = [] #地方台-陕西频道
+shanxi_lines = [] #地方台-山西频道
 
 
 # favorite_lines = []
@@ -208,6 +209,10 @@ def process_channel_line(line):
                 nm_lines.append(process_name_string(line.strip()))
             elif channel_name in ln_dictionary:  #地方台-辽宁频道
                 ln_lines.append(process_name_string(line.strip()))
+            elif channel_name in sx_dictionary:  #地方台-陕西频道
+                sx_lines.append(process_name_string(line.strip()))
+            elif channel_name in shanxi_dictionary:  #地方台-山西频道
+                shanxi_lines.append(process_name_string(line.strip()))
             else:
                 other_lines.append(line.strip())
 
@@ -281,6 +286,8 @@ hain_dictionary=read_txt_to_array('地方台/海南频道.txt') #过滤
 nm_dictionary=read_txt_to_array('地方台/内蒙频道.txt') #过滤
 hb_dictionary=read_txt_to_array('地方台/湖北频道.txt') #过滤
 ln_dictionary=read_txt_to_array('地方台/辽宁频道.txt') #过滤
+sx_dictionary=read_txt_to_array('地方台/陕西频道.txt') #过滤
+shanxi_dictionary=read_txt_to_array('地方台/山西频道.txt') #过滤
 
 #读取纠错频道名称方法
 def load_corrections_name(filename):
