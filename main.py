@@ -15,6 +15,7 @@ urls = [
     'https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u', #内含成人视频 
     'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',
     'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',
+    'https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u',
     'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次
