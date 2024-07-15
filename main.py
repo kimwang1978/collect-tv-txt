@@ -68,7 +68,8 @@ hb_lines = [] #地方台-湖北频道
 ln_lines = [] #地方台-辽宁频道
 sx_lines = [] #地方台-陕西频道
 shanxi_lines = [] #地方台-山西频道
-
+shandong_lines = [] #地方台-山东频道
+yunnan_lines = [] #地方台-云南频道
 
 # favorite_lines = []
 
@@ -213,6 +214,10 @@ def process_channel_line(line):
                 sx_lines.append(process_name_string(line.strip()))
             elif channel_name in shanxi_dictionary:  #地方台-山西频道
                 shanxi_lines.append(process_name_string(line.strip()))
+            elif channel_name in shandong_dictionary:  #地方台-山东频道
+                shandong_lines.append(process_name_string(line.strip()))
+            elif channel_name in yunnan_dictionary:  #地方台-云南频道
+                yunnan_lines.append(process_name_string(line.strip()))
             else:
                 other_lines.append(line.strip())
 
@@ -288,6 +293,8 @@ hb_dictionary=read_txt_to_array('地方台/湖北频道.txt') #过滤
 ln_dictionary=read_txt_to_array('地方台/辽宁频道.txt') #过滤
 sx_dictionary=read_txt_to_array('地方台/陕西频道.txt') #过滤
 shanxi_dictionary=read_txt_to_array('地方台/山西频道.txt') #过滤
+shandong_dictionary=read_txt_to_array('地方台/山东频道.txt') #过滤
+yunnan_dictionary=read_txt_to_array('地方台/云南频道.txt') #过滤
 
 #读取纠错频道名称方法
 def load_corrections_name(filename):
@@ -398,6 +405,10 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
              ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
              ["辽宁频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ln_lines))) + ['\n'] + \
+             ["陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sx_lines))) + ['\n'] + \
+             ["山西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shanxi_lines))) + ['\n'] + \
+             ["山东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shandong_lines))) + ['\n'] + \
+             ["云南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,yunnan_lines))) + ['\n'] + \
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines))  + ['\n'] + \
              ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines)) 
 
