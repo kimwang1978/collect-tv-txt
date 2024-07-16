@@ -205,7 +205,7 @@ def process_channel_line(line):
                 zy_lines.append(process_name_string(line.strip()))
             elif channel_name in yy_dictionary:  #音乐频道
                 yy_lines.append(process_name_string(line.strip()))
-            elif channel_name in yy_dictionary:  #MTV
+            elif channel_name in mtv_dictionary:  #MTV
                 mtv_lines.append(process_name_string(line.strip()))    
             elif channel_name in game_dictionary:  #游戏频道
                 game_lines.append(process_name_string(line.strip()))
