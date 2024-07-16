@@ -37,7 +37,6 @@ urls = [
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
     'https://raw.githubusercontent.com/liu673cn/box/08aa2e6f742d8bd267cf2b118baa6792bbdca2d5/libs/tv/tvzb.txt',
     'https://raw.githubusercontent.com/asiaboke/IPTV/97dc264f71b16c470180b574f8a434c925014245/mtvzb.txt',
-    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
     'https://raw.githubusercontent.com/wwb521/live/main/tv.txt'
 ]
 
