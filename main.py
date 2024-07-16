@@ -34,7 +34,10 @@ urls = [
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',  #每天自动更新1次 2024-06-24 16:37
-    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
+    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
+    'https://raw.githubusercontent.com/liu673cn/box/08aa2e6f742d8bd267cf2b118baa6792bbdca2d5/libs/tv/tvzb.txt',
+    'https://raw.githubusercontent.com/asiaboke/IPTV/97dc264f71b16c470180b574f8a434c925014245/mtvzb.txt',
+    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
     'https://raw.githubusercontent.com/wwb521/live/main/tv.txt'
 ]
 
