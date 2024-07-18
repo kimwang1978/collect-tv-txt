@@ -219,8 +219,6 @@ def process_channel_line(line):
                 sjzb_lines.append(process_name_string(line.strip()))          
             elif channel_name in radio_dictionary:  #收音机频道
                 radio_lines.append(process_name_string(line.strip()))
-	    elif channel_name in yslb_dictionary:  #影视轮播
-                yslb_lines.append(process_name_string(line.strip()))
 	    elif channel_name in ztp_dictionary:  #主题片
                 ztp_lines.append(process_name_string(line.strip()))
             elif channel_name in zy_dictionary:  #综艺频道
