@@ -233,8 +233,8 @@ def process_channel_line(line):
                 nm_lines.append(process_name_string(line.strip()))
             elif channel_name in ln_dictionary:  #地方台-辽宁频道
                 ln_lines.append(process_name_string(line.strip()))
-            elif channel_name in yunnan_dictionary:  #地方台-云南频道
-                yunnan_lines.append(process_name_string(line.strip()))
+            elif channel_name in yn_dictionary:  #地方台-云南频道
+                yn_lines.append(process_name_string(line.strip()))
             else:
                 other_lines.append(line.strip())
 
