@@ -213,10 +213,14 @@ def process_channel_line(line):
                 js_lines.append(process_name_string(line.strip()))          
             elif channel_name in mx_dictionary:  #明星
                 mx_lines.append(process_name_string(line.strip()))
-            elif channel_name in sr_dictionary:  #少儿频道
-                sr_lines.append(process_name_string(line.strip()))
-            elif channel_name in sjzb_dictionary:  #实景直播
-                sjzb_lines.append(process_name_string(line.strip()))          
+            elif channel_name in ztp_dictionary:  #主题片
+                ztp_lines.append(process_name_string(line.strip()))
+            elif channel_name in zy_dictionary:  #综艺频道
+                zy_lines.append(process_name_string(line.strip()))
+            elif channel_name in yy_dictionary:  #音乐频道
+                yy_lines.append(process_name_string(line.strip()))
+            elif channel_name in game_dictionary:  #游戏频道
+                game_lines.append(process_name_string(line.strip()))
             elif channel_name in radio_dictionary:  #收音机频道
                 radio_lines.append(process_name_string(line.strip()))
 	    elif channel_name in ztp_dictionary:  #主题片
