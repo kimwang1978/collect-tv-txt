@@ -215,7 +215,7 @@ def process_channel_line(line):
                 mx_lines.append(process_name_string(line.strip()))
             elif channel_name in shaoer_dictionary:  #少儿频道
                 shaoer_lines.append(process_name_string(line.strip()))
-	    elif channel_name in sjzb_dictionary:  #实景直播
+	    elif channel_name in sjzb_dictionary:  #纪录片
                 sjzb_lines.append(process_name_string(line.strip()))
 	    elif channel_name in ty_dictionary:  #体育频道
                 ty_lines.append(process_name_string(line.strip()))
