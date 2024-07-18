@@ -227,24 +227,12 @@ def process_channel_line(line):
                 jsu_lines.append(process_name_string(line.strip()))
             elif channel_name in gd_dictionary:  #地方台-广东频道
                 gd_lines.append(process_name_string(line.strip()))
-            elif channel_name in hn_dictionary:  #地方台-湖南频道
-                hn_lines.append(process_name_string(line.strip()))
-            elif channel_name in hb_dictionary:  #地方台-湖北频道
-                hb_lines.append(process_name_string(line.strip()))
             elif channel_name in ah_dictionary:  #地方台-安徽频道
                 ah_lines.append(process_name_string(line.strip()))
-            elif channel_name in hain_dictionary:  #地方台-海南频道
-                hain_lines.append(process_name_string(line.strip()))
             elif channel_name in nm_dictionary:  #地方台-内蒙频道
                 nm_lines.append(process_name_string(line.strip()))
             elif channel_name in ln_dictionary:  #地方台-辽宁频道
                 ln_lines.append(process_name_string(line.strip()))
-            elif channel_name in sx_dictionary:  #地方台-陕西频道
-                sx_lines.append(process_name_string(line.strip()))
-            elif channel_name in shanxi_dictionary:  #地方台-山西频道
-                shanxi_lines.append(process_name_string(line.strip()))
-            elif channel_name in shandong_dictionary:  #地方台-山东频道
-                shandong_lines.append(process_name_string(line.strip()))
             elif channel_name in yunnan_dictionary:  #地方台-云南频道
                 yunnan_lines.append(process_name_string(line.strip()))
             else:
