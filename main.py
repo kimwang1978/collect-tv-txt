@@ -211,89 +211,12 @@ def process_channel_line(line):
                 jlp_lines.append(process_name_string(line.strip()))
             elif channel_name in js_dictionary:  #解说
                 js_lines.append(process_name_string(line.strip()))
-			elif channel_name in mx_dictionary:  #明星
-			    mx_lines.append(process_name_string(line.strip()))	
-			elif channel_name in shaoer_dictionary:  #少儿频道
-                shaoer_lines.append(process_name_string(line.strip()))
-            elif channel_name in sjzb_dictionary:  #实景直播
-                sjzb_lines.append(process_name_string(line.strip()))
-			elif channel_name in radio_dictionary:  #收音机频道
-			    radio_lines.append(process_name_string(line.strip()))
-			elif channel_name in ty_dictionary:  #t体育频道
-			    ty_lines.append(process_name_string(line.strip()))
-			elif channel_name in ws_dictionary:  #卫视频道
-			    ws_lines.append(process_name_string(line.strip()))
-			elif channel_name in xq_dictionary:  #戏曲
-			    xq_lines.append(process_name_string(line.strip()))
-			elif channel_name in yslb_dictionary:  #影视轮播
-			    yslb_lines.append(process_name_string(line.strip()))
-			elif channel_name in game_dictionary:  #游戏频道
-			    game_lines.append(process_name_string(line.strip()))
-			elif channel_name in ztp_dictionary:  #主题片
-			    ztp_lines.append(process_name_string(line.strip()))	
-			elif channel_name in zy_dictionary:  #综艺频道
-			    zy_lines.append(process_name_string(line.strip()))    
+		
             
             
             elif channel_name in ah_dictionary:  #地方台-安徽频道
                 ah_lines.append(process_name_string(line.strip()))
-			elif channel_name in bj_dictionary:  #地方台-北京频道
-			    bj_lines.append(process_name_string(line.strip()))	
-			elif channel_name in cq_dictionary:  #地方台-重庆频道
-			    cq_lines.append(process_name_string(line.strip()))
-			elif channel_name in fj_dictionary:  #地方台-福建频道
-			    fj_lines.append(process_name_string(line.strip()))
-			elif channel_name in gs_dictionary:  #地方台-甘肃频道
-			    gs_lines.append(process_name_string(line.strip()))
-			elif channel_name in gd_dictionary:  #地方台-广东频道
-			    gd_lines.append(process_name_string(line.strip()))
-			elif channel_name in gx_dictionary:  #地方台-广西频道
-			    gx_lines.append(process_name_string(line.strip()))
-			elif channel_name in gz_dictionary:  #地方台-贵州频道
-			    gz_lines.append(process_name_string(line.strip()))
-			elif channel_name in haina_dictionary:  #地方台-海南频道
-			    haina_lines.append(process_name_string(line.strip()))
-			elif channel_name in heb_dictionary:  #地方台-河北频道
-			    heb_lines.append(process_name_string(line.strip()))
-			elif channel_name in hen_dictionary:  #地方台-河南频道
-			    hen_lines.append(process_name_string(line.strip()))
-			elif channel_name in hlj_dictionary:  #地方台-安徽频道
-			    hlj_lines.append(process_name_string(line.strip()))
-			elif channel_name in hun_dictionary:  #地方台-湖南频道
-			    hun_lines.append(process_name_string(line.strip()))
-			elif channel_name in hub_dictionary:  #地方台-湖北频道
-			    hub_lines.append(process_name_string(line.strip()))
-			elif channel_name in jl_dictionary:  #地方台-吉林频道
-			    jl_lines.append(process_name_string(line.strip()))
-			elif channel_name in js_dictionary:  #地方台-江苏频道
-			    js_lines.append(process_name_string(line.strip()))
-			elif channel_name in jx_dictionary:  #地方台-jx频道
-			    jx_lines.append(process_name_string(line.strip()))
-			elif channel_name in ln_dictionary:  #地方台-辽宁频道
-			    ln_lines.append(process_name_string(line.strip()))
-			elif channel_name in nm_dictionary:  #地方台-内蒙频道
-			    nm_lines.append(process_name_string(line.strip()))
-			elif channel_name in nx_dictionary:  #地方台-宁夏频道
-			    nx_lines.append(process_name_string(line.strip()))
-			elif channel_name in qh_dictionary:  #地方台-青海频道
-			    qh_lines.append(process_name_string(line.strip()))
-			elif channel_name in sd_dictionary:  #地方台-山东频道
-			    sd_lines.append(process_name_string(line.strip()))
-			elif channel_name in sx_dictionary:  #地方台-山西频道
-			    sx_lines.append(process_name_string(line.strip()))
-			elif channel_name in shanxi_dictionary:  #地方台-陕西频道
-			    shanxi_lines.append(process_name_string(line.strip()))
-			elif channel_name in sh_dictionary:  #地方台-上海频道
-			    sh_lines.append(process_name_string(line.strip()))
-			elif channel_name in sc_dictionary:  #地方台-四川频道
-			    sc_lines.append(process_name_string(line.strip()))
-			elif channel_name in tj_dictionary:  #地方台-天津频道
-			    tj_lines.append(process_name_string(line.strip()))
-			elif channel_name in xj_dictionary:  #地方台-新疆频道
-			    xj_lines.append(process_name_string(line.strip()))
-			elif channel_name in yunnan_dictionary:  #地方台-云南频道
-			    yunnan_lines.append(process_name_string(line.strip()))
-			elif channel_name in zj_dictionary:  #地方台-浙江频道
+            elif channel_name in zj_dictionary:  #地方台-浙江频道
                 zj_lines.append(process_name_string(line.strip()))
             else:
                 other_lines.append(line.strip())
