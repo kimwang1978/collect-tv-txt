@@ -1,3 +1,22 @@
+CCTV-1 综合
+CCTV-10 科教
+CCTV-11 戏曲
+CCTV-12 社会与法
+CCTV-13 新闻
+CCTV-14 少儿
+CCTV-15 音乐
+CCTV-16 奥林匹克
+CCTV-17 农业农村
+CCTV-2 财经
+CCTV-3 综艺
+CCTV-4 中文国际
+CCTV-4 欧洲
+CCTV-5 体育
+CCTV-5+ 体育赛事
+CCTV-6 电影
+CCTV-7 国防军事
+CCTV-8 电视剧
+CCTV-9 纪录
 CCTV1
 CCTV2
 CCTV3
@@ -16,6 +35,14 @@ CCTV14
 CCTV15
 CCTV16
 CCTV17
+CCTV1(4K)
+CCTV3(4K)
+CCTV5(4K)
+CCTV6(4K)
+CCTV8(4K)
+CCTV16(4K)
+CCTV4K
+CCTV8K
 CCTV.com
 CCTV风云剧场
 CCTV兵器科技
@@ -31,11 +58,31 @@ CCTV怀旧剧场
 CCTV央视文化精品
 CCTV文化精品
 CCTV电视指南
-CCTV1(4K)
-CCTV3(4K)
-CCTV5(4K)
-CCTV6(4K)
-CCTV8(4K)
-CCTV16(4K)
-CCTV4K
-CCTV8K
+CETV-1
+CETV-2
+CETV-3
+CETV-4
+CGTN-法语
+CGTN-纪录
+CGTN-英语
+CGTN-西班牙语
+CGTN-阿语
+CHC动作电影
+CHC家庭影院
+CNC中文
+CNC英文
+世界地理
+兵器科技
+冬奥纪实
+卫生健康
+发现之旅
+央视文化精品
+女性时尚
+怀旧剧场
+电视指南
+第一剧场
+老故事
+风云剧场
+风云足球
+风云音乐
+高尔夫网球
