@@ -213,7 +213,6 @@ def process_channel_line(line):
                 js_lines.append(process_name_string(line.strip()))          
             elif channel_name in mx_dictionary:  #明星
                 mx_lines.append(process_name_string(line.strip()))
-
             elif channel_name in ztp_dictionary:  #主题片
                 ztp_lines.append(process_name_string(line.strip()))
             elif channel_name in zy_dictionary:  #综艺频道
