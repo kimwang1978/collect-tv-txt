@@ -413,10 +413,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 			 ["少儿频道,#genre#"] + sort_data(shaoer_dictionary,set(correct_name_data(corrections_name,shaoer_lines))) + ['\n'] + \
 			 ["实景直播,#genre#"] + sort_data(sjzb_dictionary,set(correct_name_data(corrections_name,sjzb_lines))) + ['\n'] + \
 			 ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines)) 
-			
-			 
-			 
-			 ["安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
+
 			 ["北京频道,#genre#"] + sorted(set(correct_name_data(corrections_name,bj_lines))) + ['\n'] + \
 			 ["福建频道,#genre#"] + sorted(set(correct_name_data(corrections_name,fj_lines))) + ['\n'] + \
 			 ["甘肃频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gs_lines))) + ['\n'] + \
