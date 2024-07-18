@@ -223,8 +223,6 @@ def process_channel_line(line):
                 game_lines.append(process_name_string(line.strip()))
             elif channel_name in radio_dictionary:  #收音机频道
                 radio_lines.append(process_name_string(line.strip()))
-            elif channel_name in zj_dictionary:  #地方台-浙江频道
-                zj_lines.append(process_name_string(line.strip()))
 	    elif channel_name in ah_dictionary:  #地方台-安徽频道
                 ah_lines.append(process_name_string(line.strip()))
             elif channel_name in bj_dictionary:  #地方台-北京频道
@@ -283,6 +281,7 @@ def process_channel_line(line):
                 yn_lines.append(process_name_string(line.strip()))
 	    elif channel_name in zj_dictionary:  #地方台-浙江频道
                 zj_lines.append(process_name_string(line.strip()))
+
             else:
                 other_lines.append(line.strip())
 
