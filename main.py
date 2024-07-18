@@ -215,7 +215,24 @@ def process_channel_line(line):
                 mx_lines.append(process_name_string(line.strip()))
             elif channel_name in shaoer_dictionary:  #少儿频道
                 shaoer_lines.append(process_name_string(line.strip()))
-	    
+	    elif channel_name in sjzb_dictionary:  #实景直播
+                sjzb_lines.append(process_name_string(line.strip()))
+	    elif channel_name in ty_dictionary:  #体育频道
+                ty_lines.append(process_name_string(line.strip()))
+	    elif channel_name in radio_dictionary:  #收音机频道
+                radio_lines.append(process_name_string(line.strip()))
+	    elif channel_name in ws_dictionary: #卫视频道
+                ws_lines.append(process_name_string(line.strip()))
+	    elif channel_name in xq_dictionary:  #戏曲
+                xq_lines.append(process_name_string(line.strip()))
+	    elif channel_name in yslb_dictionary:  #影视轮播
+                yslb_lines.append(process_name_string(line.strip()))
+	    elif channel_name in game_dictionary:  #游戏频道
+                game_lines.append(process_name_string(line.strip()))
+	    elif channel_name in ztp_dictionary:  #主题片
+                ztp_lines.append(process_name_string(line.strip()))
+            elif channel_name in zy_dictionary:  #综艺频道
+                zy_lines.append(process_name_string(line.strip()))
 	    elif channel_name in ah_dictionary:  #地方台-安徽频道
                 ah_lines.append(process_name_string(line.strip()))
             elif channel_name in bj_dictionary:  #地方台-北京频道
