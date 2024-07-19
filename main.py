@@ -248,10 +248,12 @@ def process_channel_line(line):
                 ln_lines.append(process_name_string(line.strip()))
             elif channel_name in shanxi_dictionary:  #地方台-陕西频道
                 shanxi_lines.append(process_name_string(line.strip()))
-            elif channel_name in sx_dictionary:  #地方台-山西频道
+            elif channel_name in sc_dictionary:  #地方台-四川频道
                 sc_lines.append(process_name_string(line.strip()))
             elif channel_name in sd_dictionary:  #地方台-山东频道
                 sd_lines.append(process_name_string(line.strip()))
+            elif channel_name in sx_dictionary:  #地方台-山西频道
+                sx_lines.append(process_name_string(line.strip()))
             elif channel_name in yn_dictionary:  #地方台-云南频道
                 yn_lines.append(process_name_string(line.strip()))
             else:
@@ -462,6 +464,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
              ["辽宁频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ln_lines))) + ['\n'] + \
              ["陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shanxi_lines))) + ['\n'] + \
+             ["四川频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sc_lines))) + ['\n'] + \
              ["山西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sx_lines))) + ['\n'] + \
              ["山东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sd_lines))) + ['\n'] + \
              ["云南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,yn_lines))) + ['\n'] + \
