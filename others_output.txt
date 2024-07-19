@@ -1539,7 +1539,6 @@ iHot-爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060000
 福建少儿,http://xxw.me0.cn/api/bestv.php?id=fjse
 福建文体,http://xxw.me0.cn/api/bestv.php?id=fjwt
 福建新闻,http://xxw.me0.cn/api/bestv.php?id=fjxw
-福建综合,http://xxw.me0.cn/api/bestv.php?id=fjzh
 吉林都市,http://gongzhuling.lnott.top:9999/hls/19/index.m3u8
 吉林生活,http://gongzhuling.lnott.top:9999/hls/20/index.m3u8
 吉林影视,http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
@@ -1552,13 +1551,10 @@ iHot-爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060000
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古蒙古语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-北京新闻,http://114.246.102.14:4000/rtp/239.3.1.159:8000
 北京影视,http://114.246.102.14:4000/rtp/239.3.1.158:8000
 北京文艺,http://114.246.102.14:4000/rtp/239.3.1.242:8000
-北京生活,http://114.246.102.14:4000/rtp/239.3.1.117:8000
 北京国际,http://114.246.102.14:4000/# rtp/239.3.1.118:8000
 北京少儿,http://114.246.102.14:4000/rtp/239.3.1.189:8000
-北京财经,http://114.246.102.14:4000/rtp/239.3.1.116:8000
 北京体育休闲,http://114.246.102.14:4000/# rtp/239.3.1.243:8000
 江苏城市,http://20240504.shunyue1809.com:6321/udp/239.49.8.107:8000
 江苏综艺,http://20240504.shunyue1809.com:6321/udp/239.49.8.108:8000
@@ -2234,9 +2230,6 @@ CGTN纪录,rtp://239.3.1.216:4220
 龙江联通,rtp://239.3.1.133:8016
 吉林联通,rtp://239.3.1.240:8172
 东南联通,rtp://239.3.1.156:8148
-北京新闻,rtp://239.3.1.159:8000
-北京财经,rtp://239.3.1.115:8000
-北京生活,rtp://239.3.1.117:8000
 北京文艺,rtp://239.3.1.242:8000
 北京影视,rtp://239.3.1.158:8000
 北京国际,rtp://239.3.1.235:8000
@@ -3505,11 +3498,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
-碌曲综合,http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
-临潭综合,http://pili-live-hls.hfmt.net/gntv/lttv.m3u8?zgand
-夏河综合,http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8?zgand
-舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
-西峰综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand
 怒江新闻综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
