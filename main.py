@@ -236,6 +236,8 @@ def process_channel_line(line):
                 ah_lines.append(process_name_string(line.strip()))
             elif channel_name in bj_dictionary:  #地方台-北京频道
                 bj_lines.append(process_name_string(line.strip()))
+            elif channel_name in cq_dictionary:  #地方台-重庆频道
+                cq_lines.append(process_name_string(line.strip()))
             elif channel_name in fj_dictionary:  #地方台-福建频道
                 fj_lines.append(process_name_string(line.strip()))
             elif channel_name in gs_dictionary:  #地方台-甘肃频道
@@ -492,6 +494,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["游戏频道,#genre#"] + sorted(set(game_lines)) + ['\n'] + \
              ["安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
              ["北京频道,#genre#"] + sorted(set(correct_name_data(corrections_name,bj_lines))) + ['\n'] + \
+             ["重庆频道,#genre#"] + sorted(set(correct_name_data(corrections_name,cq_lines))) + ['\n'] + \
              ["福建频道,#genre#"] + sorted(set(correct_name_data(corrections_name,fj_lines))) + ['\n'] + \
              ["甘肃频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gs_lines))) + ['\n'] + \
              ["广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
