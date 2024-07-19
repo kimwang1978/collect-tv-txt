@@ -244,7 +244,7 @@ def process_channel_line(line):
                 gd_lines.append(process_name_string(line.strip()))
             elif channel_name in gx_dictionary:  #地方台-广西频道
                 gx_lines.append(process_name_string(line.strip()))
-            elif channel_name in gz_dictionary:  #地方台-甘肃频道
+            elif channel_name in gz_dictionary:  #地方台-贵州频道
                 gz_lines.append(process_name_string(line.strip()))
             elif channel_name in hainan_dictionary:  #地方台-海南频道
                 hainan_lines.append(process_name_string(line.strip()))
@@ -486,7 +486,6 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["DJ舞曲,#genre#"] + sorted(set(dj_lines)) + ['\n'] + \
              ["MTV,#genre#"] + sorted(set(mtv_lines)) + ['\n'] + \
              ["韩国女团,#genre#"] + sorted(set(hgnt_lines)) + ['\n'] + \
-             ["春晚,#genre#"] + sort_data(sjzb_dictionary,set(correct_name_data(corrections_name,cw_lines))) + ['\n'] + \
              ["戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
@@ -510,14 +509,14 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["辽宁频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ln_lines))) + ['\n'] + \
              ["内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
              ["宁夏频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nx_lines))) + ['\n'] + \
-             ["陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,qh_lines))) + ['\n'] + \
+             ["青海频道,#genre#"] + sorted(set(correct_name_data(corrections_name,qh_lines))) + ['\n'] + \
              ["山东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sd_lines))) + ['\n'] + \
              ["山西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sx_lines))) + ['\n'] + \
              ["陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shanxi_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["四川频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sc_lines))) + ['\n'] + \
              ["天津频道,#genre#"] + sorted(set(correct_name_data(corrections_name,tj_lines))) + ['\n'] + \
-             ["陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,xj_lines))) + ['\n'] + \
+             ["新疆频道,#genre#"] + sorted(set(correct_name_data(corrections_name,xj_lines))) + ['\n'] + \
              ["云南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,yn_lines))) + ['\n'] + \
              ["浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines))  + ['\n'] + \
