@@ -1874,6 +1874,7 @@ CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN阿语,https://livear.cgtn.com/500a/prog_index.m3u8
 湖南娱乐频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI5OWU5NTRjZDc4MDE2NzQ0NWFjNTRjYzgzNjJhNzA1JmVzPTE3MjEzNzg2NDMmdXVpZD01Mzk1ZWRmMjQ0MmE4MWFlZDdkNzgzZmY0NmM3ZGZjOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
+金鹰纪实频道,https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY4NDA2Zjc4N2ZmM2Y3N2ZkNGJiMzAwMTUzYzQ5OTk3JmVzPTE3MjEzODU3OTEmdXVpZD03ZTBmYjY1Yjk5M2E1ZDEwMjRkNjExYzY3ZDk3MjIzNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/JYJSMPP360.m3u8
 湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQ3MTY0MTc2ZTc4YzBhMGQ2NzMyZThkZThiM2M0YWJkJmVzPTE3MjEzODc3MjQmdXVpZD03ZWJmODYyNjQwMjRhYzEzMWNmYmRiZjExYjM4NTBlOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPThmY2RkYmIxYTkxZjk3NWE2NzI0ODliMmM1ZGRhMjVlJmVzPTE3MjEzNjk3MzEmdXVpZD04NDUzYjI0ZDJmODA4MDMyZWVlOWRhNzBmOGQ3Y2RjZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -3298,8 +3299,6 @@ CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 怒江新闻综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
 哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 伊春综合,http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
 伊春公共,http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
