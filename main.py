@@ -154,11 +154,11 @@ def process_channel_line(line):
         channel_address=line.split(',')[1].strip()
         if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
             # 根据行内容判断存入哪个对象，开始分发
-            if "CCTV" in channel_name: #央视频道
+            if "CCTV" in channel_name and channel_address not in ys_lines: #央视频道
                 ys_lines.append(process_name_string(line.strip()))
-            elif channel_name in ws_dictionary: #卫视频道
+            elif channel_name in ws_dictionary and channel_address not in ws_lines: #卫视频道
                 ws_lines.append(process_name_string(line.strip()))
-            elif channel_name in  ty_dictionary:  #体育频道
+            elif channel_name in ty_dictionary and channel_address not in ty_lines:  #体育频道
                 ty_lines.append(process_name_string(line.strip()))
             elif channel_name in dy_dictionary:  #电影频道
                 dy_lines.append(process_name_string(line.strip()))
