@@ -46,10 +46,13 @@ combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 
 # 定义多个对象用于存储不同内容的行文本
 ys_lines = [] #CCTV
+dj_lines = [] #DJ舞曲
+mtv_lines = [] #MTV
 cw_lines = [] #春晚
 dsj_lines = [] #电视剧
 dy_lines = [] #电影频道
 gagj_lines = [] #港澳国际
+hgnt_lines = [] #韩国女团
 gagj_lines = [] #港澳国际
 jlp_lines = [] #记录片
 jsh_lines = [] #解说
@@ -197,8 +200,8 @@ def process_channel_line(line):
                 sr_lines.append(process_name_string(line.strip()))
             elif channel_name in jlp_dictionary and channel_address not in jlp_lines:  #纪录片
                 jlp_lines.append(process_name_string(line.strip()))
-            # elif channel_name in dj_dictionary and channel_address not in dj_lines:  #dj舞曲
-                # dj_lines.append(process_name_string(line.strip()))
+            #elif channel_name in dj_dictionary and channel_address not in dj_lines:  #dj舞曲
+                dj_lines.append(process_name_string(line.strip()))
             elif channel_name in xq_dictionary and channel_address not in xq_lines:  #戏曲
                 xq_lines.append(process_name_string(line.strip()))
             elif channel_name in jsh_dictionary and channel_address not in jsh_lines:  #解说
@@ -211,10 +214,6 @@ def process_channel_line(line):
                 ztp_lines.append(process_name_string(line.strip()))
             elif channel_name in zy_dictionary and channel_address not in zy_lines:  #综艺频道
                 zy_lines.append(process_name_string(line.strip()))
-            # elif channel_name in mtv_dictionary and channel_address not in mtv_lines:  #MTV
-                # mtv_lines.append(process_name_string(line.strip()))
-            # elif channel_name in hgnt_dictionary and channel_address not in hgnt_lines:  #韩国女团
-                # hgnt_lines.append(process_name_string(line.strip()))
             elif channel_name in yslb_dictionary and channel_address not in yslb_lines:  #影视轮播
                 yslb_lines.append(process_name_string(line.strip()))
             elif channel_name in game_dictionary and channel_address not in game_lines:  #游戏频道
@@ -326,13 +325,13 @@ def read_txt_to_array(file_name):
         return []
 #读取文本
 ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
-dj_dictionary=read_txt_to_array('主频道/DJ舞曲.txt') #过滤+排序
-mtv_dictionary=read_txt_to_array('主频道/MTV.txt') #过滤+排序
+#dj_dictionary=read_txt_to_array('主频道/DJ舞曲.txt') #过滤+排序
+#mtv_dictionary=read_txt_to_array('主频道/MTV.txt') #过滤+排序
 cw_dictionary=read_txt_to_array('主频道/春晚.txt') #过滤+排序
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 gagj_dictionary=read_txt_to_array('主频道/港澳国际.txt') #过滤
-hgnt_dictionary=read_txt_to_array('主频道/韩国女团.txt') #过滤
+#hgnt_dictionary=read_txt_to_array('主频道/韩国女团.txt') #过滤
 jlp_dictionary=read_txt_to_array('主频道/纪录片.txt') #过滤
 jsh_dictionary=read_txt_to_array('主频道/解说频道.txt') #过滤
 mx_dictionary=read_txt_to_array('主频道/明星.txt') #过滤
