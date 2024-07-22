@@ -472,9 +472,6 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["港澳国际,#genre#"] + sort_data(gagj_dictionary,set(correct_name_data(corrections_name,gagj_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["纪录片,#genre#"] + sort_data(jlp_dictionary,set(correct_name_data(corrections_name,jlp_lines)))+ ['\n'] + \
-             # ["DJ舞曲,#genre#"] + sorted(set(dj_lines)) + ['\n'] + \
-             # ["MTV,#genre#"] + sorted(set(mtv_lines)) + ['\n'] + \
-             # ["韩国女团,#genre#"] + sorted(set(hgnt_lines)) + ['\n'] + \
              ["戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
