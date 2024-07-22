@@ -200,7 +200,7 @@ def process_channel_line(line):
             elif channel_name in jlp_dictionary and channel_address not in jlp_lines:  #纪录片
                 jlp_lines.append(process_name_string(line.strip()))
             #elif channel_name in dj_dictionary and channel_address not in dj_lines:  #dj舞曲
-                dj_lines.append(process_name_string(line.strip()))
+                #dj_lines.append(process_name_string(line.strip()))
             elif channel_name in xq_dictionary and channel_address not in xq_lines:  #戏曲
                 xq_lines.append(process_name_string(line.strip()))
             elif channel_name in jsh_dictionary and channel_address not in jsh_lines:  #解说
