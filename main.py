@@ -7,19 +7,7 @@ from datetime import datetime
 # 定义要访问的多个URL
 urls = [
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_112114.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cgtn.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_yeslivetv.m3u',
-    'https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u', #内含成人视频 cdn.jsdelivr.net/gh/vicjl/myIPTV/
-    'https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u', #内含成人视频 
-    'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',
-    'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',
-    'https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u',
-    'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
-    'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次
-    'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
@@ -29,14 +17,11 @@ urls = [
     'https://m3u.ibert.me/txt/j_home.txt',
     'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
-    'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',
     'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', #每天早晚各自动更新1次 2024-06-03 17:50
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',  #每天自动更新1次 2024-06-24 16:37
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
-    'https://raw.githubusercontent.com/liu673cn/box/08aa2e6f742d8bd267cf2b118baa6792bbdca2d5/libs/tv/tvzb.txt',
-    'https://raw.githubusercontent.com/asiaboke/IPTV/97dc264f71b16c470180b574f8a434c925014245/mtvzb.txt',
     'https://raw.githubusercontent.com/wwb521/live/main/tv.txt'
 ]
 
