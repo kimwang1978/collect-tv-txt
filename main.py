@@ -46,14 +46,13 @@ combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 
 # 定义多个对象用于存储不同内容的行文本
 ys_lines = [] #CCTV
-dj_lines = [] #DJ舞曲
-mtv_lines = [] #MTV
+#dj_lines = [] #DJ舞曲
+#mtv_lines = [] #MTV
 cw_lines = [] #春晚
 dsj_lines = [] #电视剧
 dy_lines = [] #电影频道
 gagj_lines = [] #港澳国际
-hgnt_lines = [] #韩国女团
-gagj_lines = [] #港澳国际
+#hgnt_lines = [] #韩国女团
 jlp_lines = [] #记录片
 jsh_lines = [] #解说
 mx_lines = [] #明星
