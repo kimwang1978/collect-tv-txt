@@ -9,6 +9,7 @@ urls = [
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
+    'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u', #内含成人视频 cdn.jsdelivr.net/gh/vicjl/myIPTV/
