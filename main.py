@@ -16,6 +16,7 @@ urls = [
     'https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u', #内含成人视频 
     'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',
     'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',
+    'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',
     'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
@@ -45,13 +46,10 @@ combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 
 # 定义多个对象用于存储不同内容的行文本
 ys_lines = [] #CCTV
-dj_lines = [] #DJ舞曲
-mtv_lines = [] #MTV
 cw_lines = [] #春晚
 dsj_lines = [] #电视剧
 dy_lines = [] #电影频道
 gagj_lines = [] #港澳国际
-hgnt_lines = [] #韩国女团
 gagj_lines = [] #港澳国际
 jlp_lines = [] #记录片
 jsh_lines = [] #解说
@@ -199,8 +197,8 @@ def process_channel_line(line):
                 sr_lines.append(process_name_string(line.strip()))
             elif channel_name in jlp_dictionary and channel_address not in jlp_lines:  #纪录片
                 jlp_lines.append(process_name_string(line.strip()))
-            elif channel_name in dj_dictionary and channel_address not in dj_lines:  #dj舞曲
-                dj_lines.append(process_name_string(line.strip()))
+            # elif channel_name in dj_dictionary and channel_address not in dj_lines:  #dj舞曲
+                # dj_lines.append(process_name_string(line.strip()))
             elif channel_name in xq_dictionary and channel_address not in xq_lines:  #戏曲
                 xq_lines.append(process_name_string(line.strip()))
             elif channel_name in jsh_dictionary and channel_address not in jsh_lines:  #解说
@@ -213,10 +211,10 @@ def process_channel_line(line):
                 ztp_lines.append(process_name_string(line.strip()))
             elif channel_name in zy_dictionary and channel_address not in zy_lines:  #综艺频道
                 zy_lines.append(process_name_string(line.strip()))
-            elif channel_name in mtv_dictionary and channel_address not in mtv_lines:  #MTV
-                mtv_lines.append(process_name_string(line.strip()))
-            elif channel_name in hgnt_dictionary and channel_address not in hgnt_lines:  #韩国女团
-                hgnt_lines.append(process_name_string(line.strip()))
+            # elif channel_name in mtv_dictionary and channel_address not in mtv_lines:  #MTV
+                # mtv_lines.append(process_name_string(line.strip()))
+            # elif channel_name in hgnt_dictionary and channel_address not in hgnt_lines:  #韩国女团
+                # hgnt_lines.append(process_name_string(line.strip()))
             elif channel_name in yslb_dictionary and channel_address not in yslb_lines:  #影视轮播
                 yslb_lines.append(process_name_string(line.strip()))
             elif channel_name in game_dictionary and channel_address not in game_lines:  #游戏频道
