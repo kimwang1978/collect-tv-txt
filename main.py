@@ -61,6 +61,7 @@ js_lines = [] #解说
 cw_lines = [] #春晚
 mx_lines = [] #明星
 ztp_lines = [] #主题片
+sjzb_lines = [] #实景直播
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
 game_lines = [] #游戏频道
@@ -261,8 +262,8 @@ def process_channel_line(line):
                 hun_lines.append(process_name_string(line.strip()))
             elif channel_name in jl_dictionary and check_url_existence(jl_lines, channel_address):  #地方台-吉林频道
                 jl_lines.append(process_name_string(line.strip()))
-            elif channel_name in js_dictionary and check_url_existence(js_lines, channel_address):  #地方台-江苏频道
-                js_lines.append(process_name_string(line.strip()))
+            elif channel_name in jsu_dictionary and check_url_existence(jsu_lines, channel_address):  #地方台-江苏频道
+                jsu_lines.append(process_name_string(line.strip()))
             elif channel_name in jx_dictionary and check_url_existence(jx_lines, channel_address):  #地方台-江西频道
                 jx_lines.append(process_name_string(line.strip()))
             elif channel_name in ln_dictionary and check_url_existence(ln_lines, channel_address):  #地方台-辽宁频道
