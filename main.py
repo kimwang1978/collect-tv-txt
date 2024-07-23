@@ -69,6 +69,7 @@ radio_lines = [] #收音机频道
 
 ah_lines = [] #地方台-安徽频道
 bj_lines = [] #地方台-北京频道
+cq_lines = [] #地方台-重庆频道
 fj_lines = [] #地方台-福建频道
 gs_lines = [] #地方台-甘肃频道
 gd_lines = [] #地方台-广东频道
