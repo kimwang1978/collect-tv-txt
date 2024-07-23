@@ -232,7 +232,7 @@ def process_channel_line(line):
                 gs_lines.append(process_name_string(line.strip()))
             elif channel_name in gd_dictionary and check_url_existence(gd_lines, channel_address):  #地方台-广东频道
                 gd_lines.append(process_name_string(line.strip()))
-            elif channel_name in gx_dictionary and check_url_existence(gx_lines:  #地方台-广西频道
+            elif channel_name in gx_dictionary and check_url_existence(gx_lines, channel_address):  #地方台-广西频道
                 gx_lines.append(process_name_string(line.strip()))
             elif channel_name in gz_dictionary and check_url_existence(gz_lines, channel_address):  #地方台-贵州频道
                 gz_lines.append(process_name_string(line.strip()))
