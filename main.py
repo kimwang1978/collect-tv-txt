@@ -61,7 +61,7 @@ js_lines = [] #解说
 cw_lines = [] #春晚
 mx_lines = [] #明星
 ztp_lines = [] #主题片
-sjzb_lines = [] #实景直播
+zb_lines = [] #实景直播
 zy_lines = [] #综艺频道
 yy_lines = [] #音乐频道
 game_lines = [] #游戏频道
@@ -205,8 +205,6 @@ def process_channel_line(line):
                 dy_lines.append(process_name_string(line.strip()))
             elif channel_name in dsj_dictionary and check_url_existence(dsj_lines, channel_address):  #电视剧频道
                 dsj_lines.append(process_name_string(line.strip()))
-            elif channel_name in sh_dictionary and check_url_existence(sh_lines, channel_address):  #上海频道
-                sh_lines.append(process_name_string(line.strip()))
             elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
                 gat_lines.append(process_name_string(line.strip()))
             elif channel_name in gj_dictionary and check_url_existence(gj_lines, channel_address):  #国际台
@@ -225,6 +223,8 @@ def process_channel_line(line):
                 mx_lines.append(process_name_string(line.strip()))
             elif channel_name in ztp_dictionary and check_url_existence(ztp_lines, channel_address):  #主题片
                 ztp_lines.append(process_name_string(line.strip()))
+            elif channel_name in zb_dictionary and check_url_existence(zb_lines, channel_address):  #直播中国
+                zb_lines.append(process_name_string(line.strip()))
             elif channel_name in zy_dictionary and check_url_existence(zy_lines, channel_address):  #综艺频道
                 zy_lines.append(process_name_string(line.strip()))
             elif channel_name in yy_dictionary and check_url_existence(yy_lines, channel_address):  #音乐频道
@@ -338,7 +338,6 @@ def read_txt_to_array(file_name):
         return []
 #读取文本
 ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
-sh_dictionary=read_txt_to_array('主频道/shanghai.txt') #过滤+排序
 ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
@@ -352,6 +351,7 @@ js_dictionary=read_txt_to_array('主频道/解说频道.txt') #过滤
 cw_dictionary=read_txt_to_array('主频道/春晚.txt') #过滤+排序
 mx_dictionary=read_txt_to_array('主频道/明星.txt') #过滤
 ztp_dictionary=read_txt_to_array('主频道/主题片.txt') #过滤
+zb_dictionary=read_txt_to_array('主频道/直播中国.txt') #过滤+排序
 zy_dictionary=read_txt_to_array('主频道/综艺频道.txt') #过滤
 yy_dictionary=read_txt_to_array('主频道/音乐频道.txt') #过滤
 game_dictionary=read_txt_to_array('主频道/游戏频道.txt') #过滤
@@ -484,6 +484,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["纪录片,#genre#"] + sort_data(jlp_dictionary,set(correct_name_data(corrections_name,jlp_lines)))+ ['\n'] + \
              ["戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n'] + \
+             ["直播中国,#genre#"] + sorted(set(correct_name_data(corrections_name,zb_lines))) + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
              ["游戏频道,#genre#"] + sorted(set(game_lines)) + ['\n'] + \
              ["安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
