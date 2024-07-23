@@ -197,8 +197,8 @@ def process_channel_line(line):
                 sjzb_lines.append(process_name_string(line.strip()))
             elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
                 gat_lines.append(process_name_string(line.strip()))
-            elif channel_name in gj_dictionary and check_url_existence(gj_lines, channel_address):  #国际台
-                gj_lines.append(process_name_string(line.strip()))
+            #elif channel_name in gj_dictionary and check_url_existence(gj_lines, channel_address):  #国际台
+                #gj_lines.append(process_name_string(line.strip()))
             elif channel_name in sr_dictionary and check_url_existence(sr_lines, channel_address):  #少儿频道
                 sr_lines.append(process_name_string(line.strip()))
             elif channel_name in jlp_dictionary and check_url_existence(jlp_lines, channel_address):  #纪录片
@@ -334,7 +334,7 @@ cw_dictionary=read_txt_to_array('主频道/春晚.txt') #过滤+排序
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
-gj_dictionary=read_txt_to_array('主频道/国际台.txt') #过滤
+#gj_dictionary=read_txt_to_array('主频道/国际台.txt') #过滤
 #hgnt_dictionary=read_txt_to_array('主频道/韩国女团.txt') #过滤
 jlp_dictionary=read_txt_to_array('主频道/纪录片.txt') #过滤
 jsh_dictionary=read_txt_to_array('主频道/解说频道.txt') #过滤
@@ -475,7 +475,6 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["影视轮播,#genre#"] + sort_data(yslb_dictionary,set(correct_name_data(corrections_name,yslb_lines))) + ['\n'] + \
              ["港澳台,#genre#"] + sort_data(gat_dictionary,set(correct_name_data(corrections_name,gat_lines))) + ['\n'] + \
-             ["国际台,#genre#"] + sort_data(gj_dictionary,set(correct_name_data(corrections_name,gj_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["纪录片,#genre#"] + sort_data(jlp_dictionary,set(correct_name_data(corrections_name,jlp_lines)))+ ['\n'] + \
              ["戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
