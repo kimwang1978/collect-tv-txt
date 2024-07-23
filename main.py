@@ -471,7 +471,6 @@ version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
-             ["实景直播,#genre#"] + sort_data(sjzb_dictionary,set(correct_name_data(corrections_name,sjzb_lines))) + ['\n'] + \
              ["少儿频道,#genre#"] + sort_data(sr_dictionary,set(correct_name_data(corrections_name,sr_lines))) + ['\n'] + \
              ["电视剧,#genre#"] + sort_data(dsj_dictionary,set(correct_name_data(corrections_name,dsj_lines))) + ['\n'] + \
              ["主题片,#genre#"] + sort_data(ztp_dictionary,set(correct_name_data(corrections_name,ztp_lines))) + ['\n'] + \
