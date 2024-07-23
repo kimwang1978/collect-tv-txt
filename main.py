@@ -195,8 +195,8 @@ def process_channel_line(line):
                 dsj_lines.append(process_name_string(line.strip()))
             elif channel_name in sjzb_dictionary and check_url_existence(sjzb_lines, channel_address):  #实景直播
                 sjzb_lines.append(process_name_string(line.strip()))
-            elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
-                gat_lines.append(process_name_string(line.strip()))
+            #elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
+                #gat_lines.append(process_name_string(line.strip()))
             #elif channel_name in gj_dictionary and check_url_existence(gj_lines, channel_address):  #国际台
                 #gj_lines.append(process_name_string(line.strip()))
             elif channel_name in sr_dictionary and check_url_existence(sr_lines, channel_address):  #少儿频道
@@ -333,7 +333,7 @@ ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
 cw_dictionary=read_txt_to_array('主频道/春晚.txt') #过滤+排序
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
-gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
+#gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
 #gj_dictionary=read_txt_to_array('主频道/国际台.txt') #过滤
 #hgnt_dictionary=read_txt_to_array('主频道/韩国女团.txt') #过滤
 jlp_dictionary=read_txt_to_array('主频道/纪录片.txt') #过滤
