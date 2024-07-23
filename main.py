@@ -52,7 +52,7 @@ ys_lines = [] #CCTV
 cw_lines = [] #春晚
 dsj_lines = [] #电视剧
 dy_lines = [] #电影频道
-gagj_lines = [] #港澳国际
+gagj_lines = [] #港澳台
 #hgnt_lines = [] #韩国女团
 jlp_lines = [] #记录片
 jsh_lines = [] #解说
@@ -330,7 +330,7 @@ ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
 cw_dictionary=read_txt_to_array('主频道/春晚.txt') #过滤+排序
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
-gagj_dictionary=read_txt_to_array('主频道/港澳国际.txt') #过滤
+gagj_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
 #hgnt_dictionary=read_txt_to_array('主频道/韩国女团.txt') #过滤
 jlp_dictionary=read_txt_to_array('主频道/纪录片.txt') #过滤
 jsh_dictionary=read_txt_to_array('主频道/解说频道.txt') #过滤
@@ -470,7 +470,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["明星,#genre#"] + sort_data(mx_dictionary,set(correct_name_data(corrections_name,mx_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["影视轮播,#genre#"] + sort_data(yslb_dictionary,set(correct_name_data(corrections_name,yslb_lines))) + ['\n'] + \
-             ["港澳国际,#genre#"] + sort_data(gagj_dictionary,set(correct_name_data(corrections_name,gagj_lines))) + ['\n'] + \
+             ["港澳台,#genre#"] + sort_data(gagj_dictionary,set(correct_name_data(corrections_name,gagj_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["纪录片,#genre#"] + sort_data(jlp_dictionary,set(correct_name_data(corrections_name,jlp_lines)))+ ['\n'] + \
              ["戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
