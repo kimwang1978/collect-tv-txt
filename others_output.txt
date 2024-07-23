@@ -11265,6 +11265,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 《英雄泪》,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 2022几首DJ串烧,https://vd3.bdstatic.com/mda-nck3tqzgjvj076vc/sc/cae_h264_delogo/1647833645083560959/mda-nck3tqzgjvj076vc.mp4
 湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTRiNmRhZjQxOTg5YTM1ZWJiYzJjZTA4ZmJjOWExMjdiJmVzPTE3MjE3MjUyMTEmdXVpZD05ZDU0YjNkNDVmOWY0YzgwMzlhYzc5ZjQ4YmMwZGM3OS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
+金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWUwMGRlMzI5M2NmMjNhZTRmZmJlYjg0NmEzMmRlYjc1JmVzPTE3MjE3MzQyMTcmdXVpZD03M2Y4Mzg0ZjllZGFiZWU5YzFmODlmYmJlMTkyNTMwNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTNhMGEwYjM2YmVjNTNjYTBkODJiMDU0ZWRkMjQ4M2ViJmVzPTE3MjE3MzY5NjQmdXVpZD0xNTJjZjIxZGRiZjMxOWQ0YjI5MzQ3N2FiYzllYzcxOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWUyYzFmYWFhZmU2OTk3ZjkwOWJjYmMzNmUxZmYzNDA4JmVzPTE3MjE3MTk4MjkmdXVpZD02NzFjMzRlNmU4NjY0Y2NhZWE0YTk2MjRiZDNmNDE5YS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -11307,9 +11308,8 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-安徽卫视,http://58.248.112.204:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKpi6kJCQCoMejZ%2FjmEq59ETBeFztV3v%2BtvhPvprhMbo3
+云南卫视,http://58.248.112.204:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKsw5gpVWcejjhE1KHstDaBG5txDdXzjGOGT72Bx9wXfe
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-海南卫视,http://58.248.112.204:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKuHFzyLGvmSMltQzCpEgABbzTx6xqsUWMTeDo0%2FrycmR
 CCTV1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
