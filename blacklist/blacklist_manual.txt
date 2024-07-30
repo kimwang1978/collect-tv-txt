@@ -1,1 +1,10 @@
 blacklist_manual,#genre#
+新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+上海外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
