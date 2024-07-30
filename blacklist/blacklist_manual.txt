@@ -8,3 +8,4 @@ blacklist_manual,#genre#
 上海外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
 上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
