@@ -9,3 +9,11 @@ blacklist_manual,#genre#
 上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
