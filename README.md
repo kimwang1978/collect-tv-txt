@@ -21,7 +21,7 @@ http://gg.gg/tv-live-txt
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
-镜像源（txt）短链：
+镜像源（txt）短链（墙内推荐↓↓↓）：
 ```
 http://gg.gg/tv-live-txt-mirr
 ```
