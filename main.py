@@ -72,7 +72,7 @@ shanxi_lines = [] #地方台-山西频道
 shandong_lines = [] #地方台-山东频道
 yunnan_lines = [] #地方台-云南频道
 
-zb_lines = [] #直播中国
+
 ##################【2024-07-30 18:04:56】
 bj_lines = [] #地方台-北京频道
 cq_lines = [] #地方台-重庆频道
@@ -91,6 +91,8 @@ sc_lines = [] #地方台-四川频道
 tj_lines = [] #地方台-天津频道
 xj_lines = [] #地方台-新疆频道
 
+zb_lines = [] #直播中国
+mtv_lines = [] #MTV
 # favorite_lines = []
 
 other_lines = []
@@ -285,6 +287,8 @@ def process_channel_line(line):
                 xj_lines.append(process_name_string(line.strip()))
             elif channel_name in zb_dictionary and check_url_existence(zb_lines, channel_address):  #直播中国
                 zb_lines.append(process_name_string(line.strip()))
+            elif channel_name in mtv_dictionary and check_url_existence(mtv_lines, channel_address):  #MTV
+                mtv_lines.append(process_name_string(line.strip()))
             else:
                 other_lines.append(line.strip())
 
@@ -350,6 +354,7 @@ game_dictionary=read_txt_to_array('主频道/游戏频道.txt') #过滤
 radio_dictionary=read_txt_to_array('主频道/收音机频道.txt') #过滤
 
 zb_dictionary=read_txt_to_array('主频道/直播中国.txt') #过滤
+mtv_dictionary=read_txt_to_array('主频道/MTV.txt') #过滤
 
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 jsu_dictionary=read_txt_to_array('地方台/江苏频道.txt') #过滤
@@ -514,6 +519,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["D｜新疆频道,#genre#"] + sorted(set(correct_name_data(corrections_name,xj_lines))) + ['\n'] + \
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines))  + ['\n'] + \
              ["直播中国,#genre#"] + sorted(set(correct_name_data(corrections_name,zb_lines))) + ['\n'] + \
+             ["MTV,#genre#"] + sorted(set(correct_name_data(corrections_name,mtv_lines))) + ['\n'] + \
              ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines)) 
 
 
