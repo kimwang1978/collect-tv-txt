@@ -140,7 +140,13 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
         'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
-        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt'
+        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', 
+        'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',  #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',  #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',  #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',  #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8' #15分钟更新1次   #ADD 【2024-08-01 10:40:29】
     ]
     for url in urls:
         print(f"处理URL: {url}")
