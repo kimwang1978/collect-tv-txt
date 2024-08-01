@@ -146,7 +146,8 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',  #ADD 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',  #ADD 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8' #15分钟更新1次   #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次   #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt' #ADD 【2024-08-01 10:40:29】
     ]
     for url in urls:
         print(f"处理URL: {url}")
