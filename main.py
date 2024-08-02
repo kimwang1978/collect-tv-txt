@@ -295,6 +295,7 @@ def process_channel_line(line):
 
 def process_url(url):
     try:
+        other_lines.append("◆◆◆　"+url)  # 存入other_lines便于check 2024-08-02 10:41
         # 打开URL并读取内容
         with urllib.request.urlopen(url) as response:
             # 以二进制方式读取数据
@@ -312,6 +313,8 @@ def process_url(url):
             lines = text.split('\n')
             for line in lines:
                 process_channel_line(line) # 每行按照规则进行分发
+            
+            other_lines.append('\n') #每个url处理完成后，在other_lines加个回车 2024-08-02 10:46
 
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
