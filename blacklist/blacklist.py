@@ -52,7 +52,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=18):
+def process_urls_multithreaded(lines, max_workers=28):
     blacklist =  [] 
     successlist = []
 
@@ -147,7 +147,8 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',  #ADD 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',  #ADD 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次   #ADD 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt' #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt', #ADD 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt' #ADD 【2024-08-02 16:48:40】#每日更新1次
     ]
     for url in urls:
         print(f"处理URL: {url}")
