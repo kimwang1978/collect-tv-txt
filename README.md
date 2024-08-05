@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 直播源（txt）短链：
 ```
-http://gg.gg/tv-live-txt
+http://gg.gg/tv-live-txt   （短链服务障碍中）
 ```
 镜像源（txt）：
 ```
@@ -23,7 +23,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt
 ```
 镜像源（txt）短链（墙内推荐↓↓↓）：
 ```
-http://gg.gg/tv-live-txt-mirr
+http://gg.gg/tv-live-txt-mirr   （短链服务障碍中）
 ```
 ### **直播源（m3u）：**
 ```
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 直播源（m3u）短链：
 ```
-http://gg.gg/tv-live-m3u
+http://gg.gg/tv-live-m3u   （短链服务障碍中）
 ```
 
 
