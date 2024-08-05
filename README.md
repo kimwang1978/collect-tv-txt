@@ -17,6 +17,10 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 http://gg.gg/tv-live-txt   （短链服务障碍中）
 ```
+直播源（txt）短链（Backup）：
+```
+https://go.click.ly/inwPk
+```
 镜像源（txt）：
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
