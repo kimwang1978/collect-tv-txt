@@ -22,7 +22,11 @@ urls = [
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',  #每天自动更新1次 2024-06-24 16:37
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
-    'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt'  #ADD 2024-07-22 13:50
+    'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #ADD 2024-07-22 13:50
+    'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 2024-08-05 每10天更新一次
+    'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #ADD 2024-08-05 
+    'http://47.99.102.252/live.txt', #ADD 2024-08-05 
+    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt'   #ADD 2024-08-05 每天更新一次
 ]
 
 #read BlackList 2024-06-17 15:02
@@ -93,6 +97,8 @@ xj_lines = [] #地方台-新疆频道
 
 zb_lines = [] #直播中国
 mtv_lines = [] #MTV
+
+Olympics_2024_Paris_lines = [] #Paris_2024_Olympics  Olympics_2024_Paris ADD 2024-08-05
 # favorite_lines = []
 
 other_lines = []
@@ -191,6 +197,8 @@ def process_channel_line(line):
             # 根据行内容判断存入哪个对象，开始分发
             if "CCTV" in channel_name and check_url_existence(ys_lines, channel_address) : #央视频道
                 ys_lines.append(process_name_string(line.strip()))
+            elif channel_name in Olympics_2024_Paris_dictionary and check_url_existence(Olympics_2024_Paris_lines, channel_address): #奥运频道 ADD 2024-08-05
+                Olympics_2024_Paris_lines.append(process_name_string(line.strip()))
             elif channel_name in ws_dictionary and check_url_existence(ws_lines, channel_address): #卫视频道
                 ws_lines.append(process_name_string(line.strip()))
             elif channel_name in ty_dictionary and check_url_existence(ty_lines, channel_address):  #体育频道
@@ -358,6 +366,7 @@ radio_dictionary=read_txt_to_array('主频道/收音机频道.txt') #过滤
 
 zb_dictionary=read_txt_to_array('主频道/直播中国.txt') #过滤
 mtv_dictionary=read_txt_to_array('主频道/MTV.txt') #过滤
+Olympics_2024_Paris_dictionary=read_txt_to_array('主频道/奥运频道.txt') #过滤
 
 zj_dictionary=read_txt_to_array('地方台/浙江频道.txt') #过滤
 jsu_dictionary=read_txt_to_array('地方台/江苏频道.txt') #过滤
@@ -474,6 +483,7 @@ for whitelist_line in whitelist_auto_lines:
 # 合并所有对象中的行文本（去重，排序后拼接）
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+             ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
