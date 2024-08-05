@@ -4,8 +4,8 @@
 
 | 类别  | 文件名  | 更新频率                                       | 备注   |
 |-------|-------|------------------------------------------------|------------|
-|直播源| （merged_output.txt） |  每日自动更新 | http://gg.gg/tv-live-txt   |
-|直播源| （merged_output.m3u） |  每日自动更新 | http://gg.gg/tv-live-m3u   |
+|直播源| （merged_output.txt） |  每日自动更新 | http://gg.gg/tv-live-txt    （该短链故障中，请使用backup短链） |
+|直播源| （merged_output.m3u） |  每日自动更新 | http://gg.gg/tv-live-m3u   （该短链故障中，请使用backup短链） |
 |黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会从直播源过滤掉   |
 |白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇总到直播源   |
 
@@ -27,7 +27,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt
 ```
 镜像源（txt）短链（墙内推荐↓↓↓）：
 ```
-http://gg.gg/tv-live-txt-mirr   （短链服务障碍中）
+http://gg.gg/tv-live-txt-mirr   （短链服务故障中）
 ```
 ### **直播源（m3u）：**
 ```
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 直播源（m3u）短链：
 ```
-http://gg.gg/tv-live-m3u   （短链服务障碍中）
+http://gg.gg/tv-live-m3u   （短链服务故障中）
 ```
 
 
