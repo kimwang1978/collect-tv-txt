@@ -96,3 +96,14 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 金色学堂,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+历年春晚小品合集,https://www.goodiptv.club/yy/1382773716
+历年春晚小品合集,https://www.goodiptv.club/yy/1355555484
+贾玲春晚小品,https://www.goodiptv.club/yy/1382736720
+宋小宝春晚小品合集,https://www.goodiptv.club/yy/1382736866
+巩汉林春晚小品合集,https://www.goodiptv.club/yy/1354889035
+小沈阳春晚小品,https://www.goodiptv.club/yy/1382749941
+春晚小品,https://www.goodiptv.club/yy/1382773708
+春晚小品,https://www.goodiptv.club/yy/1382773711
+春晚小品,https://www.goodiptv.club/yy/1382773715
+春晚小品,https://www.goodiptv.club/yy/1382773706
+蔡明春晚小品,https://www.goodiptv.club/yy/1354936177
