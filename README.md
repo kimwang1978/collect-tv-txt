@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 https://go.click.ly/inwPk   （这里也挂了・・・）
 ```
-镜像源（txt）：
+镜像源（txt）：（墙内推荐↓↓↓）
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
-镜像源（txt）短链（墙内推荐↓↓↓）：
+镜像源（txt）短链：
 
 ~~http://gg.gg/tv-live-txt-mirr~~   （短链服务故障中）
 
