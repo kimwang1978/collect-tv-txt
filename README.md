@@ -4,8 +4,8 @@
 
 | 类别  | 文件名  | 更新频率                                       | 备注   |
 |-------|-------|------------------------------------------------|------------|
-|直播源| （merged_output.txt） |  每日自动更新 | http://gg.gg/tv-live-txt    （该短链故障中，用backup短链） |
-|直播源| （merged_output.m3u） |  每日自动更新 | http://gg.gg/tv-live-m3u   （该短链故障中，用backup短链） |
+|直播源| （merged_output.txt） |  每日自动更新 | ~~http://gg.gg/tv-live-txt~~     |
+|直播源| （merged_output.m3u） |  每日自动更新 | ~~http://gg.gg/tv-live-m3u~~   |
 |黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会从直播源过滤掉   |
 |白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇总到直播源   |
 
