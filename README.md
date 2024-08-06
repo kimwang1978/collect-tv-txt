@@ -18,9 +18,10 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ~~http://gg.gg/tv-live-txt~~   （短链服务故障中）
 
 直播源（txt）短链（Backup）：
-```
-https://go.click.ly/inwPk   （这里也挂了・・・）
-```
+
+https://tinyurl.com/tv-live-txt
+~~https://go.click.ly/inwPk~~   （这里也挂了・・・）
+
 镜像源（txt）：（墙内推荐↓↓↓）
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
