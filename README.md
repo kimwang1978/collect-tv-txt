@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 直播源（txt）短链：
 ```
-http://gg.gg/tv-live-txt   （短链服务故障中）
+~~http://gg.gg/tv-live-txt~~   （短链服务故障中）
 ```
 直播源（txt）短链（Backup）：
 ```
