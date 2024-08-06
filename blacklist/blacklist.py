@@ -133,6 +133,19 @@ def process_url(url):
         print(f"处理URL时发生错误：{e}")
 
 
+# 去重复源 2024-08-06 (检测前剔除重复url，提高检测效率)
+def remove_duplicates_url(lines):
+    urls =[]
+    newlines=[]
+    for line in lines:
+        if "," in line and "://" in line:
+            # channel_name=line.split(',')[0].strip()
+            channel_url=line.split(',')[1].strip()
+            if channel_url not in urls: # 如果发现当前url不在清单中，则假如newlines
+                urls.append(channel_url)
+                newlines.append(line)
+    return newlines
+
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
@@ -150,7 +163,8 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt', #ADD 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt', #ADD 【2024-08-02 16:48:40】#每日更新1次
         'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt', #ADD 【2024-08-06】
-        'https://tvkj.top/tvlive.txt' #ADD 【2024-08-06】
+        'https://tvkj.top/tvlive.txt', #ADD 【2024-08-06】
+        'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt' #ADD 【2024-08-06】
     ]
     for url in urls:
         print(f"处理URL: {url}")
@@ -172,6 +186,10 @@ if __name__ == "__main__":
     lines2 = read_txt_file(input_file2)
     lines=list(set(urls_all_lines + lines1 + lines2))
     # 计算合并后合计个数
+    urls_hj_before = len(lines)
+
+    # 去重
+    lines=remove_duplicates_url(lines)
     urls_hj = len(lines)
 
     # 处理URL并生成成功清单和黑名单
@@ -247,7 +265,8 @@ if __name__ == "__main__":
     print(f"开始时间: {timestart_str}")
     print(f"结束时间: {timeend_str}")
     print(f"执行时间: {minutes} 分 {seconds} 秒")
-    print(f"urls_hj: {urls_hj} ")
+    print(f"urls_hj去重前: {urls_hj_before} ")
+    print(f"urls_hj去重后: {urls_hj} ")
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
             
