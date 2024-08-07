@@ -164,7 +164,10 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt', #ADD 【2024-08-02 16:48:40】#每日更新1次
         'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt', #ADD 【2024-08-06】
         'https://tvkj.top/tvlive.txt', #ADD 【2024-08-06】
-        'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt' #ADD 【2024-08-06】
+        'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt', #ADD 【2024-08-06】
+        'http://kxrj.site:55/lib/kx2024.txt',   #ADD 【2024-08-07】
+        'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u'   #ADD 【2024-08-07】#每日更新2次
+        
     ]
     for url in urls:
         print(f"处理URL: {url}")
