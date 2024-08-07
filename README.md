@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 https://tinyurl.com/tv-live-txt
 
-~~https://go.click.ly/inwPk~~   （这里也挂了・・・）
+https://go.click.ly/inwPk
 
 镜像源（txt）：（墙内推荐↓↓↓）
 ```
