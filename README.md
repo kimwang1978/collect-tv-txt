@@ -39,6 +39,9 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 http://gg.gg/tv-live-m3u 
 
+镜像源（m3u）短链：（墙内推荐↓↓↓）
+
+http://gg.gg/tv-live-m3u-mirr
 
 
 | 类 别  | 直播源                                       | ShortLink   |
