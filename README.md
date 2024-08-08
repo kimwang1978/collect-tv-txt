@@ -54,3 +54,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 [![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
 
 
+## 赞赏（请作者喝咖啡，谢谢支持！）
+
+![image](./assets/appreciate.jpg)
