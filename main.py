@@ -194,11 +194,20 @@ def check_url_existence(data_list, url):
     urls = [item.split(',')[1] for item in data_list]
     return url not in urls #如果不存在则返回true，需要
 
+# 处理带$的URL，把$之后的内容都去掉（包括$也去掉） 【2024-08-08 22:29:11】
+def clean_url(url):
+    last_dollar_index = url.rfind('$')  # 安全起见找最后一个$处理
+    if last_dollar_index != -1:
+        return url[:last_dollar_index]
+    return url
+
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
     if  "#genre#" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
-        channel_address=line.split(',')[1].strip()
+        channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
+        line=channel_name+","+channel_address #重新组织line
+
         if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
             # 根据行内容判断存入哪个对象，开始分发
             if "CCTV" in channel_name and check_url_existence(ys_lines, channel_address) : #央视频道

@@ -52,7 +52,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=28):
+def process_urls_multithreaded(lines, max_workers=50):
     blacklist =  [] 
     successlist = []
 
@@ -111,6 +111,7 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
+
 def process_url(url):
     try:
         # 打开URL并读取内容
@@ -144,6 +145,24 @@ def remove_duplicates_url(lines):
             if channel_url not in urls: # 如果发现当前url不在清单中，则假如newlines
                 urls.append(channel_url)
                 newlines.append(line)
+    return newlines
+
+# 处理带$的URL，把$之后的内容都去掉（包括$也去掉） 【2024-08-08 22:29:11】
+#def clean_url(url):
+#    last_dollar_index = url.rfind('$')  # 安全起见找最后一个$处理
+#    if last_dollar_index != -1:
+#        return url[:last_dollar_index]
+#    return url
+
+def clean_url(lines):
+    urls =[]
+    newlines=[]
+    for line in lines:
+        if "," in line and "://" in line:
+            last_dollar_index = line.rfind('$')
+            if last_dollar_index != -1:
+                line=line[:last_dollar_index]
+            newlines.append(line)
     return newlines
 
 if __name__ == "__main__":
@@ -196,6 +215,10 @@ if __name__ == "__main__":
     lines=set(urls_all_lines + lines1 + lines2) # 从list变成集合提供检索效率
     # 计算合并后合计个数
     urls_hj_before = len(lines)
+
+    # 去$
+    lines=clean_url(lines)
+    urls_hj_before2 = len(lines)
 
     # 去重
     lines=remove_duplicates_url(lines)
@@ -274,7 +297,8 @@ if __name__ == "__main__":
     print(f"开始时间: {timestart_str}")
     print(f"结束时间: {timeend_str}")
     print(f"执行时间: {minutes} 分 {seconds} 秒")
-    print(f"urls_hj去重前: {urls_hj_before} ")
+    print(f"urls_hj最初: {urls_hj_before} ")
+    print(f"urls_hj去$前: {urls_hj_before2} ")
     print(f"urls_hj去重后: {urls_hj} ")
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
