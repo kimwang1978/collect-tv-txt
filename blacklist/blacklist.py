@@ -166,8 +166,13 @@ if __name__ == "__main__":
         'https://tvkj.top/tvlive.txt', #ADD 【2024-08-06】
         'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt', #ADD 【2024-08-06】
         'http://kxrj.site:55/lib/kx2024.txt',   #ADD 【2024-08-07】
-        'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u'   #ADD 【2024-08-07】#每日更新2次
-        
+        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   #ADD 2024-08-05 每天更新一次
+        'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   #ADD 【2024-08-07】#每日更新2次
+        'https://wzsvip.github.io/ipv4.txt',   #ADD 【2024-08-08】
+        'http://wz.42web.io/ipv4.txt',   #ADD 【2024-08-08】
+        'https://wzsvip.github.io/ipv4.m3u'   #ADD 【2024-08-08】
+        #'',
+        #''
     ]
     for url in urls:
         print(f"处理URL: {url}")
@@ -187,7 +192,8 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
-    lines=list(set(urls_all_lines + lines1 + lines2))
+    # lines=list(set(urls_all_lines + lines1 + lines2))
+    lines=set(urls_all_lines + lines1 + lines2) # 从list变成集合提供检索效率
     # 计算合并后合计个数
     urls_hj_before = len(lines)
 

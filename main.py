@@ -4,6 +4,10 @@ import re #正则
 import os
 from datetime import datetime
 
+# 执行开始时间
+timestart = datetime.now()
+# 报时
+print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 # 定义要访问的多个URL
 urls = [
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
@@ -25,8 +29,9 @@ urls = [
     'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #ADD 2024-07-22 13:50
     'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 2024-08-05 每10天更新一次
     'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #ADD 2024-08-05 
-    'http://47.99.102.252/live.txt', #ADD 2024-08-05 
-    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt'   #ADD 2024-08-05 每天更新一次
+    #'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   #ADD 2024-08-05 每天更新一次，量太多转到blacklist处理
+    'http://47.99.102.252/live.txt' #ADD 2024-08-05 
+    
 ]
 
 #read BlackList 2024-06-17 15:02
@@ -39,7 +44,8 @@ def read_blacklist_from_txt(file_path):
 
 blacklist_auto=read_blacklist_from_txt('blacklist/blacklist_auto.txt') 
 blacklist_manual=read_blacklist_from_txt('blacklist/blacklist_manual.txt') 
-combined_blacklist = list(set(blacklist_auto + blacklist_manual))
+# combined_blacklist = list(set(blacklist_auto + blacklist_manual))
+combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
 
 # 定义多个对象用于存储不同内容的行文本
 sh_lines = []
@@ -319,6 +325,7 @@ def process_url(url):
 
             # 逐行处理内容
             lines = text.split('\n')
+            print(f"行数: {len(lines)}")
             for line in lines:
                 process_channel_line(line) # 每行按照规则进行分发
             
@@ -412,7 +419,7 @@ def load_corrections_name(filename):
     return corrections
 
 #读取纠错文件
-corrections_name = load_corrections_name('corrections_name.txt')
+corrections_name = load_corrections_name('assets/corrections_name.txt')
 
 #纠错频道名称
 #correct_name_data(corrections_name,xxxx)
@@ -554,7 +561,19 @@ except Exception as e:
     print(f"保存文件时发生错误：{e}")
 
 ################# 添加生成m3u文件
-output_text = "#EXTM3U\n"
+# 报时
+print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
+
+channels_logos=read_txt_to_array('assets/logo.txt') #读入logo库
+def get_logo_by_channel_name(channel_name):
+    # 遍历数组查找频道名称
+    for line in channels_logos:
+        name, url = line.split(',')
+        if name == channel_name:
+            return url
+    return None
+
+output_text = "#EXTM3U x-tvg-url='https://live.fanmingming.com/e.xml'\n"
 
 with open(output_file, "r", encoding='utf-8') as file:
     input_text = file.read()
@@ -566,15 +585,38 @@ for line in lines:
     if len(parts) == 2 and "#genre#" in line:
         group_name = parts[0]
     elif len(parts) == 2:
-        output_text += f"#EXTINF:-1 group-title=\"{group_name}\",{parts[0]}\n"
-        output_text += f"{parts[1]}\n"
+        channel_name = parts[0]
+        channel_url = parts[1]
+        logo_url=get_logo_by_channel_name(channel_name)
+        if logo_url is None:  #not found logo
+            output_text += f"#EXTINF:-1 group-title=\"{group_name}\",{channel_name}\n"
+            output_text += f"{channel_url}\n"
+        else:
+            output_text += f"#EXTINF:-1  tvg-name=\"{channel_name}\" tvg-logo=\"{logo_url}\"  group-title=\"{group_name}\",{channel_name}\n"
+            output_text += f"{channel_url}\n"
 
 with open("merged_output.m3u", "w", encoding='utf-8') as file:
     file.write(output_text)
 
 print("merged_output.m3u文件已生成。")
 
+# 执行结束时间
+timeend = datetime.now()
 
+# 计算时间差
+elapsed_time = timeend - timestart
+total_seconds = elapsed_time.total_seconds()
+
+# 转换为分钟和秒
+minutes = int(total_seconds // 60)
+seconds = int(total_seconds % 60)
+# 格式化开始和结束时间
+timestart_str = timestart.strftime("%Y%m%d_%H_%M_%S")
+timeend_str = timeend.strftime("%Y%m%d_%H_%M_%S")
+
+print(f"开始时间: {timestart_str}")
+print(f"结束时间: {timeend_str}")
+print(f"执行时间: {minutes} 分 {seconds} 秒")
 
 #备用1：http://tonkiang.us
 #备用2：
