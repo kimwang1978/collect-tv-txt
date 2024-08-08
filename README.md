@@ -27,7 +27,7 @@ https://go.click.ly/inwPk
 ```
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 ```
-镜像源（txt）短链：
+镜像源（txt）短链：（墙内推荐↓↓↓）
 
 http://gg.gg/tv-live-txt-mirr
 
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ```
 直播源（m3u）短链：
 
-~~http://gg.gg/tv-live-m3u~~   （短链服务故障中）
+http://gg.gg/tv-live-m3u 
 
 
 
