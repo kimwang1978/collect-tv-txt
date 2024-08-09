@@ -18,3 +18,15 @@ CCTV16,https://live.fanmingming.com/tv/CCTV16.png
 CCTV17,https://live.fanmingming.com/tv/CCTV17.png
 CCTV4K,https://live.fanmingming.com/tv/CCTV4K.png
 CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
+东方卫视,https://live.fanmingming.com/tv/东方卫视.png
+江苏卫视,https://live.fanmingming.com/tv/江苏卫视.png
+浙江卫视,https://live.fanmingming.com/tv/浙江卫视.png
+湖北卫视,https://live.fanmingming.com/tv/湖北卫视.png
+湖南卫视,https://live.fanmingming.com/tv/湖南卫视.png
+新闻综合,https://live.fanmingming.com/tv/上视新闻.png
+iHOT爱体育,https://live.fanmingming.com/tv/IHOT爱体育.png
+精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
+CHC高清电影,https://live.fanmingming.com/tv/CHC高清电影.png
+CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png
+CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png
+CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png

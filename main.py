@@ -325,8 +325,8 @@ def process_url(url):
             data = response.read()
             # 将二进制数据解码为字符串
             text = data.decode('utf-8')
-            channel_name=""
-            channel_address=""
+            # channel_name=""
+            # channel_address=""
 
             #处理m3u和m3u8，提取channel_name和channel_address
             if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
@@ -336,8 +336,18 @@ def process_url(url):
             lines = text.split('\n')
             print(f"行数: {len(lines)}")
             for line in lines:
-                process_channel_line(line) # 每行按照规则进行分发
-            
+                # 拆分成频道名和URL部分
+                channel_name, channel_address = line.split(',', 1)
+                #需要加处理带#号源=予加速源
+                if  "#" not in channel_address:
+                    process_channel_line(line) # 如果没有井号，则照常按照每行规则进行分发
+                else:
+                    # 如果有“#”号，则根据“#”号分隔
+                    url_list = channel_address.split('#')
+                    for url in url_list:
+                        newline=f'{channel_name},{url}'
+                        process_channel_line(newline)
+
             other_lines.append('\n') #每个url处理完成后，在other_lines加个回车 2024-08-02 10:46
 
     except Exception as e:
