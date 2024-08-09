@@ -153,7 +153,6 @@ def remove_duplicates_url(lines):
 #    if last_dollar_index != -1:
 #        return url[:last_dollar_index]
 #    return url
-
 def clean_url(lines):
     urls =[]
     newlines=[]
@@ -163,6 +162,23 @@ def clean_url(lines):
             if last_dollar_index != -1:
                 line=line[:last_dollar_index]
             newlines.append(line)
+    return newlines
+
+# 处理带#的URL  【2024-08-09 23:53:26】
+def split_url(lines):
+    newlines=[]
+    for line in lines:
+        # 拆分成频道名和URL部分
+        channel_name, channel_address = line.split(',', 1)
+        #需要加处理带#号源=予加速源
+        if  "#" not in channel_address:
+            newlines.append(line)
+        elif  "#" in channel_address and "://" in channel_address: 
+            # 如果有“#”号，则根据“#”号分隔
+            url_list = channel_address.split('#')
+            for url in url_list:
+                newline=f'{channel_name},{url}'
+                newlines.append(line)
     return newlines
 
 if __name__ == "__main__":
@@ -185,7 +201,7 @@ if __name__ == "__main__":
         'https://tvkj.top/tvlive.txt', #ADD 【2024-08-06】
         'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt', #ADD 【2024-08-06】
         'http://kxrj.site:55/lib/kx2024.txt',   #ADD 【2024-08-07】
-        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   #ADD 2024-08-05 每天更新一次
+        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   #ADD 2024-08-05 每天更新一次，量太多转到blacklist处理
         'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   #ADD 【2024-08-07】#每日更新2次
         'https://wzsvip.github.io/ipv4.txt',   #ADD 【2024-08-08】
         'http://wz.42web.io/ipv4.txt',   #ADD 【2024-08-08】
@@ -216,9 +232,13 @@ if __name__ == "__main__":
     # 计算合并后合计个数
     urls_hj_before = len(lines)
 
+    # 分级带#号直播源地址
+    lines=set(split_url(lines))
+    urls_hj_before2 = len(lines)
+
     # 去$
     lines=set(clean_url(lines))
-    urls_hj_before2 = len(lines)
+    urls_hj_before3 = len(lines)
 
     # 去重
     lines=remove_duplicates_url(lines)
@@ -298,7 +318,8 @@ if __name__ == "__main__":
     print(f"结束时间: {timeend_str}")
     print(f"执行时间: {minutes} 分 {seconds} 秒")
     print(f"urls_hj最初: {urls_hj_before} ")
-    print(f"urls_hj去$前: {urls_hj_before2} ")
+    print(f"urls_hj分解井号源后: {urls_hj_before2} ")
+    print(f"urls_hj去$后: {urls_hj_before3} ")
     print(f"urls_hj去重后: {urls_hj} ")
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")

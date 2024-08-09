@@ -29,9 +29,10 @@ urls = [
     'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #ADD 2024-07-22 13:50
     'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 2024-08-05 每10天更新一次
     'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #ADD 2024-08-05 
-    #'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   #ADD 2024-08-05 每天更新一次，量太多转到blacklist处理
-    'http://47.99.102.252/live.txt' #ADD 2024-08-05 
-    
+    'http://47.99.102.252/live.txt', #ADD 2024-08-05 
+    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
+    #'',
+    #''
 ]
 
 #read BlackList 2024-06-17 15:02
@@ -336,17 +337,18 @@ def process_url(url):
             lines = text.split('\n')
             print(f"行数: {len(lines)}")
             for line in lines:
-                # 拆分成频道名和URL部分
-                channel_name, channel_address = line.split(',', 1)
-                #需要加处理带#号源=予加速源
-                if  "#" not in channel_address:
-                    process_channel_line(line) # 如果没有井号，则照常按照每行规则进行分发
-                else:
-                    # 如果有“#”号，则根据“#”号分隔
-                    url_list = channel_address.split('#')
-                    for url in url_list:
-                        newline=f'{channel_name},{url}'
-                        process_channel_line(newline)
+                if  "#genre#" not in line and "," in line and "://" in line:
+                    # 拆分成频道名和URL部分
+                    channel_name, channel_address = line.split(',', 1)
+                    #需要加处理带#号源=予加速源
+                    if "#" not in channel_address:
+                        process_channel_line(line) # 如果没有井号，则照常按照每行规则进行分发
+                    else: 
+                        # 如果有“#”号，则根据“#”号分隔
+                        url_list = channel_address.split('#')
+                        for channel_url in url_list:
+                            newline=f'{channel_name},{channel_url}'
+                            process_channel_line(newline)
 
             other_lines.append('\n') #每个url处理完成后，在other_lines加个回车 2024-08-02 10:46
 
