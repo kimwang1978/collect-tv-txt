@@ -52,7 +52,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=50):
+def process_urls_multithreaded(lines, max_workers=30):
     blacklist =  [] 
     successlist = []
 
@@ -217,7 +217,7 @@ if __name__ == "__main__":
     urls_hj_before = len(lines)
 
     # 去$
-    lines=clean_url(lines)
+    lines=set(clean_url(lines))
     urls_hj_before2 = len(lines)
 
     # 去重
