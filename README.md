@@ -57,6 +57,6 @@ http://gg.gg/tv-live-m3u-mirr
 [![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
 
 
-## 赞赏（请作者喝咖啡，谢谢支持！）
+## 赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
 
 ![image](./assets/appreciate.jpg)
