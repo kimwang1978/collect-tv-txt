@@ -594,7 +594,7 @@ def get_logo_by_channel_name(channel_name):
             return url
     return None
 
-output_text = "#EXTM3U x-tvg-url='https://live.fanmingming.com/e.xml'\n"
+output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n'
 
 with open(output_file, "r", encoding='utf-8') as file:
     input_text = file.read()
