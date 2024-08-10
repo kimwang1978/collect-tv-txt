@@ -59,7 +59,7 @@ http://gg.gg/tv-live-m3u-mirr
 ## 公众号
 
 关注获取更多源信息，关于源问题可以给公众号留言。
-![image](./assets/gongzhonghao.png)
+![image](./assets/GongZhongHao.png)
 
 ## 赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
 
