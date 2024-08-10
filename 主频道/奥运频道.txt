@@ -3,6 +3,10 @@
 CCTV5
 CCTV5+
 CCTV16
+CCTV16(4K)
 咪咕运动「IPV6」
 咪咕体育
 超级体育
+CCTV-体育赛事
+CCTV-奥林匹克
+CCTV-奥运体育
