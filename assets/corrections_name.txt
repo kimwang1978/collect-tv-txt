@@ -33,9 +33,9 @@
 CHC动作电影,CHC动作电影频道,动作电影
 三立戏剧,三立戏剧台,三立戲劇台
 CCTV.com,CCTV-.com
-CCTV-文化精品,CCTV-央视文化精品
+CCTV文化精品,CCTV-文化精品,CCTV-央视文化精品
 CCTV央视台球,CCTV-台球
-CCTV5,CCTV05
+CCTV5,CCTV05,CCTV-5
 CCTV5+,CCTV+5+
 超级综艺,NewTV超级综艺,NEWTV超级综艺,NewTV_超级综艺「IPV6」
 金牌综艺,NewTV金牌综艺,NEWTV金牌综艺,NewTV_金牌综艺「IPV6」
@@ -57,6 +57,8 @@ TVB星河,TVB星河台
 内蒙农牧,内蒙古农牧
 蒙语文化,内蒙古蒙语文化
 梨园频道,梨园
+湖北公共,湖北公共新闻
+家庭影院,家庭影院 (1080p)
 
 
 

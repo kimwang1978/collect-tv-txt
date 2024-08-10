@@ -24,7 +24,7 @@ def read_txt_file(file_path):
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
 }
-def check_url(url, timeout=8):
+def check_url(url, timeout=6):
     try:
     	if  "://" in url:
             start_time = time.time()
@@ -52,7 +52,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=30):
+def process_urls_multithreaded(lines, max_workers=28):
     blacklist =  [] 
     successlist = []
 
@@ -205,7 +205,10 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   #ADD 【2024-08-07】#每日更新2次
         'https://wzsvip.github.io/ipv4.txt',   #ADD 【2024-08-08】
         'http://wz.42web.io/ipv4.txt',   #ADD 【2024-08-08】
-        'https://wzsvip.github.io/ipv4.m3u'   #ADD 【2024-08-08】
+        'https://wzsvip.github.io/ipv4.m3u',   #ADD 【2024-08-08】
+        'http://ttkx.live:55/lib/kx2024.txt',   #ADD 【2024-08-10】
+        'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   #ADD 【2024-08-10】
+        'http://gg.gg/cctvgg'   #ADD 【2024-08-10】
         #'',
         #''
     ]

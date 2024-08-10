@@ -24,9 +24,15 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 湖北卫视,https://live.fanmingming.com/tv/湖北卫视.png
 湖南卫视,https://live.fanmingming.com/tv/湖南卫视.png
 新闻综合,https://live.fanmingming.com/tv/上视新闻.png
+东方影视,https://live.fanmingming.com/tv/东方影视.png
+上海都市,https://live.fanmingming.com/tv/上海都市.png
+第一财经,https://live.fanmingming.com/tv/上海第一财经.png
+上海外语,https://live.fanmingming.com/tv/上海外语.png
 iHOT爱体育,https://live.fanmingming.com/tv/IHOT爱体育.png
+iHOT爱动漫,https://live.fanmingming.com/tv/IHOT爱动漫.png
 精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
 CHC高清电影,https://live.fanmingming.com/tv/CHC高清电影.png
 CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png
 CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png
 CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
+七彩戏剧,https://live.fanmingming.com/tv/七彩戏剧.png
