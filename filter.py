@@ -28,7 +28,7 @@ def check_url(url, timeout=6):
 
     elapsed_time = None
     status_ok = False
-    resolution = None
+    # resolution = None
 
     try:
         if "://" in url:
@@ -39,27 +39,27 @@ def check_url(url, timeout=6):
                 if response.status == 200:
                     status_ok = True
                     # 尝试获取视频分辨率
-                    resolution = get_video_resolution(url)
+                    # resolution = get_video_resolution(url)
     except HTTPError as e:
-        print(f"HTTP Error: {e.code} - {e.reason}")
+        print(f"HTTP Error: {e.code} - {e.reason},{url}")
     except URLError as e:
-        print(f"URL Error: {e.reason}")
+        print(f"URL Error: {e.reason},{url}")
     except Exception as e:
-        print(f"Error checking {url}: {e}")
+        print(f"Error checking url: {e},{url}")
 
-    return elapsed_time, status_ok, resolution
+    return elapsed_time, status_ok
 
-def get_video_resolution(url):
-    try:
-        probe = ffmpeg.probe(url)
-        video_streams = [stream for stream in probe['streams'] if stream['codec_type'] == 'video']
-        if video_streams:
-            width = video_streams[0]['width']
-            height = video_streams[0]['height']
-            return f'{width}x{height}'
-    except Exception as e:
-        print(f"Error getting resolution: {e},{url}")
-    return None
+# def get_video_resolution(url):
+#     try:
+#         probe = ffmpeg.probe(url)
+#         video_streams = [stream for stream in probe['streams'] if stream['codec_type'] == 'video']
+#         if video_streams:
+#             width = video_streams[0]['width']
+#             height = video_streams[0]['height']
+#             return f'{width}x{height}'
+#     except Exception as e:
+#         print(f"Error getting resolution: {e},{url}")
+#     return None
 
 # 处理单行文本并检测URL
 def process_line(line):
@@ -68,12 +68,12 @@ def process_line(line):
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
-        elapsed_time, is_valid, resolution = check_url(url.strip())
+        elapsed_time, is_valid= check_url(url.strip())
         if is_valid:
-            return elapsed_time, resolution, line.strip()
+            return elapsed_time, line.strip()
         else:
-            return 0, 0, line.strip()
-    return  0, 0, line.strip()
+            return 0.0, line.strip()
+    return  0.0, line.strip()
 
 
 #########################分割线########################
@@ -86,13 +86,13 @@ for line in merged_output_lines:
     if  "://" not in line:
         new_merged_output_lines.append(line)
     if  "#genre#" not in line and "," in line and "://" in line:
-        elapsed_time, resolution, newline= process_line(line)
-        newline=f"{elapsed_time},{resolution},{newline}"
+        elapsed_time, line= process_line(line)
+        newline=f"{elapsed_time},{line}"
         new_merged_output_lines.append(newline)    #.append(f"{elapsed_time:.2f}ms,{result}")
 
 
 # 将合并后的文本写入文件
-output_file = "filter_merged_output.txt"
+output_file = "test_merged_output.txt"
 try:
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in new_merged_output_lines:

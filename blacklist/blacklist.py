@@ -206,7 +206,7 @@ if __name__ == "__main__":
         'https://wzsvip.github.io/ipv4.txt',   #ADD 【2024-08-08】
         'http://wz.42web.io/ipv4.txt',   #ADD 【2024-08-08】
         'https://wzsvip.github.io/ipv4.m3u',   #ADD 【2024-08-08】
-        'http://ttkx.live:55/lib/kx2024.txt',   #ADD 【2024-08-10】
+        #'http://ttkx.live:55/lib/kx2024.txt',   #ADD 【2024-08-10】每日更新3次，移动到main.py
         'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   #ADD 【2024-08-10】
         'http://gg.gg/cctvgg'   #ADD 【2024-08-10】
         #'',
