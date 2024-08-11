@@ -1,3 +1,5 @@
+####Testing
+
 import time
 import urllib.request
 import re
@@ -56,7 +58,7 @@ def get_video_resolution(url):
             height = video_streams[0]['height']
             return f'{width}x{height}'
     except Exception as e:
-        print(f"Error getting resolution: {e}")
+        print(f"Error getting resolution: {e},{url}")
     return None
 
 # 处理单行文本并检测URL
@@ -70,8 +72,8 @@ def process_line(line):
         if is_valid:
             return elapsed_time, resolution, line.strip()
         else:
-            return None, None, line.strip()
-    return  None, None, line.strip()
+            return 0, 0, line.strip()
+    return  0, 0, line.strip()
 
 
 #########################分割线########################
@@ -85,8 +87,8 @@ for line in merged_output_lines:
         new_merged_output_lines.append(line)
     if  "#genre#" not in line and "," in line and "://" in line:
         elapsed_time, resolution, newline= process_line(line)
-        newline=elapsed_time+","+resolution+","+newline
-        new_merged_output_lines.append(newline)
+        newline=f"{elapsed_time},{resolution},{newline}"
+        new_merged_output_lines.append(newline)    #.append(f"{elapsed_time:.2f}ms,{result}")
 
 
 # 将合并后的文本写入文件
