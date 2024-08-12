@@ -31,6 +31,7 @@ urls = [
     'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #ADD 2024-08-05 
     'http://47.99.102.252/live.txt', #ADD 2024-08-05 
     'http://ttkx.live:55/lib/kx2024.txt', #ADD 2024-08-11 每天更新3次
+    'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #ADD 2024-08-12 每天更新3次
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
     #'',
     #''
