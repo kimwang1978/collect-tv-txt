@@ -54,6 +54,10 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 上海外语,https://live.fanmingming.com/tv/上海外语.png
 iHOT爱体育,https://live.fanmingming.com/tv/IHOT爱体育.png
 iHOT爱动漫,https://live.fanmingming.com/tv/IHOT爱动漫.png
+iHOT爱喜剧,https://live.fanmingming.com/tv/tv/IHOT爱喜剧.png
+iHOT爱奇谈,https://live.fanmingming.com/tv/tv/IHOT爱奇谈.png
+iHOT爱浪漫,https://live.fanmingming.com/tv/tv/IHOT爱浪漫.png
+iHOT爱悬疑,https://live.fanmingming.com/tv/tv/IHOT爱悬疑.png
 精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
 CHC高清电影,https://live.fanmingming.com/tv/CHC高清电影.png
 CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png
