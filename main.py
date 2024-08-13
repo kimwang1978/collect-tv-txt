@@ -32,6 +32,7 @@ urls = [
     'http://47.99.102.252/live.txt', #ADD 2024-08-05 
     'http://ttkx.live:55/lib/kx2024.txt', #ADD 2024-08-11 每天更新3次
     'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #ADD 2024-08-12 每天更新3次
+    'http://117.72.68.25:9230/latest.txt', #ADD 2024-08-13 
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
     #'',
     #''
