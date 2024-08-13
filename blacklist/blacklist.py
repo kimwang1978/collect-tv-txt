@@ -230,8 +230,9 @@ def split_url(lines):
             # 如果有“#”号，则根据“#”号分隔
             url_list = channel_address.split('#')
             for url in url_list:
-                newline=f'{channel_name},{url}'
-                newlines.append(line)
+                if "://" in url: 
+                    newline=f'{channel_name},{url}'
+                    newlines.append(line)
     return newlines
 
 if __name__ == "__main__":
@@ -283,17 +284,16 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
-    # lines=list(set(urls_all_lines + lines1 + lines2))
-    lines=set(urls_all_lines + lines1 + lines2) # 从list变成集合提供检索效率
+    lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
     # 计算合并后合计个数
     urls_hj_before = len(lines)
 
     # 分级带#号直播源地址
-    lines=set(split_url(lines))
+    lines=split_url(lines)
     urls_hj_before2 = len(lines)
 
     # 去$
-    lines=set(clean_url(lines))
+    lines=clean_url(lines)
     urls_hj_before3 = len(lines)
 
     # 去重
