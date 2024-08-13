@@ -45,11 +45,15 @@ http://gg.gg/tv-live-m3u
 http://gg.gg/tv-live-m3u-mirr
 
 
-| 类 别  | 直播源                                       | ShortLink   | 墙内   |
-|-------|------------------------------------------------|------------|------------|
-| （txt） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt | http://gg.gg/tv-live-txt   |http://gg.gg/tv-live-txt-mirr|
-| （m3u） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u | http://gg.gg/tv-live-m3u   |http://gg.gg/tv-live-m3u-mirr|
+| 类 别  | 直播源                                       | 备注   |
+|-------|------------------------------------------------|------------|
+| （txt） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt |    |
+| （m3u） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u |    |
 
+| ShortLink  |  墙外  | 墙内   |
+|-------|------------|------------|
+| （txt） |  http://gg.gg/tv-live-txt   |http://gg.gg/tv-live-txt-mirr|
+| （m3u） |  http://gg.gg/tv-live-m3u   |http://gg.gg/tv-live-m3u-mirr|
 
 如果有其他定期更新稳定的源也可以留言，有时间一起加在收集列表里。
 
