@@ -4,7 +4,8 @@ import time
 from datetime import datetime
 import os
 from urllib.parse import urlparse
-
+import socket  #check p3p源
+import subprocess #check rtmp源
 
 timestart = datetime.now()
 
@@ -21,21 +22,73 @@ def read_txt_file(file_path):
     return lines
 
 # 检测URL是否可访问并记录响应时间
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-}
 def check_url(url, timeout=6):
+    start_time = time.time()
+    elapsed_time = None
+    success = False
+    
     try:
-    	if  "://" in url:
-            start_time = time.time()
+        if url.startswith("http"):
+            headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            }
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
-                elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
                 if response.status == 200:
-                    return elapsed_time, True
+                    success = True
+        elif url.startswith("p3p"):
+            success = check_p3p_url(url, timeout)
+        elif url.startswith("rtmp"):
+            success = check_rtmp_url(url, timeout)
+
+        # 如果执行到这一步，没有异常，计算时间
+        elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
+
     except Exception as e:
         print(f"Error checking {url}: {e}")
-    return None, False
+        # 在发生异常的情况下，将 elapsed_time 设置为 None
+        elapsed_time = None
+
+    return elapsed_time, success
+
+def check_rtmp_url(url, timeout):
+    try:
+        result = subprocess.run(['ffprobe', url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout)
+        if result.returncode == 0:
+            return True
+    except subprocess.TimeoutExpired:
+        print(f"Timeout checking {url}")
+    except Exception as e:
+        print(f"Error checking {url}: {e}")
+    return False
+
+def check_p3p_url(url, timeout):
+    try:
+        # 解析URL
+        parsed_url = urlparse(url)
+        host = parsed_url.hostname
+        port = parsed_url.port
+        path = parsed_url.path
+        
+        # 检查解析是否成功
+        if not host or not port or not path:
+            raise ValueError("Invalid p3p URL")
+
+        # 创建一个 TCP 连接
+        with socket.create_connection((host, port), timeout=timeout) as s:
+            # 发送一个简单的请求（根据协议定义可能需要调整）
+            request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
+            s.sendall(request.encode())
+            
+            # 读取响应
+            response = s.recv(1024)
+            
+            # 简单判断是否收到有效响应
+            if b"P3P" in response:
+                return True
+    except Exception as e:
+        print(f"Error checking {url}: {e}")
+    return False
 
 # 处理单行文本并检测URL
 def process_line(line):
@@ -298,7 +351,7 @@ if __name__ == "__main__":
     history_success_file = f'history/blacklist/{timenow}_whitelist_auto.txt'
     history_blacklist_file = f'history/blacklist/{timenow}_blacklist_auto.txt'
     write_list(history_success_file, successlist)
-    write_list(history_blacklist_file, successlist)
+    write_list(history_blacklist_file, blacklist)
     print(f"history成功清单文件已生成: {history_success_file}")
     print(f"history黑名单文件已生成: {history_blacklist_file}")
 
