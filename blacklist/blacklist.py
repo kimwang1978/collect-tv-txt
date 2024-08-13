@@ -309,8 +309,8 @@ if __name__ == "__main__":
         time_str = item.split(',')[0].replace('ms', '')
         return float(time_str)
     
-    successlist=sorted(set(successlist), key=successlist_sort_key)
-    blacklist=sorted(set(blacklist))
+    successlist=sorted(successlist, key=successlist_sort_key)
+    blacklist=sorted(blacklist)
 
     # 计算check后ok和ng个数
     urls_ok = len(successlist)

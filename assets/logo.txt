@@ -47,6 +47,12 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 河北卫视,https://live.fanmingming.com/tv/河北卫视.png
 河南卫视,https://live.fanmingming.com/tv/河南卫视.png
 海南卫视,https://live.fanmingming.com/tv/海南卫视.png
+东南卫视,https://live.fanmingming.com/tv/东南卫视.png
+云南卫视,https://live.fanmingming.com/tv/云南卫视.png
+人间卫视,https://live.fanmingming.com/tv/人间卫视.png
+南方卫视,https://live.fanmingming.com/tv/南方卫视.png
+山东教育卫视,https://live.fanmingming.com/tv/山东教育.png
+深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png
 新闻综合,https://live.fanmingming.com/tv/上视新闻.png
 东方影视,https://live.fanmingming.com/tv/东方影视.png
 上海都市,https://live.fanmingming.com/tv/上海都市.png
@@ -54,10 +60,10 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 上海外语,https://live.fanmingming.com/tv/上海外语.png
 iHOT爱体育,https://live.fanmingming.com/tv/IHOT爱体育.png
 iHOT爱动漫,https://live.fanmingming.com/tv/IHOT爱动漫.png
-iHOT爱喜剧,https://live.fanmingming.com/tv/tv/IHOT爱喜剧.png
-iHOT爱奇谈,https://live.fanmingming.com/tv/tv/IHOT爱奇谈.png
-iHOT爱浪漫,https://live.fanmingming.com/tv/tv/IHOT爱浪漫.png
-iHOT爱悬疑,https://live.fanmingming.com/tv/tv/IHOT爱悬疑.png
+iHOT爱喜剧,https://live.fanmingming.com/tv/IHOT爱喜剧.png
+iHOT爱奇谈,https://live.fanmingming.com/tv/IHOT爱奇谈.png
+iHOT爱浪漫,https://live.fanmingming.com/tv/IHOT爱浪漫.png
+iHOT爱悬疑,https://live.fanmingming.com/tv/IHOT爱悬疑.png
 精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
 CHC高清电影,https://live.fanmingming.com/tv/CHC高清电影.png
 CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png
