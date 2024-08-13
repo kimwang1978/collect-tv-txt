@@ -45,7 +45,7 @@ http://gg.gg/tv-live-m3u
 http://gg.gg/tv-live-m3u-mirr
 
 
-| 类 别  | 直播源                                       | ShortLink   | ShortLink   |
+| 类 别  | 直播源                                       | ShortLink   | 墙内   |
 |-------|------------------------------------------------|------------|------------|
 | （txt） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt | http://gg.gg/tv-live-txt   |http://gg.gg/tv-live-txt-mirr|
 | （m3u） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u | http://gg.gg/tv-live-m3u   |http://gg.gg/tv-live-m3u-mirr|
