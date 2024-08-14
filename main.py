@@ -34,6 +34,8 @@ urls = [
     'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #ADD 2024-08-12 每天更新3次
     'http://117.72.68.25:9230/latest.txt', #ADD 2024-08-13 
     'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #ADD 2024-08-14 不定期，月5次左右
+    'http://xhztv.top/v6.txt',  #ADD 2024-08-14 
+    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt',  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般 
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
     #'',
     #''
@@ -652,6 +654,6 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 
 
 #备用1：http://tonkiang.us
-#备用2：
+#备用2：https://www.zoomeye.hk
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp
 

@@ -36,6 +36,7 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 安徽卫视,https://live.fanmingming.com/tv/安徽卫视.png
 安多卫视,https://live.fanmingming.com/tv/安多卫视.png
 山东卫视,https://live.fanmingming.com/tv/山东卫视.png
+山东教育卫视,https://live.fanmingming.com/tv/山东教育.png
 山西卫视,https://live.fanmingming.com/tv/山西卫视.png
 广东卫视,https://live.fanmingming.com/tv/广东卫视.png
 广西卫视,https://live.fanmingming.com/tv/广西卫视.png
@@ -51,7 +52,9 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 云南卫视,https://live.fanmingming.com/tv/云南卫视.png
 人间卫视,https://live.fanmingming.com/tv/人间卫视.png
 南方卫视,https://live.fanmingming.com/tv/南方卫视.png
-山东教育卫视,https://live.fanmingming.com/tv/山东教育.png
+贵州卫视,https://live.fanmingming.com/tv/贵州卫视.png
+黑龙江卫视,https://live.fanmingming.com/tv/黑龙江卫视.png
+三沙卫视,https://live.fanmingming.com/tv/三沙卫视.png
 深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png
 新闻综合,https://live.fanmingming.com/tv/上视新闻.png
 东方影视,https://live.fanmingming.com/tv/东方影视.png
