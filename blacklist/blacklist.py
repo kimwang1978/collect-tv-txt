@@ -40,6 +40,8 @@ def check_url(url, timeout=6):
             success = check_p3p_url(url, timeout)
         elif url.startswith("rtmp"):
             success = check_rtmp_url(url, timeout)
+        elif url.startswith("rtp"):
+            success = check_rtp_url(url, timeout)
 
         # 如果执行到这一步，没有异常，计算时间
         elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
@@ -61,6 +63,25 @@ def check_rtmp_url(url, timeout):
     except Exception as e:
         print(f"Error checking {url}: {e}")
     return False
+
+def check_rtp_url(url, timeout):
+    try:
+        # 解析URL
+        parsed_url = urlparse(url)
+        
+        # 提取主机名（IP地址）和端口号
+        host = parsed_url.hostname
+        port = parsed_url.port
+
+        # 创建一个 socket 连接
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            s.settimeout(timeout)  # 设置超时时间
+            s.connect((host, port))
+            s.sendto(b'', (host, port))  # 发送空的UDP数据包
+            s.recv(1)  # 尝试接收数据
+        return True
+    except (socket.timeout, socket.error):
+        return False
 
 def check_p3p_url(url, timeout):
     try:
@@ -262,6 +283,7 @@ if __name__ == "__main__":
         'https://wzsvip.github.io/ipv4.m3u',   #ADD 【2024-08-08】
         #'http://ttkx.live:55/lib/kx2024.txt',   #ADD 【2024-08-10】每日更新3次，移动到main.py
         'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   #ADD 【2024-08-10】
+        'http://yuhuahx.com/dsj66.txt',   #ADD 【2024-08-14】
         'http://gg.gg/cctvgg'   #ADD 【2024-08-10】
         #'',
         #''

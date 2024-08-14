@@ -10,41 +10,7 @@
 |黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会从直播源过滤掉   |
 |白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇总到直播源   |
 
-### **直播源（txt）：**
-```
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-```
-直播源（txt）短链：
-
-http://gg.gg/tv-live-txt   
-
-直播源（txt）短链（Backup）：
-
-https://tinyurl.com/tv-live-txt
-
-https://go.click.ly/inwPk
-
-镜像源（txt）：（墙内推荐↓↓↓）
-```
-https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-```
-镜像源（txt）短链：（墙内推荐↓↓↓）
-
-http://gg.gg/tv-live-txt-mirr
-
-### **直播源（m3u）：**
-```
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
-```
-直播源（m3u）短链：
-
-http://gg.gg/tv-live-m3u 
-
-镜像源（m3u）短链：（墙内推荐↓↓↓）
-
-http://gg.gg/tv-live-m3u-mirr
-
-
+### **直播源（txt vs m3u）：**
 | 类 别  | 直播源                                       | 备注   |
 |-------|------------------------------------------------|------------|
 | （txt） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt |    |
@@ -55,11 +21,17 @@ http://gg.gg/tv-live-m3u-mirr
 | （txt） |  http://gg.gg/tv-live-txt   |http://gg.gg/tv-live-txt-mirr|
 | （m3u） |  http://gg.gg/tv-live-m3u   |http://gg.gg/tv-live-m3u-mirr|
 
-如果有其他定期更新稳定的源也可以留言，有时间一起加在收集列表里。
+```
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+```
+```
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
+```
+直播源（txt）短链（Backup）：
 
-## Star History
+https://tinyurl.com/tv-live-txt
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
+https://go.click.ly/inwPk
 
 ## 公众号
 
@@ -72,3 +44,8 @@ http://gg.gg/tv-live-m3u-mirr
 ## 赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
 
 ![image](./assets/appreciate.jpg)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
+
