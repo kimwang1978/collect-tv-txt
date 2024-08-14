@@ -16,7 +16,7 @@
 | （txt） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt |    |
 | （m3u） |  https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u |    |
 
-| ShortLink  |  墙外  | 墙内   |
+| 短 链  |  墙外推荐  | 墙内推荐   |
 |-------|------------|------------|
 | （txt） |  http://gg.gg/tv-live-txt   |http://gg.gg/tv-live-txt-mirr|
 | （m3u） |  http://gg.gg/tv-live-m3u   |http://gg.gg/tv-live-m3u-mirr|

@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 import os
 from urllib.parse import urlparse
-import socket  #check p3p源
+import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
 
 timestart = datetime.now()
