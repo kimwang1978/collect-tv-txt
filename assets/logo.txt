@@ -76,3 +76,4 @@ CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 湖北公共,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北公共.png
 湖北经视,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北经视.png
 湖北垄上,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北垄上.png
+翡翠台,https://live.fanmingming.com/tv/翡翠台.png
