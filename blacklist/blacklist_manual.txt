@@ -1,4 +1,5 @@
 blacklist_manual,#genre#
+湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000

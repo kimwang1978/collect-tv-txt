@@ -515,9 +515,10 @@ for whitelist_line in whitelist_auto_lines:
 
 
 # 合并所有对象中的行文本（去重，排序后拼接）
+# ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
+             ["🆕专享电影,#genre#"] + read_txt_to_array('主频道/专享电影.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
@@ -655,5 +656,5 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk
-#备用3：(BlackList检测对象)http,rtmp,p3p,rtp
+#备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
 
