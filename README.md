@@ -7,8 +7,8 @@
 |-------|-------|------------------------------------------------|------------|------------|
 |直播源| （[merged_output.txt](https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt)） |自动更新 |http://gg.gg/tv-live-txt|http://gg.gg/tv-live-txt-mirr|
 |直播源| （[merged_output.m3u](https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u)） |自动更新 |http://gg.gg/tv-live-m3u|http://gg.gg/tv-live-m3u-mirr|
-|黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会过滤掉   |------------|
-|白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇至直播源   |------------|
+|黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会过滤掉   | |
+|白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇至直播源   | |
 
 ```
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 ## 公众号・赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
 
-> 关注获取更多源信息，关于源问题或者要求可以给公众号留言。地方台大多没有好好整理，有需要整理的也可以给公众号留言。
+> 关注获取更多源信息，关于源问题或者要求可以给公众号留言。地方台大多没有好好整理，有需要的给公众号留言。
 
 ![image](./assets/Gongzhonghao+appreciate.png)
 
