@@ -3,7 +3,7 @@
 自动收集整理直播源
 > 内容收集均来自互联网，未经版权方同意请勿商用，如有侵权内容，请联系删除。
 
-| 类别  | 文件名  | 更新频率                                       | 短链 | 墙内推荐   |
+| 类别  | 文件名  | 更新频率                                       | 短链 | 镜像   |
 |-------|-------|------------------------------------------------|------------|------------|
 |直播源| （[merged_output.txt](https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt)） |自动更新 |http://gg.gg/tv-live-txt|http://gg.gg/tv-live-txt-mirr|
 |直播源| （[merged_output.m3u](https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u)） |自动更新 |http://gg.gg/tv-live-m3u|http://gg.gg/tv-live-m3u-mirr|
