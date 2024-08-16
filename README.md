@@ -21,9 +21,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 ## 公众号・赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
 
-> 关注获取更多源信息，关于源问题或者要求可以给公众号留言。
-
-> 地方台大多没有好好整理，有需要整理的也可以给公众号留言，优先整理。
+> 关注获取更多源信息，关于源问题或者要求可以给公众号留言。地方台大多没有好好整理，有需要整理的也可以给公众号留言。
 
 ![image](./assets/Gongzhonghao+appreciate.png)
 
