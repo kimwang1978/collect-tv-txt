@@ -518,10 +518,10 @@ for whitelist_line in whitelist_auto_lines:
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["🆕专享电影,#genre#"] + read_txt_to_array('主频道/专享电影.txt') + ['\n'] + \
+             ["🆕专享电影,#genre#"] + read_txt_to_array('主频道/♪专享电影.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
-             ["🆕优质源,#genre#"] + read_txt_to_array('主频道/优质源.txt') + ['\n'] + \
+             ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
@@ -569,7 +569,8 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["春晚,#genre#"] + sort_data(cw_dictionary,set(cw_lines))  + ['\n'] + \
              ["直播中国,#genre#"] + sorted(set(correct_name_data(corrections_name,zb_lines))) + ['\n'] + \
              ["MTV,#genre#"] + sorted(set(correct_name_data(corrections_name,mtv_lines))) + ['\n'] + \
-             ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines)) 
+             ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines))  + ['\n'] + \
+             ["❤️[以家人之名],#genre#"] + read_txt_to_array('主频道/特供频道/♪以家人之名.txt')
 
 
 # 将合并后的文本写入文件

@@ -1,6 +1,6 @@
 # collect-tv-txt
 
-自动收集整理直播源
+## 直播源
 > 内容收集均来自互联网，未经版权方同意请勿商用，如有侵权内容，请联系删除。
 
 | 类别  | 文件名  | 更新频率                                       | 短链 | 镜像   |
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 直播源（txt）短链（Backup）： https://tinyurl.com/tv-live-txt
 
 
-## 公众号・赞赏（觉得好的话请作者喝咖啡，鼓励更新维护。）
+## 公众号・赞赏（觉得好的话请作者喝咖啡，鼓励更新维护！）
 
 > 关注获取更多信息，关于源问题可给公众号留言。地方台大多没有整理，有需要的也可给公众号留言。
 
