@@ -57,6 +57,7 @@ CCTV8K,https://live.fanmingming.com/tv/CCTV8K.png
 三沙卫视,https://live.fanmingming.com/tv/三沙卫视.png
 深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png
 新闻综合,https://live.fanmingming.com/tv/上视新闻.png
+上海新闻综合,https://live.fanmingming.com/tv/上视新闻.png
 东方影视,https://live.fanmingming.com/tv/东方影视.png
 上海都市,https://live.fanmingming.com/tv/上海都市.png
 第一财经,https://live.fanmingming.com/tv/上海第一财经.png
