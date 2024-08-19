@@ -10,6 +10,7 @@ timestart = datetime.now()
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 # 定义要访问的多个URL
 urls = [
+    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #ADD 2024-08-10 
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
@@ -35,8 +36,7 @@ urls = [
     'http://117.72.68.25:9230/latest.txt', #ADD 2024-08-13 
     'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #ADD 2024-08-14 不定期，月5次左右
     'http://xhztv.top/v6.txt',  #ADD 2024-08-14 
-    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt',  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般 
-    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
+    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般  
     #'',
     #''
 ]
@@ -570,7 +570,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["直播中国,#genre#"] + sorted(set(correct_name_data(corrections_name,zb_lines))) + ['\n'] + \
              ["MTV,#genre#"] + sorted(set(correct_name_data(corrections_name,mtv_lines))) + ['\n'] + \
              ["收音机频道,#genre#"] + sort_data(radio_dictionary,set(radio_lines))  + ['\n'] + \
-             ["❤️[以家人之名],#genre#"] + read_txt_to_array('主频道/特供频道/♪以家人之名.txt')
+             ["❤️以家人之名,#genre#"] + read_txt_to_array('主频道/特供频道/♪以家人之名.txt')
 
 
 # 将合并后的文本写入文件

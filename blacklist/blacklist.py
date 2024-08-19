@@ -185,6 +185,7 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
+url_statistics=[]
 
 def process_url(url):
     try:
@@ -195,9 +196,12 @@ def process_url(url):
             # 将二进制数据解码为字符串
             text = data.decode('utf-8')
             if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
-                urls_all_lines.append(convert_m3u_to_txt(text))
+                m3u_lines=convert_m3u_to_txt(text)
+                url_statistics.append(f"{len(m3u_lines)},{url.strip()}")
+                urls_all_lines.append(m3u_lines)
             elif get_url_file_extension(url)==".txt":
                 lines = text.split('\n')
+                url_statistics.append(f"{len(lines)},{url.strip()}")
                 for line in lines:
                     if  "#genre#" not in line and "," in line and "://" in line:
                         #channel_name=line.split(',')[0].strip()
@@ -255,6 +259,8 @@ def split_url(lines):
                     newline=f'{channel_name},{url}'
                     newlines.append(line)
     return newlines
+
+
 
 if __name__ == "__main__":
     # 定义要访问的多个URL
@@ -402,5 +408,6 @@ if __name__ == "__main__":
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
             
-
+for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
+    print(statistics)
     
