@@ -126,7 +126,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=28):
+def process_urls_multithreaded(lines, max_workers=30):
     blacklist =  [] 
     successlist = []
 
@@ -183,7 +183,8 @@ def convert_m3u_to_txt(m3u_content):
             txt_lines.append(f"{channel_name},{line.strip()}")
     
     # 将结果合并成一个字符串，以换行符分隔
-    return '\n'.join(txt_lines)
+    # return '\n'.join(txt_lines)
+    return txt_lines
 
 url_statistics=[]
 
@@ -198,7 +199,7 @@ def process_url(url):
             if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
                 m3u_lines=convert_m3u_to_txt(text)
                 url_statistics.append(f"{len(m3u_lines)},{url.strip()}")
-                urls_all_lines.append(m3u_lines)
+                urls_all_lines.extend(m3u_lines) # 注意：extend
             elif get_url_file_extension(url)==".txt":
                 lines = text.split('\n')
                 url_statistics.append(f"{len(lines)},{url.strip()}")
@@ -288,8 +289,10 @@ if __name__ == "__main__":
         'http://wz.42web.io/ipv4.txt',   #ADD 【2024-08-08】
         'https://wzsvip.github.io/ipv4.m3u',   #ADD 【2024-08-08】
         #'http://ttkx.live:55/lib/kx2024.txt',   #ADD 【2024-08-10】每日更新3次，移动到main.py
-        'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   #ADD 【2024-08-10】
+        #'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   #ADD 【2024-08-10】
         'http://yuhuahx.com/dsj66.txt',   #ADD 【2024-08-14】
+        'https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt',  #ADD 【2024-08-20】
+        #'http://xhztv.top/tvlive.txt',  #ADD 【2024-08-20】
         'http://gg.gg/cctvgg'   #ADD 【2024-08-10】
         #'',
         #''
