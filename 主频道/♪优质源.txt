@@ -7,8 +7,8 @@ CCTV5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
 CCTV5,https://epg.pw/stream/ad4ac1045a67c7e1dfb4a3dd822179a3119cd4f30f49dbe1cf9e317e7059a85f.m3u8
 CCTV5,http://119.98.133.130:4000/rtp/239.69.1.123:10376
 CCTV5,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/268/2024078403.m3u8
-CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
 CCTV5+,https://epg.pw/stream/42fec7509fc70842d130f32c3535037f901381f57549e4122369e3b2d02d1d1c.m3u8
+CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
 CCTV5+,http://27.11.62.244:8010/udp/225.0.4.73:7980
 CCTV5+,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/056/2024078003.m3u8
 CCTV6,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv6
