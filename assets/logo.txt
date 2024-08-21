@@ -78,3 +78,8 @@ CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 湖北经视,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北经视.png
 湖北垄上,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北垄上.png
 翡翠台,https://live.fanmingming.com/tv/翡翠台.png
+求索动物,https://live.fanmingming.com/tv/求索动物.png
+求索生活,https://live.fanmingming.com/tv/求索生活.png
+求索科学,https://live.fanmingming.com/tv/求索科学.png
+求索纪录,https://live.fanmingming.com/tv/求索纪录.png
+黑莓电影,https://live.fanmingming.com/tv/黑莓电影.png
