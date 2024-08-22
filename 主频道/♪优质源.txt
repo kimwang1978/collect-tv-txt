@@ -3,16 +3,8 @@
 翡翠台,http://124.244.149.194:65530/bysid/1
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-CCTV5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
-CCTV5,https://epg.pw/stream/ad4ac1045a67c7e1dfb4a3dd822179a3119cd4f30f49dbe1cf9e317e7059a85f.m3u8
-CCTV5,http://119.98.133.130:4000/rtp/239.69.1.123:10376
-CCTV5,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/268/2024078403.m3u8
-CCTV5+,https://epg.pw/stream/42fec7509fc70842d130f32c3535037f901381f57549e4122369e3b2d02d1d1c.m3u8
-CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
-CCTV5+,http://27.11.62.244:8010/udp/225.0.4.73:7980
-CCTV5+,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/056/2024078003.m3u8
-CCTV6,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv6
-CCTV6,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/566/2022574303.m3u8
+CCTV5,http://120.77.28.4:8648/mgu.php?id=cctv5
+CCTV5+,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
 CCTV13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV13,http://59.173.183.242:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://115.234.196.165:8808/udp/233.50.200.103:5140
@@ -27,6 +19,3 @@ CHC家庭影院,http://118.79.19.33:6000/rtp/226.0.2.240:9820
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
-百事通4K电影,http://www.17888.fun:10000/udp/239.45.3.107:5140?$上海电信
-百事通4K纪实,http://www.17888.fun:10000/rtp/239.45.1.10:5140?$上海电信
-百事通4K儿童,http://www.17888.fun:10000/rtp/239.45.1.1:5140?$上海电信

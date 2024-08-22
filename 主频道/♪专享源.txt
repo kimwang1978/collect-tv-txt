@@ -1,4 +1,4 @@
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 (2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
 (2024)绝地战警：生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
 (2024)异形寄生:起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
@@ -16,3 +16,6 @@
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+🎞️琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+🎞️与凤行,http://159.75.85.63:35455/huya/26355866
+🎞️知否知否,http://zby.xjqxz.top/zfzf/live.m3u8

@@ -11,6 +11,8 @@ timestart = datetime.now()
 # 定义要访问的多个URL
 urls = [
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #ADD 2024-08-10 
+    'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #ADD 2024-08-22 
+    'http://rihou.cc:555/gggg.nzk', #ADD 2024-08-22 
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
@@ -36,6 +38,7 @@ urls = [
     'http://117.72.68.25:9230/latest.txt', #ADD 2024-08-13 
     'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #ADD 2024-08-14 不定期，月5次左右
     'http://xhztv.top/v6.txt',  #ADD 2024-08-14 
+    'https://tvkj.top/tvlive.txt',  #ADD 2024-08-22 
     'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般  
     #'',
     #''
@@ -518,8 +521,8 @@ for whitelist_line in whitelist_auto_lines:
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["🧧专享,#genre#"] + read_txt_to_array('主频道/♪专享.txt') + ['\n'] + \
-             ["🧧优质,#genre#"] + read_txt_to_array('主频道/♪优质.txt') + ['\n'] + \
+             ["🆕专享源,#genre#"] + read_txt_to_array('主频道/♪专享源.txt') + ['\n'] + \
+             ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
