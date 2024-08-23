@@ -6,13 +6,14 @@ from datetime import datetime
 
 # 执行开始时间
 timestart = datetime.now()
-# 报时
+# 报时  '',
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 # 定义要访问的多个URL
 urls = [
-    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #ADD 2024-08-10 
-    'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #ADD 2024-08-22 
-    'http://rihou.cc:555/gggg.nzk', #ADD 2024-08-22 
+    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #2024-08-10 
+    'https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt', #2024-08-23 
+    'http://rihou.cc:555/gggg.nzk', #2024-08-22 
+    'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #2024-08-22 
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
@@ -29,17 +30,17 @@ urls = [
     'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
     'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',  #每天自动更新1次 2024-06-24 16:37
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
-    'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #ADD 2024-07-22 13:50
-    'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #ADD 2024-08-05 每10天更新一次
-    'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #ADD 2024-08-05 
-    'http://47.99.102.252/live.txt', #ADD 2024-08-05 
-    'http://ttkx.live:55/lib/kx2024.txt', #ADD 2024-08-11 每天更新3次
-    'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #ADD 2024-08-12 每天更新3次
-    'http://117.72.68.25:9230/latest.txt', #ADD 2024-08-13 
-    'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #ADD 2024-08-14 不定期，月5次左右
-    'http://xhztv.top/v6.txt',  #ADD 2024-08-14 
-    'https://tvkj.top/tvlive.txt',  #ADD 2024-08-22 
-    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般  
+    'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #2024-07-22 13:50
+    'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #2024-08-05 每10天更新一次
+    'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #2024-08-05 
+    'http://47.99.102.252/live.txt', #2024-08-05 
+    'http://ttkx.live:55/lib/kx2024.txt', #2024-08-11 每天更新3次
+    'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #2024-08-12 每天更新3次
+    'http://117.72.68.25:9230/latest.txt', #2024-08-13 
+    'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #2024-08-14 不定期，月5次左右
+    'http://xhztv.top/v6.txt',  #2024-08-14 
+    'https://tvkj.top/tvlive.txt',  #2024-08-22 
+    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #2024-08-14 酒店源4小时自动更新一次，质量一般  
     #'',
     #''
 ]
@@ -521,7 +522,8 @@ for whitelist_line in whitelist_auto_lines:
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["🆕专享源,#genre#"] + read_txt_to_array('主频道/♪专享源.txt') + ['\n'] + \
+             ["🆕专享源①,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
+             ["🆕专享源②,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
