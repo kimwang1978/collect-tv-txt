@@ -14,11 +14,11 @@ urls = [
     'https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt', #2024-08-23 
     'http://rihou.cc:555/gggg.nzk', #2024-08-22 
     'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #2024-08-22 
+    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
-    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
     'https://m3u.ibert.me/txt/y_g.txt',
@@ -40,6 +40,7 @@ urls = [
     'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #2024-08-14 不定期，月5次左右
     'http://xhztv.top/v6.txt',  #2024-08-14 
     'https://tvkj.top/tvlive.txt',  #2024-08-22 
+    'https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt',  #2024-08-24 
     'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #2024-08-14 酒店源4小时自动更新一次，质量一般  
     #'',
     #''
