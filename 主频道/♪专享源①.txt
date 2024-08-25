@@ -10,6 +10,9 @@
 美国队长,https://www.goodiptv.club/yy/1382736813
 变形金刚,https://lunbo.freetv.top/yy/1382736803
 毒液：致命守护者,https://www.goodiptv.club/yy/1382745095
+魔戒首部曲：魔戒現身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
+魔戒二部曲：雙城奇謀,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
+魔戒三部曲：王者再臨,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
 🎞️琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 🎞️知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
 🎞️知否知否,http://11.xmyxc.cn/api/php/yy.php?id=398312
