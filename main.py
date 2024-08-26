@@ -8,43 +8,20 @@ from datetime import datetime
 timestart = datetime.now()
 # 报时  '',
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
-# 定义要访问的多个URL
-urls = [
-    'http://rihou.cc:555/gggg.nzk', #2024-08-22 
-    'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #2024-08-10 
-    'https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt', #2024-08-23 
-    'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #2024-08-22 
-    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-    'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
-    'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
-    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
-    'https://m3u.ibert.me/txt/fmml_ipv6.txt',
-    'https://m3u.ibert.me/txt/ycl_iptv.txt',
-    'https://m3u.ibert.me/txt/y_g.txt',
-    'https://m3u.ibert.me/txt/j_home.txt',
-    'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
-    'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
-    'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', #每天早晚各自动更新1次 2024-06-03 17:50
-    'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
-    'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
-    'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',  #每天自动更新1次 2024-06-24 16:37
-    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt',
-    'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt',  #2024-07-22 13:50
-    'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  #2024-08-05 每10天更新一次
-    'https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt',  #2024-08-05 
-    'http://47.99.102.252/live.txt', #2024-08-05 
-    'http://ttkx.live:55/lib/kx2024.txt', #2024-08-11 每天更新3次
-    'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt', #2024-08-12 每天更新3次
-    'http://117.72.68.25:9230/latest.txt', #2024-08-13 
-    'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u', #2024-08-14 不定期，月5次左右
-    'http://xhztv.top/v6.txt',  #2024-08-14 
-    'https://tvkj.top/tvlive.txt',  #2024-08-22 
-    'https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt',  #2024-08-24 
-    'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt'  #2024-08-14 酒店源4小时自动更新一次，质量一般  
-    #'',
-    #''
-]
+
+#读取文本方法
+def read_txt_to_array(file_name):
+    try:
+        with open(file_name, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            lines = [line.strip() for line in lines]
+            return lines
+    except FileNotFoundError:
+        print(f"File '{file_name}' not found.")
+        return []
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return []
 
 #read BlackList 2024-06-17 15:02
 def read_blacklist_from_txt(file_path):
@@ -369,19 +346,6 @@ def process_url(url):
 
 current_directory = os.getcwd()  #准备读取txt
 
-#读取文本方法
-def read_txt_to_array(file_name):
-    try:
-        with open(file_name, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
-            lines = [line.strip() for line in lines]
-            return lines
-    except FileNotFoundError:
-        print(f"File '{file_name}' not found.")
-        return []
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return []
 #读取文本
 ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
 sh_dictionary=read_txt_to_array('主频道/shanghai.txt') #过滤+排序
@@ -480,7 +444,12 @@ def sort_data(order, data):
     return sorted_data
 
 
-# 循环处理每个URL
+
+
+
+# 定义
+urls = read_txt_to_array('assets/urls-daily.txt')
+# 处理
 for url in urls:
     print(f"处理URL: {url}")
     process_url(url)
