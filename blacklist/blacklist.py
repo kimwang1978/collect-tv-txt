@@ -285,9 +285,9 @@ if __name__ == "__main__":
         'http://kxrj.site:55/lib/kx2024.txt',   # 【2024-08-07】
         'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   # 2024-08-05 每天更新一次，量太多转到blacklist处理
         'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   # 【2024-08-07】#每日更新2次
-        'https://wzsvip.github.io/ipv4.txt',   # 【2024-08-08】
+        #'https://wzsvip.github.io/ipv4.txt',   # 【2024-08-08】
+        #'https://wzsvip.github.io/ipv4.m3u',   # 【2024-08-08】
         'http://wz.42web.io/ipv4.txt',   # 【2024-08-08】
-        'https://wzsvip.github.io/ipv4.m3u',   # 【2024-08-08】
         #'http://ttkx.live:55/lib/kx2024.txt',   # 【2024-08-10】每日更新3次，移动到main.py
         #'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   # 【2024-08-10】
         'http://yuhuahx.com/dsj66.txt',   # 【2024-08-14】

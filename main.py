@@ -10,9 +10,9 @@ timestart = datetime.now()
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 # 定义要访问的多个URL
 urls = [
+    'http://rihou.cc:555/gggg.nzk', #2024-08-22 
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt', #2024-08-10 
     'https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt', #2024-08-23 
-    'http://rihou.cc:555/gggg.nzk', #2024-08-22 
     'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u', #2024-08-22 
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
@@ -506,6 +506,7 @@ def custom_sort(s):
 
 
 #读取whitelist,把高响应源从白名单中抽出加入merged_output。
+print(f"ADD whitelist_auto.txt")
 whitelist_auto_lines=read_txt_to_array('blacklist/whitelist_auto.txt') #
 for whitelist_line in whitelist_auto_lines:
     if  "#genre#" not in whitelist_line and "," in whitelist_line and "://" in whitelist_line:
@@ -526,6 +527,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["🆕专享源①,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["🆕专享源②,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
+             ["🆕优质CCTV,#genre#"] + read_txt_to_array('主频道/♪优质CCTV.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
