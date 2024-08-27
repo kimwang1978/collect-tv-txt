@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 直播源（txt）短链（Backup）： https://tinyurl.com/tv-live-txt
 
 
-## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新维护！）
+## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）
 
-> 关注获取更多信息，有问题给公众号留言。你的赞赏，我的动力！
+> 关注获取更多信息，有问题给公众号留言。
 
 ![image](./assets/Gongzhonghao+appreciate.png)
 

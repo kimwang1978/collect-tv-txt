@@ -6,14 +6,6 @@
 凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-东方卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
-东方卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
-东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
-东方卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
-东方卫视,http://223.215.11.132:2000/rtp/238.1.78.163:7176
-东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东方卫视,http://114.246.183.162:4022/rtp/239.3.1.136:8032
-东方卫视,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/349/2024054503.m3u8
 上海新闻综合,http://58.41.27.144:18888/udp/239.45.3.209:5140
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8

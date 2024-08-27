@@ -83,3 +83,7 @@ CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 求索科学,https://live.fanmingming.com/tv/求索科学.png
 求索纪录,https://live.fanmingming.com/tv/求索纪录.png
 黑莓电影,https://live.fanmingming.com/tv/黑莓电影.png
+睛彩竞技,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png
+睛彩篮球,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png
+BestTV星光院线,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/bestv星光院线.png
+BestTV全球大片,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/bestv全球大片.png
