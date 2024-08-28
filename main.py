@@ -493,11 +493,11 @@ for whitelist_line in whitelist_auto_lines:
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["🆕专享源①,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
-             ["🆕专享源②,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
-             ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
-             ["🆕优质CCTV,#genre#"] + read_txt_to_array('主频道/♪优质CCTV.txt') + ['\n'] + \
+             ["🆕专享源1️⃣,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
+             ["🆕专享源2️⃣,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
+             ["🆕优质央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["🆕优质卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
+             ["🆕优质源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
