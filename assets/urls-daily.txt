@@ -1,6 +1,9 @@
 http://rihou.cc:555/gggg.nzk
 https://gitlab.com/tvtg/vip/-/raw/main/log.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
+https://d.kstore.space/download/7395/xiaohei.txt
+https://2912.kstore.space/520.txt
+http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u

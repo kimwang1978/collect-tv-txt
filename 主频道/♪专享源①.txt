@@ -1,6 +1,7 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 BestTV星光院线,http://117.161.12.118/live/program/live/xgyy8m/8000000/mnf.m3u8
 BestTV全球大片,http://117.161.12.118/live/program/live/qqdp8m/8000000/mnf.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 🔁周星星,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🔁漫威系列,http://nas.dylove.xyz:35455/yy/1354932402
 (2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8

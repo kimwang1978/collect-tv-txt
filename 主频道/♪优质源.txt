@@ -6,6 +6,7 @@
 凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 上海新闻综合,http://58.41.27.144:18888/udp/239.45.3.209:5140
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
