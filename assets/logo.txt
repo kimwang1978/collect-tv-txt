@@ -2,8 +2,8 @@ CCTV1,https://live.fanmingming.com/tv/CCTV1.png
 CCTV2,https://live.fanmingming.com/tv/CCTV2.png
 CCTV3,https://live.fanmingming.com/tv/CCTV3.png
 CCTV4,https://live.fanmingming.com/tv/CCTV4.png
-CCTV5,https://live.fanmingming.com/tv/CCTV5.png
-CCTV5+,https://live.fanmingming.com/tv/CCTV5+.png
+CCTV5,https://epg.112114.xyz/logo/CCTV5.png
+CCTV5+,https://epg.112114.xyz/logo/CCTV5+.png
 CCTV6,https://live.fanmingming.com/tv/CCTV6.png
 CCTV7,https://live.fanmingming.com/tv/CCTV7.png
 CCTV8,https://live.fanmingming.com/tv/CCTV8.png
@@ -87,3 +87,5 @@ CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 睛彩篮球,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png
 BestTV星光院线,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/bestv星光院线.png
 BestTV全球大片,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/bestv全球大片.png
+AMC电影台,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/AMC电影台.png
+直播中国,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/直播中国.png
