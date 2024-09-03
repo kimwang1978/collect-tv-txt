@@ -1,8 +1,9 @@
 http://rihou.cc:555/gggg.nzk
+https://2912.kstore.space/520.txt
 https://gitlab.com/tvtg/vip/-/raw/main/log.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
-https://2912.kstore.space/520.txt
+http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
@@ -27,7 +28,6 @@ https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt
 http://47.99.102.252/live.txt
 http://ttkx.live:55/lib/kx2024.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-http://117.72.68.25:9230/latest.txt
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 http://xhztv.top/v6.txt
 https://tvkj.top/tvlive.txt
