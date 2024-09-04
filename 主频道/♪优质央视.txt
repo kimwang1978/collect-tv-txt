@@ -131,6 +131,13 @@ CCTV8,http://115.48.63.30:9901/tsfile/live/0008_1.m3u8
 CCTV9,http://115.48.63.30:9901/tsfile/live/1005_1.m3u8
 CCTV11,http://115.48.63.30:9901/tsfile/live/0011_1.m3u8
 
+CCTV2,http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
 CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
 CCTV3,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv3
@@ -147,3 +154,4 @@ CCTV12,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv12
 CCTV13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 CCTV14,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv14
 CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15
+
