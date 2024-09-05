@@ -69,7 +69,6 @@ iHOT爱喜剧,https://live.fanmingming.com/tv/IHOT爱喜剧.png
 iHOT爱奇谈,https://live.fanmingming.com/tv/IHOT爱奇谈.png
 iHOT爱浪漫,https://live.fanmingming.com/tv/IHOT爱浪漫.png
 iHOT爱悬疑,https://live.fanmingming.com/tv/IHOT爱悬疑.png
-精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
 CHC高清电影,https://live.fanmingming.com/tv/CHC高清电影.png
 CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png
 CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png
@@ -80,7 +79,9 @@ CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 求索生活,https://live.fanmingming.com/tv/求索生活.png
 求索科学,https://live.fanmingming.com/tv/求索科学.png
 求索纪录,https://live.fanmingming.com/tv/求索纪录.png
+精品体育,https://live.fanmingming.com/tv/NEWTV精品体育.png
 黑莓电影,https://live.fanmingming.com/tv/黑莓电影.png
+NEWTV黑莓电影,https://live.fanmingming.com/tv/黑莓电影.png
 数字乐游,https://live.fanmingming.com/tv/乐游.png
 湖北公共,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北公共.png
 湖北经视,https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北经视.png

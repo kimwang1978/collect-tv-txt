@@ -48,6 +48,7 @@ def check_url(url, timeout=6):
 
     except Exception as e:
         print(f"Error checking {url}: {e}")
+        record_host(get_host_from_url(url))
         # 在发生异常的情况下，将 elapsed_time 设置为 None
         elapsed_time = None
 
@@ -261,14 +262,35 @@ def split_url(lines):
                     newlines.append(line)
     return newlines
 
+# 取得host
+def get_host_from_url(url: str) -> str:
+    try:
+        parsed_url = urlparse(url)
+        return parsed_url.netloc
+    except Exception as e:
+        return f"Error: {str(e)}"
 
+# 使用字典来统计blackhost的记录次数
+blacklist_dict = {}
+def record_host(host):
+    # 如果 host 已经在字典中，计数加 1
+    if host in blacklist_dict:
+        blacklist_dict[host] += 1
+    # 如果 host 不在字典中，加入并初始化计数为 1
+    else:
+        blacklist_dict[host] = 1
+# 将结果保存为 txt 文件
+def save_blackhost_to_txt(filename=f"{datetime.now().strftime("%Y%m%d_%H_%M_%S")}_blackhost_count.txt"):
+    with open(filename, "w") as file:
+        for host, count in blacklist_dict.items():
+            file.write(f"{host}: {count}\n")
+    print(f"结果已保存到 {filename}")
 
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-        'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
         'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', 
         'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',  # 【2024-08-01 10:40:29】
@@ -285,16 +307,12 @@ if __name__ == "__main__":
         'http://kxrj.site:55/lib/kx2024.txt',   # 【2024-08-07】
         'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   # 2024-08-05 每天更新一次，量太多转到blacklist处理
         'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   # 【2024-08-07】#每日更新2次
-        #'https://wzsvip.github.io/ipv4.txt',   # 【2024-08-08】
-        #'https://wzsvip.github.io/ipv4.m3u',   # 【2024-08-08】
         'http://wz.42web.io/ipv4.txt',   # 【2024-08-08】
-        #'http://ttkx.live:55/lib/kx2024.txt',   # 【2024-08-10】每日更新3次，移动到main.py
-        #'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',   # 【2024-08-10】
         'http://yuhuahx.com/dsj66.txt',   # 【2024-08-14】
         'https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt',  # 【2024-08-20】
-        #'http://xhztv.top/tvlive.txt',  # 【2024-08-20】
         'https://raw.githubusercontent.com/Andreayoo/ming/main/IPTV.txt', #【2024-08-24】
-        'http://gg.gg/cctvgg'   # 【2024-08-10】
+        'http://gg.gg/cctvgg',   # 【2024-08-10】
+        'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
         #'',
         #''
     ]
@@ -317,6 +335,8 @@ if __name__ == "__main__":
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
     lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
+    #lines=urls_all_lines  # Test
+    
     # 计算合并后合计个数
     urls_hj_before = len(lines)
 
@@ -411,6 +431,8 @@ if __name__ == "__main__":
     print(f"urls_hj去重后: {urls_hj} ")
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
+
+    save_blackhost_to_txt()
             
 for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
     print(statistics)
