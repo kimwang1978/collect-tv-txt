@@ -22,6 +22,7 @@ urls = [
     'https://m3u.ibert.me/txt/ycl_iptv.txt',
     'https://m3u.ibert.me/txt/y_g.txt',
     'https://m3u.ibert.me/txt/j_home.txt',
+    'https://raw.githubusercontent.com/zzj2678/IPTV/main/zjpd.txt',
     'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
     'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', #每天早晚各自动更新1次 2024-06-03 17:50
