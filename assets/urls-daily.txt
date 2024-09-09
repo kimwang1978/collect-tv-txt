@@ -5,6 +5,7 @@ https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
 http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
+https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
@@ -35,3 +36,4 @@ https://tvkj.top/tvlive.txt
 https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
 https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
 https://raw.githubusercontent.com/xxoo-qx/IPTV/main/LIVE.txt
+http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
