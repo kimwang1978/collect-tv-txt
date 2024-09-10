@@ -78,6 +78,7 @@ CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
 CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
 CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
 
+
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -109,6 +110,8 @@ CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV5,https://stream1.freetv.fun/ipv6-cctv-5-12.m3u8
 
 CCTV1,http://101.200.122.188/tv/migu085.php?id=cctv1
 CCTV2,http://101.200.122.188/tv/migu085.php?id=cctv2
