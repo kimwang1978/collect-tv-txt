@@ -312,6 +312,7 @@ if __name__ == "__main__":
         'https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt',  # 【2024-08-20】
         'https://raw.githubusercontent.com/Andreayoo/ming/main/IPTV.txt', #【2024-08-24】
         'http://gg.gg/cctvgg',   # 【2024-08-10】
+        'https://2883.kstore.space/%E2%91%A0%E7%8C%ABTV%E7%BA%BF%E8%B7%AF',   # 【2024-09-10】
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
         #'',
         #''
