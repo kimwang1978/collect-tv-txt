@@ -20,7 +20,6 @@ https://m3u.ibert.me/txt/j_home.txt
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
 https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt
-https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt
 https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
 https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
