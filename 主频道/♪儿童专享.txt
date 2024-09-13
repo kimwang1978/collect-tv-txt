@@ -1,4 +1,3 @@
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 CCTV14,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
 CCTV14,http://115.234.196.165:8808/udp/233.50.200.103:5140
 CCTV14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
@@ -7,10 +6,12 @@ CCTV14,http://101.200.122.188/tv/migu085.php?id=cctv14
 CCTV14,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv14
 CCTV14,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/
+CCTV14,https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
 CCTV14,http://101.65.32.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+▶️獅子王,https://v11.fentvoss.com/sdv11/202406/18/UR1TbMCj2U3/video/index.m3u8
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 海绵宝宝,http://diyp.zxxoo.work/huya/11352919
@@ -25,3 +26,4 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
 金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086

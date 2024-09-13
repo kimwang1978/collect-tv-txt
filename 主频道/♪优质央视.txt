@@ -247,3 +247,5 @@ CCTV12,http://101.65.32.166:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&a
 CCTV13,http://101.65.32.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://101.65.32.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://101.65.32.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+
+CCTV14,https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8
