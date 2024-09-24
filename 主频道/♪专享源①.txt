@@ -1,4 +1,5 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+🌦️中国天气,http://rihou.cc:555/cqyx.php?id=zgtq
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8 
 🐼熊猫在线🥈,http://120.77.28.4:8648/mgu.php?id=xmpd
 NEWTV超级电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
@@ -22,6 +23,7 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 BestTV星光院线,http://117.161.12.118/live/program/live/xgyy8m/8000000/mnf.m3u8
 BestTV全球大片,http://iptv.yjxfz.com:80/tv/play/4/65849643J366N40D/5689EI8401E9E08I$IPV4_源1
 BestTV全球大片,http://117.161.12.118/live/program/live/qqdp8m/8000000/mnf.m3u8
