@@ -93,6 +93,12 @@ CHC影迷电影,http://iptv.yjxfz.com:80/tv/play/4/A679E1834NJEJ63E/5689EI8401E9
 ▶️魔戒二部曲：雙城奇謀,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
 ▶️魔戒三部曲：王者再臨,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
 ▶️魔戒三部曲：王者再臨,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
+▶️哈利波特：死神的聖物Ⅰ,https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
+▶️哈利波特：消失的密室,https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
+▶️哈利波特：混血王子的背叛,https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
+▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
+▶️哈利波特：神秘的魔法石,https://s2.fsvod1.com/20220301/A2jwRRDZ/index.m3u8
+▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
 🎞️琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 🎞️芈月传,http://cfss.cc/cdn/hy/11352975.m3u8
 🎞️知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
