@@ -43,7 +43,6 @@ def process_url(url):
     try:
         # 创建一个请求对象并添加自定义header
         req = urllib.request.Request(url)
-        # 添加header信息
         req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
 
         # 打开URL并读取内容
