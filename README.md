@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 > 关注获取更多信息，有问题公众号留言。
 
-> 公平起见，考虑把赞赏的朋友建个微信群交流倾听反馈。公众号私信对接暗号：咖啡来了！
+> 公平起见赞赏的朋友加微信群交流。公众号私信暗号：咖啡来了！
 
 ![image](./assets/Gongzhonghao+appreciate.png)
 

@@ -38,7 +38,9 @@ def check_url(url, timeout=6):
                     success = True
         elif url.startswith("p3p"):
             success = check_p3p_url(url, timeout)
-        elif url.startswith("rtmp"):
+        elif url.startswith("p2p"):
+            success = check_p2p_url(url, timeout)        
+        elif url.startswith("rtmp") or url.startswith("rtsp") :
             success = check_rtmp_url(url, timeout)
         elif url.startswith("rtp"):
             success = check_rtp_url(url, timeout)
@@ -107,6 +109,34 @@ def check_p3p_url(url, timeout):
             
             # 简单判断是否收到有效响应
             if b"P3P" in response:
+                return True
+    except Exception as e:
+        print(f"Error checking {url}: {e}")
+    return False
+
+def check_p2p_url(url, timeout):
+    try:
+        # 解析URL
+        parsed_url = urlparse(url)
+        host = parsed_url.hostname
+        port = parsed_url.port
+        path = parsed_url.path
+
+        # 检查解析是否成功
+        if not host or not port or not path:
+            raise ValueError("Invalid P2P URL")
+
+        # 创建一个 TCP 连接
+        with socket.create_connection((host, port), timeout=timeout) as s:
+            # 自定义请求，这里只是一个占位符，需根据具体协议定义
+            request = f"YOUR_CUSTOM_REQUEST {path}\r\nHost: {host}\r\n\r\n"
+            s.sendall(request.encode())
+            
+            # 读取响应
+            response = s.recv(1024)
+            
+            # 自定义响应解析，这里简单示例
+            if b"SOME_EXPECTED_RESPONSE" in response:
                 return True
     except Exception as e:
         print(f"Error checking {url}: {e}")
