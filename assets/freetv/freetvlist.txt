@@ -210,12 +210,6 @@
 [BD]chc动作高清
 [BD]chc动作电影
 [BD]chc-动作电影
-[BD]chc电影
-[BD]lotus macau hd
-[BD]news24
-[BD]nfl channel
-[BD]rt documentary
-[BD]rt français
 [BD]sctv-4高清
 [BD]安徽｜影视
 [BD]安徽影视
@@ -591,7 +585,6 @@
 [BD]陕西卫视
 [BD]鲁山新闻综合
 [BD]齐齐哈尔新闻综合
-[HD]can news
 [HD]cctv1
 [HD]cctv-1
 [HD]cctv11
@@ -854,7 +847,6 @@
 [HD]amc电影
 [HD]elta生活英语
 [HD]tvbs欢乐
-[HD]xy plus 24
 [HD]緯來日本
 [HD]緯來體育
 [HD]華視

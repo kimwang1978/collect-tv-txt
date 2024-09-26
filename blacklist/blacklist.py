@@ -9,6 +9,8 @@ import subprocess #check rtmp源
 
 timestart = datetime.now()
 
+BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com"]
+
 # 读取文件内容
 def read_txt_file(file_path):
     skip_strings = ['#genre#']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 

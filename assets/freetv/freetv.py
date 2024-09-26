@@ -7,6 +7,30 @@ from datetime import datetime
 # 定义
 freetv_lines = []
 
+#读取修改频道名称方法
+def load_modify_name(filename):
+    corrections = {}
+    with open(filename, 'r', encoding='utf-8') as f:
+        for line in f:
+            parts = line.strip().split(',')
+            correct_name = parts[0]
+            for name in parts[1:]:
+                corrections[name] = correct_name
+    return corrections
+
+#读取修改字典文件
+rename_dic = load_modify_name('assets/freetv/freetv_rename.txt')
+
+#纠错频道名称
+def rename_channel(corrections, data):
+    corrected_data = []
+    for line in data:
+        name, url = line.split(',', 1)
+        if name in corrections and name != corrections[name]:
+            name = corrections[name]
+        corrected_data.append(f"{name},{url}")
+    return corrected_data
+
 #读取文本方法
 def read_txt_to_array(file_name):
     try:
@@ -24,6 +48,9 @@ def read_txt_to_array(file_name):
 # 组织过滤后的freetv
 def process_channel_line(line):
     if  "#genre#" not in line and "," in line and "://" in line:
+        channel_name, channel_address = line.split(',', 1)
+        channel_address=channel_address+"$"+channel_name.strip().replace(' ', '_')
+        line=channel_name+","+channel_address
         freetv_lines.append(line.strip())
 
 
@@ -61,9 +88,9 @@ def process_url(url):
                 if  "#genre#" not in line and "," in line and "://" in line:
                     # 拆分成频道名和URL部分
                     channel_name, channel_address = line.split(',', 1)
-                    #需要加处理带#号源=予加速源
+                    
                     if channel_name in freetv_dictionary:
-                        process_channel_line(line) # 如果没有井号，则照常按照每行规则进行分发
+                        process_channel_line(line) 
 
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
@@ -85,7 +112,7 @@ for url in urls:
 # 
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 output_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["freetv,#genre#"] + sorted(set(freetv_lines))
+             ["freetv,#genre#"] + sorted(set(rename_channel(rename_dic,freetv_lines)))
 
 # 将合并后的文本写入文件
 output_file = "assets/freetv/freetv_output.txt"
