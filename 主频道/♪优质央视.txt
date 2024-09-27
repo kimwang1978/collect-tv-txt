@@ -1,6 +1,6 @@
-CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/index.m3u8
+CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 
 CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
 CCTV2,http://123.114.19.80:4000/rtp/239.3.1.60:8084
