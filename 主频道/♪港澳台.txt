@@ -9,6 +9,7 @@
 翡翠台,https://test.zapi.us.kg/?id=feicui
 翡翠台,http://124.244.149.194:65530/bysid/1
 翡翠台,http://iptviptv.site:9694/hls/99/index.m3u8
+无线翡翠,http://8.137.59.151:3009/TV2/gat.php?id=4
 明珠台,http://124.244.149.194:65531/bysid/2
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
@@ -19,6 +20,10 @@
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv
 广东民生,http://113.67.165.237:8888/rtp/239.77.0.225:5146$1920x1080
