@@ -54,18 +54,6 @@ def process_channel_line(line):
         freetv_lines.append(line.strip())
 
 
-        # channel_name=line.split(',')[0].strip()
-        # channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
-        # line=channel_name+","+channel_address #重新组织line
-
-        # if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
-        #     # 根据行内容判断存入哪个对象，开始分发
-        #     if "CCTV" in channel_name and check_url_existence(ys_lines, channel_address) : #央视频道
-        #         ys_lines.append(process_name_string(line.strip()))
-        #     elif channel_name in Olympics_2024_Paris_dictionary and check_url_existence(Olympics_2024_Paris_lines, channel_address): #奥运频道 ADD 2024-08-05
-        #         Olympics_2024_Paris_lines.append(process_name_string(line.strip()))
-           
-
 def process_url(url):
     try:
         # 创建一个请求对象并添加自定义header
