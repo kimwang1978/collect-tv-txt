@@ -26,6 +26,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv
 广东民生,http://113.67.165.237:8888/rtp/239.77.0.225:5146$1920x1080
 广东民生,http://116.4.96.235:4080/rtp/239.77.0.225:5146$1920x1080
