@@ -27,42 +27,58 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         
-    # 新增步骤：拉取外部仓库代码
+    # 拉取外部仓库代码
     - name: Clone external repository (collect-tv-txt)
       run: |
         git clone https://github.com/kimwang1978/collect-tv-txt
         cd collect-tv-txt
-        git pull origin main  # 确保拉取最新代码
-        
-    - name: Run Python script
-      run: python main.py  # 确保 main.py 使用正确的路径
+        git pull origin main  # 拉取最新代码
 
+    # 列出文件，确保文件存在
+    - name: List files in external repository (debugging)
+      run: |
+        cd collect-tv-txt
+        ls -la  # 列出所有文件，确认merged_output_simple.txt 和 merged_output_simple.m3u是否存在
+
+    # 运行 Python 脚本
+    - name: Run Python script
+      run: |
+        cd collect-tv-txt
+        python main.py  # 确保 main.py 使用正确的路径
+
+    # 上传生成的文件
     - name: Upload generated files
       uses: actions/upload-artifact@v4
       with:
         name: generated-files
         path: |
-          merged_output.txt
-          others_output.txt
-          
+          collect-tv-txt/merged_output.txt
+          collect-tv-txt/merged_output.m3u
+          collect-tv-txt/merged_output_simple.txt
+          collect-tv-txt/merged_output_simple.m3u
+          collect-tv-txt/others_output.txt
+
+    # 提交更改
     - name: Commit changes
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add merged_output.txt
-          git add merged_output.m3u
-          git add merged_output_simple.txt
-          git add merged_output_simple.m3u
-          git add others_output.txt
-          git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
+          git add collect-tv-txt/merged_output.txt
+          git add collect-tv-txt/merged_output.m3u
+          git add collect-tv-txt/merged_output_simple.txt
+          git add collect-tv-txt/merged_output_simple.m3u
+          git add collect-tv-txt/others_output.txt
+          git commit -m ":tada: AutoUpdate $(date +'%Y%m%d')"
 
+          # 将文件归档到带时间戳的文件夹
           current_datetime=$(date +"%Y%m%d_%H%M%S")
-          cp merged_output.txt history/"${current_datetime}_merged_output.txt"
-          cp others_output.txt history/"${current_datetime}_others_output.txt"
+          cp collect-tv-txt/merged_output.txt history/"${current_datetime}_merged_output.txt"
+          cp collect-tv-txt/others_output.txt history/"${current_datetime}_others_output.txt"
           git add history/"${current_datetime}_merged_output.txt"
           git add history/"${current_datetime}_others_output.txt"
           git commit -m "Archive file with timestamp"
           
+    # 推送更改
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
