@@ -32,7 +32,7 @@ jobs:
       run: |
         git clone https://github.com/kimwang1978/collect-tv-txt
         cd collect-tv-txt
-        git pull origin master  # 确保拉取最新代码
+        git pull origin main  # 确保拉取最新代码
         
     - name: Run Python script
       run: python main.py  # 确保 main.py 使用正确的路径
