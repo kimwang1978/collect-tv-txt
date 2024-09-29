@@ -48,12 +48,14 @@ jobs:
         git merge upstream/main || echo "Merge conflicts detected. Resolving automatically."
 
     # 自动解决合并冲突
-    - name: Resolve merge conflicts
+    # 当发生合并冲突时，保留上游版本的代码
+    - name: Resolve merge conflicts automatically
       run: |
-        git merge --abort || true  # 如果之前有未完成的合并，先放弃它
+        git merge --abort || true  # 放弃之前未完成的合并
         git checkout --theirs .    # 保留上游的更改，丢弃本地更改
         git add .                  # 标记冲突已解决
         git commit -m "Resolved merge conflicts by keeping upstream changes" || echo "No conflicts to resolve."
+
 
     # 提交并推送合并后的代码
     - name: Commit and push changes
