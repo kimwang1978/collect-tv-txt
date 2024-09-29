@@ -13,7 +13,7 @@ jobs:
     - name: Checkout this repository
       uses: actions/checkout@v2
       with:
-        persist-credentials: false  # 避免使用 fork 的 token
+        persist-credentials: false  # 禁用默认凭证，以便我们使用 GITHUB_TOKEN
     
     # 设置 Git 用户身份
     - name: Set up Git config
@@ -25,16 +25,19 @@ jobs:
     - name: Create backup branch
       run: |
         git checkout -b backup-$(date +'%Y%m%d')
+        
+        # 使用 GITHUB_TOKEN 配置推送远程仓库的身份验证
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        
+        # 推送备份分支到远程仓库
         git push origin backup-$(date +'%Y%m%d')
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub 提供的 Token 进行推送
 
     # 设置上游远程仓库，并拉取上游最新的更改
     - name: Set up upstream and fetch changes
       run: |
-        git remote add upstream https://github.com/https://github.com/kimwang1978/collect-tv-txt.git  # 替换为原项目地址
+        git remote add upstream https://github.com/原项目的地址.git  # 替换为上游仓库地址
         git fetch upstream
-        git checkout main  # 确保在 main 分支
+        git checkout main  # 切换回 main 分支
         git merge upstream/main || echo "Merge conflicts detected. Please resolve them manually."
 
     # 如果有合并冲突，停止工作流
@@ -57,54 +60,12 @@ jobs:
           echo "No changes to commit."
         else
           git commit -m ":tada: Auto-merge upstream changes"
+          
+          # 使用 GITHUB_TOKEN 配置推送远程仓库的身份验证
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          # 推送到主分支
           git push origin main
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  run_jobs:
-    needs: sync_with_upstream  # 在合并完成后运行
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.10'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-
-    - name: Run Python script
-      run: |
-        python main.py  # 替换为你的实际脚本路径和命令
-
-    # 上传生成的文件
-    - name: Upload generated files
-      uses: actions/upload-artifact@v4
-      with:
-        name: generated-files
-        path: |
-          merged_output.txt
-          merged_output.m3u
-          merged_output_simple.txt
-          merged_output_simple.m3u
-          others_output.txt
-
-    # 提交生成的文件
-    - name: Commit generated files
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        
-        git add merged_output.txt merged_output.m3u merged_output_simple.txt merged_output_simple.m3u others_output.txt || true
-        
-        # 提交更改并推送
-        if git diff --cached --quiet; then
-          echo "No new generated files to commit."
-        else
-        
