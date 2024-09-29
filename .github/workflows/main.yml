@@ -1,50 +1,79 @@
-name: 'Daily Job'
+name: 'Sync Fork with Upstream and Run Jobs'
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天UTC时间00:00运行
-  workflow_dispatch:
-    inputs:
-      environment:
-        description: 'Environment to deploy to'
-        required: true
-        default: 'production'
+    - cron: '0 1 * * *'  # 每天 UTC 时间 01:00 自动运行
+  workflow_dispatch:  # 手动触发
 
 jobs:
-  run_job:
+  sync_with_upstream:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout this repository
       uses: actions/checkout@v2
-      
+      with:
+        persist-credentials: false  # 使用自己的 GITHUB_TOKEN
+
+    # 备份当前分支，防止修改丢失
+    - name: Create backup branch
+      run: |
+        git checkout -b backup-$(date +'%Y%m%d')
+        git push origin backup-$(date +'%Y%m%d')
+
+    # 设置上游远程仓库，并拉取上游最新的更改
+    - name: Set up upstream and fetch changes
+      run: |
+        git remote add upstream https://github.com/https://github.com/kimwang1978/collect-tv-txt.git  # 替换为原项目地址
+        git fetch upstream
+        git checkout main  # 确保在 main 分支
+        git merge upstream/main || echo "Merge conflicts detected. Please resolve them manually."
+
+    # 如果有合并冲突，停止工作流
+    - name: Check for merge conflicts
+      run: |
+        if git ls-files -u | grep -q '^'; then
+          echo "Merge conflicts found, stopping the workflow."
+          exit 1
+        fi
+
+    # 自动化合并成功后，提交并推送到 fork
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+
+        # 如果有更改则提交
+        git add .
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m ":tada: Auto-merge upstream changes"
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  run_jobs:
+    needs: sync_with_upstream  # 在合并完成后运行
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.10'
-        
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        
-    # 拉取外部仓库代码
-    - name: Clone external repository (collect-tv-txt)
-      run: |
-        git clone https://github.com/kimwang1978/collect-tv-txt
-        cd collect-tv-txt
-        git pull origin main  # 拉取最新代码
 
-    # 列出文件，确保文件存在
-    - name: List files in external repository (debugging)
-      run: |
-        cd collect-tv-txt
-        ls -la  # 列出所有文件，确认merged_output_simple.txt 和 merged_output_simple.m3u是否存在
-
-    # 运行 Python 脚本
     - name: Run Python script
       run: |
-        cd collect-tv-txt
-        python main.py  # 确保 main.py 使用正确的路径
+        python main.py  # 替换为你的实际脚本路径和命令
 
     # 上传生成的文件
     - name: Upload generated files
@@ -52,52 +81,26 @@ jobs:
       with:
         name: generated-files
         path: |
-          collect-tv-txt/merged_output.txt
-          collect-tv-txt/merged_output.m3u
-          collect-tv-txt/merged_output_simple.txt
-          collect-tv-txt/merged_output_simple.m3u
-          collect-tv-txt/others_output.txt
+          merged_output.txt
+          merged_output.m3u
+          merged_output_simple.txt
+          merged_output_simple.m3u
+          others_output.txt
 
-    # 提交更改
-    - name: Commit changes
+    # 提交生成的文件
+    - name: Commit generated files
       run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-
-          # 确保正确添加需要提交的文件
-          git add collect-tv-txt/merged_output.txt || true
-          git add collect-tv-txt/merged_output.m3u || true
-          git add collect-tv-txt/merged_output_simple.txt || true
-          git add collect-tv-txt/merged_output_simple.m3u || true
-          git add collect-tv-txt/others_output.txt || true
-
-          # 检查是否有文件被添加到暂存区
-          if git diff --cached --quiet; then
-              echo "No changes to commit"
-              exit 0
-          fi
-
-          # 提交更改
-          git commit -m ":tada: AutoUpdate $(date +'%Y%m%d')"
-
-          # 将文件归档到带时间戳的文件夹
-          current_datetime=$(date +"%Y%m%d_%H%M%S")
-          cp collect-tv-txt/merged_output.txt history/"${current_datetime}_merged_output.txt"
-          cp collect-tv-txt/others_output.txt history/"${current_datetime}_others_output.txt"
-          git add history/"${current_datetime}_merged_output.txt"
-          git add history/"${current_datetime}_others_output.txt"
-
-          # 检查是否有文件归档后被添加
-          if git diff --cached --quiet; then
-              echo "No archive changes to commit"
-              exit 0
-          fi
-
-          # 提交归档文件
-          git commit -m "Archive file with timestamp"
-          
-    # 推送更改
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        
+        git add merged_output.txt merged_output.m3u merged_output_simple.txt merged_output_simple.m3u others_output.txt || true
+        
+        # 提交更改并推送
+        if git diff --cached --quiet; then
+          echo "No new generated files to commit."
+        else
+          git commit -m "Update generated files"
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
