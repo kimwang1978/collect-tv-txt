@@ -13,13 +13,21 @@ jobs:
     - name: Checkout this repository
       uses: actions/checkout@v2
       with:
-        persist-credentials: false  # 使用自己的 GITHUB_TOKEN
+        persist-credentials: false  # 避免使用 fork 的 token
+    
+    # 设置 Git 用户身份
+    - name: Set up Git config
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
 
     # 备份当前分支，防止修改丢失
     - name: Create backup branch
       run: |
         git checkout -b backup-$(date +'%Y%m%d')
         git push origin backup-$(date +'%Y%m%d')
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub 提供的 Token 进行推送
 
     # 设置上游远程仓库，并拉取上游最新的更改
     - name: Set up upstream and fetch changes
@@ -99,8 +107,4 @@ jobs:
         if git diff --cached --quiet; then
           echo "No new generated files to commit."
         else
-          git commit -m "Update generated files"
-          git push origin main
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
