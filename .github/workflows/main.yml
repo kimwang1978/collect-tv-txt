@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
+    - name: Checkout this repository
       uses: actions/checkout@v2
       
     - name: Set up Python
@@ -27,9 +27,16 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         
+    # 新增步骤：拉取外部仓库代码
+    - name: Clone external repository (collect-tv-txt)
+      run: |
+        git clone https://github.com/kimwang1978/collect-tv-txt
+        cd collect-tv-txt
+        git pull origin master  # 确保拉取最新代码
+        
     - name: Run Python script
-      run: python main.py
-      
+      run: python main.py  # 确保 main.py 使用正确的路径
+
     - name: Upload generated files
       uses: actions/upload-artifact@v4
       with:
@@ -44,6 +51,8 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add merged_output.txt
           git add merged_output.m3u
+          git add merged_output_simple.txt
+          git add merged_output_simple.m3u
           git add others_output.txt
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
@@ -58,5 +67,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    
-        
