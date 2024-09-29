@@ -30,12 +30,12 @@ jobs:
         # 使用 GITHUB_TOKEN 配置推送远程仓库的身份验证
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         
-        # 尝试拉取远程分支并合并
+        # 拉取远程分支并尝试合并不相关的历史
         git fetch origin backup-$(date +'%Y%m%d') || true
-        git merge origin/backup-$(date +'%Y%m%d') || true
+        git merge origin/backup-$(date +'%Y%m%d') --allow-unrelated-histories || true
 
-        # 推送备份分支到远程仓库
-        git push origin backup-$(date +'%Y%m%d')
+        # 推送备份分支到远程仓库，如果失败则强制推送
+        git push origin backup-$(date +'%Y%m%d') || git push --force origin backup-$(date +'%Y%m%d')
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
