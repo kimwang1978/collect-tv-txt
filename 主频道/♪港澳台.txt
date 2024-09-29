@@ -28,7 +28,7 @@ TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv
+广东民生,http://116.28.125.46:7777/udp/239.77.0.225:5146
 广东民生,http://113.67.165.237:8888/rtp/239.77.0.225:5146$1920x1080
 广东民生,http://116.4.96.235:4080/rtp/239.77.0.225:5146$1920x1080
 广东民生,http://113.93.54.251:5555/rtp/239.77.0.225:5146$1920x1080
@@ -37,10 +37,10 @@ TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 广东民生,http://113.93.54.251:5555/rtp/239.77.0.5:5146
 广东民生,http://113.116.43.148:5000/rtp/239.77.0.5:5146
 广东民生,http://116.4.96.235:4080/udp/239.77.0.225:5146
-广东民生,http://116.28.125.46:7777/udp/239.77.0.225:5146
 广东民生,http://116.21.121.30:4021/udp/239.77.0.5:5146
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-7.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-5.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-4.ctv
 广东民生,http://116.4.96.235:4080/udp/239.77.0.5:5146
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv
