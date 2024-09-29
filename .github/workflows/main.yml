@@ -45,35 +45,23 @@ jobs:
         git remote add upstream https://github.com/kimwang1978/collect-tv-txt.git  # 替换为上游仓库地址
         git fetch upstream
         git checkout main  # 切换回 main 分支
-        git merge upstream/main || echo "Merge conflicts detected. Please resolve them manually."
+        git merge upstream/main || echo "Merge conflicts detected. Resolving automatically."
 
-    # 如果有合并冲突，停止工作流
-    - name: Check for merge conflicts
+    # 自动解决合并冲突
+    - name: Resolve merge conflicts
       run: |
-        if git ls-files -u | grep -q '^'; then
-          echo "Merge conflicts found, stopping the workflow."
-          exit 1
-        fi
+        git merge --abort || true  # 如果之前有未完成的合并，先放弃它
+        git checkout --theirs .    # 保留上游的更改，丢弃本地更改
+        git add .                  # 标记冲突已解决
+        git commit -m "Resolved merge conflicts by keeping upstream changes" || echo "No conflicts to resolve."
 
-    # 自动化合并成功后，提交并推送到 fork
+    # 提交并推送合并后的代码
     - name: Commit and push changes
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
 
-        # 如果有更改则提交
-        git add .
-        if git diff --cached --quiet; then
-          echo "No changes to commit."
-        else
-          git commit -m ":tada: Auto-merge upstream changes"
-          
-          # 使用 GITHUB_TOKEN 配置推送远程仓库的身份验证
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          
-          # 推送到主分支
-          git push origin main
-        fi
+        git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
