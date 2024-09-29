@@ -63,11 +63,21 @@ jobs:
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add collect-tv-txt/merged_output.txt
-          git add collect-tv-txt/merged_output.m3u
-          git add collect-tv-txt/merged_output_simple.txt
-          git add collect-tv-txt/merged_output_simple.m3u
-          git add collect-tv-txt/others_output.txt
+
+          # 确保正确添加需要提交的文件
+          git add collect-tv-txt/merged_output.txt || true
+          git add collect-tv-txt/merged_output.m3u || true
+          git add collect-tv-txt/merged_output_simple.txt || true
+          git add collect-tv-txt/merged_output_simple.m3u || true
+          git add collect-tv-txt/others_output.txt || true
+
+          # 检查是否有文件被添加到暂存区
+          if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+          fi
+
+          # 提交更改
           git commit -m ":tada: AutoUpdate $(date +'%Y%m%d')"
 
           # 将文件归档到带时间戳的文件夹
@@ -76,6 +86,14 @@ jobs:
           cp collect-tv-txt/others_output.txt history/"${current_datetime}_others_output.txt"
           git add history/"${current_datetime}_merged_output.txt"
           git add history/"${current_datetime}_others_output.txt"
+
+          # 检查是否有文件归档后被添加
+          if git diff --cached --quiet; then
+              echo "No archive changes to commit"
+              exit 0
+          fi
+
+          # 提交归档文件
           git commit -m "Archive file with timestamp"
           
     # 推送更改
