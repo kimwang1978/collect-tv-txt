@@ -42,7 +42,7 @@ jobs:
     # 设置上游远程仓库，并拉取上游最新的更改
     - name: Set up upstream and fetch changes
       run: |
-        git remote add upstream https://github.com/https://github.com/kimwang1978/collect-tv-txt.git  # 替换为上游仓库地址
+        git remote add upstream https://github.com/kimwang1978/collect-tv-txt.git  # 替换为上游仓库地址
         git fetch upstream
         git checkout main  # 切换回 main 分支
         git merge upstream/main || echo "Merge conflicts detected. Please resolve them manually."
