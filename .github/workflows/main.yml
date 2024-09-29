@@ -52,7 +52,7 @@ jobs:
     - name: Resolve merge conflicts automatically
       run: |
         git merge --abort || true  # 放弃之前未完成的合并
-        git checkout --theirs .    # 保留上游的更改，丢弃本地更改
+        git checkout --ours .    # 保留上游的更改，丢弃本地更改
         git add .                  # 标记冲突已解决
         git commit -m "Resolved merge conflicts by keeping upstream changes" || echo "No conflicts to resolve."
 
