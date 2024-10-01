@@ -492,10 +492,11 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
-
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+about_video="https://public.sn.files.1drv.com/y4mOtyKvP4591IZX-gdZCrC3ZmzVmCiUyLQOITjpAMq14fGkJr1drXYECSnWP9awlJbrHkJ8YiP6s3py2XLA7F5Hf81n-59jcuGXHh6IkRdkpRAV-c7ONNkj9QG7FF407_IxtWZm4aFEXXZwzXO6lYb7LefpwNQ8ZsFz4PiEyHNWTQytWbyAZGO9TLz1qAh5hMB/Gongzhonghao+appreciate.mp4"
+version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
+about="关于本源,"+about_video
 # 瘦身版
-all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
