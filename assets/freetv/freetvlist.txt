@@ -1,4 +1,3 @@
-[BD]brtv新闻
 [BD]cctv 13
 [BD]cctv 16
 [BD]cctv 17
@@ -211,6 +210,7 @@
 [BD]chc动作电影
 [BD]chc-动作电影
 [BD]sctv-4高清
+[BD]brtv新闻
 [BD]安徽｜影视
 [BD]安徽影视
 [BD]安徽国际

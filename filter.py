@@ -8,6 +8,8 @@ from urllib.error import URLError, HTTPError
 import cv2
 import requests
 
+import random
+
 def read_txt_to_array(file_name):
     try:
         with open(file_name, 'r', encoding='utf-8') as file:
@@ -22,7 +24,15 @@ def read_txt_to_array(file_name):
         return []
     
 
-
+# 随机获取User-Agent,留着将来备用
+def get_random_user_agent():
+    USER_AGENTS = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+    ]
+    return random.choice(USER_AGENTS)
 
 # 检测URL是否可访问并记录响应时间
 def check_url(url, timeout=6):
