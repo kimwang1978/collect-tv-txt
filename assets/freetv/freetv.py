@@ -86,7 +86,14 @@ def process_url(url):
 
 
 #读取文本
-freetv_dictionary=read_txt_to_array('assets/freetv/freetvlist.txt') 
+freetv_dictionary=read_txt_to_array('assets/freetv/freetvlist.txt')  #all
+freetv_dictionary_cctv=read_txt_to_array('assets/freetv/freetvlist_cctv.txt')   #二次分发cctv，单独存
+freetv_dictionary_ws=read_txt_to_array('assets/freetv/freetvlist_ws.txt')   #二次分发卫视，单独存
+
+freetv_cctv_lines = []
+freetv_ws_lines = []
+freetv_other_lines = []
+
 
 # 定义
 urls = ["https://freetv.fun/test_channels_original_new.txt"]
@@ -97,18 +104,73 @@ for url in urls:
     process_url(url)
 
 
-# 
+# freetv_all
+freetv_lines_renamed=rename_channel(rename_dic,freetv_lines)
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 output_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["freetv,#genre#"] + sorted(set(rename_channel(rename_dic,freetv_lines)))
+             ["freetv,#genre#"] + sorted(set(freetv_lines_renamed))
 
-# 将合并后的文本写入文件
+# 将合并后的文本写入文件：全集
 output_file = "assets/freetv/freetv_output.txt"
 try:
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in output_lines:
             f.write(line + '\n')
     print(f"已保存到文件: {output_file}")
+
+except Exception as e:
+    print(f"保存文件时发生错误：{e}")
+
+# # # # # # # # # # # # # # # # # # # # # # # 分批再次保存
+# $去掉
+def clean_url(url):
+    last_dollar_index = url.rfind('$')  # 安全起见找最后一个$处理
+    if last_dollar_index != -1:
+        return url[:last_dollar_index]
+    return url
+
+for line in freetv_lines_renamed:
+    if  "#genre#" not in line and "," in line and "://" in line:
+        channel_name=line.split(',')[0].strip()
+        channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
+        line=channel_name+","+channel_address #重新组织line
+
+        if channel_name in freetv_dictionary_cctv: #央视频道
+            freetv_cctv_lines.append(line.strip())
+        elif channel_name in freetv_dictionary_ws: #卫视频道
+            freetv_ws_lines.append(line.strip())
+        else:
+            freetv_other_lines.append(line.strip())
+
+# freetv_cctv
+output_lines_cctv =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+             ["freetv_cctv,#genre#"] + sorted(set(freetv_cctv_lines))
+# freetv_ws
+output_lines_ws =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+             ["freetv_ws,#genre#"] + sorted(set(freetv_ws_lines))
+# freetv_other
+output_lines_other =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+             ["freetv_other,#genre#"] + sorted(set(freetv_other_lines))
+
+# 再次写入文件：分开
+output_file_cctv = "assets/freetv/freetv_output_cctv.txt"
+output_file_ws = "assets/freetv/freetv_output_ws.txt"
+output_file_other = "assets/freetv/freetv_output_other.txt"
+try:
+    with open(output_file_cctv, 'w', encoding='utf-8') as f:
+        for line in output_lines_cctv:
+            f.write(line + '\n')
+    print(f"已保存到文件: {output_file_cctv}")
+
+    with open(output_file_ws, 'w', encoding='utf-8') as f:
+        for line in output_lines_ws:
+            f.write(line + '\n')
+    print(f"已保存到文件: {output_file_ws}")
+    
+    with open(output_file_other, 'w', encoding='utf-8') as f:
+        for line in output_lines_other:
+            f.write(line + '\n')
+    print(f"已保存到文件: {output_file_other}")
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")

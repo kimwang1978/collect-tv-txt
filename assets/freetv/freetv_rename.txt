@@ -4,7 +4,7 @@
 CCTV1,[BD]cctv1,[BD]cctv-1,[BD]cctv-1 hd,[BD]cctv-1 综合,[BD]cctv1综合,[BD]cctv-1综合,[HD]cctv1,[HD]cctv-1
 CCTV2,[BD]cctv 2,[BD]cctv（hd）2,[BD]cctv02,[BD]cctv2,[BD]cctv2高清,[BD]cctv2财经,[BD]cctv2-财经,[HD]cctv2,[HD]cctv-2 财经,[HD]cctv2财经
 CCTV3,[BD]cctv 3,[BD]cctv（hd）3,[BD]cctv03,[BD]cctv3,[BD]cctv-3,[BD]cctv-3 hd,[BD]cctv-3 综艺,[BD]cctv-3hd,[BD]cctv-3高清,[BD]cctv3综艺,[BD]cctv3-综艺,[BD]cctv-3综艺
-CCTV4,[BD]cctv（hd）4,[BD]cctv04,[BD]cctv-04,[BD]cctv4,[BD]cctv-4,[BD]cctv-4 hd,[BD]cctv-4 中文国际,[BD]cctv-4hd,[BD]cctv4k,[BD]cctv4k高清,[BD]cctv4高清,[BD]cctv-4高清,[BD]cctv4-国际,[BD]cctv4中文国际,[BD]cctv4-中文国际,[BD]cctv-4中文国际,[HD]cctv4,[HD]cctv-4,[HD]cctv4中文国际
+CCTV4,[BD]cctv（hd）4,[BD]cctv04,[BD]cctv-04,[BD]cctv4,[BD]cctv-4,[BD]cctv-4 hd,[BD]cctv-4 中文国际,[BD]cctv-4hd,[BD]cctv4k,[BD]cctv4k高清,[BD]cctv4高清,[BD]cctv-4高清,[BD]cctv4-国际,[BD]cctv4中文国际,[BD]cctv4-中文国际,[BD]cctv-4中文国际,[HD]cctv4,[HD]cctv-4,[HD]cctv4中文国际,[HD]cctv-4 asia
 
 CCTV5,[BD]cctv（hd）5,[BD]cctv5,[BD]cctv-5,[BD]cctv-5 hd,[BD]cctv-5 体育,[BD]cctv51920,[BD]cctv58,[BD]cctv-5hd,[BD]cctv5高清,[BD]cctv-5高清,[BD]cctv5体育,[BD]cctv5-体育,[BD]cctv-5体育,[HD]cctv5 plus,[HD]cctv-5 体育赛事
 CCTV5+,[BD]cctv（hd）5 plus,[BD]cctv5 plus,[BD]cctv5 plus 高清,[BD]cctv5 plus 体育赛事,[BD]cctv-5 plus 体育赛事,[BD]cctv5+,[BD]cctv-5+,[BD]cctv-5＋ hd,[BD]cctv-5＋高清,[BD]cctv5+体育赛事
@@ -33,7 +33,7 @@ CCTV4K,[HD]cctv4k
 
 CETV-1,[HD]cetv-1
 CETV-4,[HD]cetv-4
-cgtn,[HD]cgtn,[BD]
+cgtn,[HD]cgtn,[BD]cgtn
 
 
 cdtv-4,[BD]

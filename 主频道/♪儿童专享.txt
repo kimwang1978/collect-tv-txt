@@ -14,6 +14,7 @@ CCTV14,http://101.65.32.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&a
 ▶️獅子王,https://v11.fentvoss.com/sdv11/202406/18/UR1TbMCj2U3/video/index.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
+CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 海绵宝宝,http://diyp.zxxoo.work/huya/11352919
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hwcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hscdn
