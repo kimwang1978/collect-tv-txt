@@ -1,65 +1,93 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://58.250.155.2:8180/TV00000000000000000032@HHZT
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://iptviptv.site:9694/hls/98/index.m3u8
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://119.125.104.36:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-https://test.zapi.us.kg/?id=feicui
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://124.244.149.194:65530/bysid/1
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓优质个源",翡翠台
-http://iptviptv.site:9694/hls/99/index.m3u8
-#EXTINF:-1 group-title="💓优质个源",明珠台
-http://124.244.149.194:65531/bysid/2
-#EXTINF:-1 group-title="💓优质个源",明珠台
-http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-#EXTINF:-1 group-title="💓优质个源",凤凰中文
+#EXTINF:-1 group-title="💓港澳台",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="💓港澳台",凤凰香港
+http://124.244.149.194:65531/bysid/85
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
 http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="💓优质个源",凤凰中文
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
 http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="💓优质个源",凤凰中文
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
 http://146.56.153.245:20121/bysid/258
-#EXTINF:-1 group-title="💓优质个源",凤凰资讯
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="💓港澳台",凤凰中文
+http://118.112.148.249:4022/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="💓港澳台",凤凰资讯
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+#EXTINF:-1 group-title="💓港澳台",凤凰资讯
 http://146.56.153.245:20121/bysid/257
-#EXTINF:-1 group-title="💓优质个源",有线新闻
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://58.250.155.2:8180/TV00000000000000000032@HHZT
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://iptviptv.site:9694/hls/98/index.m3u8
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://119.125.104.36:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+https://test.zapi.us.kg/?id=feicui
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://124.244.149.194:65530/bysid/1
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png"  group-title="💓港澳台",翡翠台
+http://iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 group-title="💓港澳台",无线翡翠
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="💓港澳台",无线翡翠
+http://8.137.59.151:3009/TV2/gat.php?id=4
+#EXTINF:-1 group-title="💓港澳台",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 group-title="💓港澳台",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="💓港澳台",无线新闻
+http://124.244.149.194:65531/bysid/83
+#EXTINF:-1 group-title="💓港澳台",明珠台
+http://124.244.149.194:65531/bysid/2
+#EXTINF:-1 group-title="💓港澳台",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="💓港澳台",明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="💓港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="💓港澳台",香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="💓港澳台",有线新闻
 p3p://173.208.176.178:19806/655bd22c000147307fdff68936807320
-#EXTINF:-1 group-title="💓优质个源",东森新闻
+#EXTINF:-1 group-title="💓港澳台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="💓优质个源",TVBS新闻
+#EXTINF:-1 group-title="💓港澳台",东森新闻
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="💓优质个源",中天娱乐
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="💓港澳台",中天新闻
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="💓港澳台",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://113.67.165.237:8888/rtp/239.77.0.225:5146$1920x1080
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://116.4.96.235:4080/rtp/239.77.0.225:5146$1920x1080
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://113.93.54.251:5555/rtp/239.77.0.225:5146$1920x1080
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://113.116.43.148:5000/rtp/239.77.0.225:5146$1920x1080
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://116.21.126.41:7777/rtp/239.77.0.5:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://113.93.54.251:5555/rtp/239.77.0.5:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://113.116.43.148:5000/rtp/239.77.0.5:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://116.4.96.235:4080/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://116.28.125.46:7777/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
+#EXTINF:-1 group-title="💓港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="💓港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="💓港澳台",广东民生
 http://116.21.121.30:4021/udp/239.77.0.5:5146
-#EXTINF:-1 group-title="💓优质个源",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-7.ctv
-#EXTINF:-1 group-title="💓优质个源",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-5.ctv
-#EXTINF:-1 group-title="💓优质个源",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-4.ctv
-#EXTINF:-1 group-title="💓优质个源",广东民生
-http://116.4.96.235:4080/udp/239.77.0.5:5146
+#EXTINF:-1 group-title="💓港澳台",广东民生
+http://119.135.1.16:6699/live/1057/index.m3u8
