@@ -14,6 +14,7 @@
 睛彩篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 舌尖上的中国第1季,https://lunbo.freetv.top/yy/1354930952
 舌尖上的中国第2季,https://live.metshop.top/yy/1354930943
 舌尖上的中国第2季,https://www.goodiptv.club/yy/1354930943

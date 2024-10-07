@@ -34,3 +34,4 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
 靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
