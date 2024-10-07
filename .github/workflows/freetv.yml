@@ -35,6 +35,8 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add assets/freetv/freetv_output.txt
+          git add assets/freetv/freetv_output_ws.txt
+          git add assets/freetv/freetv_output_other.txt
           git commit -m ":tv:  (Freetv)AutoUpdate $(date +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
