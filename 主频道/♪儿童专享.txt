@@ -27,6 +27,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 卡酷少儿,http://114.249.5.110:4022/rtp/239.3.1.189:8000?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 优漫卡通,http://106.111.74.38:10001/rtp/239.49.8.119:8000
 优漫卡通,http://ygbh.live/js.php?id=ymkt
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002

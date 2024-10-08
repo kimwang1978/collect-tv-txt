@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 ```
 直播源（txt）短链（Backup）： https://tinyurl.com/tv-live-txt
+直播源（m3u）短链（Backup）： https://tinyurl.com/tv-live-m3u
 
 
 ## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）

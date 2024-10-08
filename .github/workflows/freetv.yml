@@ -2,7 +2,7 @@ name: 'Daily Job(freetv)'
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 每天UTC时间04:00运行
+    - cron: '45 23 * * *'  # 每天UTC时间23:45运行
   workflow_dispatch:
     inputs:
       environment:
