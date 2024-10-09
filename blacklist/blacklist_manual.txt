@@ -1,4 +1,5 @@
 blacklist_manual,#genre#
+CCTV1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 春晚23网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
