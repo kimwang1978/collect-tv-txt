@@ -4,6 +4,10 @@
 凤凰资讯
 翡翠台
 无线翡翠台
+无线新闻
+无线新闻台
+无线新闻频粤
+无线娱乐台
 TVB翡翠
 TVB翡翠台
 TVBS-Asia
@@ -16,6 +20,11 @@ TVBS亚洲台
 TVBS欢乐
 TVB星河
 TVB星河台
+TVB无线新闻
+TVBJ2
+J2
+VIUTV
+VIU
 TW台视新闻
 華語電視2
 華語電視3
