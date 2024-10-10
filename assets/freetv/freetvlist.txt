@@ -890,3 +890,46 @@
 [HD]镜新闻
 [HD]龙华日韩
 [HD]龙华戏剧
+[BD]j2
+[BD]now新聞
+[BD]tv360 plus 6
+[BD]tv360 plus 8
+[BD]tvb 翡翠
+[BD]tvbs新聞
+[BD]tvbs新闻
+[BD]tvbs亞洲
+[BD]tvbs亚洲
+[BD]tvbs亚洲台
+[BD]国际
+[BD]星空卫视
+[BD]第一卫视
+[BD]明珠
+[BD]明珠台
+[BD]有线新闻
+[BD]林正英
+[BD]无线财经
+[BD]翡翠
+[BD]翡翠台
+[BD]凤凰中文
+[BD]凤凰资讯
+[BD]凤凰资讯1
+[BD]环球电视
+[BD]电影01
+[HD]tvbs新闻
+[HD]tvb星河
+[HD]香港c+
+[HD]香港有线新闻
+[HD]美亚电影
+[HD]明珠
+[HD]有线新
+[HD]有线新闻
+[HD]有线新闻台
+[HD]有线财经信息台
+[HD]有线财经资讯
+[HD]耀才财经
+[HD]林正英
+[HD]凤凰香港
+[HD]凤凰中文
+[HD]凤凰卫视
+[HD]凤凰资讯
+[HD]剧集
