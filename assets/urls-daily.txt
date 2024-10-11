@@ -39,3 +39,4 @@ http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+http://1805842a.123nat.com:66/agent/2.txt

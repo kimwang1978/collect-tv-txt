@@ -503,7 +503,7 @@ for whitelist_line in whitelist_auto_lines:
             process_channel_line(",".join(whitelist_parts[1:]))
 
 about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
-about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about480p.mp4"
+about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
 about="关于本源,"+about_video2
 # 瘦身版
