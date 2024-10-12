@@ -502,9 +502,9 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
-about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
+about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
 about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
+version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video1
 about="关于本源,"+about_video2
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
