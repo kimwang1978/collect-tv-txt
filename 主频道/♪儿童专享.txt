@@ -23,6 +23,7 @@ CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 猫和老鼠,http://124.248.69.76:35455/huya/11352879
 卡酷少儿,http://114.249.5.110:4022/rtp/239.3.1.189:8000?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -35,4 +36,8 @@ CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
 靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
 龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+卡酷少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225654/2.m3u8
+哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
+优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8
+金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
