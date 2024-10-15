@@ -11,16 +11,13 @@ CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/i
 CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
 
+CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8
 CCTV5,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://120.77.28.4:8648/mgu.php?id=cctv5
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-
-CCTV5,http://tnvcn.com:8012/rtp/239.3.1.173:8001$北京uni1+
 CCTV5,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8
 CCTV5,http://219.159.147.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
@@ -171,25 +168,6 @@ CCTV12,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1
 CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
-CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
-CCTV3,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv3
-CCTV4,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv4
-CCTV5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
-CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
-CCTV6,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv6
-CCTV7,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv7
-CCTV8,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv8
-
-
-CCTV9,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv9
-CCTV10,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv10
-CCTV11,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv11
-CCTV12,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv12
-CCTV13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
-CCTV14,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv14
-CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15
 
 CCTV1,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
 CCTV1,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/

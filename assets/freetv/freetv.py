@@ -2,7 +2,7 @@ import urllib.request
 from urllib.parse import urlparse
 import re
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 # 定义
 freetv_lines = []
@@ -103,10 +103,16 @@ for url in urls:
     print(f"处理URL: {url}")
     process_url(url)
 
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
 # freetv_all
 freetv_lines_renamed=rename_channel(rename_dic,freetv_lines)
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+version=formatted_time+",url"
 output_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["freetv,#genre#"] + sorted(set(freetv_lines_renamed))
 
