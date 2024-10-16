@@ -193,7 +193,7 @@ def clean_url(url):
 
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
-    if  "#genre#" not in line and "," in line and "://" in line:
+    if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
         line=channel_name+","+channel_address #重新组织line
@@ -753,6 +753,6 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 
 
 #备用1：http://tonkiang.us
-#备用2：https://www.zoomeye.hk
+#备用2：https://www.zoomeye.hk,https://www.shodan.io
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
 
