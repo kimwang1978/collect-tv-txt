@@ -98,6 +98,7 @@ Olympics_2024_Paris_lines = [] #Paris_2024_Olympics  Olympics_2024_Paris ADD 202
 # favorite_lines = []
 
 other_lines = []
+other_lines_url = [] # 为降低other文件大小，剔除重复url添加
 
 def process_name_string(input_str):
     parts = input_str.split(',')
@@ -303,7 +304,10 @@ def process_channel_line(line):
             elif channel_name in mtv_dictionary and check_url_existence(mtv_lines, channel_address):  #MTV
                 mtv_lines.append(process_name_string(line.strip()))
             else:
-                other_lines.append(line.strip())
+                if channel_address not in other_lines_url:
+                    other_lines_url.append(channel_address)   #记录已加url
+                    other_lines.append(line.strip())
+
 
 # 随机获取User-Agent,留着将来备用
 def get_random_user_agent():
@@ -465,8 +469,9 @@ def sort_data(order, data):
 urls = read_txt_to_array('assets/urls-daily.txt')
 # 处理
 for url in urls:
-    print(f"处理URL: {url}")
-    process_url(url)
+    if url.startswith("http"):
+        print(f"处理URL: {url}")
+        process_url(url)
 
 
 

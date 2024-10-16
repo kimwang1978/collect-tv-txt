@@ -40,4 +40,13 @@ CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
 优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
+
+哆啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
+猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
+蜡笔小新,http://cfss.cc/cdn/hy/11352970.m3u8
+
+哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
+猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
+蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970
+
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086

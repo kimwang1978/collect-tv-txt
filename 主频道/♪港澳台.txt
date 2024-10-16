@@ -56,6 +56,7 @@ TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
 闽壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
 民视新闻,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
 寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
 年代新闻,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
@@ -416,6 +417,12 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路2』
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$LR•IPV4『线路14』
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$LR•IPV4『线路15』
 明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路16』
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路2』
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$LR•IPV4『线路3』
@@ -446,15 +453,7 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路2』
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路11』
 东森超视,http://222.186.57.133:22222/php/jspd.php?id=58&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路12』
 东森超视,http://171.108.239.77:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路13』
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=229&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=230&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路2』
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路3』
-东森电影,http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路4』
-东森电影,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
-东森电影,http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv$LR•IPV4『线路6』
-东森电影,http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路7』
-东森电影,http://171.108.239.77:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路8』
-东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$LR•IPV4『线路9』
+
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
@@ -467,3 +466,31 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
 粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
 粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
+
+PopC,https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB Plus,https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新聞台,https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+三立綜合台,https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立財經新聞,https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中天亞洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+寰宇新聞台,https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+无线新闻台(北美),https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+明珠剧集台(北美),https://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+翡翠剧集台(北美),https://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台(泰国),https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠综合台(北美),https://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+龍華經典台,https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
