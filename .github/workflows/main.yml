@@ -50,11 +50,11 @@ jobs:
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
-          cp merged_output.txt history/"${current_datetime}_merged_output.txt"
-          cp others_output.txt history/"${current_datetime}_others_output.txt"
-          git add history/"${current_datetime}_merged_output.txt"
-          git add history/"${current_datetime}_others_output.txt"
-          git commit -m "Archive file with timestamp"
+          # cp merged_output.txt history/"${current_datetime}_merged_output.txt"
+          # cp others_output.txt history/"${current_datetime}_others_output.txt"
+          # git add history/"${current_datetime}_merged_output.txt"
+          # git add history/"${current_datetime}_others_output.txt"
+          # git commit -m "Archive file with timestamp"
 
           # 将归档文件打包zip文件
           zip_filename="history/${current_datetime}_archive_output.zip"

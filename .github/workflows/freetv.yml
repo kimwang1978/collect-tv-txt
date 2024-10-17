@@ -44,6 +44,13 @@ jobs:
           cp assets/freetv/freetv_output.txt history/freetv/"${current_datetime}_freetv_output.txt"
           git add history/freetv/"${current_datetime}_freetv_output.txt"
           git commit -m "(freetv)Archive file with timestamp"
+
+          # 将归档文件打包zip文件
+          zip_filename="${current_datetime}_freetv_output.zip"
+          zip "history/freetv/${zip_filename}" assets/freetv/freetv_output.txt
+          git add "history/freetv/${zip_filename}"
+          git commit -m "(freetv) Archive file as ZIP with timestamp"
+          
           
     - name: Push changes
       uses: ad-m/github-push-action@master
