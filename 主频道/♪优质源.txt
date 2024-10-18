@@ -20,8 +20,13 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 舌尖上的中国第2季,https://live.metshop.top/yy/1354930943
 舌尖上的中国第2季,https://www.goodiptv.club/yy/1354930943
 舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
-美丽中国说：野马,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 美剧解说轮播,http://cfss.cc/cdn/dyu/9643264.m3u8
 经典美剧解说,http://cfss.cc/cdn/dyu/9123570.m3u8
 广州新闻,http://mail.bfgpay.cn:2052/udp/239.253.43.72:5146
 广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
+BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+tv.cctv.com.test,https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?BR=td&region=shanghai
