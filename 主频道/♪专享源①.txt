@@ -22,9 +22,6 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
@@ -104,3 +101,5 @@ CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
