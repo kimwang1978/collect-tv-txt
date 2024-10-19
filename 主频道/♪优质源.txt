@@ -25,8 +25,4 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 广州新闻,http://mail.bfgpay.cn:2052/udp/239.253.43.72:5146
 广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 tv.cctv.com.test,https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?BR=td&region=shanghai
