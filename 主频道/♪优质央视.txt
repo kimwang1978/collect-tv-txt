@@ -2,7 +2,12 @@ CCTV1,http://180.158.164.233:8888/udp/239.45.3.145:5140
 CCTV2,http://180.158.164.233:8888/udp/239.45.3.208:5140
 CCTV3,http://180.158.164.233:8888/udp/239.45.1.68:5140
 CCTV4,http://180.158.164.233:8888/udp/239.45.0.2:5140
+CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
+CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
+CCTV4欧洲,http://114.243.97.208:8822/rtp/239.3.1.213:4220
+CCTV4美洲,http://114.243.97.208:8822/rtp/239.3.1.214:4220
 CCTV5,http://180.158.164.233:8888/udp/239.45.1.69:5140
+CCTV5+,http://180.158.164.233:8888/udp/239.45.0.34:5140
 CCTV6,http://180.158.164.233:8888/udp/239.45.1.70:5140
 CCTV7,http://180.158.164.233:8888/udp/239.45.3.56:5140
 CCTV8,http://180.158.164.233:8888/udp/239.45.1.71:5140
@@ -15,7 +20,6 @@ CCTV14,http://180.158.164.233:8888/udp/239.45.3.23:5140
 CCTV15,http://180.158.164.233:8888/udp/239.45.0.20:5140
 CCTV16,http://180.158.164.233:8888/udp/239.45.0.10:5140
 CCTV17,http://180.158.164.233:8888/udp/239.45.3.52:5140
-CCTV5+,http://180.158.164.233:8888/udp/239.45.0.34:5140
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -59,8 +63,6 @@ CCTV1,http://114.243.97.208:8822/rtp/239.3.1.129:8008
 CCTV2,http://114.243.97.208:8822/rtp/239.3.1.60:8084
 CCTV3,http://114.243.97.208:8822/rtp/239.3.1.172:8001
 CCTV4,http://114.243.97.208:8822/rtp/239.3.1.105:8092
-CCTV4欧洲,http://114.243.97.208:8822/rtp/239.3.1.213:4220
-CCTV4美洲,http://114.243.97.208:8822/rtp/239.3.1.214:4220
 CCTV5,http://114.243.97.208:8822/rtp/239.3.1.173:8001
 CCTV6,http://114.243.97.208:8822/rtp/239.3.1.174:8001
 CCTV7,http://114.243.97.208:8822/rtp/239.3.1.61:8104
@@ -126,8 +128,6 @@ CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
 
 CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
-CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
-CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
 
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8
 CCTV5,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
@@ -371,26 +371,6 @@ CCTV风云足球,http://113.195.4.134:9901/tsfile/live/1049_1.m3u8?key=txiptv
 CCTV女性时尚,http://113.195.4.134:9901/tsfile/live/1054_1.m3u8?key=txiptv
 CCTV风云足球,http://113.195.4.134:9901/tsfile/live/1049_1.m3u8?key=txiptv
 
-
-CCTV1,http://ygbh666.cn/aikmigu.php?id=cctv1
-CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2
-CCTV3,http://ygbh666.cn/aikmigu.php?id=cctv3
-CCTV4,http://ygbh666.cn/aikmigu.php?id=cctv4
-CCTV4欧洲,http://ygbh666.cn/aikmigu.php?id=cctv4o
-CCTV4美洲,http://ygbh666.cn/aikmigu.php?id=cctv4a
-CCTV5,http://ygbh666.cn/aikmigu.php?id=cctv5
-CCTV5+,http://ygbh666.cn/aikmigu.php?id=cctv5p
-CCTV6,http://ygbh666.cn/aikmigu.php?id=cctv6
-CCTV7,http://ygbh666.cn/aikmigu.php?id=cctv7
-CCTV8,http://ygbh666.cn/aikmigu.php?id=cctv8
-CCTV9,http://ygbh666.cn/aikmigu.php?id=cctv9
-CCTV10,http://ygbh666.cn/aikmigu.php?id=cctv10
-CCTV11,http://ygbh666.cn/aikmigu.php?id=cctv11
-CCTV12,http://ygbh666.cn/aikmigu.php?id=cctv12
-CCTV13,http://ygbh666.cn/aikmigu.php?id=cctv13
-CCTV14,http://ygbh666.cn/aikmigu.php?id=cctv14
-CCTV15,http://ygbh666.cn/aikmigu.php?id=cctv15
-CCTV17,http://ygbh666.cn/aikmigu.php?id=cctv17
 
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
