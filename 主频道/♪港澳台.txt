@@ -1,3 +1,4 @@
+nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv$LR•IPV4『线路11』
 凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路15』
@@ -206,3 +207,5 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+
+nowsports,https://stream1.freetv.fun/nowsports-1.ctv

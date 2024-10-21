@@ -1,3 +1,4 @@
+Now体育,rtmp://f13h.mine.nu/sat/tv741
 上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://120.77.28.4:8648/mgu.php?id=shxwzh
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8

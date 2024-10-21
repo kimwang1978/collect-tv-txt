@@ -933,3 +933,5 @@
 [HD]凤凰卫视
 [HD]凤凰资讯
 [HD]剧集
+[BD]nowsports
+[BD]now新聞
