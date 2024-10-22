@@ -26,6 +26,8 @@ CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+淘电影,http://123.114.80.74:8012/rtp/239.3.1.250:8001
+淘电影,http://221.218.157.61:3527/rtp/239.3.1.250:8001
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
 龙祥电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn

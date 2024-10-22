@@ -473,6 +473,11 @@ for url in urls:
         if "{MMdd}" in url: #特别处理113
             current_date_str = datetime.now().strftime("%m%d")
             url=url.replace("{MMdd}", current_date_str)
+
+        if "{MMdd-1}" in url: #特别处理113
+            yesterday_date_str = (datetime.now() - timedelta(days=1)).strftime("%m%d")
+            url=url.replace("{MMdd-1}", yesterday_date_str)
+            
         print(f"处理URL: {url}")
         process_url(url)
 
