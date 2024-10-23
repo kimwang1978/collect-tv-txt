@@ -1,4 +1,6 @@
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
+https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 http://ttkx.live:567/gggg.nzk
 http://kxrj.site:567/gggg.nzk
 http://rihou.cc:555/gggg.nzk

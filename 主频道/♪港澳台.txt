@@ -84,6 +84,7 @@ nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$LR•IPV4『线路7』
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
@@ -142,7 +143,6 @@ TVBS新闻,mitv://135.148.104.228:19806/53f80a10fb054d5ab0649a59980025a9$LR•IP
 TVBS新闻,http://free.xiptv.x10.bz/kudou.php?id=78$LR•IPV4『线路4』
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$LR•IPV4『线路5』
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6』
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$LR•IPV4『线路7』
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv$LR•IPV4『线路8』
 TVBS新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv$LR•IPV4『线路9』
 TVBS新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072$LR•IPV4『线路10』

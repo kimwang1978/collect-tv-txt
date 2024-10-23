@@ -192,10 +192,24 @@ def clean_url(url):
         return url[:last_dollar_index]
     return url
 
+# 添加channel_name前剔除部分特定字符
+removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD"]
+def clean_channel_name(channel_name, removal_list):
+    for item in removal_list:
+        channel_name = channel_name.replace(item, "")
+
+    # 检查并移除末尾的 'HD'
+    if channel_name.endswith("HD"):
+        channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
+    
+    return channel_name
+
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
     if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
+        channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
+
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
         line=channel_name+","+channel_address #重新组织line
 
