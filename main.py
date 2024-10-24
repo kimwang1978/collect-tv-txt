@@ -193,7 +193,7 @@ def clean_url(url):
     return url
 
 # 添加channel_name前剔除部分特定字符
-removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD"]
+removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","频陆","备陆","壹陆","叁陆","肆陆","伍陆","陆陆","柒陆"]
 def clean_channel_name(channel_name, removal_list):
     for item in removal_list:
         channel_name = channel_name.replace(item, "")

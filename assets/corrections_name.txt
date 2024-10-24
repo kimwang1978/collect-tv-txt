@@ -70,9 +70,6 @@ CCTV16,CCTV16_电信
 CCTV17,CCTV17_电信
 超级综艺,NewTV超级综艺,NEWTV超级综艺,NewTV_超级综艺「IPV6」
 金牌综艺,NewTV金牌综艺,NEWTV金牌综艺,NewTV_金牌综艺「IPV6」
-TVBS亚洲,TVBS亚洲台,TVBS亞洲,TVBS-Asia
-TVBS新闻,TVBS新聞,TVBS新闻台
-TVB星河,TVB星河台
 民视新闻,民视新闻台
 耀才财经,耀才財經,耀才財經台 (576p),耀才财经新闻
 湖南都市,湖南都市FHD,湖南都市HD,湖南都市频道
@@ -140,3 +137,9 @@ TVB星河,TVB星河台
 哈哈炫动,上海哈哈炫动
 嘉佳卡通,佳嘉卡通
 山东教育,山东教育电视台
+淘电影,北京IPTV淘电影
+nowsports,now sports,now体育
+J2,TVBJ2
+TVBS亚洲,TVBS亚洲台,TVBS亞洲,TVBS-Asia
+TVBS新闻,TVBS新聞,TVBS新闻台
+TVB星河,TVB星河台

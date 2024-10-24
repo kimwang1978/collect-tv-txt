@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 http://ttkx.live:567/gggg.nzk
 http://kxrj.site:567/gggg.nzk
 http://rihou.cc:555/gggg.nzk
@@ -19,7 +20,6 @@ http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 --https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
@@ -54,3 +54,9 @@ http://1805842a.123nat.com:66/agent/2.txt
 https://gongdian.top/tv/gongdian.txt
 https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.githubusercontent.com/zzj2678/IPTVzb1/refs/heads/main/iptv_list.txt
+++http://120.79.4.185/new/mdlive.txt
+++http://tv.850930.xyz/kdsb.m3u
+++http://tv.850930.xyz/kdsb2.m3u
+++http://tv.850930.xyz/gather.m3u
+++http://tv.850930.xyz/543.m3u
+++http://tv.850930.xyz/histar.m3u

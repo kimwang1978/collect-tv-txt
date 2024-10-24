@@ -21,6 +21,7 @@
 魅力足球,http://120.77.28.4:8648/mgu.php?id=mlzq
 劲爆体育,http://120.77.28.4:8648/mgu.php?id=jbty
 睛彩篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
 TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
@@ -36,6 +37,8 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+
+乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 
 广州新闻,http://mail.bfgpay.cn:2052/udp/239.253.43.72:5146
 广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
