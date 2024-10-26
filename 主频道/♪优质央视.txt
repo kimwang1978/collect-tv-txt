@@ -23,6 +23,8 @@ CCTV3,http://180.158.164.233:8888/udp/239.45.1.68:5140
 CCTV4,http://180.158.164.233:8888/udp/239.45.0.2:5140
 CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
+CCTV4欧洲,http://rihou.cc:567/53057.php?id=cctv4o
+CCTV4美洲,http://rihou.cc:567/53057.php?id=cctv4a
 CCTV4欧洲,http://114.243.97.208:8822/rtp/239.3.1.213:4220
 CCTV4美洲,http://114.243.97.208:8822/rtp/239.3.1.214:4220
 CCTV5,http://180.158.164.233:8888/udp/239.45.1.69:5140
