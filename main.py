@@ -529,6 +529,19 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
+# 随机取得URL
+def get_random_url(file_path):
+    urls = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            # 查找逗号后面的部分，即URL
+            url = line.strip().split(',')[-1]
+            urls.append(url)    
+    # 随机返回一个URL
+    return random.choice(urls) if urls else None
+
+daily_mtv="今日推歌,"+get_random_url('assets/今日推荐.txt')
+
 # 获取当前的 UTC 时间
 utc_time = datetime.now(timezone.utc)
 # 北京时间
@@ -541,7 +554,7 @@ about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源,"+about_video2
 # 瘦身版
-all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
@@ -561,7 +574,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
 
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
-all_lines =  ["更新时间,#genre#"] +[version]  +[about] + ['\n'] +\
+all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
