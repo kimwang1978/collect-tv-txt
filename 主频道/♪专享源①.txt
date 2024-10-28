@@ -1,5 +1,11 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+NEWTV超级电影,http://kxrj.site:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+NEWTV动作电影,http://kxrj.site:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NEWTV惊悚悬疑,http://kxrj.site:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+NEWTV黑莓电影,http://kxrj.site:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NEWTV超级电视剧,http://kxrj.site:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+
 NEWTV超级电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 NEWTV超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
 NEWTV超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8

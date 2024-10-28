@@ -13,13 +13,27 @@
 第一财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,p3p://108.181.20.159:31165/63ec4dc200075675e44984ca52f86245
+
+上海新闻综合,http://kxrj.site:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+上海都市,http://kxrj.site:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+纪实人文,http://kxrj.site:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+纪实人文,http://kxrj.site:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+东方财经,http://kxrj.site:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+第一财经,http://kxrj.site:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+东方影视,http://kxrj.site:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+五星体育,http://kxrj.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+上海外语,http://kxrj.site:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+精品体育,http://kxrj.site:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/
+超级体育,http://kxrj.site:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/
 魅力足球,http://120.77.28.4:8648/mgu.php?id=mlzq
 劲爆体育,http://120.77.28.4:8648/mgu.php?id=jbty
+劲爆体育,http://kxrj.site:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 睛彩篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -33,12 +47,18 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 舌尖上的中国第2季,https://live.metshop.top/yy/1354930943
 舌尖上的中国第2季,https://www.goodiptv.club/yy/1354930943
 舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
+
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索动物,http://kxrj.site:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://kxrj.site:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://kxrj.site:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://kxrj.site:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+乐游,http://kxrj.site:35455/itv/5000000011000031112.m3u8?cdn=bestzb
 
 广州新闻,http://mail.bfgpay.cn:2052/udp/239.253.43.72:5146
 广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8

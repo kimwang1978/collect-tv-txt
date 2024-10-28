@@ -17,6 +17,25 @@ CCTV15,http://219.159.194.108:8181/tsfile/live/0015_1.m3u8
 CCTV16,http://219.159.194.108:8181/tsfile/live/1021_1.m3u8
 CCTV17,http://219.159.194.108:8181/tsfile/live/0019_1.m3u8
 
+CCTV1,http://kxrj.site:35455/ysptp/cctv1.m3u8
+CCTV2,http://kxrj.site:35455/ysptp/cctv2.m3u8
+CCTV3,http://kxrj.site:35455/ysptp/cctv3.m3u8
+CCTV4,http://kxrj.site:35455/ysptp/cctv4.m3u8
+CCTV5+,http://kxrj.site:35455/ysptp/cctv5p.m3u8
+CCTV5,http://kxrj.site:35455/ysptp/cctv5.m3u8
+CCTV6,http://kxrj.site:35455/tptv/G_CCTV-6-AVS-4K264.m3u8
+CCTV7,http://kxrj.site:35455/ysptp/cctv7.m3u8
+CCTV8,http://kxrj.site:35455/ysptp/cctv8.m3u8
+CCTV9,http://kxrj.site:35455/ysptp/cctv9.m3u8
+CCTV10,http://kxrj.site:35455/ysptp/cctv10.m3u8
+CCTV11,http://kxrj.site:35455/ysptp/cctv11.m3u8
+CCTV12,http://kxrj.site:35455/ysptp/cctv12.m3u8
+CCTV13,http://kxrj.site:35455/ysptp/cctv13.m3u8
+CCTV14,http://kxrj.site:35455/ysptp/cctv14.m3u8
+CCTV15,http://kxrj.site:35455/ysptp/cctv15.m3u8
+CCTV16,http://kxrj.site:35455/ysptp/cctv16.m3u8
+CCTV17,http://kxrj.site:35455/ysptp/cctv17.m3u8
+
 CCTV1,http://180.158.164.233:8888/udp/239.45.3.145:5140
 CCTV2,http://180.158.164.233:8888/udp/239.45.3.208:5140
 CCTV3,http://180.158.164.233:8888/udp/239.45.1.68:5140
@@ -60,6 +79,21 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV1,http://kxrj.site:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
+CCTV2,http://kxrj.site:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV3,http://kxrj.site:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
+CCTV5,http://kxrj.site:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
+CCTV5+,http://kxrj.site:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
+CCTV6,http://kxrj.site:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
+CCTV7,http://kxrj.site:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
+CCTV8,http://kxrj.site:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
+CCTV9,http://kxrj.site:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
+CCTV10,http://kxrj.site:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
+CCTV12,http://kxrj.site:35455/itv/1000000001000032494.m3u8?cdn=ystenlive
+CCTV14,http://kxrj.site:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
+CCTV16,http://kxrj.site:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV17,http://kxrj.site:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 
 CCTV1,http://222.218.158.156:8181/tsfile/live/0001_1.m3u8
 CCTV2,http://222.218.158.156:8181/tsfile/live/0002_1.m3u8
