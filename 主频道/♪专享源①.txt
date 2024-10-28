@@ -5,6 +5,7 @@ NEWTV动作电影,http://kxrj.site:35455/itv/1000000004000018653.m3u8?cdn=ystenl
 NEWTV惊悚悬疑,http://kxrj.site:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NEWTV黑莓电影,http://kxrj.site:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NEWTV超级电视剧,http://kxrj.site:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+NEWTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 
 NEWTV超级电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 NEWTV超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
@@ -33,11 +34,14 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
+
 CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+
 家庭影院,http://rihou.cc:567/53057.php?id=chcjt
 动作电影,http://rihou.cc:567/53057.php?id=chcdz
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
@@ -46,6 +50,7 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+
 🔁周星星,http://11.xmyxc.cn/api/php/yy.php?id=1354658049
 ▶️(2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
 ▶️(2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8

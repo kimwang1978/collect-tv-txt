@@ -62,3 +62,4 @@ https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 ++http://tv.850930.xyz/gather.m3u
 ++http://tv.850930.xyz/543.m3u
 ++http://tv.850930.xyz/histar.m3u
+++https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
