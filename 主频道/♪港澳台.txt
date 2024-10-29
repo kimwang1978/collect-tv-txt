@@ -84,8 +84,11 @@ nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+东森超视,http://42.51.0.238:9999/php2/xz4.php?id=23
+东森综合,http://211.72.65.236:8524/.m3u8
+东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
+
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$LR•IPV4『线路7』
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
@@ -124,8 +127,8 @@ TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
 TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR•IPV4『线路1』
 TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
-TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068$LR•IPV4『线路3』
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
+TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068$LR•IPV4『线路3』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路1』
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』

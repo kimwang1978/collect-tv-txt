@@ -1,4 +1,3 @@
-MTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 
 上海新闻综合,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
 上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -68,10 +67,6 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 乐游,http://kxrj.site:35455/itv/5000000011000031112.m3u8?cdn=bestzb
 
-广州新闻,http://mail.bfgpay.cn:2052/udp/239.253.43.72:5146
-广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-Now体育,rtmp://f13h.mine.nu/sat/tv741
-中国天气,http://116.179.136.238:90/rtp/226.0.2.103:8736
-tv.cctv.com.test,https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?BR=td&region=shanghai
-CCTV5 4K test,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228502/1.m3u8?accountinfo=UbQyyXIfB314hYjBaZhtzpzccU3HTrGa1zDBEUcUu8e3sKM6ExysDo0g3A9CbIkxGfBem4m9XwwM%2B7FU%2BqSBy8r6sKvzac6jzECpxkzntXnteD4RA8oPHzhUcZEY0xjRFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026021938%2C-1%2C36.156.32.22%2C20241026021938%2CG_CCTV-5-AVS-4K264%2C1734219666130_EC%3A65%3A32%3AC1%3AC3%3A11%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000017817440_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_CCTV-5-AVS-4K264%2FG_CCTV-5-AVS-4K264&icpid=88888888&from=5&popid=5&hms_devid=6887&prioritypopid=5
+
+MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8

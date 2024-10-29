@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 ## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）
 
-> 关注获取更多信息，有问题公众号留言。
+> 关注获取更多信息，播放工具下载等，有问题公众号留言。
 
-> 公平起见赞赏的朋友加微信群交流。公众号私信暗号：咖啡来了！
+> 公平起见赞赏的朋友加微信群交流。赞赏后私信回复公众号：咖啡来了！
 
 ![image](./assets/Gongzhonghao+appreciate.png)
 

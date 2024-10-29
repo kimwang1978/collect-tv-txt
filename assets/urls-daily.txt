@@ -7,9 +7,9 @@ http://kxrj.site:35455/tv.m3u
 http://kxrj.site:567/gggg.nzk
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
-https://2883.kstore.vip/gggg.nzk
+--https://2883.kstore.vip/gggg.nzk
 http://ttkx.cc:55/lib/kx2024.txt
-http://ttkx.live:55/lib/kx2024.txt
+--http://ttkx.live:55/lib/kx2024.txt
 http://kxrj.site:55/lib/kx2024.txt
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 http://1805842a.123nat.com:66/agent/2.txt
-https://gongdian.top/tv/gongdian.txt
+--https://gongdian.top/tv/gongdian.txt
 https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 --https://raw.githubusercontent.com/zzj2678/IPTVzb1/refs/heads/main/iptv_list.txt
 ++http://120.79.4.185/new/mdlive.txt

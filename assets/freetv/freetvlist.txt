@@ -935,3 +935,9 @@
 [HD]剧集
 [BD]nowsports
 [BD]now新聞
+[BD]dazn sport 1
+[HD]dazn sport 2
+[HD]nba tv
+[BD]nba tv
+[BD]skysports
+[HD]usa nba
