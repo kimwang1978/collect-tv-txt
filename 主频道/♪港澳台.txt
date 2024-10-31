@@ -39,31 +39,40 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 
 有线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hoycaijing_twn
-无线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt
 华丽翡翠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbjade
 
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
+
+无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+无线生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
+无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 无线明珠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn
 无线娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
-千禧经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbclassic
 
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 无线翡翠,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://8.137.59.151:3009/TV2/gat.php?id=4
+无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
 无线新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8$LR•IPV4『线路2』
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq$LR•IPV4『线路3』
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$LR•IPV4『线路4』
+无线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn
+
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbclassic
+
 明珠台,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$LR•IPV4『线路14』
 明珠台,http://124.244.149.194:65531/bysid/2
@@ -75,8 +84,6 @@ J2,rtmp://twcdn.top/sat/hk031
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn
 VIUTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn
-nowsports,https://stream1.freetv.fun/nowsports-2.ctv
-nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -85,6 +92,9 @@ nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
 东森超视,http://42.51.0.238:9999/php2/xz4.php?id=23
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
+东森超视,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
 东森综合,http://211.72.65.236:8524/.m3u8
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 
@@ -190,15 +200,6 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路2』
 翡翠台,https://test.zapi.us.kg/?id=feicui$LR•IPV4『线路36』
 翡翠台,http://iptviptv.site:9694/hls/99/index.m3u8$LR•IPV4『线路37』
 
-纬来体育,rtmp://f13h.mine.nu/sat/tv721$LR•IPV4『线路8』
-纬来日本,rtmp://f13h.mine.nu/sat/tv771$LR•IPV4『线路12』
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701$LR•IPV4『线路2』
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
-东森超视,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
-
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
 粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
 粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
@@ -212,5 +213,3 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-
-nowsports,https://stream1.freetv.fun/nowsports-1.ctv

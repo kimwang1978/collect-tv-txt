@@ -6,3 +6,5 @@ skysports plus,https://stream1.freetv.fun/skysports-plus-1.ctv
 nba tv,https://stream1.freetv.fun/nba-tv-1.ctv
 nba tv,https://stream1.freetv.fun/nba-tv-4.ctv
 usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
+nowsports,https://stream1.freetv.fun/nowsports-2.ctv
+nowsports,https://stream1.freetv.fun/nowsports-1.ctv
