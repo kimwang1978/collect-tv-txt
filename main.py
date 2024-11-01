@@ -4,6 +4,14 @@ import re #正则
 import os
 from datetime import datetime, timedelta, timezone
 import random
+import opencc #简繁转换
+
+#简繁转换
+def traditional_to_simplified(text: str) -> str:
+    # 初始化转换器，"t2s" 表示从繁体转为简体
+    converter = opencc.OpenCC('t2s')
+    simplified_text = converter.convert(text)
+    return simplified_text
 
 # 执行开始时间
 timestart = datetime.now()
@@ -211,6 +219,7 @@ def process_channel_line(line):
     if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
         channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
+        channel_name = traditional_to_simplified(channel_name)  #繁转简
 
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
         line=channel_name+","+channel_address #重新组织line
@@ -325,7 +334,7 @@ def process_channel_line(line):
                     other_lines.append(line.strip())
 
 
-# 随机获取User-Agent,留着将来备用
+# 随机获取User-Agent,备用
 def get_random_user_agent():
     USER_AGENTS = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",

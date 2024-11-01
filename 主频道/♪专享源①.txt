@@ -40,7 +40,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 家庭影院,http://rihou.cc:567/53057.php?id=chcjt
 动作电影,http://rihou.cc:567/53057.php?id=chcdz

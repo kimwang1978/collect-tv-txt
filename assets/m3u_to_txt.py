@@ -1,4 +1,12 @@
 import urllib.request
+import opencc #简繁转换
+
+#简繁转换
+def traditional_to_simplified(text: str) -> str:
+    # 初始化转换器，"t2s" 表示从繁体转为简体
+    converter = opencc.OpenCC('t2s')
+    simplified_text = converter.convert(text)
+    return simplified_text
 
 def convert_m3u_to_txt(m3u_content):
     # 分行处理
@@ -18,6 +26,8 @@ def convert_m3u_to_txt(m3u_content):
         if line.startswith("#EXTINF"):
             # 获取频道名称（假设频道名称在引号后）
             channel_name = line.split(',')[-1].strip()
+            channel_name = traditional_to_simplified(channel_name)
+            
         # 处理 URL 行
         elif line.startswith("http") or line.startswith("rtmp") or line.startswith("p3p") :
             print(f"{channel_name},{line.strip()}")
@@ -27,7 +37,7 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
-url="http://kxrj.site:35455/tv.m3u"
+url="http://aktv.top/live.m3u"
 # 创建一个请求对象并添加自定义header
 req = urllib.request.Request(url)
 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')

@@ -26,6 +26,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install opencc-python-reimplemented
         
     - name: Run Python script
       run: python main.py
