@@ -40,8 +40,8 @@ def read_blacklist_from_txt(file_path):
     BlackList = [line.split(',')[1].strip() for line in lines if ',' in line]
     return BlackList
 
-blacklist_auto=read_blacklist_from_txt('blacklist/blacklist_auto.txt') 
-blacklist_manual=read_blacklist_from_txt('blacklist/blacklist_manual.txt') 
+blacklist_auto=read_blacklist_from_txt('assets/blacklist1/blacklist_auto.txt') 
+blacklist_manual=read_blacklist_from_txt('assets/blacklist1/blacklist_manual.txt') 
 # combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
 
@@ -201,7 +201,7 @@ def clean_url(url):
     return url
 
 # 添加channel_name前剔除部分特定字符
-removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV",
+removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","「IPV4」","「IPV6」",
                 "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤",
                 "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕"]
 def clean_channel_name(channel_name, removal_list):
@@ -212,6 +212,9 @@ def clean_channel_name(channel_name, removal_list):
     if channel_name.endswith("HD"):
         channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
     
+    if channel_name.endswith("台"):
+        channel_name = channel_name[:-1]  # 去掉最后两个字符 "台"
+
     return channel_name
 
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
@@ -528,7 +531,7 @@ def custom_sort(s):
 
 #读取whitelist,把高响应源从白名单中抽出加入merged_output。
 print(f"ADD whitelist_auto.txt")
-whitelist_auto_lines=read_txt_to_array('blacklist/whitelist_auto.txt') #
+whitelist_auto_lines=read_txt_to_array('assets/blacklist1/whitelist_auto.txt') #
 for whitelist_line in whitelist_auto_lines:
     if  "#genre#" not in whitelist_line and "," in whitelist_line and "://" in whitelist_line:
         whitelist_parts = whitelist_line.split(",")
@@ -575,7 +578,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ [
              ["💓优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
-             ["🆕SPORTS🏀,#genre#"] + read_txt_to_array('主频道/♪sports.txt') + ['\n'] + \
+             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('主频道/♪sports.txt') + ['\n'] + \
              ["☘️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["☘️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
              ["☘️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
@@ -596,7 +599,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv] + ['\n']
              ["💓优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
-             ["🆕SPORTS🏀,#genre#"] + read_txt_to_array('主频道/♪sports.txt') + ['\n'] + \
+             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('主频道/♪sports.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
