@@ -6,8 +6,37 @@ import os
 from urllib.parse import urlparse
 import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
+import json
 
 timestart = datetime.now()
+
+
+def get_video_resolution(video_path, timeout=8):
+    # 使用 ffprobe 命令来获取视频的流信息，以 JSON 格式输出
+    command = [
+        'ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries',
+        'stream=width,height', '-of', 'json', video_path
+    ]
+    
+    try:
+        # 运行命令并捕获输出，设置超时时间
+        result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=timeout)
+        
+        # 解析 JSON 输出
+        video_info = json.loads(result.stdout)
+        
+        # 提取宽度和高度
+        width = video_info['streams'][0]['width']
+        height = video_info['streams'][0]['height']
+        
+        return width, height
+    
+    except subprocess.TimeoutExpired:
+        print(f"ffprobe 超时（超过 {timeout} 秒）")
+        return None, None
+    except Exception as e:
+        print(f"发生错误: {e}")
+        return None, None
 
 # 读取文件内容
 def read_txt_file(file_path):
@@ -26,6 +55,7 @@ def check_url(url, timeout=6):
     start_time = time.time()
     elapsed_time = None
     success = False
+    resolution="0 x 0"
     
     try:
         if url.startswith("http"):
@@ -47,14 +77,16 @@ def check_url(url, timeout=6):
 
         # 如果执行到这一步，没有异常，计算时间
         elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
+        if success:
+          resolution=get_video_resolution(url)
+          print(f"{elapsed_time},{resolution},{url}")
 
     except Exception as e:
         print(f"Error checking {url}: {e}")
-        record_host(get_host_from_url(url))
         # 在发生异常的情况下，将 elapsed_time 设置为 None
         elapsed_time = None
 
-    return elapsed_time, success
+    return elapsed_time, success,resolution
 
 def check_rtmp_url(url, timeout):
     try:
@@ -149,25 +181,25 @@ def process_line(line):
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
-        elapsed_time, is_valid = check_url(url.strip())
+        elapsed_time, is_valid,resolution = check_url(url.strip())
         if is_valid:
-            return elapsed_time, line.strip()
+            return elapsed_time,resolution, line.strip()
         else:
-            return None, line.strip()
-    return None, None
+            return None,resolution, line.strip()
+    return None, None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=30):
+def process_urls_multithreaded(lines, max_workers=10):
     blacklist =  [] 
     successlist = []
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_line, line): line for line in lines}
         for future in as_completed(futures):
-            elapsed_time, result = future.result()
+            elapsed_time,resolution,result = future.result()
             if result:
                 if elapsed_time is not None:
-                    successlist.append(f"{elapsed_time:.2f}ms,{result}")
+                    successlist.append(f"{elapsed_time:.2f}ms,{resolution},{result}")
                 else:
                     blacklist.append(result)
     return successlist, blacklist
@@ -292,29 +324,8 @@ def split_url(lines):
                     newlines.append(line)
     return newlines
 
-# 取得host
-def get_host_from_url(url: str) -> str:
-    try:
-        parsed_url = urlparse(url)
-        return parsed_url.netloc
-    except Exception as e:
-        return f"Error: {str(e)}"
 
-# 使用字典来统计blackhost的记录次数
-blacklist_dict = {}
-def record_host(host):
-    # 如果 host 已经在字典中，计数加 1
-    if host in blacklist_dict:
-        blacklist_dict[host] += 1
-    # 如果 host 不在字典中，加入并初始化计数为 1
-    else:
-        blacklist_dict[host] = 1
-# 将结果保存为 txt 文件
-def save_blackhost_to_txt(filename=f"{datetime.now().strftime("%Y%m%d_%H_%M_%S")}_blackhost_count.txt"):
-    with open(filename, "w") as file:
-        for host, count in blacklist_dict.items():
-            file.write(f"{host}: {count}\n")
-    print(f"结果已保存到 {filename}")
+
 
 if __name__ == "__main__":
     # 定义要访问的多个URL
@@ -332,16 +343,6 @@ if __name__ == "__main__":
     # 获取上一层目录
     parent_dir = os.path.dirname(current_dir)
 
-    # input_file1 = os.path.join(parent_dir, 'merged_output.txt')  # 输入文件路径1
-    # input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2 
-    success_file = os.path.join(current_dir, 'whitelist_auto.txt')  # 成功清单文件路径
-    # success_file_tv = os.path.join(current_dir, 'whitelist_auto_tv.txt')  # 成功清单文件路径（另存一份直接引用源）
-    blacklist_file = os.path.join(current_dir, 'blacklist_auto.txt')  # 黑名单文件路径
-
-    # 读取输入文件内容
-    # lines1 = read_txt_file(input_file1)
-    # lines2 = read_txt_file(input_file2)
-    # lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
     lines=urls_all_lines
     
     # 计算合并后合计个数
@@ -360,59 +361,25 @@ if __name__ == "__main__":
     urls_hj = len(lines)
 
     # 处理URL并生成成功清单和黑名单
-    successlist, blacklist = process_urls_multithreaded(lines)
+    # successlist, blacklist = process_urls_multithreaded(lines)
+
+    processed_lines=[]
+    for line in lines:
+        if  "#genre#" not in line and "," in line and "://" in line:
+            elapsed_time, is_valid,resolution=process_line(line)
+
+            #处理time为none
+            try:
+                formatted_time = f"{elapsed_time:.1f}"
+            except (ValueError, TypeError):
+                formatted_time = elapsed_time  
+
+            processed_lines.append(f"{formatted_time},{resolution},{line.strip()}")
     
-    # 给successlist, blacklist排序
-    # 定义排序函数
-    def successlist_sort_key(item):
-        time_str = item.split(',')[0].replace('ms', '')
-        return float(time_str)
-    
-    successlist=sorted(successlist, key=successlist_sort_key)
-    blacklist=sorted(blacklist)
-
-    # 计算check后ok和ng个数
-    urls_ok = len(successlist)
-    urls_ng = len(blacklist)
-
-    # 把successlist整理一下，生成一个可以直接引用的源，方便用zyplayer手动check
-    def remove_prefix_from_lines(lines):
-        result = []
-        for line in lines:
-            if  "#genre#" not in line and "," in line and "://" in line:
-                parts = line.split(",")
-                result.append(",".join(parts[1:]))
-        return result
+    result_file = os.path.join(current_dir, 'result.txt')
+    write_list(result_file, processed_lines)
 
 
-    # 加时间戳等
-    version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
-    # successlist_tv = ["更新时间,#genre#"] +[version] + ['\n'] +\
-    #               ["whitelist,#genre#"] + remove_prefix_from_lines(successlist)
-    successlist = ["更新时间,#genre#"] +[version] + ['\n'] +\
-                  ["RespoTime,whitelist,#genre#"] + successlist
-    blacklist = ["更新时间,#genre#"] +[version] + ['\n'] +\
-                ["blacklist,#genre#"]  + blacklist
-
-    # 写入成功清单文件
-    write_list(success_file, successlist)
-    # write_list(success_file_tv, successlist_tv)
-
-    # 写入黑名单文件
-    write_list(blacklist_file, blacklist)
-
-    print(f"成功清单文件已生成: {success_file}")
-    # print(f"成功清单文件已生成(tv): {success_file_tv}")
-    print(f"黑名单文件已生成: {blacklist_file}")
-
-    # 写入history
-    # timenow=datetime.now().strftime("%Y%m%d_%H_%M_%S")
-    # history_success_file = f'history/blacklist/{timenow}_whitelist_auto.txt'
-    # history_blacklist_file = f'history/blacklist/{timenow}_blacklist_auto.txt'
-    # write_list(history_success_file, successlist)
-    # write_list(history_blacklist_file, blacklist)
-    # print(f"history成功清单文件已生成: {history_success_file}")
-    # print(f"history黑名单文件已生成: {history_blacklist_file}")
 
     # 执行的代码
     timeend = datetime.now()
@@ -432,14 +399,9 @@ if __name__ == "__main__":
     print(f"开始时间: {timestart_str}")
     print(f"结束时间: {timeend_str}")
     print(f"执行时间: {minutes} 分 {seconds} 秒")
-    print(f"urls_hj最初: {urls_hj_before} ")
-    print(f"urls_hj分解井号源后: {urls_hj_before2} ")
-    print(f"urls_hj去$后: {urls_hj_before3} ")
-    print(f"urls_hj去重后: {urls_hj} ")
-    print(f"  urls_ok: {urls_ok} ")
-    print(f"  urls_ng: {urls_ng} ")
+    print(f"urls_hj: {urls_hj_before} ")
+    
 
-    save_blackhost_to_txt()
             
 for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
     print(statistics)

@@ -1,5 +1,6 @@
 Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
+Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -174,6 +175,9 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路2』
 翡翠台,http://119.125.104.36:9901/tsfile/live/1006_1.m3u8$LR•IPV4『线路35』
 翡翠台,https://test.zapi.us.kg/?id=feicui$LR•IPV4『线路36』
 翡翠台,http://iptviptv.site:9694/hls/99/index.m3u8$LR•IPV4『线路37』
+
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+华视,https://stream1.freetv.fun/hua-shi-2.m3u8
 
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
 粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
