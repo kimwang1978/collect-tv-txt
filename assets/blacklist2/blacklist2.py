@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
 import json
+import random
 
 timestart = datetime.now()
 
@@ -32,10 +33,10 @@ def get_video_resolution(video_path, timeout=8):
         return width, height
     
     except subprocess.TimeoutExpired:
-        print(f"ffprobe 超时（超过 {timeout} 秒）")
+        # print(f"ffprobe 超时（超过 {timeout} 秒）")
         return None, None
     except Exception as e:
-        print(f"发生错误: {e}")
+        # print(f"发生错误: {e}")
         return None, None
 
 # 读取文件内容
@@ -50,18 +51,30 @@ def read_txt_file(file_path):
         ]
     return lines
 
+# 随机获取User-Agent,备用
+def get_random_user_agent():
+    USER_AGENTS = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+    ]
+    return random.choice(USER_AGENTS)
+
 # 检测URL是否可访问并记录响应时间
 def check_url(url, timeout=6):
     start_time = time.time()
     elapsed_time = None
     success = False
-    resolution="0 x 0"
+    width = 0 
+    height = 0 
     
     try:
         if url.startswith("http"):
             headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
+
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
                 if response.status == 200:
@@ -77,16 +90,17 @@ def check_url(url, timeout=6):
 
         # 如果执行到这一步，没有异常，计算时间
         elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
+        
         if success:
-          resolution=get_video_resolution(url)
-          print(f"{elapsed_time},{resolution},{url}")
+            width, height=get_video_resolution(url)
+          # print(f"{elapsed_time},{resolution},{url}")
 
     except Exception as e:
         print(f"Error checking {url}: {e}")
         # 在发生异常的情况下，将 elapsed_time 设置为 None
         elapsed_time = None
 
-    return elapsed_time, success,resolution
+    return success,elapsed_time, width, height
 
 def check_rtmp_url(url, timeout):
     try:
@@ -181,12 +195,12 @@ def process_line(line):
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
-        elapsed_time, is_valid,resolution = check_url(url.strip())
+        is_valid,elapsed_time, width, height = check_url(url.strip())
         if is_valid:
-            return elapsed_time,resolution, line.strip()
+            return is_valid,elapsed_time, width, height
         else:
-            return None,resolution, line.strip()
-    return None, None, None
+            return is_valid,elapsed_time, width, height
+    return None, None, None, None
 
 # 多线程处理文本并检测URL
 def process_urls_multithreaded(lines, max_workers=10):
@@ -363,10 +377,14 @@ if __name__ == "__main__":
     # 处理URL并生成成功清单和黑名单
     # successlist, blacklist = process_urls_multithreaded(lines)
 
+    formatted_time = datetime.now().strftime("%Y%m%d %H:%M:%S")
+
     processed_lines=[]
+    processed_lines.append(f"CheckTime：{formatted_time}")
+
     for line in lines:
         if  "#genre#" not in line and "," in line and "://" in line:
-            elapsed_time, is_valid,resolution=process_line(line)
+            is_valid,elapsed_time, width, height=process_line(line)
 
             #处理time为none
             try:
@@ -374,7 +392,10 @@ if __name__ == "__main__":
             except (ValueError, TypeError):
                 formatted_time = elapsed_time  
 
-            processed_lines.append(f"{formatted_time},{resolution},{line.strip()}")
+            resolution=str(width)+" x "+str(height)
+            processed_line=line.strip()+","+str(is_valid)+","+str(formatted_time)+","+resolution
+            processed_lines.append(f"{processed_line}")
+            print(f"ADD: {processed_line}")
     
     result_file = os.path.join(current_dir, 'result.txt')
     write_list(result_file, processed_lines)
