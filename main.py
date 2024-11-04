@@ -738,7 +738,7 @@ def get_logo_by_channel_name(channel_name):
 def make_m3u(txt_file, m3u_file):
     try:
         #output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"\n'
-        output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n'
+        output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml.gz"\n'
 
         # # 打开txt文件读取
         # with open(txt_file, 'r', encoding='utf-8') as txt:
