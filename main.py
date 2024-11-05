@@ -212,7 +212,7 @@ def clean_channel_name(channel_name, removal_list):
     if channel_name.endswith("HD"):
         channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
     
-    if channel_name.endswith("台"):
+    if channel_name.endswith("台") and len(channel_name) > 3:
         channel_name = channel_name[:-1]  # 去掉最后两个字符 "台"
 
     return channel_name
