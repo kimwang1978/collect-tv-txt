@@ -75,6 +75,22 @@ CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png
 CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png
 七彩戏剧,https://live.fanmingming.com/tv/七彩戏剧.png
 翡翠台,https://live.fanmingming.com/tv/翡翠台.png
+无线新闻,https://live.fanmingming.com/tv/无线新闻台.png
+无线华丽,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/华丽翡翠台.png
+无线功夫,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/TVB功夫.png
+千禧经典,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/千禧经典.png
+Now星影,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/NOW星影台.png
+Now爆谷,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/NOW爆谷台.png
+东森新闻,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/東森新聞.png
+东森综合,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/東森綜合.png
+面包台,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/香港面包台.png
+八大戏剧,https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/八大戲劇台.png
+TVBS亚洲,https://live.fanmingming.com/tv/TVBS亚洲.png
+明珠台,https://live.fanmingming.com/tv/TVB明珠台.png
+TVB星河,https://live.fanmingming.com/tv/TVB星河.png
+TVB Plus,https://live.fanmingming.com/tv/TVB+.png
+TVBS新闻,https://live.fanmingming.com/tv/TVBS新闻.png
+TVBS欢乐,https://live.fanmingming.com/tv/TVBS欢乐.png
 求索动物,https://live.fanmingming.com/tv/求索动物.png
 求索生活,https://live.fanmingming.com/tv/求索生活.png
 求索科学,https://live.fanmingming.com/tv/求索科学.png

@@ -4,8 +4,8 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-
-
+翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -20,9 +20,6 @@
 无线娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
-
-无线翡翠,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8

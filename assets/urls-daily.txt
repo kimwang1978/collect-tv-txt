@@ -59,6 +59,7 @@ http://1805842a.123nat.com:66/agent/2.txt
 --https://gongdian.top/tv/gongdian.txt
 https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
+http://154.9.252.167:190/tvlive.txt
 --https://raw.githubusercontent.com/zzj2678/IPTVzb1/refs/heads/main/iptv_list.txt
 ++http://120.79.4.185/new/mdlive.txt
 ++http://tv.850930.xyz/kdsb.m3u
