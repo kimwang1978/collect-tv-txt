@@ -344,7 +344,9 @@ def split_url(lines):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt'
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt'
         #'',
         #''
     ]
