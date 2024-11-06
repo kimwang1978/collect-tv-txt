@@ -354,14 +354,6 @@ CCTV11,http://123.166.61.70:8003/hls/43/index.m3u8
 CCTV15,http://123.166.61.70:8003/hls/44/index.m3u8
 CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
 
-CCTV1,http://115.48.63.30:9901/tsfile/live/0001_1.m3u8
-CCTV3,http://115.48.63.30:9901/tsfile/live/0003_1.m3u8
-CCTV5,http://115.48.63.30:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://115.48.63.30:9901/tsfile/live/0006_1.m3u8
-CCTV8,http://115.48.63.30:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://115.48.63.30:9901/tsfile/live/1005_1.m3u8
-CCTV11,http://115.48.63.30:9901/tsfile/live/0011_1.m3u8
-
 CCTV2,http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -428,22 +420,6 @@ CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/
 
-CCTV1,http://101.65.32.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2,http://101.65.32.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://101.65.32.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4,http://101.65.32.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://101.65.32.166:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://101.65.32.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://101.65.32.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8,http://101.65.32.166:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://101.65.32.166:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://101.65.32.166:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://101.65.32.166:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://101.65.32.166:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://101.65.32.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://101.65.32.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://101.65.32.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-
 CCTV14,https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8
 
 CCTV第一剧场,http://113.195.4.134:9901/tsfile/live/1028_1.m3u8?key=txiptv
@@ -460,22 +436,3 @@ CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/1.m3u
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000001000004953/1.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
-
-CCTV1,http://kxrj.site:35455/ysptp/cctv1.m3u8
-CCTV2,http://kxrj.site:35455/ysptp/cctv2.m3u8
-CCTV3,http://kxrj.site:35455/ysptp/cctv3.m3u8
-CCTV4,http://kxrj.site:35455/ysptp/cctv4.m3u8
-CCTV5+,http://kxrj.site:35455/ysptp/cctv5p.m3u8
-CCTV5,http://kxrj.site:35455/ysptp/cctv5.m3u8
-CCTV6,http://kxrj.site:35455/tptv/G_CCTV-6-AVS-4K264.m3u8
-CCTV7,http://kxrj.site:35455/ysptp/cctv7.m3u8
-CCTV8,http://kxrj.site:35455/ysptp/cctv8.m3u8
-CCTV9,http://kxrj.site:35455/ysptp/cctv9.m3u8
-CCTV10,http://kxrj.site:35455/ysptp/cctv10.m3u8
-CCTV11,http://kxrj.site:35455/ysptp/cctv11.m3u8
-CCTV12,http://kxrj.site:35455/ysptp/cctv12.m3u8
-CCTV13,http://kxrj.site:35455/ysptp/cctv13.m3u8
-CCTV14,http://kxrj.site:35455/ysptp/cctv14.m3u8
-CCTV15,http://kxrj.site:35455/ysptp/cctv15.m3u8
-CCTV16,http://kxrj.site:35455/ysptp/cctv16.m3u8
-CCTV17,http://kxrj.site:35455/ysptp/cctv17.m3u8
