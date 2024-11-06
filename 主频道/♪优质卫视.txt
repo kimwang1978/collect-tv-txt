@@ -33,6 +33,8 @@
 西藏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8
 新疆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 
+东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+
 湖南卫视,http://123.166.61.70:8003/hls/58/index.m3u8
 东方卫视,http://123.166.61.70:8003/hls/22/index.m3u8
 北京卫视,http://123.166.61.70:8003/hls/56/index.m3u8
@@ -86,6 +88,20 @@
 兵团卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226439/2.m3u8
 康巴卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8
 安多卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8
+
+东方卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=dfws
+广东卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=gdws
+江苏卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=jsws
+江西卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=jxws
+河南卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=hnws
+陕西卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=sxws
+海南卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=hinws
+大湾区卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=dwqws
+湖北卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=hubws
+青海卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=qhws
+吉林卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=jlws
+东南卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=dnws
+海峡卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=hxws
 
 广东卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3$1920x1080
 广东卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$1920x1080

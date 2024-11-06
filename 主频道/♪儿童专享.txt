@@ -61,7 +61,9 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
 
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 PBS儿童台(EN),https://stream1.freetv.fun/mei-guo-ce-shi-pbs-kids-1.ctv
 Japanim TV,https://foxkidstv.be:3369/stream/play.m3u8
