@@ -129,18 +129,17 @@ TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR�
 TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+中视HD,rtmp://f13h.mine.nu/sat/tv091
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 年代新闻,http://211.72.65.236:8539/.m3u8
 纬来综合,http://211.72.65.236:8518/.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -158,9 +157,11 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 
 
 
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-华视,https://stream1.freetv.fun/hua-shi-2.m3u8
-华视,http://211.72.65.236:8503/.m3u8
+华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
+华视新闻,http://211.72.65.236:8503/.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
 粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
@@ -173,7 +174,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
