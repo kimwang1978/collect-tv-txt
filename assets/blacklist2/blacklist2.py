@@ -285,6 +285,14 @@ def process_url(url):
                         #channel_name=line.split(',')[0].strip()
                         #channel_address=line.split(',')[1].strip()
                         urls_all_lines.append(line.strip())
+            else:
+                lines = text.split('\n')
+                url_statistics.append(f"{len(lines)},{url.strip()}")
+                for line in lines:
+                    if  "#genre#" not in line and "," in line and "://" in line:
+                        #channel_name=line.split(',')[0].strip()
+                        #channel_address=line.split(',')[1].strip()
+                        urls_all_lines.append(line.strip())
     
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
@@ -344,11 +352,11 @@ def split_url(lines):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt'
+        #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt',
+        #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt',
+        #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%BB%E9%A2%91%E9%81%93/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt'
         #'',
-        #''
+        'https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/382144467556f81d196d15aea752271846dd68fd/m3u/v6migu-net'
     ]
     for url in urls:
         print(f"处理URL: {url}")
