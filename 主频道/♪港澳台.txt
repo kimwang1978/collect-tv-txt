@@ -93,6 +93,7 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 寰宇新闻,http://211.72.65.236:8547/.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://211.72.65.236:8540/.m3u8
 东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
@@ -200,7 +201,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$LR•IPV4『线路89』
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
 
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
