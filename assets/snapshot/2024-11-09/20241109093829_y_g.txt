@@ -1,0 +1,198 @@
+•央视「IPV6」,#genre#
+CCTV1「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV2「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV11「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV12「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+CCTV13「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV14「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV15「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV16「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+•卫视「IPV6」,#genre#
+湖南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+浙江卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+江苏卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+东方卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+广东卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广西卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+深圳卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+北京卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+东南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+四川卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+安徽卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+山东卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+江西卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视「IPV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+湖北卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+贵州卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+辽宁卫视「IPV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+重庆卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+吉林卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+黑龙江卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+•NewTV「IPV6」,#genre#
+NewTV_哒啵赛事「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+NewTV_黑莓动画「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+NewTV_黑莓电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+NewTV_超级电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV_超级电视剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV_超级体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV_超级综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV_金牌综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV_东北热剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV_古装剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV_欢乐剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV_怡伴健康「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV_潮妈辣婆「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV_军旅剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV_军事评论「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV_中国功夫「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV_农业致富「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV_动作电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV_家庭剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV_惊悚悬疑「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV_武博世界「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV_炫舞未来「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NewTV_爱情喜剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV_精品萌宠「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV_精品体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV_精品大剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+
+•体育「IPV6」,#genre#
+咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕直播_𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播_𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播_𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播_𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+BesTV_𝟙「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟚「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟛「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟜「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟝「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟞「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+
+•游戏赛事,#genre#
+「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
+「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
+「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
+「虎牙」英雄联盟_𝟚,http://live.iill.top/huya.php?id=660001
+「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
+「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
+「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
+「B站」王者荣耀_𝟙,http://live.iill.top/bilibili.php?id=55
+「B站」王者荣耀_𝟚,http://live.iill.top/bilibili.php?id=21654762
+「虎牙」王者荣耀_𝟙,http://live.iill.top/huya.php?id=660002
+「虎牙」王者荣耀_𝟚,http://live.iill.top/huya.php?id=660164
+「斗鱼」王者荣耀_𝟙,http://live.iill.top/douyu.php?id=1863767
+「斗鱼」王者荣耀_𝟚,http://live.iill.top/douyu.php?id=1984839
+「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
+「虎牙」绝地求生_𝟙,http://live.iill.top/huya.php?id=660004
+「虎牙」绝地求生_𝟚,http://live.iill.top/huya.php?id=660005
+「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
+「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
+「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
+「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
+「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
+「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
+「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
+「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
+「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
+「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
+「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
+「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
+「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
+「斗鱼」穿越火线_𝟙,http://live.iill.top/douyu.php?id=605964
+「斗鱼」穿越火线_𝟚,http://live.iill.top/douyu.php?id=5388537
+「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
+「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
+「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
+「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
+「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
+「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
+「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
+「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
+「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
+「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
+「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
+「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
+「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
+「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
+「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
+「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
+「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
+「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
+「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
+
+•埋堆堆,#genre#
+埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
+埋堆堆_𝟚,http://live.iill.top/huya.php?id=23749096
+埋堆堆_𝟛,http://live.iill.top/huya.php?id=23735126
+埋堆堆_𝟜,http://live.iill.top/huya.php?id=23903123
+埋堆堆_𝟝,http://live.iill.top/huya.php?id=23734169
+埋堆堆_𝟞,http://live.iill.top/huya.php?id=23863804
+埋堆堆_𝟟,http://live.iill.top/huya.php?id=23865080
+埋堆堆_𝟠,http://live.iill.top/huya.php?id=23864973
+埋堆堆_𝟡,http://live.iill.top/huya.php?id=23903130
+埋堆堆_𝟙𝟘,http://live.iill.top/huya.php?id=23860039
+埋堆堆_𝟙𝟙,http://live.iill.top/huya.php?id=23903183
+埋堆堆_𝟙𝟚,http://live.iill.top/huya.php?id=23903196
+埋堆堆_𝟙𝟛,http://live.iill.top/huya.php?id=23728674
+埋堆堆_𝟙𝟜,http://live.iill.top/huya.php?id=23865036
+埋堆堆_𝟙𝟝,http://live.iill.top/huya.php?id=23829543
+埋堆堆_𝟙𝟞,http://live.iill.top/huya.php?id=23865161
+埋堆堆_𝟙𝟟,http://live.iill.top/huya.php?id=23865058
+埋堆堆_𝟙𝟠,http://live.iill.top/huya.php?id=23824164
+埋堆堆_𝟙𝟡,http://live.iill.top/huya.php?id=23863796
+埋堆堆_𝟚𝟘,http://live.iill.top/huya.php?id=23734183
+埋堆堆_𝟚𝟙,http://live.iill.top/huya.php?id=23728660
+埋堆堆_𝟚𝟚,http://live.iill.top/huya.php?id=23865142
+埋堆堆_𝟚𝟛,http://live.iill.top/huya.php?id=23734246
+埋堆堆_𝟚𝟜,http://live.iill.top/huya.php?id=23865171
+埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
+埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
+
+•影视,#genre#
+音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
+音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
+治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
+阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
+电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
+电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
+电影•1「解说」,http://live.iill.top/huya.php?id=20289754
+电影•2「解说」,http://live.iill.top/huya.php?id=24983280
+电影•3「解说」,http://live.iill.top/huya.php?id=24396428
+动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
+恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
+漫威「解说」,http://live.iill.top/huya.php?id=17089779
+美剧「解说」,http://live.iill.top/huya.php?id=20488841
+七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
+止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
+挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
+挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
+互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
+荒野求生「其他」,http://live.iill.top/huya.php?id=593667
+野行者「其他」,http://live.iill.top/huya.php?id=20072663
+跳舞「其他」,http://live.iill.top/huya.php?id=24634408
+茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
+哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
+航海王「动漫」,http://live.iill.top/huya.php?id=16913382
+七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
+猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
+中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
