@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7
 --https://gitlab.com/tvtg/vip/-/raw/main/log.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
-http://117.72.68.25:9230/latest.txt
+--http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
