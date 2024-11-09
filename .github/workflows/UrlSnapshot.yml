@@ -1,4 +1,4 @@
-name: 'Daily Job(UrlSnapshot)'
+name: 'Daily Job(urlSnapshot)'
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Daily Job(UrlSnapshot)'
+        description: 'Daily Job(urlSnapshot)'
         required: true
         default: 'production'
 
@@ -26,6 +26,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install requests
         
     - name: Run Python script
       run: python assets/snapshot/snapshot.py
