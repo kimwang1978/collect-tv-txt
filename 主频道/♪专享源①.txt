@@ -35,12 +35,14 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/32212257
 NEWTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 
 家庭影院,http://rihou.cc:567/53057.php?id=chcjt
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8

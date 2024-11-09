@@ -34,7 +34,6 @@ https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
 https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
-https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
 https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 http://47.99.102.252/live.txt
@@ -44,8 +43,6 @@ http://xhztv.top/v6.txt
 https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
 https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
-https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 http://1805842a.123nat.com:66/agent/2.txt
 https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
@@ -62,3 +59,4 @@ http://122.228.85.203:5988/uploads/tvbox/tv.txt
 https://raw.githubusercontent.com/uc666/show/refs/heads/main/zb1.txt
 https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
+https://4gtv.mytvsuper.xyz/myiptv.m3u

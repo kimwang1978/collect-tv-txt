@@ -88,74 +88,6 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 有线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hoycaijing_twn
 
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://211.72.65.236:8531/.m3u8
-八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-八大戏剧,https://stream1.freetv.fun/6b1701a07ea621155cdaa9ee604b6c6ebc763093fafaf493ce7a3c2e206be799.m3u8
-八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大第一,http://211.72.65.236:8519/.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大综合,http://211.72.65.236:8520/.m3u8
-八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
-八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
-八大综艺,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv039
-
-寰宇新闻,http://211.72.65.236:8547/.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
-东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
-
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
-东森超视,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
-
-东森综合,http://211.72.65.236:8524/.m3u8
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
-
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://211.72.65.236:8574/.m3u8
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6』
-
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路1』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路4』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$LR•IPV4『线路5』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路6』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$LR•IPV4『线路7』
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路9』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路10』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路11』
-
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR•IPV4『线路1』
-TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
-中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-中视HD,rtmp://f13h.mine.nu/sat/tv091
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-年代新闻,http://211.72.65.236:8539/.m3u8
-纬来综合,http://211.72.65.236:8518/.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -172,13 +104,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
 
 
-
-华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
-华视新闻,http://211.72.65.236:8503/.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
 粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
 粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
@@ -189,7 +114,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
 粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
 
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -213,8 +137,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 凤凰资讯,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路35』
 凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$LR•IPV4『线路89』
 凤凰资讯,http://146.56.153.245:20121/bysid/257
-
-
 
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
