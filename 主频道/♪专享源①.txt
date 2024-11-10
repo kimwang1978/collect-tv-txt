@@ -43,6 +43,12 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
+纬来电影,http://iptv12k.com:35461/live/test167/12345/1236.m3u8
+
+HBO,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
+HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
+HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
+HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 
 家庭影院,http://rihou.cc:567/53057.php?id=chcjt
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
