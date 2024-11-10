@@ -31,7 +31,6 @@
 周杰伦-暗号,http://em.21dtv.com/songs/60009367.mkv
 逃跑计划乐队-夜空中最亮的星,http://em.21dtv.com/songs/60081693.mkv
 梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
-周传雄-黄昏,http://em.21dtv.com/songs/60137418.mkv
 张敬轩-断点,http://em.21dtv.com/songs/60015919.mkv
 张韶涵-阿刁,http://em.21dtv.com/songs/60151605.mkv
 信乐团-离歌,http://em.21dtv.com/songs/60026690.mkv
@@ -45,6 +44,8 @@
 毛不易-牧马城市,http://em.21dtv.com/songs/60152864.mkv
 华晨宇-烟火里的尘埃,http://em.21dtv.com/songs/60108355.mkv
 梁咏琪-短发,http://em.21dtv.com/songs/60136631.mkv
+周传雄-黄昏(演唱会),http://em.21dtv.com/songs/60021927.mkv
+周传雄-记事本,http://em.21dtv.com/songs/60022715.mkv
 周传雄-我的心太乱,http://em.21dtv.com/songs/60137416.mkv
 周传雄-寂寞沙洲冷,http://em.21dtv.com/songs/60137415.mkv
 刘文正-三月里的小雨,http://em.21dtv.com/songs/60037364.mkv
