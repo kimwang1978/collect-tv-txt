@@ -29,7 +29,7 @@
 
 东森综合,http://211.72.65.236:8524/.m3u8
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
+东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -76,5 +76,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 华视新闻,http://211.72.65.236:8503/.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+華視戲劇,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8

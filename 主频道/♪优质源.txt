@@ -71,3 +71,5 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
+(JP)TBS NEWS,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+(Korea)KBS News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
