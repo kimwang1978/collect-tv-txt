@@ -37,6 +37,19 @@ CCTV15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 
+CCTV1,http://124.231.213.16:9999/tsfile/live/0001_1.m3u8
+CCTV2,http://124.231.213.16:9999/tsfile/live/0002_1.m3u8
+CCTV3,http://124.231.213.16:9999/tsfile/live/0003_1.m3u8
+CCTV5+,http://124.231.213.16:9999/tsfile/live/1114_1.m3u8
+CCTV7,http://124.231.213.16:9999/tsfile/live/0007_1.m3u8
+CCTV9,http://124.231.213.16:9999/tsfile/live/0009_1.m3u8
+CCTV10,http://124.231.213.16:9999/tsfile/live/0010_1.m3u8
+CCTV13,http://124.231.213.16:9999/tsfile/live/0013_1.m3u8
+CCTV14,http://124.231.213.16:9999/tsfile/live/0014_1.m3u8
+CCTV15,http://124.231.213.16:9999/tsfile/live/0015_1.m3u8
+CCTV16,http://124.231.213.16:9999/tsfile/live/1084_1.m3u8
+CCTV17,http://124.231.213.16:9999/tsfile/live/0019_1.m3u8
+
 CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
 CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
 CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv3

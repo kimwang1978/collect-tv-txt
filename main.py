@@ -176,6 +176,14 @@ def convert_m3u_to_txt(m3u_content):
         # 处理 URL 行
         elif line.startswith("http") or line.startswith("rtmp") or line.startswith("p3p") :
             txt_lines.append(f"{channel_name},{line.strip()}")
+        
+        # 处理后缀名为m3u，但是内容为txt的文件
+        if "#genre#" not in line and "," in line and "://" in line:
+            # 定义正则表达式，匹配频道名称,URL 的格式，并确保 URL 包含 "://"
+            # xxxx,http://xxxxx.xx.xx
+            pattern = r'^[^,]+,[^\s]+://[^\s]+$'
+            if bool(re.match(pattern, line)):
+                txt_lines.append(line)
     
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)

@@ -15,6 +15,7 @@ NEWTV动作电影,http://rihou.cc:567/53057.php?id=chcdz
 NEWTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 NEWTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
 NEWTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+NEWTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 
 NEWTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 NEWTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -32,7 +33,16 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 
-NEWTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+CHC动作电影,http://124.231.213.16:9999/tsfile/live/1109_1.m3u8
+CHC家庭影院,http://124.231.213.16:9999/tsfile/live/1108_1.m3u8
+CHC影迷电影,http://124.231.213.16:9999/tsfile/live/1110_1.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-8.ctv
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
@@ -45,15 +55,15 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 纬来电影,http://iptv12k.com:35461/live/test167/12345/1236.m3u8
 
-HBO,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
-HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
+AXN电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b32-golive.flv
+thrill电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
+TVB美亚电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a23-golive.flv
+TVB创世电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-golive.flv
 
-家庭影院,http://rihou.cc:567/53057.php?id=chcjt
-家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
-家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
-家庭影院,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+家庭剧场,http://rihou.cc:567/53057.php?id=chcjt
+家庭剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
+家庭剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
+家庭剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
 
 🔁周星星,http://cfss.cc/cdn/hy/11336587.flv
 ▶️(2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
@@ -84,11 +94,10 @@ HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-8.ctv
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+
+HBO,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
+HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
+HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
+HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
+
 

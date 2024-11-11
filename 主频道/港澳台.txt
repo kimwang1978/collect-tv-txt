@@ -1,8 +1,9 @@
 凤凰香港
 凤凰中文
 凤凰资讯
-凤凰资讯
+凤凰卫视
 翡翠台
+明珠台
 无线翡翠台
 无线新闻
 无线新闻台
@@ -15,9 +16,13 @@
 星河台
 TVB翡翠
 TVB翡翠台
+TVB明珠
 TVB星河
 TVB星河台
 TVB无线新闻
+TVB娱乐新闻
+TVB千禧经典
+TVBPLUS
 TVBJ2
 J2
 VIUTV
@@ -25,6 +30,10 @@ VIU
 nowsports
 now sports
 now体育
+Now星影
+Now爆谷
+NOW新闻
+NOW财经 
 TVBS-Asia
 TVBS新聞
 TVBS新闻
@@ -35,8 +44,6 @@ TVBS亚洲台
 TVBS欢乐
 TVBS欢乐台
 TW台视新闻
-Now星影
-Now爆谷
 美亚电影
 千禧经典
 華語電視2
@@ -78,7 +85,6 @@ Now爆谷
 民视第一
 民视旅游
 民视综艺
-明珠台
 有线新闻
 耀才財經
 耀才财经新闻

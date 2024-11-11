@@ -37,7 +37,6 @@
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -46,6 +45,23 @@
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+
+东方卫视,http://124.231.213.16:9999/tsfile/live/0107_1.m3u8
+东南卫视,http://124.231.213.16:9999/tsfile/live/0137_1.m3u8
+兵团卫视,http://124.231.213.16:9999/tsfile/live/0115_1.m3u8
+内蒙古卫视,http://124.231.213.16:9999/tsfile/live/0109_1.m3u8
+天津卫视,http://124.231.213.16:9999/tsfile/live/0135_1.m3u8
+山西卫视,http://124.231.213.16:9999/tsfile/live/0118_1.m3u8
+广东卫视,http://124.231.213.16:9999/tsfile/live/0125_1.m3u8
+广西卫视,http://124.231.213.16:9999/tsfile/live/0113_1.m3u8
+新疆卫视,http://124.231.213.16:9999/tsfile/live/0110_1.m3u8
+旅游卫视,http://124.231.213.16:9999/tsfile/live/0114_1.m3u8
+江苏卫视,http://124.231.213.16:9999/tsfile/live/0127_1.m3u8
+河北卫视,http://124.231.213.16:9999/tsfile/live/0117_1.m3u8
+湖北卫视,http://124.231.213.16:9999/tsfile/live/0132_1.m3u8
+甘肃卫视,http://124.231.213.16:9999/tsfile/live/0141_1.m3u8
+西藏卫视,http://124.231.213.16:9999/tsfile/live/0111_1.m3u8
+青海卫视,http://124.231.213.16:9999/tsfile/live/0140_1.m3u8
 
 北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8
 天津卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8

@@ -60,3 +60,6 @@ https://raw.githubusercontent.com/uc666/show/refs/heads/main/zb1.txt
 https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
 https://4gtv.mytvsuper.xyz/myiptv.m3u
+https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
+https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
+https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
