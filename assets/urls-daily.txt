@@ -15,12 +15,12 @@ http://ttkx.cc:55/lib/kx2024.txt
 --http://ttkx.live:55/lib/kx2024.txt
 http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
 http://kxrj.site:55/lib/kx2024.txt
-https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
+--https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/myDS.txt
+--https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/ysv/raw/live.txt
 https://2912.kstore.space/520.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://gitlab.com/tvtg/vip/-/raw/main/log.txt
-https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
 --http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
@@ -74,3 +74,4 @@ https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m
 ++http://l.gmbbk.com/upload/16401640.txt
 ++http://122.228.85.203:5988/uploads/tvbox/tv.txt
 ++https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
+++
