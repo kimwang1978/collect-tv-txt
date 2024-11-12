@@ -66,6 +66,11 @@ TVB创世电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-g
 家庭剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
 家庭剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
 
+iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
+iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/5841816227539527643/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
+iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/7185203501769528108/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+
 🔁周星星,http://cfss.cc/cdn/hy/11336587.flv
 ▶️(2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
 ▶️(2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
