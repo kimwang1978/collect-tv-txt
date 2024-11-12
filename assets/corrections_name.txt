@@ -141,9 +141,10 @@ CCTV17,CCTV17_电信
 nowsports,now sports,now体育
 J2,TVBJ2
 TVBS亚洲,TVBS亚洲台,TVBS亞洲,TVBS-Asia
-TVBS新闻,TVBS新聞,TVBS新闻台
-TVB星河,TVB星河台
+TVBS新闻,TVBS-新闻,TVBS新聞,TVBS新闻台
+TVB星河,TVB星河台,TVB 星河
 嵊泗综合,嵊泗新闻综合频道,嵊州新闻综合频道,嵊州新闻综合
 AMC电影,AMC电影台
 东森综合,东森综合台
 洋县电视台,「陕西」洋县电视台1,「陕西」洋县电视台1「IPV6」
+

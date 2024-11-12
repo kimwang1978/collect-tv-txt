@@ -96,9 +96,4 @@ TVB创世电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-g
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 
-HBO,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
-HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
-
 
