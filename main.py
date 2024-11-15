@@ -680,6 +680,10 @@ output_file = "merged_output.txt"
 output_file_simple = "merged_output_simple.txt"
 others_file = "others_output.txt"
 
+# NEW将合并后的文本写入文件
+new_output_file = "live.txt"
+new_output_file_simple = "live_lite.txt"
+
 # # custom定制
 # output_file_custom_zhang = "custom/zhang.txt"
 
@@ -689,11 +693,23 @@ try:
         for line in all_lines_simple:
             f.write(line + '\n')
     print(f"合并后的文本已保存到文件: {output_file_simple}")
+
+    with open(new_output_file_simple, 'w', encoding='utf-8') as f:
+        for line in all_lines_simple:
+            f.write(line + '\n')
+    print(f"合并后的文本已保存到文件: {new_output_file_simple}")
+
     # 全集版
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in all_lines:
             f.write(line + '\n')
     print(f"合并后的文本已保存到文件: {output_file}")
+
+    with open(new_output_file, 'w', encoding='utf-8') as f:
+        for line in all_lines:
+            f.write(line + '\n')
+    print(f"合并后的文本已保存到文件: {new_output_file}")
+
     # 其他
     with open(others_file, 'w', encoding='utf-8') as f:
         for line in other_lines:
@@ -751,7 +767,7 @@ def get_logo_by_channel_name(channel_name):
 # print("merged_output.m3u文件已生成。")
 
 
-def make_m3u(txt_file, m3u_file):
+def make_m3u(txt_file, m3u_file, m3u_file_copy):
     try:
         #output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"\n'
         output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml.gz"\n'
@@ -792,13 +808,15 @@ def make_m3u(txt_file, m3u_file):
 
         with open(f"{m3u_file}", "w", encoding='utf-8') as file:
             file.write(output_text)
+        with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
+            file.write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
     except Exception as e:
         print(f"发生错误: {e}")
 
-make_m3u(output_file, "merged_output.m3u")
-make_m3u(output_file_simple, "merged_output_simple.m3u")
+make_m3u(output_file, "merged_output.m3u", "live.m3u")
+make_m3u(output_file_simple, "merged_output_simple.m3u", "live_lite.m3u")
 
 
 # 执行结束时间
