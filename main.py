@@ -812,6 +812,7 @@ def make_m3u(txt_file, m3u_file, m3u_file_copy):
             file.write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
+        print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
     except Exception as e:
         print(f"发生错误: {e}")
 
