@@ -1,3 +1,13 @@
+智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
+博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
+博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
+博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
+TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
 ELEVEN1,http://211.72.65.236:8566/.m3u8

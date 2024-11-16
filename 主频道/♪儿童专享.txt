@@ -43,6 +43,8 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
+靖洋卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
 龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
 靖洋卡通,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv057

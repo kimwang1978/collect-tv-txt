@@ -48,11 +48,12 @@ https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 --https://gitcode.net/MZ011/BHJK/-/raw/master/BHZB1.txt
 http://47.99.102.252/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+--https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 http://xhztv.top/v6.txt
 --https://tvkj.top/tvlive.txt
 https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
-https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
+--https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
+https://raw.githubusercontent.com/zzmaze/iptv/main/itvlist.txt
 --http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
@@ -63,7 +64,7 @@ https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
 http://154.9.252.167:190/tvlive.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
-https://4gtv.mytvsuper.xyz/myiptv.m3u
+--https://4gtv.mytvsuper.xyz/myiptv.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 --https://raw.githubusercontent.com/zzj2678/IPTVzb1/refs/heads/main/iptv_list.txt
 ++http://120.79.4.185/new/mdlive.txt

@@ -44,6 +44,11 @@ CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 
+数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+
+
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
@@ -71,7 +76,8 @@ iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/58418162275395
 iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
 iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/7185203501769528108/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
-🔁周星星,http://cfss.cc/cdn/hy/11336587.flv
+🔁周星星,http://159.75.85.63:35455/huya/11342412
+🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
 ▶️(2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
 ▶️(2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
 ▶️(2024)绝地战警：生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
