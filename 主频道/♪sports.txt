@@ -1,12 +1,3 @@
-智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
-博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
-博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
-博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
-博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
-博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
 TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
@@ -24,10 +15,8 @@ skysports,https://stream1.freetv.fun/skysports-3.ctv
 skysports,https://stream1.freetv.fun/skysports-2.ctv
 skysports plus,https://stream1.freetv.fun/skysports-plus-1.ctv
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-nba tv,https://stream1.freetv.fun/nba-tv-1.ctv
-nba tv,https://stream1.freetv.fun/nba-tv-4.ctv
-usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
-nowsports,https://stream1.freetv.fun/nowsports-2.ctv
+NBA TV,https://stream1.freetv.fun/nba-tv-1.ctv
+NBA TV,https://stream1.freetv.fun/nba-tv-4.ctv
 nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 swerve sports,https://stream1.freetv.fun/swerve-sports-2.m3u8
 swerve sports,https://stream1.freetv.fun/swerve-sports-1.m3u8
@@ -35,3 +24,12 @@ jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
 jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
 band sports,https://stream1.freetv.fun/band-sports-3.m3u8
 fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
+博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
+博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
+博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
+博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
+智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
