@@ -26,6 +26,9 @@
 湖南卫视,http://123.113.103.104:4022/rtp/239.3.1.132:8012
 湖南卫视,http://wouu.net:9977/udp/239.93.0.88:5140
 
+东方卫视,http://dd.ddzb.fun/php/migu.php?id=dfws
+湖北卫视,http://dd.ddzb.fun/php/migu.php?id=hubws
+
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
