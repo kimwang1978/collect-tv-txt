@@ -18,7 +18,10 @@ def read_txt_to_array(file_name):
         return []
 
 # 定义
-urls = read_txt_to_array('assets/snapshot/urls.txt')
+urls1 = read_txt_to_array('assets/snapshot/urls.txt')
+urls2 = read_txt_to_array('assets/urls-daily.txt')
+urls=set(urls1+urls2)  # 去重
+print(f"urls数: {len(urls)} ")
 
 # 获取当前脚本所在的目录
 current_dir = os.path.dirname(os.path.abspath(__file__))

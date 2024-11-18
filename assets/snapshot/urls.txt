@@ -49,6 +49,10 @@ https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
 http://154.9.252.167:190/tvlive.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://120.79.4.185/new/mdlive.txt
+https://freetv.fun/test_channels_original_new.txt
+https://iptv-org.github.io/iptv/languages/zho.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://iptv-org.github.io/iptv/countries/us.m3u
 http://tv.850930.xyz/kdsb.m3u
 http://tv.850930.xyz/kdsb2.m3u
 http://tv.850930.xyz/gather.m3u
