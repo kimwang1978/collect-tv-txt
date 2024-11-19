@@ -21,10 +21,15 @@
 寰宇新聞台灣台,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://211.72.65.236:8540/.m3u8
-东森新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv152
-东森新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+
+东森新闻HD,https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8
+东森新闻HD,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
+东森新闻HD,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
@@ -85,6 +90,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 年代新闻,http://211.72.65.236:8539/.m3u8
 纬来综合,http://211.72.65.236:8518/.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8

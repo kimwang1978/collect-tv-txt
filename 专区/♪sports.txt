@@ -8,9 +8,11 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 爱尔达体育2,http://iptv12k.com:35461/live/test167/12345/1220.m3u8
 爱尔达体育3,http://iptv12k.com:35461/live/test167/12345/1219.m3u8
 爱尔达体育2, http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-纬来体育,http://iptv12k.com:35461/live/test167/12345/1237.m3u8
-纬来体育,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
+纬来体育,http://211.72.65.236:8585/.m3u8
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,http://125.227.210.55:8155/VideoInput/play.ts
+纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 skysports,https://stream1.freetv.fun/skysports-3.ctv
 skysports,https://stream1.freetv.fun/skysports-2.ctv
 skysports plus,https://stream1.freetv.fun/skysports-plus-1.ctv
