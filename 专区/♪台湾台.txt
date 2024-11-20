@@ -48,6 +48,7 @@
 
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
 TVBS欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
