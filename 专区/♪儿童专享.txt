@@ -61,7 +61,7 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
 猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
 蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970
-
+iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
