@@ -31,8 +31,12 @@ TVB戏曲
 TVBPLUS
 TVBJ2
 J2
-VIUTV
 VIU
+VIUTV
+VIU TV
+VIUTV-粤
+VIUTV台粤
+VIUTV-英
 nowsports
 now sports
 now体育

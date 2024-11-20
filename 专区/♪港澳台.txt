@@ -75,8 +75,12 @@ TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 
+VIUTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
+VIUTV英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
 VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
