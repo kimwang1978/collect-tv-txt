@@ -463,6 +463,8 @@ def load_corrections_name(filename):
     corrections = {}
     with open(filename, 'r', encoding='utf-8') as f:
         for line in f:
+            if not line.strip(): #跳过空行
+                continue
             parts = line.strip().split(',')
             correct_name = parts[0]
             for name in parts[1:]:
@@ -574,7 +576,7 @@ formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
 about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
-about="关于本源,"+about_video2
+about="关于本源(iptv365.org),"+about_video2
 # 瘦身版
 # 
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ ['\n'] +\
@@ -731,8 +733,12 @@ except Exception as e:
 
 channels_logos=read_txt_to_array('assets/logo.txt') #读入logo库
 def get_logo_by_channel_name(channel_name):
+    
     # 遍历数组查找频道名称
     for line in channels_logos:
+        # 去除首尾空白并检查是否为空行(没有这个判断logo中如果出现空行会出错)
+        if not line.strip():
+            continue
         name, url = line.split(',')
         if name == channel_name:
             return url
