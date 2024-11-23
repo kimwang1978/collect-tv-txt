@@ -69,3 +69,4 @@ https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
 http://ww.weidonglong.com/dsj.txt
 http://xhztv.top/zbc.txt
+http://tot.totalh.net/tttt.txt
