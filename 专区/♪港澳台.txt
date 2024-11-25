@@ -83,7 +83,9 @@ VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
+Now星影,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Now爆谷,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
@@ -103,16 +105,9 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$LR•IPV4『线路10』
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
 
+天映,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
+天映,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 
-粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
-粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
-粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
-粤语经典综艺,http://cfss.cc/cdn/dyu/7919720.m3u8
-粤语星爷电影,http://159.75.85.63:35455/huya/11336587
-粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
-粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
-粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
-粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
@@ -143,3 +138,15 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+
+粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
+粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
+粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
+粤语经典综艺,http://cfss.cc/cdn/dyu/7919720.m3u8
+粤语星爷电影,http://159.75.85.63:35455/huya/11336587
+粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
+粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
+粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
+粤语版电影二,http://epg.112114.xyz/douyu/6566671
+粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
+粤语版电影三,http://epg.112114.xyz/douyu/1226741

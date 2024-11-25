@@ -199,6 +199,19 @@ CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
 
+CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
+CCTV3,http://42.48.50.232:9002/tsfile/live/0003_1.m3u8
+CCTV4,http://42.48.50.232:9002/tsfile/live/0004_1.m3u8
+CCTV5,http://42.48.50.232:9002/tsfile/live/0005_1.m3u8
+CCTV6,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8
+CCTV7,http://42.48.50.232:9002/tsfile/live/0007_1.m3u8
+CCTV8,http://42.48.50.232:9002/tsfile/live/0008_1.m3u8
+CCTV9,http://42.48.50.232:9002/tsfile/live/0009_1.m3u8
+CCTV12,http://42.48.50.232:9002/tsfile/live/0012_1.m3u8
+CCTV13,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8
+CCTV14,http://42.48.50.232:9002/tsfile/live/0014_1.m3u8
+CCTV15,http://42.48.50.232:9002/tsfile/live/0015_1.m3u8
+
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8

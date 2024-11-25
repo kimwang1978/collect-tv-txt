@@ -5190,3 +5190,14 @@ pop radio 975银川流行音乐电台,https://fanmingming.com/fm?id=1296
 龙华电影,mitv://135.148.104.228:19806/1df6f5f0993a46faa17f676518654709
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+🌵庆余年,http://diyp.zxxoo.work/douyu/5062195
+🌵庆余年,https://diyp.zxyxndc.top/douyu/5062195
+🎞️与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
+🎞️延禧攻略,http://cfss.cc/cdn/hy/26355864.m3u8
+🎞️琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+🎞️甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+🎞️知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
+🎞️芈月传,http://cfss.cc/cdn/hy/11352975.m3u8
+🎦伪装者,http://mitv.ts138.top/yy/1354936244
+🎦我的前半生,http://mitv.ts138.top/yy/1382735564
+🎦欢乐颂,http://cfss.cc/cdn/dyu/3756989.m3u8
