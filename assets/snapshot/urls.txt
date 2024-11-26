@@ -12,8 +12,6 @@ http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e
 http://kxrj.site:55/lib/kx2024.txt
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
-https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd}%E7%BB%BC%E5%90%88%E6%BA%90.txt
-https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
 --http://117.72.68.25:9230/latest.txt
@@ -29,7 +27,7 @@ https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
 https://m3u.ibert.me/txt/j_home.txt
-http://vip.vip0531.com/viptv/live202405.txt
+--http://vip.vip0531.com/viptv/live202405.txt
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
 https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt
@@ -48,7 +46,7 @@ https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
 http://154.9.252.167:190/tvlive.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
-http://120.79.4.185/new/mdlive.txt
+--http://120.79.4.185/new/mdlive.txt
 https://freetv.fun/test_channels_original_new.txt
 https://iptv-org.github.io/iptv/languages/zho.m3u
 https://iptv-org.github.io/iptv/countries/tw.m3u
@@ -63,7 +61,7 @@ http://122.228.85.203:5988/uploads/tvbox/tv.txt
 https://raw.githubusercontent.com/uc666/show/refs/heads/main/zb1.txt
 https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
-https://4gtv.mytvsuper.xyz/myiptv.m3u
+--https://4gtv.mytvsuper.xyz/myiptv.m3u
 https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt

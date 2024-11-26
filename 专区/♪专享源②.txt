@@ -169,3 +169,8 @@ iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 斗鱼7,http://epg.112114.xyz/douyu/8814650
 斗鱼8,http://epg.112114.xyz/douyu/263824
 斗鱼9,http://epg.112114.xyz/douyu/323876
+贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802#http://159.75.85.63:35455/douyu/252802
+贝爷欧美②厅,http://zzy789.xyz/douyu1.php?id=36337#http://159.75.85.63:35455/douyu/36337
+贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332#http://159.75.85.63:35455/douyu/4332
+贝爷壹厅,https://stream1.freetv.fun/099b3f177e7e860977f45f533d9b265090aab30e270184c802e27e86e3714a8c.ctv
+贝爷贰厅,https://stream1.freetv.fun/104074496ac3f54fe72fe9207b4776ab93650b718ec2ac0a876a81396134b74a.ctv

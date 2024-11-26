@@ -18,6 +18,7 @@ http://ttkx.cc:55/lib/kx2024.txt
 --http://ttkx.live:55/lib/kx2024.txt
 http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
 http://kxrj.site:55/lib/kx2024.txt
+https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/myDS.txt
 --https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/ysv/raw/live.txt
