@@ -1,6 +1,7 @@
 http://wx.thego.cn/ak.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+http://ww.weidonglong.com/dsj.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
