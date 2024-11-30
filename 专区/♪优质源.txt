@@ -68,7 +68,7 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 乐游,http://kxrj.site:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-
+CGTN,https://pi.0472.org/tv/fct.php?auth=230918
 BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8

@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 http://aktv.top/live.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
 https://live.zhoujie218.top/tv/iptv6.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
@@ -28,7 +29,7 @@ https://github.com/frxz751113/IPTVzb1/blob/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://gitlab.com/tvtg/vip/-/raw/main/log.txt
-https://d.kstore.space/download/7395/xiaohei.txt
+--https://d.kstore.space/download/7395/xiaohei.txt
 --http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 http://175.178.251.183:6689/live.txt 
@@ -44,7 +45,7 @@ https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
 https://m3u.ibert.me/txt/j_home.txt
-http://vip.vip0531.com/viptv/live202405.txt
+--http://vip.vip0531.com/viptv/live202405.txt
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
 https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt
@@ -67,7 +68,7 @@ https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 http://1805842a.123nat.com:66/agent/2.txt
 --https://gongdian.top/tv/gongdian.txt
-https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
+--https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
 http://154.9.252.167:190/tvlive.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt

@@ -1,5 +1,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,p3p://108.181.32.169:19673/6533f6560002787f2d01338b57197695
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -14,7 +16,6 @@
 翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$LR•IPV4『线路10』
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路11』
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路19』
-翡翠台,https://pi.0472.org/tv/fct.php?auth=230918$LR•IPV4『线路21』
 翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$LR•IPV4『线路30』
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路31』
 翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路33』
@@ -26,8 +27,12 @@ TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+TVB无线功夫,p3p://108.181.32.169:19673/6411291b0004b01b9c62861646d00929
 
+
+TVB无线新闻,p3p://108.181.32.169:19673/66c414110003f1f047eb7cb30cd84a38
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
 TVB无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
 TVB无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
@@ -42,12 +47,16 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
 
+TVB明珠台,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
+TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB明珠台,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB明珠台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah008-golive.flv
 TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
@@ -81,11 +90,11 @@ VIUTV英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 Now星影,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
