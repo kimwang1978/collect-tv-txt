@@ -68,7 +68,7 @@ output_file = "assets/special/special.txt"
 
 try:
     # 
-    print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
+    # print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in all_lines:
             f.write(line + '\n')
