@@ -117,7 +117,8 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 天映,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 天映,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 
-
+美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
+美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 

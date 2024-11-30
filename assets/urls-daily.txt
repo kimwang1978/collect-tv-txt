@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/myDS.txt
 --https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/ysv/raw/live.txt
 https://2912.kstore.space/520.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://github.com/frxz751113/IPTVzb1/blob/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7%BB%BC%E5%90%88%E6%BA%90.txt
@@ -39,7 +40,6 @@ https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
