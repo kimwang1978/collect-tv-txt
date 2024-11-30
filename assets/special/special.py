@@ -57,7 +57,7 @@ urls = [
 # 处理
 for url in urls:
     if url.startswith("http"):        
-        print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
+        # print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
         print(f"处理URL: {url}")
         process_url(url)
 
