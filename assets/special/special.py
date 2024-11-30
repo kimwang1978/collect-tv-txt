@@ -73,7 +73,7 @@ try:
         for line in all_lines:
             f.write(line + '\n')
     print(f"合并后的文本已保存到文件: {output_file}")
-    print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
+    # print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
