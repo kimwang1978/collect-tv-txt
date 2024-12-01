@@ -1,11 +1,11 @@
 http://wx.thego.cn/ak.m3u
+http://aktv.top/live.txt
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 http://ww.weidonglong.com/dsj.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-http://aktv.top/live.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
 https://live.zhoujie218.top/tv/iptv6.txt

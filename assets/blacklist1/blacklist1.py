@@ -28,13 +28,16 @@ def check_url(url, timeout=6):
     start_time = time.time()
     elapsed_time = None
     success = False
+
+    # 将 URL 中的汉字编码
+    encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
     try:
         if url.startswith("http"):
             headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
-            req = urllib.request.Request(url, headers=headers)
+            req = urllib.request.Request(encoded_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
                 if response.status == 200:
                     success = True
@@ -93,8 +96,8 @@ def check_p3p_url(url, timeout):
         # 解析URL
         parsed_url = urlparse(url)
         host = parsed_url.hostname
-        port = parsed_url.port
-        path = parsed_url.path
+        port = parsed_url.port or (80 if parsed_url.scheme == "http" else 443)
+        path = parsed_url.path or "/"
         
         # 检查解析是否成功
         if not host or not port or not path:
@@ -103,7 +106,14 @@ def check_p3p_url(url, timeout):
         # 创建一个 TCP 连接
         with socket.create_connection((host, port), timeout=timeout) as s:
             # 发送一个简单的请求（根据协议定义可能需要调整）
-            request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
+            # request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
+            # 构造请求
+            request = (
+                f"GET {path} P3P/1.0\r\n"
+                f"Host: {host}\r\n"
+                f"User-Agent: CustomClient/1.0\r\n"
+                f"Connection: close\r\n\r\n"
+            )
             s.sendall(request.encode())
             
             # 读取响应
