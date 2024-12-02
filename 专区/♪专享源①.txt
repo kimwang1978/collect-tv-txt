@@ -43,6 +43,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 
@@ -51,8 +52,10 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
 
+靖天电影,https://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
+靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588

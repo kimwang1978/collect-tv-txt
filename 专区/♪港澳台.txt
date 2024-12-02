@@ -142,14 +142,5 @@ RTHK32,p3p://108.181.32.169:58940/641020b00001b8599859a360613572d7
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 
-粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
-粤语港集轮播,http://cfss.cc/cdn/dyu/9978661.m3u8
-粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
-粤语经典综艺,http://cfss.cc/cdn/dyu/7919720.m3u8
-粤语星爷电影,http://159.75.85.63:35455/huya/11336587
-粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
-粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
-粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
-粤语版电影二,http://epg.112114.xyz/douyu/6566671
-粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
-粤语版电影三,http://epg.112114.xyz/douyu/1226741
+粤语版电影1,http://epg.112114.xyz/douyu/6566671
+粤语版电影2,http://epg.112114.xyz/douyu/1226741
