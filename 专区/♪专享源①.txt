@@ -47,7 +47,7 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 
-
+HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
