@@ -42,11 +42,19 @@
 劲爆体育,http://kxrj.site:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
 
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+
 睛彩篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
-TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+
+睛彩竞技,http://cqshushu.us.kg:2086/ln.php?id=jcjj-1
+睛彩篮球,http://cqshushu.us.kg:2086/ln.php?id=qclq-1
+睛彩青少,http://cqshushu.us.kg:2086/ln.php?id=qcqsh-1
+睛彩广场舞,http://cqshushu.us.kg:2086/ln.php?id=jcgch-1
+
+
 
 美剧解说轮播,http://cfss.cc/cdn/dyu/9643264.m3u8
 经典美剧解说,http://cfss.cc/cdn/dyu/9123570.m3u8

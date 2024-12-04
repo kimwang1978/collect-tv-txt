@@ -72,6 +72,10 @@ CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 
+CHC影迷电影,http://cqshushu.us.kg:2086/ln.php?id=chcmd-1
+CHC家庭影院,http://cqshushu.us.kg:2086/ln.php?id=chcjt-1
+CHC动作电影,http://cqshushu.us.kg:2086/ln.php?id=chcdzd-1
+
 CHC动作电影,http://124.231.213.16:9999/tsfile/live/1109_1.m3u8
 CHC家庭影院,http://124.231.213.16:9999/tsfile/live/1108_1.m3u8
 CHC影迷电影,http://124.231.213.16:9999/tsfile/live/1110_1.m3u8
