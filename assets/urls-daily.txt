@@ -2,6 +2,7 @@ http://wx.thego.cn/ak.m3u
 http://aktv.top/live.txt
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 http://ww.weidonglong.com/dsj.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
@@ -12,14 +13,14 @@ https://live.zhoujie218.top/tv/iptv6.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
 --http://ttkx.live:567/gggg.nzk
-http://kxrj.site:567/gggg.nzk
+--http://kxrj.site:567/gggg.nzk
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 --https://2883.kstore.vip/gggg.nzk
-http://ttkx.cc:55/lib/kx2024.txt
+--http://ttkx.cc:55/lib/kx2024.txt
 --http://ttkx.live:55/lib/kx2024.txt
 http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
-http://kxrj.site:55/lib/kx2024.txt
+--http://kxrj.site:55/lib/kx2024.txt
 https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/myDS.txt
