@@ -34,7 +34,7 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
-
+Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
