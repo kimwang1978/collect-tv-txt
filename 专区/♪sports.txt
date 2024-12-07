@@ -13,6 +13,8 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,http://125.227.210.55:8155/VideoInput/play.ts
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+智林体育台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
+TraceSports,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 skysports,https://stream1.freetv.fun/skysports-3.ctv
 skysports,https://stream1.freetv.fun/skysports-2.ctv
 skysports plus,https://stream1.freetv.fun/skysports-plus-1.ctv

@@ -1,4 +1,17 @@
 
+上海新闻综合,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000011000031110.m3u8%3Fcdn%3Dbestzb
+上海都市,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000018926.m3u8%3Fcdn%3Dbestzb
+第一财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000027146.m3u8%3Fcdn%3Dbestzb
+东方财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000007000010003.m3u8%3Fcdn%3Dbestzb
+东方影视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000032212.m3u8%3Fcdn%3Dbestzb
+法治天地,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/2000000002000000014.m3u8%3Fcdn%3Dhnbblive
+哈哈炫动,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000011000031123.m3u8%3Fcdn%3Dbestzb
+纪实人文,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000004000010282.m3u8%3Fcdn%3Dbestzb
+纪实人文,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/1000000005000265021.m3u8%3Fcdn%3Dystenlive
+上海五星体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000017540.m3u8%3Fcdn%3Dbestzb
+上海外语,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000030951.m3u8%3Fcdn%3Dbestzb
+
+
 上海新闻综合,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
 上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://120.77.28.4:8648/mgu.php?id=shxwzh
