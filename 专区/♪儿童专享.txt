@@ -52,11 +52,11 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,http://kxrj.site:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 
-哆啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
-猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
-蜡笔小新,http://cfss.cc/cdn/hy/11352970.m3u8
-
+哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
+哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
 哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
+哆啦A梦：大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
+哆啦A梦：大雄与天空的理想乡（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
 猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
 蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
