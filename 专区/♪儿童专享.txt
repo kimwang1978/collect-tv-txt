@@ -52,6 +52,7 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,http://kxrj.site:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
 哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
 哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
