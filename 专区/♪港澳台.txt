@@ -104,6 +104,13 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 RTHK32,p3p://108.181.32.169:58940/641020b00001b8599859a360613572d7
 
+凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
+凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-5.ctv
+凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
+凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-6.ctv
+凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-10.ctv
+凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
+
 凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv$LR•IPV4『线路11』
 
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
