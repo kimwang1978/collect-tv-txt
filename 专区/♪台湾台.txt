@@ -38,6 +38,9 @@
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
 东森超视HD,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
 
+东森综合,p3p://108.181.32.169:32739/64253f6e0002d287ead9482831323a6d
+东森综合,p3p://167.114.175.6:55331/5fe8c5570001412994347b4506da6ebb
+东森综合,p3p://173.208.176.178:31809/5fe8c5570001412994347b4506da6ebb
 东森综合,http://211.72.65.236:8524/.m3u8
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
