@@ -63,3 +63,9 @@ HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
 凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
+
+中天新闻台test,mitv://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9$LR•IPV4
+中视新闻台test,mitv://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa$LR•IPV4
+寰宇新闻台test,mitv://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a$LR•IPV4
+台视新闻台test,mitv://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7$LR•IPV4
+寰宇新闻台湾台test,mitv://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e$LR•IPV4
