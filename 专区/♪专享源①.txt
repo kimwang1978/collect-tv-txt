@@ -35,6 +35,7 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
+Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017

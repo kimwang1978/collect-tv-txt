@@ -21,6 +21,7 @@
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB翡翠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9478&tk=97475bb89d45
 TVB翡翠剧集,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 
 TVB无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
@@ -66,10 +67,12 @@ TVB明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB明珠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB黄金华剧,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a12-golive.flv
 TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+TVB黄金翡翠,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1509&tk=97475bb89d45
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$IPV4
 TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
@@ -84,6 +87,9 @@ VIUTV英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+VIUTV 99,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1841&tk=97475bb89d45
+VIUTV6 96,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1035&tk=97475bb89d45
+
 Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 Now星影,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
@@ -149,3 +155,9 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 粤语版电影1,http://epg.112114.xyz/douyu/6566671
 粤语版电影2,http://epg.112114.xyz/douyu/1226741
+
+粤语综艺轮播,http://120.77.28.4:8648/douyu.php?id=7919720
+粤语版电影一,http://120.77.28.4:8648/douyu.php?id=5033502
+粤语版电影二,http://120.77.28.4:8648/douyu.php?id=6566671
+粤语版电影三,http://120.77.28.4:8648/douyu.php?id=1226741
+粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8746728.flv?auth_info=%2FK2v%2FtMTZxYh4ggwvvxTsAL%2B2HdFj0CZyaW07X9H2XM%3D.71576673384274654d6f304e76514e70
