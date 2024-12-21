@@ -33,6 +33,8 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::11]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
+Thrill,https://stream1.freetv.fun/thrill-2.m3u8
+Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
@@ -59,7 +61,7 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 
-
+星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
 九品芝麻官,https://www.goodiptv.club/yy/1354930968

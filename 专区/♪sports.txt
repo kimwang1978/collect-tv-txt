@@ -1,4 +1,7 @@
 TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
+UFC格斗精选,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0552&tk=97475bb89d45
+NBA经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6845&tk=97475bb89d45
+五大联赛经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0178&tk=97475bb89d45
 DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
 ELEVEN1,http://211.72.65.236:8566/.m3u8
@@ -37,3 +40,7 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
 博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
 智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+(test)ELTA体1,p3p://108.181.32.169:46313/6425229e00024ab4ea68bb9154ab1928
+(test)ELTA体2,p3p://108.181.32.169:46313/642522b0000a6c14ea6903f615622aab
+(test)ELTA体3,p3p://108.181.32.169:46313/642522bd000ad1bbea6936d803e32fc0
+(test)ELTA体3,p3p://108.181.32.169:46313/6433e3220006392724084f1711880c01

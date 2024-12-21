@@ -1,4 +1,9 @@
 漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
+漫威影院,http://epg.112114.eu.org/douyu/6140589
+漫威主线,http://epg.112114.eu.org/douyu/11673725
+霍格沃茨,http://epg.112114.eu.org/douyu/8814650
+豆瓣高分,http://epg.112114.eu.org/douyu/8770422
+欧美大片,http://epg.112114.eu.org/douyu/2793084
 邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
 凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
 特辑影院,http://120.77.28.4:8648/douyu.php?id=3637778
