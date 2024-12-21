@@ -1877,7 +1877,9 @@ CCTV14,https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
+ZooMoo,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9291&tk=97475bb89d45
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+Animax(HK),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1658&tk=97475bb89d45
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
