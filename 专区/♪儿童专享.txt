@@ -18,6 +18,9 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hwcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hscdn
 青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
+青春动漫BestTV,http://182.138.237.24:4022/udp/239.93.0.146:5140
+青春动漫BestTV,https://stream1.freetv.fun/f76fcb63fb8411dcdbaf2436fe6c56ae2ff9f84ff3286b60a2c673d65de670ca.ctv
+动漫-火影忍者,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6815&tk=97475bb89d45
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
 黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8
@@ -62,6 +65,7 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
 哆啦A梦：大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
 哆啦A梦：大雄与天空的理想乡（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
+哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
 猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
 蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
