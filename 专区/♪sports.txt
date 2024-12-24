@@ -2,6 +2,14 @@ TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 UFC格斗精选,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0552&tk=97475bb89d45
 NBA经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6845&tk=97475bb89d45
 五大联赛经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0178&tk=97475bb89d45
+WWE,https://stream1.freetv.fun/wwe-2.ctv
+WWE,https://stream1.freetv.fun/wwe-9.ctv
+WWE,https://stream1.freetv.fun/wwe-1.ctv
+WWE,https://stream1.freetv.fun/wwe-11.ctv
+WWE,https://stream1.freetv.fun/wwe-3.ctv
+WWE Network,https://stream1.freetv.fun/wwe-network-3.ctv
+WWE Network,p3p://108.181.32.169:28526/641381f6000cd704a58d9fae064d2ede
+WWE Network,p3p://108.181.32.169:28526/64311eec0001de06193a13a553747072
 DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
 ELEVEN1,http://211.72.65.236:8566/.m3u8

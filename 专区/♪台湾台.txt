@@ -115,8 +115,6 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 
-
-
 闽镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 民视闽南,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视闽南,https://litv.zapi.us.kg/?id=4gtv-4gtv155
