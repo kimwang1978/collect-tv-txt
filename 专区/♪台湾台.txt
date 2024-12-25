@@ -1,4 +1,3 @@
-爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://211.72.65.236:8531/.m3u8
 八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
@@ -114,6 +113,8 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
+
+爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
 
 闽镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 民视闽南,https://litv.zapi.us.kg/?id=4gtv-4gtv002
