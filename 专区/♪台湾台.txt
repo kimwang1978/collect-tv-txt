@@ -113,5 +113,6 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
-
-星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+猪哥亮歌厅秀,p3p://167.114.175.6:55331/6452bbf2000d02457466242b0e5c5ea2
+猪哥亮歌厅秀,p3p://173.208.176.178:31809/6452bbf2000d02457466242b0e5c5ea2
+猪哥亮歌厅秀,p3p://108.181.32.169:28526/642d012f00030a3c0925e9a4065b1986
