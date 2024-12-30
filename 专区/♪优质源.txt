@@ -66,6 +66,7 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 
 睛彩竞技,http://cqshushu.us.kg:2086/ln.php?id=jcjj-1
 睛彩篮球,http://cqshushu.us.kg:2086/ln.php?id=qclq-1
+睛彩青少,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 睛彩青少,http://cqshushu.us.kg:2086/ln.php?id=qcqsh-1
 睛彩广场舞,http://cqshushu.us.kg:2086/ln.php?id=jcgch-1
 
