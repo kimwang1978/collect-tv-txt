@@ -17,7 +17,7 @@
 
 > 公平起见赞赏🍸☕15元以上的朋友们加微信群交流。
 
-![image](./assets/Gongzhonghao+appreciate.png)
+![image](./assets/gongzhonghao+appreciate2025.png)
 
 ## Star History
 
