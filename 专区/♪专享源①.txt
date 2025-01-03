@@ -46,6 +46,7 @@ CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/li
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
@@ -61,6 +62,8 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 
+咪咕电影,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
+
 星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
@@ -69,6 +72,7 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8

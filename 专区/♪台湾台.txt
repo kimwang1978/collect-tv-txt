@@ -118,6 +118,8 @@ TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 猪哥亮歌厅秀,p3p://108.181.32.169:28526/642d012f00030a3c0925e9a4065b1986
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 靖洋戏剧,p3p://108.181.32.169:26514/642521b000094942ea651baa457674cb
+靖洋戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv045
+靖洋卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
 
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8

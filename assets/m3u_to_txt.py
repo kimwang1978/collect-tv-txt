@@ -37,7 +37,7 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
-url="https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+url="https://tvv.wqwqwq.sbs/iptv.m3u"
 # 创建一个请求对象并添加自定义header
 req = urllib.request.Request(url)
 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')

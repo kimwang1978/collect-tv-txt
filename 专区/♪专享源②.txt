@@ -4,6 +4,7 @@
 霍格沃茨,http://epg.112114.eu.org/douyu/8814650
 豆瓣高分,http://epg.112114.eu.org/douyu/8770422
 欧美大片,http://epg.112114.eu.org/douyu/2793084
+高清大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
 邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
 凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
 特辑影院,http://120.77.28.4:8648/douyu.php?id=3637778
