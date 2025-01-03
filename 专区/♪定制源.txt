@@ -2,6 +2,8 @@
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://171.213.140.54:8123/udp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
 TVN,https://stream1.freetv.fun/tvn-3.m3u8
@@ -64,4 +66,12 @@ HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
 凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
+
+HBO(VPN?),http://125.227.210.55:8153/VideoInput/play.ts
+Cinemax(VPN?),http://125.227.210.55:8151/VideoInput/play.ts
+卡通频道(VPN?),http://125.227.210.55:8167/VideoInput/play.ts
+三立新闻(VPN?),http://125.227.210.55:8162/VideoInput/play.ts
+TVBS(VPN?),http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新闻台(VPN?),http://125.227.210.55:8186/VideoInput/play.ts
+TVBS欢乐台(VPN?),http://125.227.210.55:8187/VideoInput/play.ts
 
