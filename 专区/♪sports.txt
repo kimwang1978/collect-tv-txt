@@ -1,17 +1,3 @@
-TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
-UFC格斗精选,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0552&tk=97475bb89d45
-NBA经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6845&tk=97475bb89d45
-五大联赛经典,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0178&tk=97475bb89d45
-WWE,https://stream1.freetv.fun/wwe-2.ctv
-WWE,https://stream1.freetv.fun/wwe-9.ctv
-WWE,https://stream1.freetv.fun/wwe-1.ctv
-WWE,https://stream1.freetv.fun/wwe-11.ctv
-WWE,https://stream1.freetv.fun/wwe-3.ctv
-WWE Network,https://stream1.freetv.fun/wwe-network-3.ctv
-WWE Network,p3p://108.181.32.169:28526/641381f6000cd704a58d9fae064d2ede
-WWE Network,p3p://108.181.32.169:28526/64311eec0001de06193a13a553747072
-DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
-DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
 ELEVEN1,http://211.72.65.236:8566/.m3u8
 ELEVEN2,http://211.72.65.236:8567/.m3u8
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -39,16 +25,3 @@ jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
 jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
 band sports,https://stream1.freetv.fun/band-sports-3.m3u8
 fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
-博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
-博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
-博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
-博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
-博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
-智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
-(test)ELTA体1,p3p://108.181.32.169:46313/6425229e00024ab4ea68bb9154ab1928
-(test)ELTA体2,p3p://108.181.32.169:46313/642522b0000a6c14ea6903f615622aab
-(test)ELTA体3,p3p://108.181.32.169:46313/642522bd000ad1bbea6936d803e32fc0
-(test)ELTA体3,p3p://108.181.32.169:46313/6433e3220006392724084f1711880c01
