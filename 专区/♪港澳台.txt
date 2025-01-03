@@ -97,6 +97,7 @@ Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 
+
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 有线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hoycaijing_twn
@@ -156,6 +157,10 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
+
+RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 粤语版电影1,http://epg.112114.xyz/douyu/6566671
 粤语版电影2,http://epg.112114.xyz/douyu/1226741
