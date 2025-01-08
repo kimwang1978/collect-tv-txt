@@ -4,6 +4,7 @@ on:
   schedule:
     # 每天UTC时间00:00运行（北京时间08:00）
     - cron: '0 0 * * *'
+  workflow_dispatch:  # 添加手动触发选项
 
 jobs:
   run-script:
