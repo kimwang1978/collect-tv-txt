@@ -1,0 +1,28 @@
+name: Daily Run
+
+on:
+  schedule:
+    # 每天UTC时间00:00运行（北京时间08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 添加手动触发选项
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run main script
+      run: |
+        python main.py

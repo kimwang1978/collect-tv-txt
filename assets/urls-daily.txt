@@ -1,4 +1,7 @@
 http://wx.thego.cn/ak.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://m3u.ibert.me/fmml_ipv6.m3u
 http://aktv.top/live.txt
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
