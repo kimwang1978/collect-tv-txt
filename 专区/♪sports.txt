@@ -21,7 +21,11 @@ NBA TV,https://stream1.freetv.fun/nba-tv-4.ctv
 nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 swerve sports,https://stream1.freetv.fun/swerve-sports-2.m3u8
 swerve sports,https://stream1.freetv.fun/swerve-sports-1.m3u8
-jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
-jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
 band sports,https://stream1.freetv.fun/band-sports-3.m3u8
 fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
+JSPORTS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS1,https://stream1.freetv.fun/jsports-1-1.m3u8
+JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8

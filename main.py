@@ -23,7 +23,7 @@ def read_txt_to_array(file_name):
     try:
         with open(file_name, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-            lines = [line.strip() for line in lines]
+            lines = [line.strip() for line in lines if line.strip()]  # 跳过空行
             return lines
     except FileNotFoundError:
         print(f"File '{file_name}' not found.")
