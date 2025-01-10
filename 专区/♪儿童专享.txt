@@ -11,6 +11,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
+i-Fun动漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 i-Fun动漫台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-ftv15
 Nick动画1,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8

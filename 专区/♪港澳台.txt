@@ -56,6 +56,7 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
@@ -110,11 +111,11 @@ Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 天映,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 天映,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 
-美亚电影(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
+美亚电影HK(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 
-美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
-美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
+美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+美亞電影HK,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
+
 Channel 5 ,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 ,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U ,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
