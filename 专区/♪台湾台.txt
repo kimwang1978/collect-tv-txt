@@ -12,9 +12,8 @@
 八大综合,http://211.72.65.236:8520/.m3u8
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
-八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
-八大综艺,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv039
+八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -23,20 +22,15 @@
 寰宇新聞台灣台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
 寰宇财经台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn23
 
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
-东森新闻HD,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
 东森超视HD,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
 
 东森综合,p3p://108.181.32.169:32739/64253f6e0002d287ead9482831323a6d

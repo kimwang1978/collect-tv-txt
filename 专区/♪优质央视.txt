@@ -18,19 +18,6 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
-CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
-CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
-CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
-CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
-CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
-CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
-CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
-CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
-CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
-CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
-CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
-
 CCTV1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV2,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
 CCTV3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000371/index.m3u8?IASHttpSessionId=
@@ -471,6 +458,19 @@ CCTV7,http://123.166.61.70:8003/hls/42/index.m3u8
 CCTV11,http://123.166.61.70:8003/hls/43/index.m3u8
 CCTV15,http://123.166.61.70:8003/hls/44/index.m3u8
 CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
+
+CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
+CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
+CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
+CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
+CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
+CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
+CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
+CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
+CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
+CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
+CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
+CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
 
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
