@@ -1,0 +1,2 @@
+MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+AMC音乐,https://AMChls.wns.live/hls/stream.m3u8

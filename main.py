@@ -565,7 +565,6 @@ def get_random_url(file_path):
     return random.choice(urls) if urls else None
 
 daily_mtv="每日一首,"+get_random_url('assets/今日推荐.txt')
-music_mtv="MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8"
 
 # 获取当前的 UTC 时间
 utc_time = datetime.now(timezone.utc)
@@ -580,7 +579,7 @@ version=formatted_time+","+about_video1
 about="关于本源(iptv365.org),"+about_video2
 # 瘦身版
 # 
-all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+[music_mtv]+ ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
@@ -607,7 +606,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+[m
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 # 
-all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+[music_mtv] + ['\n'] +\
+all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt') + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
@@ -781,7 +780,7 @@ def get_logo_by_channel_name(channel_name):
 def make_m3u(txt_file, m3u_file, m3u_file_copy):
     try:
         #output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"\n'
-        output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml.gz"\n'
+        output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"\n'
 
         # # 打开txt文件读取
         # with open(txt_file, 'r', encoding='utf-8') as txt:
