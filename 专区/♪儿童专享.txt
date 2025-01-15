@@ -22,6 +22,9 @@ Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
 青春动漫BestTV,http://182.138.237.24:4022/udp/239.93.0.146:5140
 青春动漫BestTV,https://stream1.freetv.fun/f76fcb63fb8411dcdbaf2436fe6c56ae2ff9f84ff3286b60a2c673d65de670ca.ctv
 动漫-火影忍者,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6815&tk=97475bb89d45
+黑莓动画,http://39.134.136.161:6610/000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
+黑莓动画,http://39.134.136.161:6610/000000001000/6497762188035533951/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6497762188035533951
+黑莓动画,http://39.134.136.161:6610/000000001000/2000000003000000002/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000002
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
 黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8
