@@ -31,7 +31,7 @@ TVB无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
 TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 TVB无线功夫,p3p://108.181.32.169:19673/6411291b0004b01b9c62861646d00929
-
+TVB无线功夫,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
@@ -83,6 +83,8 @@ TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
+ViuTV,http://m.osvs.asia:8000/bysid/99
+ViuTV6,http://m.osvs.asia:8000/bysid/96
 VIUTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -103,6 +105,7 @@ Channel 5 ,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 ,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U ,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
+HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 myTV SUPER 18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
@@ -157,6 +160,7 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8

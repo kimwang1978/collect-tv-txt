@@ -1,15 +1,15 @@
-漫威主线1(VPN),http://epg.112114.eu.org/douyu/11673725
-漫威主线2(VPN),http://epg.112114.eu.org/douyu/6140589
-霍格沃茨(VPN),http://epg.112114.eu.org/douyu/8814650
-豆瓣高分(VPN),http://epg.112114.eu.org/douyu/8770422
-欧美大片(VPN),http://epg.112114.eu.org/douyu/2793084
-华语经典1(VPN),http://epg.112114.eu.org/douyu/85894
-华语经典2(VPN),http://epg.112114.eu.org/douyu/276200
-欧美电影(VPN),http://epg.112114.eu.org/douyu/20415
-科幻电影(VPN),http://epg.112114.eu.org/douyu/12010522
-特辑电影(VPN),http://epg.112114.eu.org/douyu/3637778
-蓉城电影(VPN),http://epg.112114.eu.org/douyu/11137425
-HK港鬼片(VPN),http://epg.112114.eu.org/douyu/8009547
+漫威主线1(🚀),http://epg.112114.eu.org/douyu/11673725
+漫威主线2(🚀),http://epg.112114.eu.org/douyu/6140589
+霍格沃茨(🚀),http://epg.112114.eu.org/douyu/8814650
+豆瓣高分(🚀),http://epg.112114.eu.org/douyu/8770422
+欧美大片(🚀),http://epg.112114.eu.org/douyu/2793084
+华语经典1(🚀),http://epg.112114.eu.org/douyu/85894
+华语经典2(🚀),http://epg.112114.eu.org/douyu/276200
+欧美电影(🚀),http://epg.112114.eu.org/douyu/20415
+科幻电影(🚀),http://epg.112114.eu.org/douyu/12010522
+特辑电影(🚀),http://epg.112114.eu.org/douyu/3637778
+蓉城电影(🚀),http://epg.112114.eu.org/douyu/11137425
+HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 
 欧美影院,http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000005
 亚洲影院,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006

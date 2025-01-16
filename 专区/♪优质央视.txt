@@ -117,25 +117,6 @@ CCTV15,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
 CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 
-CCTV1,http://kxrj.site:1258/699/mg9.php?id=cctv1
-CCTV2,http://kxrj.site:1258/699/mg9.php?id=cctv2
-CCTV3,http://kxrj.site:1258/699/mg9.php?id=cctv3
-CCTV4,http://kxrj.site:1258/699/mg9.php?id=cctv4
-CCTV5,http://kxrj.site:1258/699/mg9.php?id=cctv5
-CCTV5+,http://kxrj.site:1258/699/mg9.php?id=cctv5p
-CCTV6,http://kxrj.site:1258/699/mg9.php?id=cctv6
-CCTV7,http://kxrj.site:1258/699/mg9.php?id=cctv7
-CCTV8,http://kxrj.site:1258/699/mg9.php?id=cctv8
-CCTV9,http://kxrj.site:1258/699/mg9.php?id=cctv9
-CCTV10,http://kxrj.site:1258/699/mg9.php?id=cctv10
-CCTV11,http://kxrj.site:1258/699/mg9.php?id=cctv11
-CCTV12,http://kxrj.site:1258/699/mg9.php?id=cctv12
-CCTV13,http://kxrj.site:1258/699/mg9.php?id=cctv13
-CCTV14,http://kxrj.site:1258/699/mg9.php?id=cctv14
-CCTV15,http://kxrj.site:1258/699/mg9.php?id=cctv15
-CCTV16,http://kxrj.site:1258/699/mg9.php?id=cctv16
-CCTV17,http://kxrj.site:1258/699/mg9.php?id=cctv17
-
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -205,25 +186,6 @@ CCTV14,http://124.231.213.16:9999/tsfile/live/0014_1.m3u8
 CCTV15,http://124.231.213.16:9999/tsfile/live/0015_1.m3u8
 CCTV16,http://124.231.213.16:9999/tsfile/live/1084_1.m3u8
 CCTV17,http://124.231.213.16:9999/tsfile/live/0019_1.m3u8
-
-CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
-CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
-CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
-CCTV4,http://kxrj.site:8081/8647/mg.php?id=cctv4
-CCTV5,http://kxrj.site:8081/8647/mg.php?id=cctv5
-CCTV5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV6,http://kxrj.site:8081/8647/mg.php?id=cctv6
-CCTV7,http://kxrj.site:8081/8647/mg.php?id=cctv7
-CCTV8,http://kxrj.site:8081/8647/mg.php?id=cctv8
-CCTV9,http://kxrj.site:8081/8647/mg.php?id=cctv9
-CCTV10,http://kxrj.site:8081/8647/mg.php?id=cctv10
-CCTV11,http://kxrj.site:8081/8647/mg.php?id=cctv11
-CCTV12,http://kxrj.site:8081/8647/mg.php?id=cctv12
-CCTV13,http://kxrj.site:8081/8647/mg.php?id=cctv13
-CCTV14,http://kxrj.site:8081/8647/mg.php?id=cctv14
-CCTV15,http://kxrj.site:8081/8647/mg.php?id=cctv15
-CCTV17,http://kxrj.site:8081/8647/mg.php?id=cctv17
 
 CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
 CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
@@ -450,15 +412,6 @@ CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000001000004953/1.m3u
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
 
-
-CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8
-CCTV2,http://123.166.61.70:8003/hls/12/index.m3u8
-CCTV4,http://123.166.61.70:8003/hls/41/index.m3u8
-CCTV7,http://123.166.61.70:8003/hls/42/index.m3u8
-CCTV11,http://123.166.61.70:8003/hls/43/index.m3u8
-CCTV15,http://123.166.61.70:8003/hls/44/index.m3u8
-CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
-
 CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
 CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
@@ -512,10 +465,6 @@ CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.1.192:5002
 CCTV高尔夫球,http://nas.hssvm.com:8888/udp/225.1.1.182:5002
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.1.194:5002
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
-
-CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
-CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2166&tk=2aca1ad9a849
-CCTV中学生,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1149&tk=2aca1ad9a849
 
 CCTV世界地理,http://175.146.122.104:8888/udp/232.0.0.63:1234,1.03
 CCTV世界地理,http://60.10.106.114:555/udp/239.253.92.131:6113,1.02

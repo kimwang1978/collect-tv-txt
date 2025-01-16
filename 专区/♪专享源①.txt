@@ -1,6 +1,12 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 🌦️中国天气,http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
+🛰️国际空间站,http://dns.yiandrive.com:15907/bilibili/9196015
+
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+
+黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 
 Hot亚洲影院,http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
 Hot欧美影院,http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
@@ -24,7 +30,6 @@ Hot欧美影院,http://39.134.136.161:6610/000000001000/7185203501769528108/inde
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
-Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
 CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
 
@@ -43,9 +48,7 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-
-星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
+星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8

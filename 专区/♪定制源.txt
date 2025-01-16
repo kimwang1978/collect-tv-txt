@@ -11,6 +11,7 @@ TVN,https://stream1.freetv.fun/tvn-3.m3u8
 贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
 挨饿德•1,https://live.iill.top/huya/20985858
 挨饿德•2,https://live.iill.top/huya/17693860
+挨饿德•1,http://dns.yiandrive.com:15907/huya/20985858
 荒野求生,https://live.iill.top/huya/593667
 野行者,https://live.iill.top/huya/20072663
 贝爷求生,http://159.75.85.63:35455/douyu/454867
@@ -101,6 +102,10 @@ HBO(VPN),http://125.227.210.55:8153/VideoInput/play.ts
 TVBS(VPN),http://125.227.210.55:8188/VideoInput/play.ts
 TVBS新闻台(VPN),http://125.227.210.55:8186/VideoInput/play.ts
 TVBS欢乐台(VPN),http://125.227.210.55:8187/VideoInput/play.ts
+寰宇新闻台湾,p3p://167.114.175.6:55331/612d7c11000c9faf888ebf9f3276784e
+寰宇财经,p3p://167.114.175.6:55331/64e36edf00052681a99e432a601547f5
+寰宇新闻test,p3p://108.181.32.169:41567/64295eb60008744efaf37ae07d17520b
+TiTV（test）,p3p://173.208.176.178:31809/64450b180002b23d3eeb784a0aa62e20
 
 澳门Mac,p3p://167.114.175.6:55331/64c2611000018873288116d70e04175d
 澳门资讯,p3p://167.114.175.6:55331/644ed21e000dd9a7651cc03a565575f7

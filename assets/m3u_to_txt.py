@@ -1,6 +1,8 @@
 import urllib.request
 import opencc #简繁转换
 
+all_lines = []
+
 #简繁转换
 def traditional_to_simplified(text: str) -> str:
     # 初始化转换器，"t2s" 表示从繁体转为简体
@@ -30,14 +32,16 @@ def convert_m3u_to_txt(m3u_content):
             
         # 处理 URL 行
         elif line.startswith("http") or line.startswith("rtmp") or line.startswith("p3p") :
-            print(f"{channel_name},{line.strip()}")
+            line_channel = f"{channel_name},{line.strip()}"
+            all_lines.append(line_channel.strip())
+            print(line_channel)
             txt_lines.append(f"{channel_name},{line.strip()}")
         
     
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
-url="https://tvv.wqwqwq.sbs/iptv.m3u"
+url="https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather"
 # 创建一个请求对象并添加自定义header
 req = urllib.request.Request(url)
 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
@@ -50,3 +54,15 @@ with urllib.request.urlopen(req) as response:
     text = data.decode('utf-8')
 
     text=convert_m3u_to_txt(text)
+
+
+# 写入文件
+output_file = "m3u_2_txt.txt"
+try:
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for line in all_lines:
+            f.write(line + '\n')
+    print(f"合并后的文本已保存到文件: {output_file}")
+except Exception as e:
+    print(f"保存文件时发生错误：{e}")
