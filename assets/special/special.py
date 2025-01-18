@@ -21,6 +21,24 @@ all_lines =  []
 #读取文本
 excudelist_lines=read_txt_to_array('assets/special/ExcludeList.txt') 
 
+def convert_m3u_to_txt(m3u_content):
+    lines = m3u_content
+    txt_lines = []
+    channel_name = ""
+
+    # 解析 M3U 格式内容
+    for line in lines:
+        line = line.strip()
+        if line.startswith("#EXTM3U"):
+            continue
+        if line.startswith("#EXTINF"):
+            channel_name = line.split(",")[-1].strip()
+        elif line.startswith(("http", "https", "rtmp", "p3p", "p2p")):
+            txt_lines.append(f"{channel_name},{line}")
+
+    return "\n".join(txt_lines)
+
+
 def process_url(url):
     try:
 
@@ -36,6 +54,14 @@ def process_url(url):
             text = data.decode('utf-8')
             # 逐行处理内容
             lines = text.split('\n')
+
+            # 判断是否是m3u格式，如果是特别处理。↓↓↓↓↓↓↓
+            # 如果第一行是 "#EXTM3U"，则判断为 M3U 文件，转换为 TXT 格式
+            if lines[0].strip().startswith("#EXTM3U"): 
+                newlines = convert_m3u_to_txt(lines)
+                lines = newlines.split('\n')  #使用转换后的内容重新赋值给 lines
+            # 判断是否是m3u格式，如果是特别处理。↑↑↑↑↑↑↑
+
             print(f"行数: {len(lines)}")
             for line in lines:
                 line = line.strip()
