@@ -44,9 +44,6 @@
 蓉城电影(🚀),http://epg.112114.eu.org/douyu/11137425
 HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 
-欧美影院,http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000005
-亚洲影院,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
-
 斗鱼1,http://epg.112114.xyz/douyu/4332
 斗鱼2,http://epg.112114.xyz/douyu/6140589
 斗鱼3,http://epg.112114.xyz/douyu/8770422
@@ -60,5 +57,3 @@ HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802#http://159.75.85.63:35455/douyu/252802
 贝爷欧美②厅,http://zzy789.xyz/douyu1.php?id=36337#http://159.75.85.63:35455/douyu/36337
 贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332#http://159.75.85.63:35455/douyu/4332
-贝爷壹厅,https://stream1.freetv.fun/099b3f177e7e860977f45f533d9b265090aab30e270184c802e27e86e3714a8c.ctv
-贝爷贰厅,https://stream1.freetv.fun/104074496ac3f54fe72fe9207b4776ab93650b718ec2ac0a876a81396134b74a.ctv

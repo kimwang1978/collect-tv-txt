@@ -15,12 +15,6 @@
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
 八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新闻,http://211.72.65.236:8547/.m3u8
-寰宇新聞台灣台,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-寰宇新聞台灣台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
-寰宇财经台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn23
 
 
 东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
@@ -62,6 +56,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 
 中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
@@ -73,9 +68,7 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-非凡新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv010
 非凡新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010
-非凡商业,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv048
 年代新闻,http://211.72.65.236:8539/.m3u8
 纬来综合,http://211.72.65.236:8518/.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8

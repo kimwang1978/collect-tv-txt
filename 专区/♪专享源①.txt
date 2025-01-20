@@ -1,52 +1,25 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-🌦️中国天气,http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
+🐼直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 🛰️国际空间站,http://dns.yiandrive.com:15907/bilibili/9196015
 
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
-黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-
-Hot亚洲影院,http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
-Hot欧美影院,http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
-精品剧场,http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000002
-
-4K影院,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
-
-超级电影,http://39.134.136.161:6610/000000001000/1000000001000012884/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012884
-惊悚悬疑,http://39.134.136.161:6610/000000001000/7151256057701199617/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7151256057701199617
-动作电影,http://39.134.136.161:6610/000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
-古装剧场,http://39.134.136.161:6610/000000001000/6859053933687922163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6859053933687922163
-超级电视剧,http://39.134.136.161:6610/000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139
-
-黑莓电影,http://39.134.136.161:6610/000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
-黑莓电影,http://39.134.136.161:6610/000000001000/1000000004000019624/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000019624
-黑莓电影,http://39.134.136.161:6610/000000001000/2000000003000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000001
-精彩影视,http://39.134.136.161:6610/000000001000/2000000004000000063/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000063
-精彩影视,http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
-
-
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
-数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
-CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
