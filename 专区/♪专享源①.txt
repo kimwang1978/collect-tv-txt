@@ -21,6 +21,10 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+
 星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049

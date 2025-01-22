@@ -5,6 +5,7 @@ Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 欢笑剧场4K,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 欢笑剧场4K,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
+华数4K,http://livetv.wqwqwq.sbs/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
@@ -25,7 +26,11 @@ CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+CCTV4K,http://tv.kmhlzxs.top:35455/gaoma/cctv4k.m3u8
+CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+CCTV4K,http://3.itv.nctv.top:35455/gaoma/cctv4k.m3u8
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 CCTV4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
+CCTV16(4K),http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
