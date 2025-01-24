@@ -34,3 +34,5 @@ CCTV4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
 CCTV16(4K),http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
+CCTV4k,http://home.wwang.pw:35455/gaoma/cctv4k.m3u8
+CCTV8k,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
