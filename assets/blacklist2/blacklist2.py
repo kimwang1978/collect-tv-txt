@@ -358,7 +358,8 @@ if __name__ == "__main__":
         #'',
         #'https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/382144467556f81d196d15aea752271846dd68fd/m3u/v6migu-net'
         # 'https://raw.githubusercontent.com/LinWei0718/iptvtw/refs/heads/main/10003.txt'
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A1.txt'
+        # 'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt', #优质卫视
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt', #优质央视
     ]
     for url in urls:
         print(f"处理URL: {url}")

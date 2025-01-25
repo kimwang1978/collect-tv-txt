@@ -1,7 +1,7 @@
 http://wx.thego.cn/ak.m3u
 http://aktv.top/live.txt
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://tzdr.com/iptv.txt
 http://ww.weidonglong.com/dsj.txt
@@ -38,7 +38,7 @@ https://github.com/frxz751113/IPTVzb1/blob/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://d.kstore.space/download/7395/xiaohei.txt
 --http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
-http://175.178.251.183:6689/live.txt 
+--http://175.178.251.183:6689/live.txt 
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 --https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
@@ -52,7 +52,7 @@ https://m3u.ibert.me/txt/y_g.txt
 https://m3u.ibert.me/txt/j_home.txt
 --http://vip.vip0531.com/viptv/live202405.txt
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
-https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
 https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
@@ -75,7 +75,7 @@ http://1805842a.123nat.com:66/agent/2.txt
 --https://gongdian.top/tv/gongdian.txt
 --https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
-http://154.9.252.167:190/tvlive.txt
+--http://154.9.252.167:190/tvlive.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 --https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
 --https://4gtv.mytvsuper.xyz/myiptv.m3u
