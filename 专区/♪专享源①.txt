@@ -67,4 +67,5 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 ▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 ▶️哈利波特：神秘的魔法石,https://s2.fsvod1.com/20220301/A2jwRRDZ/index.m3u8
 ▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
-
+▶️龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
+▶️哪咤之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
