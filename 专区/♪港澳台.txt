@@ -132,6 +132,9 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$LR•IPV4『线路89』
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 
+凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
+凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
