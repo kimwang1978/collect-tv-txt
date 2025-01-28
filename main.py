@@ -564,7 +564,7 @@ def get_random_url(file_path):
     # 随机返回一个URL
     return random.choice(urls) if urls else None
 
-daily_mtv="每日一首,"+get_random_url('assets/今日推荐.txt')
+daily_mtv="(新)每日一首,"+get_random_url('assets/今日推荐.txt')
 
 # 获取当前的 UTC 时间
 utc_time = datetime.now(timezone.utc)
