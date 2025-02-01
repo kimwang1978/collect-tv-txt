@@ -102,6 +102,8 @@ Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影HK,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
 
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+
 Channel 5 ,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 ,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U ,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
@@ -110,7 +112,10 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 myTV SUPER 18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•IPV4『线路45』

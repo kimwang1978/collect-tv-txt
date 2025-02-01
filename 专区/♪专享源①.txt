@@ -1,10 +1,11 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-🛰️国际空间站,http://dns.yiandrive.com:15907/bilibili/9196015
-
 
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+CHINA MOVIE,http://106.53.99.30/dl/chinamovie.m3u8
 
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
@@ -56,5 +57,3 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 ▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 ▶️哈利波特：神秘的魔法石,https://s2.fsvod1.com/20220301/A2jwRRDZ/index.m3u8
 ▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
-▶️龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
-▶️哪咤之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
