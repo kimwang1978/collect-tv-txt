@@ -9,3 +9,5 @@
 求索纪录,http://110.42.45.89:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://110.42.45.89:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://110.42.45.89:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+
+探索科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a

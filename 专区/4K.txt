@@ -11,7 +11,7 @@ Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 纯享4K,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 欢笑剧场4K,http://39.134.136.161:6610/000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
-
+求索纪录4K,http://tvbox6.icu/tv/gdmzyd.php?id=104
 爱上4K,http://115.171.80.176:8888/udp/225.1.8.80:2000
 爱上4K,http://171.107.73.129:4000/udp/239.81.0.123:4056
 爱上4K,http://182.138.237.24:4022/udp/239.93.0.97:5140

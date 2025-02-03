@@ -4,9 +4,11 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
 哆啦A梦,http://dns.yiandrive.com:15907/bilibili/14745943
 名侦探柯南,http://dns.yiandrive.com:15907/bilibili/1712960281
+CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
+东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
 青春动漫BestTV,https://stream1.freetv.fun/f76fcb63fb8411dcdbaf2436fe6c56ae2ff9f84ff3286b60a2c673d65de670ca.ctv
 
