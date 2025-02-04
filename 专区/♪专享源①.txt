@@ -5,8 +5,6 @@
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-CHINA MOVIE,http://106.53.99.30/dl/chinamovie.m3u8
-
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
@@ -23,14 +21,6 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
-超级电视,http://110.42.45.89:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
-超级电影,http://110.42.45.89:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-动作电影,http://110.42.45.89:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
-古装剧场,http://110.42.45.89:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
-家庭剧场,http://110.42.45.89:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-惊悚悬疑,http://110.42.45.89:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
-黑莓电影,http://110.42.45.89:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 
 星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
 🔁周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
