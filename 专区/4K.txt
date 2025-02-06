@@ -25,6 +25,7 @@ Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 百事4K,http://114.83.223.132:9999/udp/239.45.1.42:5140
 百事4K,http://114.83.223.132:9999/udp/239.45.3.107:5140
 4K超,http://119.125.134.232:9901/tsfile/live/1022_1.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
