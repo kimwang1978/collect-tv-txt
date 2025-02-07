@@ -68,6 +68,23 @@
 广东卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=gdws
 大湾区卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dwqws
 
+东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+浙江卫视,http://iptv.0564.org:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+江苏卫视,http://iptv.0564.org:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+湖南卫视,http://iptv.0564.org:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+北京卫视,http://iptv.0564.org:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+广东卫视,http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+深圳卫视,http://iptv.0564.org:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+天津卫视,http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+安徽卫视,http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+山东卫视,http://iptv.0564.org:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+辽宁卫视,http://iptv.0564.org:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+江西卫视,http://iptv.0564.org:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+湖北卫视,http://iptv.0564.org:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+东南卫视,http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+青海卫视,http://iptv.0564.org:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
+
 东方卫视,http://gf.you123.fun:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 湖南卫视,http://gf.you123.fun:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
 湖北卫视,http://gf.you123.fun:35455/itv/1000000005000265023.m3u8?cdn=ystenlive

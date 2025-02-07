@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 --https://2883.kstore.vip/gggg.nzk
---http://ttkx.cc:55/lib/kx2024.txt
+http://ttkx.cc:55/lib/kx2024.txt
 --http://ttkx.live:55/lib/kx2024.txt
 --http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
 --http://kxrj.site:55/lib/kx2024.txt
