@@ -586,7 +586,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
+             ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
@@ -615,7 +615,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓 AKTV📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
+             ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \

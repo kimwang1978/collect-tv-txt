@@ -9,6 +9,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+龙华卡通,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
 青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
 青春动漫BestTV,https://stream1.freetv.fun/f76fcb63fb8411dcdbaf2436fe6c56ae2ff9f84ff3286b60a2c673d65de670ca.ctv
 

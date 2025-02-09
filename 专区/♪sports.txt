@@ -4,6 +4,10 @@ JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=
 JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS1,https://stream1.freetv.fun/jsports-1-1.m3u8
 JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
+博斯运动,http://211.75.171.121:8557/http/61.67.128.137:8068/hls/15/80/cstv15.m3u8
+TRAce体育,http://211.75.171.121:8509/http/61.67.128.137:8092/upload/212/TraceS_TS-1111
+DAZN体育-壹,http://211.75.171.121:8566/http/61.67.128.137:8078/hls/25/80/esport.m3u8
+DAZN体育-贰,http://211.75.171.121:8567/http/61.67.128.137:8078/hls/26/80/esport2.m3u8
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,http://211.72.65.236:8585/.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721

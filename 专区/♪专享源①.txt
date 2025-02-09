@@ -11,18 +11,24 @@ Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
+AMC电影,http://211.75.171.121:8583/http/61.67.128.137:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+
+纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
-星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
+🔁星爷喜剧经典(🚀),http://epg.112114.eu.org/douyu/122402
+🔁周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 🔁周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8

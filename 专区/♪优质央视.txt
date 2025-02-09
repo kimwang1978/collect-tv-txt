@@ -143,6 +143,18 @@ CCTV15,http://iptv.0564.org:35455/gaoma/cctv15.m3u8
 CCTV16,http://iptv.0564.org:35455/gaoma/cctv16.m3u8
 CCTV17,http://iptv.0564.org:35455/gaoma/cctv17.m3u8
 
+CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://112.101.78.50:9901/tsfile/live/0002_1.m3u8
+CCTV3,http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://112.101.78.50:9901/tsfile/live/0004_1.m3u8
+CCTV5,http://112.101.78.50:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://112.101.78.50:9901/tsfile/live/0006_1.m3u8
+CCTV7,http://112.101.78.50:9901/tsfile/live/0007_1.m3u8
+CCTV8,http://112.101.78.50:9901/tsfile/live/0008_1.m3u8
+CCTV9,http://112.101.78.50:9901/tsfile/live/0009_1.m3u8
+CCTV13,http://112.101.78.50:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
+
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV老故事,https://www.freetv.top/migu/884121956.m3u8?migutoken=550b8ac2d06ef43bd80e29582185fe693959996048d7b572ce1659fe9376b6101cf9002c0034445668d6e11645eab13a11978ca20adae4f4248041add5d27f4d8e71fd2a4e44fd398c8fb3614b

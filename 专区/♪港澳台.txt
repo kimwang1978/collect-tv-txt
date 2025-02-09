@@ -156,6 +156,9 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$LR•IPV4『线路10』
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
 
+凤凰资讯,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+凤凰中文,http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8
 
