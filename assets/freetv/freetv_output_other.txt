@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250211 07:51:46,url
+20250212 07:51:51,url
 
 
 freetv_other,#genre#
@@ -681,8 +681,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-13.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-14.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-16.ctv
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-17.m3u8
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-18.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-3.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-4.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-5.m3u8
