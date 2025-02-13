@@ -10,6 +10,7 @@ http://wx.thego.cn/hk.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://livetv.wqwqwq.sbs/tv.m3u
 https://tvv.wqwqwq.sbs/iptv.m3u
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 --https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 --https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
@@ -47,7 +48,6 @@ https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 --https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 --https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt

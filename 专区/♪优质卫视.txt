@@ -59,6 +59,26 @@
 广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
 广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
 
+安徽卫视,http://175.18.189.238:9998/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://175.18.189.238:9998/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://175.18.189.238:9998/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://175.18.189.238:9998/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://175.18.189.238:9998/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://175.18.189.238:9998/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://175.18.189.238:9998/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://175.18.189.238:9998/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广西卫视,http://1.195.30.9:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://1.195.30.9:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://1.195.30.9:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://1.195.30.9:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://1.195.30.9:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://1.195.30.9:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://1.195.30.9:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://1.195.30.9:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://1.195.30.9:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://1.195.30.9:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
 东方卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dfws
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 陕西卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=sxws
