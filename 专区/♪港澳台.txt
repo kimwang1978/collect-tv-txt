@@ -7,18 +7,6 @@
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
 翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$LR•IPV4『线路3』
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$LR•IPV4『线路4』
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路5』
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$LR•IPV4『线路6』
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路7』
-翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8$LR•IPV4『线路8』
-翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$LR•IPV4『线路10』
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路11』
-翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路19』
-翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$LR•IPV4『线路30』
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路31』
-翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路33』
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
@@ -84,21 +72,16 @@ TVB黄金翡翠,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1509&tk=97475bb89d45
 TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 
+VIUTV,http://m.osvs.asia:8000/bysid/99
+ViuTV6,http://m.osvs.asia:8000/bysid/96
+
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-VIUTV,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
-ViuTV,http://m.osvs.asia:8000/bysid/99
-ViuTV6,http://m.osvs.asia:8000/bysid/96
-VIUTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
-VIUTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-VIUTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-VIUTV 99,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1841&tk=97475bb89d45
-VIUTV6 96,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1035&tk=97475bb89d45
 
 Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 
-龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
 美亚电影HK(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 
@@ -127,6 +110,9 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 凤凰中文,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
