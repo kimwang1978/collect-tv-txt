@@ -172,11 +172,3 @@ RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/s
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-粤语版电影1,http://epg.112114.xyz/douyu/6566671
-粤语版电影2,http://epg.112114.xyz/douyu/1226741
-
-粤语综艺轮播,http://120.77.28.4:8648/douyu.php?id=7919720
-粤语版电影一,http://120.77.28.4:8648/douyu.php?id=5033502
-粤语版电影二,http://120.77.28.4:8648/douyu.php?id=6566671
-粤语版电影三,http://120.77.28.4:8648/douyu.php?id=1226741
-粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8746728.flv?auth_info=%2FK2v%2FtMTZxYh4ggwvvxTsAL%2B2HdFj0CZyaW07X9H2XM%3D.71576673384274654d6f304e76514e70
