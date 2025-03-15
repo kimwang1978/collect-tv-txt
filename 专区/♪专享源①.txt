@@ -5,16 +5,12 @@
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
-AMC电影,http://211.75.171.121:8583/http/61.67.128.137:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
-AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 
-龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 
+龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
 
