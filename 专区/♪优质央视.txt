@@ -19,6 +19,24 @@ CCTV15,http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b
 CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
 CCTV17,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
 
+CCTV1,http://nas.suntao.online:35455/gaoma/cctv1.m3u8
+CCTV2,http://nas.suntao.online:35455/gaoma/cctv2.m3u8
+CCTV3,http://nas.suntao.online:35455/gaoma/cctv3.m3u8
+CCTV4,http://nas.suntao.online:35455/gaoma/cctv4.m3u8
+CCTV5,http://nas.suntao.online:35455/gaoma/cctv5.m3u8
+CCTV5+,http://nas.suntao.online:35455/gaoma/cctv5p.m3u8
+CCTV7,http://nas.suntao.online:35455/gaoma/cctv7.m3u8
+CCTV8,http://nas.suntao.online:35455/gaoma/cctv8.m3u8
+CCTV9,http://nas.suntao.online:35455/gaoma/cctv9.m3u8
+CCTV10,http://nas.suntao.online:35455/gaoma/cctv10.m3u8
+CCTV11,http://nas.suntao.online:35455/gaoma/cctv11.m3u8
+CCTV12,http://nas.suntao.online:35455/gaoma/cctv12.m3u8
+CCTV13,http://nas.suntao.online:35455/gaoma/cctv13.m3u8
+CCTV14,http://nas.suntao.online:35455/gaoma/cctv14.m3u8
+CCTV15,http://nas.suntao.online:35455/gaoma/cctv15.m3u8
+CCTV16,http://nas.suntao.online:35455/gaoma/cctv16.m3u8
+CCTV17,http://nas.suntao.online:35455/gaoma/cctv17.m3u8
+
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND

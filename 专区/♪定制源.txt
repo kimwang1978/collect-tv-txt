@@ -11,6 +11,7 @@ TVN,https://stream1.freetv.fun/tvn-3.m3u8
 贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
 贝爷求生影视2,http://fy27.zbds.top:55455/douyu/9661369
 贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
+贝爷,http://www.douzhicloud.site:35455/douyu/4332
 挨饿德•1,https://live.iill.top/huya/20985858
 挨饿德•2,https://live.iill.top/huya/17693860
 挨饿德•1,http://dns.yiandrive.com:15907/huya/20985858
