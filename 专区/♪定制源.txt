@@ -1,3 +1,4 @@
+CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
 星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
