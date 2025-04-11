@@ -9,6 +9,12 @@
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
 黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
 
+北京卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=beijing
+深圳卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=shenzhen
+广西卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=guangxi
+湖北卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=hubei
+东南卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=fujian
+
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND

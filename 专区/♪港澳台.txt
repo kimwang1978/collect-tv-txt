@@ -144,7 +144,23 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
+RTHK-31,http://eu.huohuoaa.tech:1025/Smart.php?id=rhk31_twn
+RTHK-32,http://eu.huohuoaa.tech:1025/Smart.php?id=rhk32_twn
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+凤凰卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixtv_hd
+凤凰资讯,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixinfo_hd
+凤凰香港,http://eu.huohuoaa.tech:1025/Smart.php?id=hkphoenix_twn
+HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
+TVB无线新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=inews_twn
+TVB无线翡翠,http://eu.huohuoaa.tech:1025/Smart.php?id=jade_twn
+TVB无线华丽,http://eu.huohuoaa.tech:1025/Smart.php?id=Wlt
+TVB无线华丽,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbjade
+TVB无线明珠,http://eu.huohuoaa.tech:1025/Smart.php?id=pearl_twn
+TVB无线娱乐,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbentertainment
+TVB千禧经典,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbclassic
+VIUTV英,http://eu.huohuoaa.tech:1025/Smart.php?id=viusix_twn
+
 

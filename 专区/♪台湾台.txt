@@ -18,6 +18,7 @@
 
 
 寰宇新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
+东森新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
 
 东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
@@ -37,8 +38,6 @@
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
@@ -57,7 +56,6 @@ TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR�
 TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -77,11 +75,10 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 
-中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
 中视HD,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+
+中天新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
 中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -111,7 +108,6 @@ MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
-华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 华视新闻,http://211.72.65.236:8503/.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
@@ -140,3 +136,13 @@ ELTA影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
 Astr爱奇,https://haoyunlai.serv00.net/Smartv-1.php?id=Qiyi
 AstrQJ国,https://haoyunlai.serv00.net/Smartv-1.php?id=Quanjia
 Astr欢喜,https://haoyunlai.serv00.net/Smartv-1.php?id=Huahee
+
+美亚电影,http://eu.huohuoaa.tech:1025/Smart.php?id=meiyamovie_twn
+天映频道,http://eu.huohuoaa.tech:1025/Smart.php?id=Celestial
+天映频道,http://eu.huohuoaa.tech:1025/Smart.php?id=ctv18_twn
+龙华电影,http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie
+龙祥电影,http://eu.huohuoaa.tech:1025/Smart.php?id=lungxiangtime_twn
+纬来电影,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie
+Astr爱奇,http://eu.huohuoaa.tech:1025/Smart.php?id=Qiyi
+AstrQJ国,http://eu.huohuoaa.tech:1025/Smart.php?id=Quanjia
+Astr欢喜,http://eu.huohuoaa.tech:1025/Smart.php?id=Huahee
