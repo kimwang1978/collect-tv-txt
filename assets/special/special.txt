@@ -4,87 +4,60 @@
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「英超」00:15 联赛 阿森纳 vs 布伦特福德 苏东 徐阳 李子琪,https://tv.iill.top/FB/EyTW6Q
-「西甲」00:20 联赛 塞尔塔 vs 西班牙人 李霄,https://tv.iill.top/FB/sNOCvA
-「德甲」00:15 联赛 拜仁慕尼黑 vs 多特蒙德 胡小凡 鲁靖明 张力,https://tv.iill.top/FB/aPoNHr
-「德甲」00:20 联赛 拜仁慕尼黑 vs 多特蒙德 涂远 马延峰,https://tv.iill.top/FB/T3vQhI
-「法甲」00:50 联赛 图卢兹 vs 里尔 邵煊,https://tv.iill.top/FB/QY4Zxo
-「意甲」02:30 联赛 尤文图斯 vs 莱切 刘腾 贺宇,https://tv.iill.top/FB/yqji1l
-「西甲」02:45 联赛 莱加内斯 vs 巴塞罗那 张昊泽 李欣,https://tv.iill.top/FB/Qf3TyL
-「西甲」02:45 联赛 莱加内斯 vs 巴塞罗那 张昊泽 李欣,https://tv.iill.top/FB/T73eHE
-「法甲」02:55 联赛 斯特拉斯堡 vs 尼斯 乔迁,https://tv.iill.top/FB/wZRJcr
-「中甲」14:50 联赛 大连鲲城 vs 苏州东吴 解说,https://tv.iill.top/FB/l5OXWT
-「中甲」15:50 联赛 深圳青年人 vs 广西平果 解说,https://tv.iill.top/FB/bqI9sM
-「意甲」18:20 联赛 亚特兰大 vs 博洛尼亚 刘腾,https://tv.iill.top/FB/HEUXgk
-「中甲」19:20 联赛 石家庄功夫 vs 延边龙鼎 解说,https://tv.iill.top/FB/VGFkq4
-「中甲」19:20 联赛 南通支云 vs 佛山南狮 解说,https://tv.iill.top/FB/jRQEq0
-「西甲」19:50 联赛 奥萨苏纳 vs 赫罗纳 周楚雄,https://tv.iill.top/FB/RIb2M1
-「英超」20:00 联赛 狼队 vs 托特纳姆热刺 娄一晨 刘越 孙蕊,https://tv.iill.top/FB/BYzIJF
-「英超」20:00 联赛 切尔西 vs 伊普斯维奇 林梦鸽 吴桐 贺宇,https://tv.iill.top/FB/6aVhRG
-「英超」20:00 联赛 利物浦 vs 西汉姆联 詹俊 张路 李子琪,https://tv.iill.top/FB/byFKf6
-「意甲」20:50 联赛 维罗纳 vs 热那亚 刘焕,https://tv.iill.top/FB/9XUTYK
-「法甲」20:50 联赛 圣埃蒂安 vs 布雷斯特 盛斌,https://tv.iill.top/FB/hkwbZf
-「意甲」20:50 联赛 佛罗伦萨 vs 帕尔马 张昊泽,https://tv.iill.top/FB/3W7ytt
-「德甲」21:20 联赛 斯图加特 vs 不来梅 涂远,https://tv.iill.top/FB/kMBxTN
-「西甲」22:00 联赛 阿拉维斯 vs 皇家马德里 刘畅 王宇,https://tv.iill.top/FB/BNnlk2
-「法甲」23:05 联赛 昂热 vs 蒙彼利埃 刘一臻,https://tv.iill.top/FB/gXlk47
-「法甲」23:05 联赛 勒阿弗尔 vs 雷恩 赵昊晨,https://tv.iill.top/FB/13OfqZ
-「英超」23:15 联赛 纽卡斯尔联 vs 曼联 詹俊 张路 林梦鸽,https://tv.iill.top/FB/GszC8F
-「英超」23:15 联赛 纽卡斯尔联 vs 曼联 詹俊 张路 林梦鸽,https://tv.iill.top/FB/JAqZwb
-「英超」23:20 联赛 纽卡斯尔联 vs 曼联 陈渤胄,https://tv.iill.top/FB/WxvGR9
-「英超」23:20 联赛 纽卡斯尔联 vs 曼联 江忠德,https://tv.iill.top/FB/DBGEmR
-「英超」23:20 联赛 纽卡斯尔联 vs 曼联 洪荒,https://tv.iill.top/FB/sRPFPG
-「德甲」23:20 联赛 法兰克福 vs 海登海姆 吴子越,https://tv.iill.top/FB/L7VLO6
-「意甲」23:50 联赛 科莫 vs 都灵 谭逸雄,https://tv.iill.top/FB/E4prpG
-「UFC数字赛」05:50 UFC第314期：闫晓楠苏木同场出战 大帝VS刘海哥 UFC第314期：闫晓楠苏木同场出战 大帝VS刘海哥 解说,https://tv.iill.top/Migu/RENyCJ
-「UFC数字赛」05:50 UFC第314期：闫晓楠苏木同场出战 大帝VS刘海哥 UFC第314期：闫晓楠苏木同场出战 大帝VS刘海哥 陈瑞阳 王聪 郑文祺,https://tv.iill.top/Migu/ZlZNOV
-「马拉松系列赛」07:20 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 淮安站,https://tv.iill.top/Migu/aNJmOw
-「马拉松系列赛」06:50 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 高新科创杯·2025达州马拉松暨“跑遍四川”达州站,https://tv.iill.top/Migu/Aq3drk
-「马拉松系列赛」07:20 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 象山农信联社杯·2025象山马拉松,https://tv.iill.top/Migu/6fqkNz
-「马拉松系列赛」07:20 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 2025南京仙林半程马拉松暨全国半程马拉松锦标赛（第二站）,https://tv.iill.top/Migu/SdqXcC
-「马拉松系列赛」07:20 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 2025 “G60”上海佘山半程马拉松,https://tv.iill.top/Migu/zHMk2A
-「马拉松系列赛」07:50 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 [中国衣业银行杯」2025奉节半程马拉松,https://tv.iill.top/Migu/jKYKXg
-「马拉松系列赛」07:50 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 中国机械总院2025新县半程马拉松,https://tv.iill.top/Migu/sX0F5V
-「马拉松系列赛」07:20 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 绿城管理·2025杭州钱塘女子半程马拉松,https://tv.iill.top/Migu/epmz55
-「马拉松系列赛」07:50 2025淮安马拉松、仙林半马、上海佘山半马等 2025淮安马拉松、仙林半马、上海佘山半马等 2025金斯瑞南京高校百公里接力赛,https://tv.iill.top/Migu/BYZnkW
-「KPL」13:40 北京WB vs 佛山DRG 北京WB vs 佛山DRG 官方解说,https://tv.iill.top/Migu/ojRbfq
-「LPL」14:30 NIP vs WE NIP vs WE 官方解说,https://tv.iill.top/Migu/ndzjqH
-「中乙」14:50 中乙联赛 山西崇德荣海vs长春喜都 解说,https://tv.iill.top/Migu/HfhTCB
-「中乙」14:50 中乙联赛 泰安天贶vs山东泰山B队 解说,https://tv.iill.top/Migu/CaSdzh
-「中乙」14:50 中乙联赛 无锡吴钩vs兰州陇原竞技 解说,https://tv.iill.top/Migu/7TheTI
-「中乙」15:20 中乙联赛 湖北青年星vs海门珂缔缘 解说,https://tv.iill.top/Migu/YJwGPI
-「中乙」15:20 中乙联赛 上海海港富盛经开vs杭州临平吴越 解说,https://tv.iill.top/Migu/haEj5x
-「中乙」15:20 中乙联赛 江西庐山vs北京理工 解说,https://tv.iill.top/Migu/vj8Gjz
-「中乙」15:50 中乙联赛 深圳二零二八vs广西恒宸 解说,https://tv.iill.top/Migu/1v3KzN
-「KPL」17:00 杭州LGD.NBW vs 上海EDG.M 杭州LGD.NBW vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/T9pgBK
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 1号桌,https://tv.iill.top/Migu/OzXsBq
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 2号桌,https://tv.iill.top/Migu/AWr0R1
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 3号桌,https://tv.iill.top/Migu/OhRQk4
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 5号桌,https://tv.iill.top/Migu/zeO3XR
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 4号桌,https://tv.iill.top/Migu/SE7ehu
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 6号桌,https://tv.iill.top/Migu/nP8Ahs
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 7号桌,https://tv.iill.top/Migu/8rvWrZ
-「斯诺克」17:00 吕昊天VS赵心童 傅家俊出战 吕昊天VS赵心童 傅家俊出战 8号桌,https://tv.iill.top/Migu/pwPMir
-「LPL」17:00 TT vs TES TT vs TES 官方解说,https://tv.iill.top/Migu/IghFBl
-「WTT」18:00 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 周冠达,https://tv.iill.top/Migu/RoOcJe
-「WTT」18:00 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 清流,https://tv.iill.top/Migu/8pSF8I
-「WTT」18:00 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 向鹏/徐瑛彬男双冲冠 陈熠/徐奕出战 英文解说,https://tv.iill.top/Migu/FI9W5U
-「LPL」19:00 AL vs WBG AL vs WBG 官方解说,https://tv.iill.top/Migu/Y9Zryh
-「WCBA」19:20 总决赛 东莞新彤盛 VS 四川蜀道远达 吕程 赵爽,https://tv.iill.top/Migu/5UxmvC
-「WCBA」19:20 总决赛 东莞新彤盛 VS 四川蜀道远达 解说,https://tv.iill.top/Migu/cjo5gQ
-「CBA」18:30 季后赛1/4决赛 辽宁本钢vs新疆伊力特 杨健 曾令旭 刘家成,https://tv.iill.top/Migu/m1Yhqm
-「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 哈秋,https://tv.iill.top/Migu/yh0m3y
-「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 盛哲,https://tv.iill.top/Migu/ayPZ8D
-「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 现场原声,https://tv.iill.top/Migu/Jowtuz
-「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 明星机位1,https://tv.iill.top/Migu/3Vfxv1
-「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 明星机位2,https://tv.iill.top/Migu/uFkozi
-「CBA」18:30 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 徐秦威 郭维盛 张兆旭,https://tv.iill.top/Migu/cQYPiD
-「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 郭知昊,https://tv.iill.top/Migu/Qa2BOp
-「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 刘沛元,https://tv.iill.top/Migu/PiXDU7
-「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 现场原声,https://tv.iill.top/Migu/8vZ0E6
-「CBA」18:30 辽宁vs新疆赛前训练 辽宁vs新疆赛前训练 哈秋,https://tv.iill.top/Migu/ELCLTs
-「CBA」18:30 辽宁vs新疆赛前训练 辽宁vs新疆赛前训练 盛哲,https://tv.iill.top/Migu/3Hy5y5
-「KPL」20:00 成都AG超玩会 vs 重庆狼队 成都AG超玩会 vs 重庆狼队 官方解说,https://tv.iill.top/Migu/2Lec5I
+「西甲」00:20 联赛 皇家贝蒂斯 vs 比利亚雷亚尔 孙雨轩,https://tv.iill.top/FB/OYOFFk
+「法甲」02:35 联赛 欧塞尔 vs 里昂 鹿中原,https://tv.iill.top/FB/R1sNDU
+「意甲」02:30 联赛 拉齐奥 vs 罗马 鲁靖明 李彦,https://tv.iill.top/FB/QXbYqT
+「意甲」02:30 联赛 拉齐奥 vs 罗马 鲁靖明 李彦,https://tv.iill.top/FB/FB3c0H
+「西甲」02:50 联赛 毕尔巴鄂竞技 vs 巴列卡诺 张天翼,https://tv.iill.top/FB/z8WUoV
+「NBA」00:55 常规赛 步行者VS骑士 张浩岳,https://tv.iill.top/NBA/YSGQT7
+「NBA」00:55 常规赛 公牛VS76人 王琰博,https://tv.iill.top/NBA/OXxYla
+「NBA」00:55 常规赛 魔术VS老鹰 董倡硕,https://tv.iill.top/NBA/D2Y4Xl
+「NBA」00:55 常规赛 奇才VS热火 徐秦威,https://tv.iill.top/NBA/MMehOp
+「NBA」00:55 常规赛 尼克斯VS篮网 张泽欣,https://tv.iill.top/NBA/9zw7VH
+「NBA」00:55 常规赛 活塞VS雄鹿 王润陶,https://tv.iill.top/NBA/e482gr
+「NBA」00:55 常规赛 黄蜂VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/qieGEp
+「NBA」03:15 常规赛 湖人VS开拓者 孙博 马健 佳依,https://tv.iill.top/NBA/G7sZ4j
+「NBA」03:25 常规赛 掘金VS火箭 陈鑫隆 周鹏,https://tv.iill.top/NBA/awQh2A
+「NBA」03:15 常规赛 快船VS勇士 连睿 闫宇峰 小七,https://tv.iill.top/NBA/dk7GuD
+「NBA」03:25 常规赛 快船VS勇士 拜月宁,https://tv.iill.top/NBA/xIHHuU
+「NBA」03:25 常规赛 太阳VS国王 王冠证,https://tv.iill.top/NBA/d2l8gY
+「NBA」03:25 常规赛 爵士VS森林狼 邢晨,https://tv.iill.top/NBA/Xjf5AD
+「NBA」03:25 常规赛 雷霆VS鹈鹕 罗森,https://tv.iill.top/NBA/1oB31Q
+「NBA」03:25 常规赛 猛龙VS马刺 王晓晨,https://tv.iill.top/NBA/zAvDVk
+「NBA」03:25 常规赛 独行侠VS灰熊 姜帆,https://tv.iill.top/NBA/i0MXnT
+「NBA」12:00 《我的赛场》常规赛收官特别节目 《我的赛场》常规赛收官特别节目 秋童 李根 周鹏,https://tv.iill.top/NBA/FKwlTI
+「国际乒联澳门单打世界杯」08:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 训练馆,https://tv.iill.top/Migu/4YFTIX
+「国际乒联澳门单打世界杯」09:00 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 候场区,https://tv.iill.top/Migu/nDW1NS
+「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 马特 周泽昊,https://tv.iill.top/Migu/MU850N
+「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 周冠达 侯英超,https://tv.iill.top/Migu/HTGuCW
+「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 男子单打,https://tv.iill.top/Migu/CHqYhI
+「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 女子单打,https://tv.iill.top/Migu/0EyVtx
+「国际乒联澳门单打世界杯」09:50 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 混采区,https://tv.iill.top/Migu/Z7U7tQ
+「LPL」16:30 RNG vs UP RNG vs UP 官方解说,https://tv.iill.top/Migu/yhDRV8
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 1号桌,https://tv.iill.top/Migu/Cp0ZLW
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 2号桌,https://tv.iill.top/Migu/fA9kAS
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 3号桌,https://tv.iill.top/Migu/CXUzdG
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 4号桌,https://tv.iill.top/Migu/mynlJN
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 5号桌,https://tv.iill.top/Migu/puKvjl
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 6号桌,https://tv.iill.top/Migu/RcLGFC
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 7号桌,https://tv.iill.top/Migu/w63IR7
+「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 8号桌,https://tv.iill.top/Migu/cPLXL9
+「国际乒联澳门单打世界杯」16:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 训练馆,https://tv.iill.top/Migu/YaXuNJ
+「国际乒联澳门单打世界杯」16:30 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 候场区,https://tv.iill.top/Migu/RnQ3d9
+「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 周冠达 侯英超,https://tv.iill.top/Migu/ZAzjyU
+「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 马特 周泽昊,https://tv.iill.top/Migu/k0s28a
+「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 男子单打,https://tv.iill.top/Migu/4uqqyH
+「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 女子单打,https://tv.iill.top/Migu/XKytC2
+「国际乒联澳门单打世界杯」17:20 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 混采区,https://tv.iill.top/Migu/5u7Hnx
+「LPL」19:00 JDG vs FPX JDG vs FPX 官方解说,https://tv.iill.top/Migu/sSbG0W
+「CBA」18:30 季后赛1/4决赛 北京北汽vs北京控股 邵化谦 季孟年 杨健,https://tv.iill.top/Migu/0aow2l
+「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 谭成国,https://tv.iill.top/Migu/ITy947
+「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 周赫,https://tv.iill.top/Migu/9LRUC8
+「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 现场原声,https://tv.iill.top/Migu/zLaLfh
+「CBA」18:30 季后赛1/4决赛 山西汾酒vs广东东阳光 庄宁宇 陈正昊 魏欣怡,https://tv.iill.top/Migu/bstp9R
+「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 石楷文,https://tv.iill.top/Migu/gj5u9M
+「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 翻译小余,https://tv.iill.top/Migu/VHelf2
+「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 现场原声,https://tv.iill.top/Migu/1dpqUG
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
