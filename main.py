@@ -80,7 +80,6 @@ shanxi_lines = [] #地方台-山西频道
 shandong_lines = [] #地方台-山东频道
 yunnan_lines = [] #地方台-云南频道
 
-
 ##################【2024-07-30 18:04:56】
 bj_lines = [] #地方台-北京频道
 cq_lines = [] #地方台-重庆频道
@@ -211,7 +210,7 @@ def clean_url(url):
 # 添加channel_name前剔除部分特定字符
 removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","AKtv","「IPV4」","「IPV6」",
                 "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","标清","斯特",
-                "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕","闽特","高特"]
+                "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕","闽特","高特","频高","频标"]
 def clean_channel_name(channel_name, removal_list):
     for item in removal_list:
         channel_name = channel_name.replace(item, "")
@@ -553,6 +552,28 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
+
+def get_http_response(url):
+    req = urllib.request.Request(url)
+    req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
+
+    # 打开URL并读取内容
+    with urllib.request.urlopen(req) as response:
+        # 以二进制方式读取数据
+        data = response.read()
+        # 将二进制数据解码为字符串
+        text = data.decode('utf-8')
+    return text
+
+#AKTV#
+aktv_lines = [] #AKTV
+aktv_url = "https://aktv.space/live.m3u" #AKTV
+
+aktv_text = get_http_response(aktv_url)
+aktv_text = convert_m3u_to_txt(aktv_text)
+aktv_lines = aktv_text.strip().split('\n')
+#AKTV#
+
 # 随机取得URL
 def get_random_url(file_path):
     urls = []
@@ -585,7 +606,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
+             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
@@ -613,7 +634,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
+             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \

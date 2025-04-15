@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/zzmaze/iptv/main/itvlist.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
-http://1805842a.123nat.com:66/agent/2.txt
+--http://1805842a.123nat.com:66/agent/2.txt
 --https://gongdian.top/tv/gongdian.txt
 --https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 --https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
