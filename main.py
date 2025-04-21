@@ -6,6 +6,9 @@ from datetime import datetime, timedelta, timezone
 import random
 import opencc #简繁转换
 
+import socket
+import time
+
 #简繁转换
 def traditional_to_simplified(text: str) -> str:
     # 初始化转换器，"t2s" 表示从繁体转为简体
@@ -553,25 +556,56 @@ for whitelist_line in whitelist_auto_lines:
             process_channel_line(",".join(whitelist_parts[1:]))
 
 
-def get_http_response(url):
-    req = urllib.request.Request(url)
-    req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
+# def get_http_response(url):
+#     req = urllib.request.Request(url)
+#     req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
 
-    # 打开URL并读取内容
-    with urllib.request.urlopen(req) as response:
-        # 以二进制方式读取数据
-        data = response.read()
-        # 将二进制数据解码为字符串
-        text = data.decode('utf-8')
-    return text
+#     # 打开URL并读取内容
+#     with urllib.request.urlopen(req) as response:
+#         # 以二进制方式读取数据
+#         data = response.read()
+#         # 将二进制数据解码为字符串
+#         text = data.decode('utf-8')
+#     return text
+def get_http_response(url, timeout=8, retries=2, backoff_factor=1.0):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as response:
+                data = response.read()
+                return data.decode('utf-8')
+        except urllib.error.HTTPError as e:
+            print(f"[HTTPError] Code: {e.code}, URL: {url}")
+            break  # 一般来说 HTTP 错误不会在重试中恢复
+        except urllib.error.URLError as e:
+            print(f"[URLError] Reason: {e.reason}, Attempt: {attempt + 1}")
+        except socket.timeout:
+            print(f"[Timeout] URL: {url}, Attempt: {attempt + 1}")
+        except Exception as e:
+            print(f"[Exception] {type(e).__name__}: {e}, Attempt: {attempt + 1}")
+        
+        # 等待一段时间后重试
+        if attempt < retries - 1:
+            time.sleep(backoff_factor * (2 ** attempt))
+    
+    return None  # 所有尝试失败后返回 None
 
 #AKTV#
 aktv_lines = [] #AKTV
 aktv_url = "https://aktv.space/live.m3u" #AKTV
 
 aktv_text = get_http_response(aktv_url)
-aktv_text = convert_m3u_to_txt(aktv_text)
-aktv_lines = aktv_text.strip().split('\n')
+if aktv_text:
+    print("AKTV成功获取内容")
+    aktv_text = convert_m3u_to_txt(aktv_text)
+    aktv_lines = aktv_text.strip().split('\n')
+else:
+    print("AKTV请求失败，从本地获取！")
+    aktv_lines = read_txt_to_array('专区/AKTV.txt')
+
 #AKTV#
 
 # 随机取得URL

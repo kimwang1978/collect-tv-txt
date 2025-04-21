@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/wwb521/live/main/tv.txt
 --http://47.99.102.252/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 --https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-http://xhztv.top/v6.txt
+--http://xhztv.top/v6.txt
 --https://tvkj.top/tvlive.txt
 https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
 --https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
