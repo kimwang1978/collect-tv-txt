@@ -21,6 +21,7 @@ TVB无线功夫,p3p://108.181.32.169:19673/6411291b0004b01b9c62861646d00929
 TVB无线功夫,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
 TVB无线新闻,p3p://108.181.32.169:19673/66c414110003f1f047eb7cb30cd84a38
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
@@ -162,5 +163,19 @@ TVB无线明珠,http://eu.huohuoaa.tech:1025/Smart.php?id=pearl_twn
 TVB无线娱乐,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbentertainment
 TVB千禧经典,http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbclassic
 VIUTV英,http://eu.huohuoaa.tech:1025/Smart.php?id=viusix_twn
+
+有线新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=hoycaijing_twn
+无线翡翠,https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
+无线明珠,https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_twn
+无线娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbentertainment
+VIUTV英,https://pixman.mytvsuper.com.mp/Smart.php?id=viusix_twn
+RTHK-31,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk31_twn
+RTHK-32,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk32_twn
+天映,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial
+天映,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv18_twn
+Astr爱奇,https://pixman.mytvsuper.com.mp/Smart.php?id=Qiyi
+AstrQJ国,https://pixman.mytvsuper.com.mp/Smart.php?id=Quanjia
+Astr欢喜,https://pixman.mytvsuper.com.mp/Smart.php?id=Huahee
+
 
 

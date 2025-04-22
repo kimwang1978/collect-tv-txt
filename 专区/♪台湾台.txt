@@ -16,27 +16,12 @@
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
 八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 
-
-寰宇新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
-东森新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
-
-东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
-东森超视HD,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
-
-东森综合,p3p://108.181.32.169:32739/64253f6e0002d287ead9482831323a6d
-东森综合,p3p://167.114.175.6:55331/5fe8c5570001412994347b4506da6ebb
-东森综合,p3p://173.208.176.178:31809/5fe8c5570001412994347b4506da6ebb
-东森综合,http://211.72.65.236:8524/.m3u8
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
@@ -50,11 +35,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『�
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路6』
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路11』
-
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR•IPV4『线路1』
-TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
 
@@ -81,9 +61,6 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 中视HD,rtmp://f13h.mine.nu/sat/tv091
 中视HD,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 
-中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
-中天新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
-中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -93,14 +70,9 @@ TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4g
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 非凡新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010
-年代新闻,http://211.72.65.236:8539/.m3u8
-年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
 纬来综合,http://211.72.65.236:8518/.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-纬来戏剧,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 台视,rtmp://f13h.mine.nu/sat/tv071
@@ -141,17 +113,97 @@ Astr爱奇,https://haoyunlai.serv00.net/Smartv-1.php?id=Qiyi
 AstrQJ国,https://haoyunlai.serv00.net/Smartv-1.php?id=Quanjia
 Astr欢喜,https://haoyunlai.serv00.net/Smartv-1.php?id=Huahee
 
-美亚电影,http://eu.huohuoaa.tech:1025/Smart.php?id=meiyamovie_twn
-天映频道,http://eu.huohuoaa.tech:1025/Smart.php?id=Celestial
-天映频道,http://eu.huohuoaa.tech:1025/Smart.php?id=ctv18_twn
-龙华电影,http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie
-龙祥电影,http://eu.huohuoaa.tech:1025/Smart.php?id=lungxiangtime_twn
-纬来电影,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie
-Astr爱奇,http://eu.huohuoaa.tech:1025/Smart.php?id=Qiyi
-AstrQJ国,http://eu.huohuoaa.tech:1025/Smart.php?id=Quanjia
-Astr欢喜,http://eu.huohuoaa.tech:1025/Smart.php?id=Huahee
-
 tvbs新闻,http://122.117.71.103:8543/tvbs新闻.m3u8
 三立新闻,http://122.117.71.103:8542/三立新闻.m3u8
 
 Obcyoyo,http://122.117.71.103:8515/Obcyoyo.m3u8
+
+纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
+龙祥时代电影,http://108.181.20.197/livehttpplay?channel_id=20114
+龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
+FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
+八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
+东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
+纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200
+纬来娱乐,http://108.181.20.197/livehttpplay?channel_id=20202
+纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
+ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
+ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
+TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
+壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
+
+台视,http://108.181.20.197/livehttpplay?channel_id=20076
+公视,http://108.181.20.197/livehttpplay?channel_id=20087
+中视,http://108.181.20.197/livehttpplay?channel_id=20088
+星河,http://108.181.20.197/livehttpplay?channel_id=20070
+采昌,http://108.181.20.197/livehttpplay?channel_id=20141
+ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
+ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
+动画片,http://61.221.215.25:8800/hls/40/index.m3u8
+尼克动画,http://108.181.20.197/livehttpplay?channel_id=20089
+国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164
+博斯运动,http://108.181.20.197/livehttpplay?channel_id=10131
+年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
+
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
+中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+tvbs新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+年代新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn
+民视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvhd_taiwan
+中视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshihd_twn
+华视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ctshd_twn
+台视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ttv_taiwan
+tvbs闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs
+tvbs欢乐,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbshuanle_twn
+公视台语,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv2_twn
+台视综合,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvzhonghe
+八大娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=badaentertain
+东森洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
+东森幼幼,https://pixman.mytvsuper.com.mp/Smart.php?id=yoyo_twn
+东森财经,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvcaijing_twn
+寰宇财经,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyutaiwan_twn
+华艺综合,https://pixman.mytvsuper.com.mp/Smart.php?id=weishichinese_twn
+阿里郎综,https://pixman.mytvsuper.com.mp/Smart.php?id=arirang_twn
+AXN电影,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
+CInemax,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
+HBo,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
+HBo家庭,https://pixman.mytvsuper.com.mp/Smart.php?id=fyi_twn
+好莱电影,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
+龙华经典,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
+龙华电影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
+龙华偶像,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaidol_twn
+龙华洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+纬来日本,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandjapan
+纬来综合,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandzonghe
+纬来育乐,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandyule
+纬来精彩,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandspecial_twn
+靖天国际,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtianintl_twn
+靖天卡通,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtiancartoon_twn
+大爱壹,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
+大爱贰,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
+好消息贰,https://pixman.mytvsuper.com.mp/Smart.php?id=good2_twn
+三立闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
+ELta影剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eltayingju_twn
+ELta综合,https://pixman.mytvsuper.com.mp/Smart.php?id=eltazonghe_twn
+ELTA体1,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport_twn
+ELTA体3,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn
+Eleven一,https://pixman.mytvsuper.com.mp/Smart.php?id=golfchannel_twn
+博斯无限,https://pixman.mytvsuper.com.mp/Smart.php?id=bosiunlimited_twn
+博斯网球,https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn
+博斯运动壹特,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn
+博斯运动贰特,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn
+博斯高球壹特,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf1_twn
+博斯高球贰特,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn
+探索亚洲,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
+野生动物,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeowild_twn
+亚洲美食,https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
+亚洲旅游,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
+亚洲TLC,https://pixman.mytvsuper.com.mp/Smart.php?id=tlc_twn
+EYE-旅游,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvtravel_twn
+EYE-戏剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvxiju_twn
+MTv,https://pixman.mytvsuper.com.mp/Smart.php?id=mtvhd_twn

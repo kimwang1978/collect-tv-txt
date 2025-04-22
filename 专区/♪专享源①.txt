@@ -5,11 +5,6 @@
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-
-
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-
 龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
@@ -18,17 +13,29 @@ AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1
 
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 
-🔁未知(🚀),http://epg.112114.eu.org/douyu/122402
-🔁未知,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402鹿鼎记,https://lunbo.freetv.top/yy/1354658049
+强森,http://cdn.jdshipin.com:8880/huya.php?id=21059581
+洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
+梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
+
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-
+功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
+国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
+唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
+唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
+逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
+鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
+97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
+审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
+望夫成龙,https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
+▶️后天,https://m3u8.hmrvideo.com/play/0c8022a5af3d452698ff2f32d2a4a3de.m3u8
+▶️2012,https://m3u8.hmrvideo.com/play/a9f7a721d9eb4c76b74790f719996a29.m3u8
 ▶️铃芽之旅（日语原声）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
 ▶️铃芽之旅（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/205/437/5105205437/media/5105205437_5195916136_56.mp4
 ▶️阿凡达：水之道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/004/544/5101004544/media/5101004544_5091261956_56.mp4
