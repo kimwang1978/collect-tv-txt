@@ -10,6 +10,11 @@
 |黑名单| （blacklist_auto.txt） |  不定时 | 无效直播源自动过滤   |
 |白名单| （whitelist_auto.txt） |  不定时 | 高响应源汇至直播源   |
 
+## 小工具
+
+> M3U ⇄ TXT 转换工具: https://convert.iptv365.org
+
+> 直播源检索：https://search.iptv365.org
 
 ## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）
 
