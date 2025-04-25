@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 --https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 --https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+--https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
 https://live.zhoujie218.top/tv/iptv6.txt

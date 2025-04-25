@@ -56,5 +56,21 @@ CCTV15,http://42.237.183.124:7000/hls/15/index.m3u8
 CCTV16,http://42.237.183.124:7000/hls/16/index.m3u8
 CCTV17,http://42.237.183.124:7000/hls/17/index.m3u8
 
+CCTV1,http://106.46.57.50:8888/hls/1/index.m3u8
+CCTV2,http://106.46.57.50:8888/hls/2/index.m3u8
+CCTV3,http://106.46.57.50:8888/hls/3/index.m3u8
+CCTV4,http://106.46.57.50:8888/hls/4/index.m3u8
+CCTV5,http://106.46.57.50:8888/hls/5/index.m3u8
+CCTV6,http://106.46.57.50:8888/hls/6/index.m3u8
+CCTV7,http://106.46.57.50:8888/hls/7/index.m3u8
+CCTV8,http://106.46.57.50:8888/hls/8/index.m3u8
+CCTV9,http://106.46.57.50:8888/hls/9/index.m3u8
+CCTV10,http://106.46.57.50:8888/hls/10/index.m3u8
+CCTV11,http://106.46.57.50:8888/hls/11/index.m3u8
+CCTV12,http://106.46.57.50:8888/hls/12/index.m3u8
+CCTV13,http://106.46.57.50:8888/hls/13/index.m3u8
+CCTV14,http://106.46.57.50:8888/hls/14/index.m3u8
+CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
+
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
