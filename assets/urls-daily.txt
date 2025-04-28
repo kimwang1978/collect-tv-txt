@@ -5,6 +5,7 @@ http://8.138.7.223/live.txt
 http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
 http://nas.suntao.online:35455/tv.m3u
+https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt

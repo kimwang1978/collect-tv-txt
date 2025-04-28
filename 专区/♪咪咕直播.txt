@@ -1,50 +1,49 @@
-咪咕4K-1,http://nas.suntao.online:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4K-2,http://nas.suntao.online:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-咪咕视频-1,http://nas.suntao.online:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-咪咕视频-2,http://nas.suntao.online:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-咪咕视频-3,http://nas.suntao.online:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-咪咕视频-4,http://nas.suntao.online:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-咪咕视频-5,http://nas.suntao.online:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-咪咕视频-6,http://nas.suntao.online:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-咪咕视频-7,http://nas.suntao.online:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-咪咕视频-8,http://nas.suntao.online:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-咪咕视频-9,http://nas.suntao.online:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-咪咕视频-10,http://nas.suntao.online:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-咪咕视频-11,http://nas.suntao.online:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-咪咕视频-12,http://nas.suntao.online:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-咪咕视频-13,http://nas.suntao.online:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-咪咕视频-14,http://nas.suntao.online:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频-15,http://nas.suntao.online:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-咪咕视频-16,http://nas.suntao.online:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-咪咕视频-17,http://nas.suntao.online:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-咪咕视频-18,http://nas.suntao.online:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-咪咕视频-19,http://nas.suntao.online:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-咪咕视频-20,http://nas.suntao.online:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-咪咕视频-21,http://nas.suntao.online:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-咪咕视频-22,http://nas.suntao.online:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-咪咕视频-23,http://nas.suntao.online:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-咪咕视频-24,http://nas.suntao.online:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-咪咕视频-25,http://nas.suntao.online:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-咪咕视频-26,http://nas.suntao.online:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-咪咕视频-27,http://nas.suntao.online:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-咪咕视频-28,http://nas.suntao.online:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-咪咕视频-29,http://nas.suntao.online:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-咪咕视频-30,http://nas.suntao.online:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-咪咕视频-31,http://nas.suntao.online:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-咪咕视频-32,http://nas.suntao.online:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-咪咕视频-33,http://nas.suntao.online:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-咪咕视频-34,http://nas.suntao.online:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-咪咕视频-35,http://nas.suntao.online:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-咪咕视频-36,http://nas.suntao.online:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-咪咕视频-37,http://nas.suntao.online:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-咪咕视频-38,http://nas.suntao.online:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-咪咕视频-39,http://nas.suntao.online:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-咪咕视频-40,http://nas.suntao.online:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-咪咕视频-41,http://nas.suntao.online:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-咪咕视频-42,http://nas.suntao.online:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-咪咕视频-43,http://nas.suntao.online:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-咪咕视频-44,http://nas.suntao.online:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-咪咕视频-45,http://nas.suntao.online:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+
+赛事播01,http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事播02,http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+赛事播03,http://61.160.112.102:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+赛事播04,http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+赛事播05,http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+赛事播06,http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+赛事播07,http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+赛事播08,http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+赛事播09,http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+赛事播10,http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+赛事播11,http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+赛事播12,http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+赛事播13,http://61.160.112.102:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+赛事播14,http://61.160.112.102:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+赛事播15,http://61.160.112.102:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+赛事播16,http://61.160.112.102:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+赛事播17,http://61.160.112.102:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+赛事播18,http://61.160.112.102:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+赛事播19,http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+赛事播20,http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+赛事播21,http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+赛事播22,http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+赛事播23,http://61.160.112.102:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+赛事播24,http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+赛事播25,http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+赛事播26,http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+赛事播27,http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+赛事播28,http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+赛事播29,http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+赛事播30,http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+赛事播31,http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+赛事播32,http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+赛事播33,http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+赛事播34,http://61.160.112.102:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+赛事播35,http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+赛事播36,http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+赛事播37,http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+赛事播38,http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+赛事播39,http://61.160.112.102:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+赛事播40,http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+赛事播41,http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+赛事播42,http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+赛事播43,http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+赛事播44,http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+赛事播45,http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
 赛事播01,http://pan.taokee.vip:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 赛事播02,http://pan.taokee.vip:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
@@ -158,48 +157,127 @@
 赛事壹4K,http://xxx.504900.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 赛事贰4K,http://xxx.504900.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 
-赛事播01,http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-赛事播02,http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-赛事播03,http://61.160.112.102:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-赛事播04,http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-赛事播05,http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-赛事播06,http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-赛事播07,http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-赛事播08,http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-赛事播09,http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-赛事播10,http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-赛事播11,http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-赛事播12,http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-赛事播13,http://61.160.112.102:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-赛事播14,http://61.160.112.102:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-赛事播15,http://61.160.112.102:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-赛事播16,http://61.160.112.102:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-赛事播17,http://61.160.112.102:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-赛事播18,http://61.160.112.102:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-赛事播19,http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-赛事播20,http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-赛事播21,http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-赛事播22,http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-赛事播23,http://61.160.112.102:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-赛事播24,http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-赛事播25,http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-赛事播26,http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-赛事播27,http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-赛事播28,http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-赛事播29,http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-赛事播30,http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-赛事播31,http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-赛事播32,http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-赛事播33,http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-赛事播34,http://61.160.112.102:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-赛事播35,http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-赛事播36,http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-赛事播37,http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-赛事播38,http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-赛事播39,http://61.160.112.102:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-赛事播40,http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-赛事播41,http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-赛事播42,http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-赛事播43,http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-赛事播44,http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-赛事播45,http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+
+咪咕4K-1,http://nas.suntao.online:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K-2,http://nas.suntao.online:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+咪咕视频-1,http://nas.suntao.online:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕视频-2,http://nas.suntao.online:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕视频-3,http://nas.suntao.online:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+咪咕视频-4,http://nas.suntao.online:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+咪咕视频-5,http://nas.suntao.online:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+咪咕视频-6,http://nas.suntao.online:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+咪咕视频-7,http://nas.suntao.online:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+咪咕视频-8,http://nas.suntao.online:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕视频-9,http://nas.suntao.online:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+咪咕视频-10,http://nas.suntao.online:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+咪咕视频-11,http://nas.suntao.online:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+咪咕视频-12,http://nas.suntao.online:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+咪咕视频-13,http://nas.suntao.online:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+咪咕视频-14,http://nas.suntao.online:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕视频-15,http://nas.suntao.online:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+咪咕视频-16,http://nas.suntao.online:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+咪咕视频-17,http://nas.suntao.online:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+咪咕视频-18,http://nas.suntao.online:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+咪咕视频-19,http://nas.suntao.online:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+咪咕视频-20,http://nas.suntao.online:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+咪咕视频-21,http://nas.suntao.online:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+咪咕视频-22,http://nas.suntao.online:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+咪咕视频-23,http://nas.suntao.online:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+咪咕视频-24,http://nas.suntao.online:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+咪咕视频-25,http://nas.suntao.online:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+咪咕视频-26,http://nas.suntao.online:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+咪咕视频-27,http://nas.suntao.online:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+咪咕视频-28,http://nas.suntao.online:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+咪咕视频-29,http://nas.suntao.online:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+咪咕视频-30,http://nas.suntao.online:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+咪咕视频-31,http://nas.suntao.online:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+咪咕视频-32,http://nas.suntao.online:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+咪咕视频-33,http://nas.suntao.online:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+咪咕视频-34,http://nas.suntao.online:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+咪咕视频-35,http://nas.suntao.online:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+咪咕视频-36,http://nas.suntao.online:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+咪咕视频-37,http://nas.suntao.online:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+咪咕视频-38,http://nas.suntao.online:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+咪咕视频-39,http://nas.suntao.online:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+咪咕视频-40,http://nas.suntao.online:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+咪咕视频-41,http://nas.suntao.online:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+咪咕视频-42,http://nas.suntao.online:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+咪咕视频-43,http://nas.suntao.online:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+咪咕视频-44,http://nas.suntao.online:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+咪咕视频-45,http://nas.suntao.online:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+NBA TV FHD,http://doubleclicktv.live/70376812/52663544/885
+NBA 01 :,http://doubleclicktv.live/70376812/52663544/5438
+NBA 02 :,http://doubleclicktv.live/70376812/52663544/5437
+NBA 03 :,http://doubleclicktv.live/70376812/52663544/5436
+NBA 04 :,http://doubleclicktv.live/70376812/52663544/5435
+NBA 05 :,http://doubleclicktv.live/70376812/52663544/5434
+NBA 06:,http://doubleclicktv.live/70376812/52663544/5433
+NBA 07 :,http://doubleclicktv.live/70376812/52663544/5432
+NBA 08 :,http://doubleclicktv.live/70376812/52663544/5431
+NBA 09:,http://doubleclicktv.live/70376812/52663544/5430
+NBA 10:,http://doubleclicktv.live/70376812/52663544/5429
+NBA 11:,http://doubleclicktv.live/70376812/52663544/5428
+NBA 12:,http://doubleclicktv.live/70376812/52663544/5427
+NBA 13:,http://doubleclicktv.live/70376812/52663544/5426
+NBA 14:,http://doubleclicktv.live/70376812/52663544/5425
+NBA 15:,http://doubleclicktv.live/70376812/52663544/5424
+NBA 16:,http://doubleclicktv.live/70376812/52663544/5423
+NBA 17:,http://doubleclicktv.live/70376812/52663544/5422
+NBA 18:,http://doubleclicktv.live/70376812/52663544/5421
+NBA 19:,http://doubleclicktv.live/70376812/52663544/5420
+NBA 20:,http://doubleclicktv.live/70376812/52663544/5419
+NBA 21:,http://doubleclicktv.live/70376812/52663544/5418
+USA Real NBA 22:,http://doubleclicktv.live/70376812/52663544/5417
+USA Real NBA 23:,http://doubleclicktv.live/70376812/52663544/5416
+USA Real NBA 24:,http://doubleclicktv.live/70376812/52663544/5415
+USA Real NBA 25:,http://doubleclicktv.live/70376812/52663544/5414
+USA Real NBA 26:,http://doubleclicktv.live/70376812/52663544/5413
+USA Real NBA 27:,http://doubleclicktv.live/70376812/52663544/5412
+USA Real NBA 28:,http://doubleclicktv.live/70376812/52663544/5411
+USA Real NBA 29:,http://doubleclicktv.live/70376812/52663544/5410
+USA Real NBA 30:,http://doubleclicktv.live/70376812/52663544/5409
+USA Real NBA 31:,http://doubleclicktv.live/70376812/52663544/5408
+USA Real NBA 32:,http://doubleclicktv.live/70376812/52663544/5407
+USA Real NBA 33:,http://doubleclicktv.live/70376812/52663544/5406
+USA Real NBA 34:,http://doubleclicktv.live/70376812/52663544/5405
+USA Real NBA 35:,http://doubleclicktv.live/70376812/52663544/5404
+USA Real NBA 36:,http://doubleclicktv.live/70376812/52663544/5403
+USA Real NBA 37:,http://doubleclicktv.live/70376812/52663544/5402
+USA Real NBA 38:,http://doubleclicktv.live/70376812/52663544/5401
+USA Real NBA 39:,http://doubleclicktv.live/70376812/52663544/5400
+USA Real NBA 40:,http://doubleclicktv.live/70376812/52663544/5399
+USA Real NBA 41:,http://doubleclicktv.live/70376812/52663544/5398
+USA Real NBA 42:,http://doubleclicktv.live/70376812/52663544/5397
+USA Real NBA 43:,http://doubleclicktv.live/70376812/52663544/5396
+USA Real NBA 44:,http://doubleclicktv.live/70376812/52663544/5395
+USA Real NBA 45:,http://doubleclicktv.live/70376812/52663544/5394
+USA Real NBA 46:,http://doubleclicktv.live/70376812/52663544/5393
+USA Real NBA 47:,http://doubleclicktv.live/70376812/52663544/5392
+USA Real NBA 48:,http://doubleclicktv.live/70376812/52663544/5391
+USA Real NBA 49:,http://doubleclicktv.live/70376812/52663544/5390
+USA Real NBA 50:,http://doubleclicktv.live/70376812/52663544/5389
+USA Real NBA 51:,http://doubleclicktv.live/70376812/52663544/5388
+USA Real NBA 52:,http://doubleclicktv.live/70376812/52663544/5387
+USA Real NBA 53:,http://doubleclicktv.live/70376812/52663544/5386
+USA Real NBA 54:,http://doubleclicktv.live/70376812/52663544/5385
+USA Real NBA 55:,http://doubleclicktv.live/70376812/52663544/5384
+USA Real NBA 56:,http://doubleclicktv.live/70376812/52663544/5383
+USA Real NBA 57:,http://doubleclicktv.live/70376812/52663544/5382
+USA Real NBA 58:,http://doubleclicktv.live/70376812/52663544/5381
+USA Real NBA 59:,http://doubleclicktv.live/70376812/52663544/5380
+USA Real NBA 60:,http://doubleclicktv.live/70376812/52663544/5379
+UK: Sky Sports News,http://nocable.cc:8080//OURTV/OURTV@4806/35241
+UK: SKY SPORTS F1,http://nocable.cc:8080//OURTV/OURTV@4806/35244
+UK: SKY SPORTS Football,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001373
+UK: SKY SPORTS Golf,http://nocable.cc:8080//OURTV/OURTV@4806/35240
+UK: SKY SPORTS Main Event,http://nocable.cc:8080//OURTV/OURTV@4806/137720
+UK: SKY SPORTS Mix,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001376
+UK: SKY SPORTS Premier League,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001378
+UK: SKY SPORTS Racing,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001379
+UK: SKY SPORTS Action/NFL,http://nocable.cc:8080//OURTV/OURTV@4806/53705
+UK: SKY SPORTS Arena,http://nocable.cc:8080//OURTV/OURTV@4806/35238
+UK: SKY SPORTS SciFI,http://nocable.cc:8080//OURTV/OURTV@4806/53663
+UK: SKY SPORTS Cricket,http://nocable.cc:8080//OURTV/OURTV@4806/45940
+UK: Sky Sports Main Event,http://vocotv.pro//revol/revol/276918
+UK: : Sky Sports Football,http://vocotv.pro//revol/revol/276924
+UK: Sky Sports Premier League,http://vocotv.pro//revol/revol/276906

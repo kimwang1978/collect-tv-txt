@@ -4,6 +4,17 @@ JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=
 JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS1,https://stream1.freetv.fun/jsports-1-1.m3u8
 JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
+MLB NETWORK,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+FOX Sports,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+ESPN,http://41.205.93.154/ESPN/index.m3u8
+ESPN,http://38.96.178.201:80/live/ESPNHD/index.m3u8
+緯來體育,http://live4play.uk/livehttpplay?channel_id=20120
+緯來體育,rtmp://60.248.77.83/sat/tv721
+ELTA體育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+ELTA體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+ELTA體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+ELTA體育2台,http://108.181.20.197/livehttpplay?channel_id=20107
 博斯运动,http://211.75.171.121:8557/http/61.67.128.137:8068/hls/15/80/cstv15.m3u8
 TRAce体育,http://211.75.171.121:8509/http/61.67.128.137:8092/upload/212/TraceS_TS-1111
 DAZN体育-壹,http://211.75.171.121:8566/http/61.67.128.137:8078/hls/25/80/esport.m3u8
