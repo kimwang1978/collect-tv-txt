@@ -7,6 +7,7 @@ CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
 星空卫视,http://171.213.140.54:8123/udp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
 TVN,https://stream1.freetv.fun/tvn-3.m3u8
 贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
