@@ -4,7 +4,7 @@ http://wx.thego.cn/ak.m3u
 http://8.138.7.223/live.txt
 http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
-http://nas.suntao.online:35455/tv.m3u
+--http://nas.suntao.online:35455/tv.m3u
 https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
-https://m3u.ibert.me/txt/j_home.txt
+--https://m3u.ibert.me/txt/j_home.txt
 --http://vip.vip0531.com/viptv/live202405.txt
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
