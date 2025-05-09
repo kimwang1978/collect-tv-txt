@@ -36,15 +36,14 @@ jobs:
       with:
         name: generated-files
         path: |
-          merged_output.txt
+          bbxx.txt
           others_output.txt
           
     - name: Commit changes
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add merged_output.txt merged_output.m3u merged_output_simple.txt merged_output_simple.m3u others_output.txt
-          git add live.txt live.m3u live_lite.txt live_lite.m3u
+          git add bbxx.txt bbxx.m3u bbxx_lite.txt bbxx_lite.m3u others_output.txt
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
@@ -56,7 +55,7 @@ jobs:
 
           # 将归档文件打包zip文件
           zip_filename="history/${current_datetime}_archive_output.zip"
-          zip -j "${zip_filename}" merged_output.txt others_output.txt
+          zip -j "${zip_filename}" others_output.txt
           git add "${zip_filename}"
           git commit -m "Archive zipfile: ${current_datetime}"
           

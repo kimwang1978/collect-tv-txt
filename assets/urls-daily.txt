@@ -1,7 +1,7 @@
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 http://wx.thego.cn/ak.m3u
 --http://aktv.top/live.txt
-http://8.138.7.223/live.txt
+--http://8.138.7.223/live.txt
 http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
 --http://nas.suntao.online:35455/tv.m3u
