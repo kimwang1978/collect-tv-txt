@@ -1,3 +1,10 @@
+北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
+东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
+深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
+深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+
 东方卫视,http://39.165.196.149:9003//hls/39/index.m3u8
 浙江卫视,http://39.165.196.149:9003//hls/28/index.m3u8
 江苏卫视,http://39.165.196.149:9003//hls/37/index.m3u8

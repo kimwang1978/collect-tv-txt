@@ -179,5 +179,16 @@ Astr爱奇,https://pixman.mytvsuper.com.mp/Smart.php?id=Qiyi
 AstrQJ国,https://pixman.mytvsuper.com.mp/Smart.php?id=Quanjia
 Astr欢喜,https://pixman.mytvsuper.com.mp/Smart.php?id=Huahee
 
-
-
+翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+TVB无线明珠,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+TVB无线娱乐,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+VIUTV英,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+RTHK-31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
+RTHK-32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
+天映,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
+天映,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
+Astr爱奇,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+AstrQJ国,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
+Astr欢喜,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
