@@ -1,5 +1,3 @@
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30837590
 海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
 哆啦A梦,http://dns.yiandrive.com:15907/bilibili/14745943

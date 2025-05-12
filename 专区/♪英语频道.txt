@@ -1,20 +1,14 @@
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半岛新闻,https://litv.zapi.us.kg/?id=litv-ftv10
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
-美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
-TaiwanPlus,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 DW News,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-DW News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 DW News,http://37.27.111.214:8080/live/46/hls.m3u8
-GB News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 FRANCE24 English,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-FRANCE24 English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-Al Jazeera English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
