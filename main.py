@@ -594,18 +594,17 @@ def get_http_response(url, timeout=8, retries=2, backoff_factor=1.0):
     return None  # 所有尝试失败后返回 None
 
 #AKTV#
-aktv_lines = [] #AKTV
-aktv_url = "https://aktv.space/live.m3u" #AKTV
+# aktv_lines = [] #AKTV
+# aktv_url = "https://aktv.space/live.m3u" #AKTV
 
-aktv_text = get_http_response(aktv_url)
-if aktv_text:
-    print("AKTV成功获取内容")
-    aktv_text = convert_m3u_to_txt(aktv_text)
-    aktv_lines = aktv_text.strip().split('\n')
-else:
-    print("AKTV请求失败，从本地获取！")
-    aktv_lines = read_txt_to_array('专区/AKTV.txt')
-
+# aktv_text = get_http_response(aktv_url)
+# if aktv_text:
+#     print("AKTV成功获取内容")
+#     aktv_text = convert_m3u_to_txt(aktv_text)
+#     aktv_lines = aktv_text.strip().split('\n')
+# else:
+#     print("AKTV请求失败，从本地获取！")
+#     aktv_lines = read_txt_to_array('专区/AKTV.txt')
 #AKTV#
 
 # 随机取得URL
@@ -633,14 +632,13 @@ about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(iptv365.org),"+about_video2
 # 瘦身版
-# 
+#              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
@@ -668,7 +666,6 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
