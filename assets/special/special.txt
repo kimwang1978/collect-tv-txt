@@ -3912,72 +3912,72 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「意甲」02:45 -联赛-热那亚 vs 亚特兰大-石庆圣,https://tv.iill.top/FB/LuzeTG
-「法甲」03:00 -联赛-里昂 vs 昂热-张天翼,https://tv.iill.top/FB/Bt2yno
-「法甲」03:00 -联赛-南特 vs 蒙彼利埃-谭逸雄,https://tv.iill.top/FB/GLby7Y
-「法甲」03:00 -联赛-朗斯 vs 摩纳哥-乔迁,https://tv.iill.top/FB/9nxhHS
-「法甲」03:00 -联赛-巴黎圣日耳曼 vs 欧塞尔-鹿中原 王宇,https://tv.iill.top/FB/lneUEo
-「法甲」03:00 -联赛-斯特拉斯堡 vs 勒阿弗尔-李永熙,https://tv.iill.top/FB/zFZuV2
-「法甲」03:00 -联赛-里尔 vs 兰斯-涂远,https://tv.iill.top/FB/u400lG
-「法甲」03:00 -联赛-圣埃蒂安 vs 图卢兹-洪宇青,https://tv.iill.top/FB/kB7Mux
-「法甲」03:00 -联赛-尼斯 vs 布雷斯特-张昊泽,https://tv.iill.top/FB/4D7YQO
-「法甲」03:00 -联赛-马赛 vs 雷恩-盛斌,https://tv.iill.top/FB/mGtFzQ
-「英超」19:00 -联赛-埃弗顿 vs 南安普敦-刘畅,https://tv.iill.top/FB/BOLXi9
-「亚冠二级」20:00 -决赛-本国联队 vs 沙亚赫-涂远 马延峰,https://tv.iill.top/FB/Ga8uX2
-「英超」21:15 -联赛-西汉姆联 vs 诺丁汉森林-苗锟,https://tv.iill.top/FB/b2WfkH
-「英超」22:00 -联赛-莱斯特城 vs 伊普斯维奇-黄航,https://tv.iill.top/FB/GkGWwX
-「英超」22:00 -联赛-布伦特福德 vs 富勒姆-郭灿亮,https://tv.iill.top/FB/wHG5RK
-「英超」23:30 -联赛-阿森纳 vs 纽卡斯尔联-詹俊 张路 李子琪,https://tv.iill.top/FB/o4sq64
-「Jr. NBA」16:00 -Jr. -陕西男子组决赛主客场G1-解说,https://tv.iill.top/NBA/2HFWlS
-「UFC格斗之夜」04:00 -UFC格斗之夜：伯恩斯VS莫拉莱斯-UFC格斗之夜：伯恩斯VS莫拉莱斯-王琰博 郝俊,https://tv.iill.top/Migu/25AhUQ
-「UFC格斗之夜」04:00 -UFC格斗之夜：伯恩斯VS莫拉莱斯-UFC格斗之夜：伯恩斯VS莫拉莱斯-英文原声,https://tv.iill.top/Migu/90V9Z2
-「逐马计划」07:30 -逐马计划——宁夏银川马拉松赛-宁夏银川马拉松赛-清流播出,https://tv.iill.top/Migu/Gn8N4j
-「逐马计划」07:30 -逐马计划——弥勒半程马拉松-逐马计划——弥勒半程马拉松-清流播出,https://tv.iill.top/Migu/UGswK5
-「马拉松系列赛」07:30 -包头马拉松、伊犁河马拉松、风筝半马-包头马拉松、伊犁河马拉松、风筝半马-清流播出,https://tv.iill.top/Migu/7y0xTY
-「马拉松系列赛」07:30 -包头马拉松、伊犁河马拉松、风筝半马-包头马拉松、伊犁河马拉松、风筝半马-2025伊犁河马拉松暨“跑遍大美新疆”伊宁站,https://tv.iill.top/Migu/5RwPUD
-「马拉松系列赛」07:30 -包头马拉松、伊犁河马拉松、风筝半马-包头马拉松、伊犁河马拉松、风筝半马-万山集团·2025“世界风筝都”半程马拉松,https://tv.iill.top/Migu/YioBxI
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：女子100米蛙泳、男子200米自由泳等-汪顺、叶诗文出战-现场解说,https://tv.iill.top/Migu/BZeoeD
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：女子100米蛙泳、男子200米自由泳等-汪顺、叶诗文出战-赛场原声,https://tv.iill.top/Migu/bPMoBs
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-周雨 侯英超 周冠达 小马哥,https://tv.iill.top/Migu/ZblH5Q
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-周雨,https://tv.iill.top/Migu/F9TWa8
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-侯英超,https://tv.iill.top/Migu/HcBVo9
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-周冠达,https://tv.iill.top/Migu/2hQZBZ
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-小马哥,https://tv.iill.top/Migu/zF772N
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-训练馆,https://tv.iill.top/Migu/enHcEf
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-候场区,https://tv.iill.top/Migu/SSUHyA
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-1号桌,https://tv.iill.top/Migu/jtKv5f
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-2号桌,https://tv.iill.top/Migu/iULlFT
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-3号桌,https://tv.iill.top/Migu/l9Zjm5
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-4号桌,https://tv.iill.top/Migu/dKaE8p
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-5号桌,https://tv.iill.top/Migu/PJsFqJ
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-6号桌,https://tv.iill.top/Migu/StjtD1
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-7号桌,https://tv.iill.top/Migu/ztKSHW
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-8号桌,https://tv.iill.top/Migu/5IhKxf
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-1号桌英文解说,https://tv.iill.top/Migu/UMmknt
-「多哈世乒赛」15:00 -多哈世乒赛：单打1/64决赛、双打1/32决赛-莎头组合迎首秀 王曼昱接台登场-9号桌,https://tv.iill.top/Migu/jmzN0x
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-综合信号,https://tv.iill.top/Migu/mFLXaq
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-跳马,https://tv.iill.top/Migu/LBj5ut
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-高低杠,https://tv.iill.top/Migu/lAUuIX
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-平衡木,https://tv.iill.top/Migu/4gLeqG
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-自由操,https://tv.iill.top/Migu/dansEa
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子团体决赛-全国体操锦标赛day4-明星机位,https://tv.iill.top/Migu/3nrfb2
-「LPL」16:30 -TES vs TT-TES vs TT-官方解说,https://tv.iill.top/Migu/zFPhre
-「WTA」19:00 -斯特拉斯堡站第二日：诺斯科娃PK萨姆索诺娃-诺斯科娃PK萨姆索诺娃-赛场原声,https://tv.iill.top/Migu/fDETYn
-「中乙」19:30 -联赛-温州俱乐部中胤vs成都蓉城B队-解说,https://tv.iill.top/Migu/urJth7
-「LPL」20:00 -AL vs WE-AL vs WE-官方解说,https://tv.iill.top/Migu/GxJeaP
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-周雨 侯英超 周冠达,https://tv.iill.top/Migu/c58yvK
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-小马哥,https://tv.iill.top/Migu/TzvHWT
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-训练馆,https://tv.iill.top/Migu/82ouhf
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-云观赛,https://tv.iill.top/Migu/kMXQnN
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-1号桌,https://tv.iill.top/Migu/L0QmKm
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-2号桌,https://tv.iill.top/Migu/3y5ejr
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-3号桌,https://tv.iill.top/Migu/tdNL6A
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-4号桌,https://tv.iill.top/Migu/yeK2fT
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-5号桌,https://tv.iill.top/Migu/r6nqLw
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-6号桌,https://tv.iill.top/Migu/F4EF9x
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-7号桌,https://tv.iill.top/Migu/i2wsqN
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-8号桌,https://tv.iill.top/Migu/1va9GZ
-「多哈世乒赛」21:30 -多哈世乒赛：单打1/64决赛、双打1/32决赛-林诗栋出战 王曼昱/蒯曼女双登场-1号桌英文解说,https://tv.iill.top/Migu/6G5iBb
+「西甲」01:00 -联赛-马德里竞技 vs 皇家贝蒂斯-周楚雄 贺宇,https://tv.iill.top/FB/eTrDbd
+「西甲」01:00 -联赛-拉斯帕尔马斯 vs 莱加内斯-梁祥宇,https://tv.iill.top/FB/pWy8so
+「西甲」01:00 -联赛-巴拉多利德 vs 阿拉维斯-孙雨轩,https://tv.iill.top/FB/ZAPCzL
+「西甲」01:00 -联赛-塞维利亚 vs 皇家马德里-刘畅 王宇,https://tv.iill.top/FB/faUDoc
+「西甲」01:00 -联赛-马略卡 vs 赫塔费-张天翼,https://tv.iill.top/FB/JNHhYV
+「西甲」01:00 -联赛-塞尔塔 vs 巴列卡诺-鹿中原,https://tv.iill.top/FB/uDugXy
+「西甲」01:00 -联赛-瓦伦西亚 vs 毕尔巴鄂竞技-兰子非,https://tv.iill.top/FB/bFH3fg
+「西甲」01:00 -联赛-巴塞罗那 vs 比利亚雷亚尔-张昊泽 李欣,https://tv.iill.top/FB/fIB0QC
+「西甲」01:00 -联赛-皇家社会 vs 赫罗纳-李霄,https://tv.iill.top/FB/t46O3j
+「西甲」01:00 -联赛-奥萨苏纳 vs 西班牙人-洪宇青,https://tv.iill.top/FB/Zhfxk1
+「意甲」02:45 -联赛-维罗纳 vs 科莫-吴奕博,https://tv.iill.top/FB/mplQOm
+「意甲」02:45 -联赛-莱切 vs 都灵-乔迁,https://tv.iill.top/FB/QDVWXj
+「意甲」02:45 -联赛-罗马 vs AC米兰-石庆圣 李彦,https://tv.iill.top/FB/eSYkXw
+「意甲」02:45 -联赛-帕尔马 vs 那不勒斯-娄一晨 刘越,https://tv.iill.top/FB/yXJHVv
+「意甲」02:45 -联赛-蒙扎 vs 恩波利-鲁靖明,https://tv.iill.top/FB/E2t9nu
+「意甲」02:45 -联赛-蒙扎 vs 恩波利-鲁靖明,https://tv.iill.top/FB/NQMUNv
+「意甲」02:45 -联赛-尤文图斯 vs 乌迪内斯-吴桐,https://tv.iill.top/FB/V2egOH
+「意甲」02:45 -联赛-国际米兰 vs 拉齐奥-刘腾 黄健翔,https://tv.iill.top/FB/hwDZzq
+「意甲」02:45 -联赛-佛罗伦萨 vs 博洛尼亚-谭逸雄,https://tv.iill.top/FB/TPDn9l
+「意甲」02:45 -联赛-卡利亚里 vs 威尼斯-刘焕,https://tv.iill.top/FB/Ft8QBW
+「NBA」03:30 -季后赛-掘金VS雷霆-孙博 孔德昕,https://tv.iill.top/NBA/IV2gQs
+「NBA」03:30 -季后赛-掘金VS雷霆-英文原声,https://tv.iill.top/NBA/245RVi
+「Jr. NBA」14:30 -Jr. -陕西男子组决赛主客场G2-解说,https://tv.iill.top/NBA/YzAnfS
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子800米自由泳预赛等-孙杨出战男子800米自由泳预赛-现场解说,https://tv.iill.top/Migu/1gBf5d
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子800米自由泳预赛等-孙杨出战男子800米自由泳预赛-赛场原声,https://tv.iill.top/Migu/2dV6uH
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-综合信号,https://tv.iill.top/Migu/Ne7WFZ
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-吊环,https://tv.iill.top/Migu/q8dL6M
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-自由操,https://tv.iill.top/Migu/EVH4X5
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-跳马,https://tv.iill.top/Migu/5VFK14
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-鞍马,https://tv.iill.top/Migu/3G7ZuW
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-双杠,https://tv.iill.top/Migu/Ji76Co
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-单杠,https://tv.iill.top/Migu/EL6wIc
+「全国体操锦标赛」15:00 -全国体操锦标赛：男子个人全能决赛-男子个人全能决赛-明星机位,https://tv.iill.top/Migu/wgPDEo
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-周雨 闫安 程靖淇 周冠达,https://tv.iill.top/Migu/7LYv62
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-周雨,https://tv.iill.top/Migu/H8gNTa
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-周冠达,https://tv.iill.top/Migu/p6cyfB
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-闫安,https://tv.iill.top/Migu/Tr3g5H
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-程靖淇,https://tv.iill.top/Migu/g1s6Gy
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-训练馆,https://tv.iill.top/Migu/nPCAaA
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-候场区,https://tv.iill.top/Migu/b9eWEq
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-1号桌,https://tv.iill.top/Migu/A4wBCH
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-2号桌,https://tv.iill.top/Migu/Io0Z8f
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-3号桌,https://tv.iill.top/Migu/4vGzQ0
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-4号桌,https://tv.iill.top/Migu/jKs4v4
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-5号桌,https://tv.iill.top/Migu/cHGZAn
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-6号桌,https://tv.iill.top/Migu/8i9YNT
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-7号桌,https://tv.iill.top/Migu/oVPfOQ
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-8号桌,https://tv.iill.top/Migu/4apLDa
+「多哈世乒赛」16:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-王楚钦、孙颖莎单打出战-1号桌英文解说,https://tv.iill.top/Migu/MH2sO1
+「LPL」16:30 -WBG vs FPX-WBG vs FPX-官方解说,https://tv.iill.top/Migu/ZSktRF
+「WTA」17:00 -斯特拉斯堡站第三日-斯特拉斯堡站第三日-赛场原声,https://tv.iill.top/Migu/T4fShN
+「LPL」20:00 -NIP vs JDG-NIP vs JDG-官方解说,https://tv.iill.top/Migu/IYrruP
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-周雨 闫安 程靖淇 周冠达,https://tv.iill.top/Migu/JZHP4B
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-侯英超,https://tv.iill.top/Migu/0p50HY
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-小马哥,https://tv.iill.top/Migu/sNQB1n
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-训练馆,https://tv.iill.top/Migu/wIShiq
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-候场区,https://tv.iill.top/Migu/7l85b4
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-1号桌,https://tv.iill.top/Migu/IR90Y4
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-2号桌,https://tv.iill.top/Migu/4EmxKz
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-3号桌,https://tv.iill.top/Migu/enzaf8
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-4号桌,https://tv.iill.top/Migu/yKx98n
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-5号桌,https://tv.iill.top/Migu/LVZrwZ
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-6号桌,https://tv.iill.top/Migu/FG1dtc
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-7号桌,https://tv.iill.top/Migu/DjeCqX
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-8号桌,https://tv.iill.top/Migu/dT6UNT
+「多哈世乒赛」21:00 -多哈世乒赛：单打1/32决赛、双打1/16决赛-单打1/32决赛、双打1/16决赛-1号桌英文解说,https://tv.iill.top/Migu/meDSZ0
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
