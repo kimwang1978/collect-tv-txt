@@ -631,6 +631,12 @@ about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
 about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(iptv365.org),"+about_video2
+
+
+# 增加手工区 202505
+print(f"处理手工区...")
+zj_lines = zj_lines + read_txt_to_array('手工区/浙江频道.txt')
+
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] +\
