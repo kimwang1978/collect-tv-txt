@@ -3912,46 +3912,45 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「NBA」08:00 -季后赛-步行者VS尼克斯-姜帆 闫宇峰 陈正昊,https://tv.iill.top/NBA/j1mTGi
-「NBA」08:00 -季后赛-步行者VS尼克斯-英文原声,https://tv.iill.top/NBA/y52Qeb
-「NBA」08:00 -季后赛-步行者VS尼克斯-VIP前排视角,https://tv.iill.top/NBA/Z3otQ8
-「NBA」08:00 -季后赛-步行者VS尼克斯-球场十倍镜,https://tv.iill.top/NBA/1Db136
-「UFC精英之路」08:50 -UFC精英之路第四季第二比赛日称重仪式-RTU首轮第2比赛日称重：谢彬与朱康杰相爱相杀-陈瑞阳,https://tv.iill.top/Migu/H7clt7
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子100米蝶泳、男子50米自由泳等-孙佳俊、潘展乐、张雨霏出战-现场解说,https://tv.iill.top/Migu/k9ZIJQ
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子100米蝶泳、男子50米自由泳等-孙佳俊、潘展乐、张雨霏出战-赛场原声,https://tv.iill.top/Migu/Th06Pc
-「逐马计划」10:00 -逐马计划-逐马计划兰州站第一天——马博会慢直播-清流播出,https://tv.iill.top/Migu/17ODj4
-「全国体操锦标赛」15:00 -全国体操锦标赛：单项决赛-单项决赛-综合信号,https://tv.iill.top/Migu/XAiVha
-「全国体操锦标赛」15:00 -全国体操锦标赛：单项决赛-单项决赛-明星机位,https://tv.iill.top/Migu/Mxh9Y2
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-周雨 程靖淇 周冠达,https://tv.iill.top/Migu/oqxF7P
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-周冠达 程靖淇,https://tv.iill.top/Migu/gWwAFk
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-李真 周雨,https://tv.iill.top/Migu/LONTTB
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-训练馆,https://tv.iill.top/Migu/cVarBJ
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-候场区,https://tv.iill.top/Migu/B9vt6V
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-混采区,https://tv.iill.top/Migu/S8N27J
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-1号桌,https://tv.iill.top/Migu/NUrvoV
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-2号桌,https://tv.iill.top/Migu/zZBxtF
-「多哈世乒赛」16:00 -多哈世乒赛：双打1/4决赛、单打1/8决赛-莎头组合冲击半决赛 王曼昱出战-1号桌英文解说,https://tv.iill.top/Migu/27yrsB
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-1号桌,https://tv.iill.top/Migu/3RIjj4
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-2号桌,https://tv.iill.top/Migu/V8Yxbh
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-3号桌,https://tv.iill.top/Migu/ljvVnv
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-4号桌,https://tv.iill.top/Migu/TTSrZ9
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-5号桌,https://tv.iill.top/Migu/8Z6ZIr
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-6号桌,https://tv.iill.top/Migu/BOOEMp
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-7号桌,https://tv.iill.top/Migu/vhq1k9
-「斯诺克」16:00 -欧洲Q-School第一站第二轮-第二轮-8号桌,https://tv.iill.top/Migu/sN9cIq
-「LPL」16:30 -WE vs WBG-WE vs WBG-官方解说,https://tv.iill.top/Migu/eWX2jk
-「WTA」17:00 -斯特拉斯堡站第六日-斯特拉斯堡站第六日-赛场原声,https://tv.iill.top/Migu/c7IJIu
-「WTA」18:00 -拉巴特站1/4决赛-拉巴特站1/4决赛-赛场原声,https://tv.iill.top/Migu/ORf8yI
-「LPL」20:00 -NIP vs TT-NIP vs TT-官方解说,https://tv.iill.top/Migu/xBBMJC
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-周雨 程靖淇 周冠达,https://tv.iill.top/Migu/gAp9B1
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-侯英超,https://tv.iill.top/Migu/DcbYnJ
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-小马哥,https://tv.iill.top/Migu/cUYdeU
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-训练馆,https://tv.iill.top/Migu/qENsCD
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-候场区,https://tv.iill.top/Migu/tCNT4K
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-混采区,https://tv.iill.top/Migu/7b2OPn
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-1号桌,https://tv.iill.top/Migu/eQHBfq
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-2号桌,https://tv.iill.top/Migu/qJgwix
-「多哈世乒赛」22:00 -多哈世乒赛：男女双打1/4决赛及单打1/8决赛-王楚钦、孙颖莎冲击单打八强-1号桌英文解说,https://tv.iill.top/Migu/2O15sq
+「德甲」02:30 -升降级附加赛-海登海姆vs艾禾斯堡-王子睿,https://tv.iill.top/FB/QodSQa
+「德甲」02:30 -升降级附加赛-海登海姆vs艾禾斯堡-王子睿,https://tv.iill.top/FB/EbPpxk
+「NBA」08:30 -季后赛-森林狼VS雷霆-杨健 刘晓宇 拜月宁,https://tv.iill.top/NBA/y2kIwU
+「NBA」08:30 -季后赛-森林狼VS雷霆-邢晨,https://tv.iill.top/NBA/3Y7DfQ
+「NBA」08:30 -季后赛-森林狼VS雷霆-罗森,https://tv.iill.top/NBA/m2YAqz
+「NBA」08:30 -季后赛-森林狼VS雷霆-英文原声,https://tv.iill.top/NBA/M3l1Zw
+「NBA」08:30 -季后赛-森林狼VS雷霆-VIP前排视角,https://tv.iill.top/NBA/utAVQA
+「NBA」08:30 -季后赛-森林狼VS雷霆-球场十倍镜,https://tv.iill.top/NBA/JIlDIh
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男女4x100米自由泳接力等-徐嘉余、唐钱婷等选手出战-现场解说,https://tv.iill.top/Migu/Ghx2hr
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男女4x100米自由泳接力等-徐嘉余、唐钱婷等选手出战-赛场原声,https://tv.iill.top/Migu/LpUqhM
+「逐马计划」10:00 -逐马计划兰州站第二天——兰州城市漫游-逐马计划兰州站第二天——兰州城市漫游-清流播出,https://tv.iill.top/Migu/pc3Ce5
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-侯英超 程靖淇 周冠达,https://tv.iill.top/Migu/a6E40u
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-周冠达,https://tv.iill.top/Migu/SPc1lW
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-程靖淇,https://tv.iill.top/Migu/tKnNio
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-训练馆,https://tv.iill.top/Migu/WIafJH
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-候场区,https://tv.iill.top/Migu/spe740
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-混采区,https://tv.iill.top/Migu/0r4gXb
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-1号桌,https://tv.iill.top/Migu/km65eB
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-2号桌,https://tv.iill.top/Migu/S2i1Z8
+「多哈世乒赛」16:00 -多哈世乒赛：混双半决赛、男女单双打1/4决赛-莎头冲决赛 国乒男单德比-1号桌英文解说,https://tv.iill.top/Migu/4RxS9p
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-1号桌,https://tv.iill.top/Migu/MnkFxH
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-3号桌,https://tv.iill.top/Migu/fvIe4G
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-2号桌,https://tv.iill.top/Migu/cqLnqQ
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-4号桌,https://tv.iill.top/Migu/xnBx8d
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-5号桌,https://tv.iill.top/Migu/Ms5dpF
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-6号桌,https://tv.iill.top/Migu/0RUroq
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-7号桌,https://tv.iill.top/Migu/cnZBrR
+「斯诺克」17:00 -欧洲Q-School第一站第二轮-第二轮-8号桌,https://tv.iill.top/Migu/N9JTtj
+「WTA」20:00 -拉巴特站半决赛-拉巴特站半决赛-赛场原声,https://tv.iill.top/Migu/uwYWSx
+「WTA」20:30 -斯特拉斯堡站半决赛-斯特拉斯堡站半决赛-赛场原声,https://tv.iill.top/Migu/RORU0g
+「WTA」20:30 -斯特拉斯堡站半决赛-斯特拉斯堡站半决赛-房朕,https://tv.iill.top/Migu/XRqgOy
+「WTA」20:30 -斯特拉斯堡站半决赛-斯特拉斯堡站半决赛-佟艺,https://tv.iill.top/Migu/R1kpzW
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-侯英超 程靖淇 周冠达,https://tv.iill.top/Migu/jxHwIP
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-侯英超 小马哥,https://tv.iill.top/Migu/X6oiZj
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-训练馆,https://tv.iill.top/Migu/tVWY5w
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-候场区,https://tv.iill.top/Migu/0RF6wn
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-混采区,https://tv.iill.top/Migu/KFxtEg
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-1号桌,https://tv.iill.top/Migu/Ysq5lR
+「多哈世乒赛」21:30 -多哈世乒赛：男女单打1/4决赛-曼昱迎战美和 王楚钦冲男单半决赛-1号桌英文解说,https://tv.iill.top/Migu/Au5sCg
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
