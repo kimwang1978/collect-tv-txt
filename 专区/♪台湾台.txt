@@ -16,6 +16,8 @@
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
 八大精彩,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 
+Taiwan Good TV General,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
