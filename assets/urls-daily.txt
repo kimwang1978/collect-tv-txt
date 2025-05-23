@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 --https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+--https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 --https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
