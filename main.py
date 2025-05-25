@@ -382,7 +382,7 @@ def process_url(url):
             lines = text.split('\n')
             print(f"行数: {len(lines)}")
             for line in lines:
-                if  "#genre#" not in line and "," in line and "://" in line:
+                if  "#genre#" not in line and "," in line and "://" in line and "tvbus://" not in line:
                     # 拆分成频道名和URL部分
                     channel_name, channel_address = line.split(',', 1)
                     #需要加处理带#号源=予加速源
@@ -636,6 +636,7 @@ about="关于本源(iptv365.org),"+about_video2
 # 增加手工区 202505
 print(f"处理手工区...")
 zj_lines = zj_lines + read_txt_to_array('手工区/浙江频道.txt')
+gd_lines = gd_lines + read_txt_to_array('手工区/广东频道.txt')
 
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
