@@ -3912,77 +3912,34 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「意甲」00:00 -联赛-博洛尼亚 vs 热那亚-【全场回放】博洛尼亚vs热那亚 (梁祥宇),https://tv.iill.top/FB/tW5D6i
-「西甲」00:30 -联赛-莱加内斯 vs 巴拉多利德-【全场回放】 莱加内斯vs巴拉多利德 (孙雨轩),https://tv.iill.top/FB/XRbgDZ
-「西甲」00:30 -联赛-西班牙人 vs 拉斯帕尔马斯-【全场回放】西班牙人vs拉斯帕尔马斯 (张天翼),https://tv.iill.top/FB/t8RLkI
-「意甲」02:45 -联赛-AC米兰 vs 蒙扎-涂远 石庆圣,https://tv.iill.top/FB/4nU7Jt
-「西甲」03:00 -联赛-巴列卡诺 vs 马略卡-李霄,https://tv.iill.top/FB/aWpV0Y
-「西甲」03:00 -联赛-赫塔费 vs 塞尔塔-梁祥宇,https://tv.iill.top/FB/5BGFGH
-「西甲」03:00 -联赛-阿拉维斯 vs 奥萨苏纳-洪宇青,https://tv.iill.top/FB/Ik6ypp
-「西甲」20:00 -联赛-赫罗纳 vs 马德里竞技-周楚雄 王宇,https://tv.iill.top/FB/jgCF3y
-「西甲」22:15 -联赛-比利亚雷亚尔 vs 塞维利亚-李霄,https://tv.iill.top/FB/45EhIR
-「英超」23:00 -联赛-托特纳姆热刺 vs 布莱顿-苗锟,https://tv.iill.top/FB/ePzmRl
-「英超」23:00 -联赛-曼联 vs 阿斯顿维拉-苏东 李彦,https://tv.iill.top/FB/ypzQba
-「英超」23:00 -联赛-曼联 vs 阿斯顿维拉-刘畅 贺宇,https://tv.iill.top/FB/QwOH5M
-「英超」23:00 -联赛-富勒姆 vs 曼城-刘畅 贺宇,https://tv.iill.top/FB/xNFoX2
-「英超」23:00 -联赛-富勒姆 vs 曼城-苏东 李彦,https://tv.iill.top/FB/jiQjTp
-「英超」23:00 -联赛-伯恩茅斯 vs 莱斯特城-郭灿亮,https://tv.iill.top/FB/LK3QBp
-「英超」23:00 -联赛-诺丁汉森林 vs 切尔西-娄一晨 刘越,https://tv.iill.top/FB/tGuszp
-「英超」23:00 -联赛-诺丁汉森林 vs 切尔西-吴桐,https://tv.iill.top/FB/ty9Pcm
-「英超」23:00 -联赛-南安普敦 vs 阿森纳-颜强 徐阳,https://tv.iill.top/FB/VAbkfK
-「英超」23:00 -联赛-伊普斯维奇 vs 西汉姆联-黄航,https://tv.iill.top/FB/geiyVu
-「英超」23:00 -联赛-利物浦 vs 水晶宫-詹俊 张路 李子琪,https://tv.iill.top/FB/bjaHwC
-「英超」23:00 -联赛-利物浦 vs 水晶宫-陈渤胄,https://tv.iill.top/FB/3RaLUL
-「英超」23:00 -联赛-利物浦 vs 水晶宫-江忠德,https://tv.iill.top/FB/VxADVe
-「英超」23:00 -联赛-利物浦 vs 水晶宫-洪荒,https://tv.iill.top/FB/o2UCHE
-「英超」23:00 -联赛-利物浦 vs 水晶宫-詹俊 张路 李子琪,https://tv.iill.top/FB/ExaO3r
-「英超」23:00 -联赛-狼队 vs 布伦特福德-刘焕,https://tv.iill.top/FB/q66WFg
-「英超」23:00 -联赛-纽卡斯尔联 vs 埃弗顿-吴桐,https://tv.iill.top/FB/jFjDNN
-「英超」23:00 -联赛-纽卡斯尔联 vs 埃弗顿-娄一晨 刘越,https://tv.iill.top/FB/8FjZhw
-「NBA」08:30 -季后赛-雷霆VS森林狼-杨健 孙悦 金佳悦,https://tv.iill.top/NBA/1cSs2D
-「NBA」08:30 -季后赛-雷霆VS森林狼-邢晨,https://tv.iill.top/NBA/UBHzbq
-「NBA」08:30 -季后赛-雷霆VS森林狼-罗森,https://tv.iill.top/NBA/2WUdKV
-「NBA」08:30 -季后赛-雷霆VS森林狼-英文原声,https://tv.iill.top/NBA/m0xnKS
-「NBA」08:30 -季后赛-雷霆VS森林狼-球场十倍镜,https://tv.iill.top/NBA/4zV8vO
-「NBA」08:30 -季后赛-雷霆VS森林狼-VIP前排视角,https://tv.iill.top/NBA/LMosML
-「NBA」08:30 -季后赛-雷霆VS森林狼-莫俊祺,https://tv.iill.top/NBA/G3cpDQ
-「NBA」08:30 -季后赛-雷霆VS森林狼-洪荒,https://tv.iill.top/NBA/92If9s
-「马拉松系列赛」07:20 -长春、鲅鱼圈等五场马拉松-长春、鲅鱼圈等五场马拉松-马拉松系列赛：2025一汽红旗长春马拉松,https://tv.iill.top/Migu/MtTeHJ
-「马拉松系列赛」07:20 -长春、鲅鱼圈等五场马拉松-长春、鲅鱼圈等五场马拉松-马拉松系列赛: 北京建工2025密云马拉松,https://tv.iill.top/Migu/A429fV
-「马拉松系列赛」07:20 -长春、鲅鱼圈等五场马拉松-长春、鲅鱼圈等五场马拉松-马拉松系列赛: 江浙食品产业园·2205宝清马拉松,https://tv.iill.top/Migu/202ZxK
-「马拉松系列赛」07:20 -长春、鲅鱼圈等五场马拉松-长春、鲅鱼圈等五场马拉松-马拉松系列赛: 鹏飞集团·2025阳泉娘子关半程马拉松,https://tv.iill.top/Migu/KBYLve
-「马拉松系列赛」07:20 -长春、鲅鱼圈等五场马拉松-长春、鲅鱼圈等五场马拉松-马拉松系列赛: 中国银行2025·营口鲅鱼圈马拉松,https://tv.iill.top/Migu/ekVVms
-「马拉松系列赛」07:20 -中国银行·2025营口鲅鱼圈马拉松-中国银行·2025营口鲅鱼圈马拉松-清流播出,https://tv.iill.top/Migu/s1D0jd
-「逐马计划」07:30 -逐马计划——2025兰州马拉松-逐马计划——2025兰州马拉松-兰州马拉松跑者视角直播,https://tv.iill.top/Migu/RQGOTF
-「逐马计划」07:30 -逐马计划——2025兰州马拉松-逐马计划——2025兰州马拉松-清流播出,https://tv.iill.top/Migu/eAM6gB
-「LPL」16:30 -FPX vs NIP-FPX vs NIP-官方解说,https://tv.iill.top/Migu/vsLqAr
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-丁宁 刘国正 周雨,https://tv.iill.top/Migu/X7tUIy
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-周冠达 丁宁 刘国正,https://tv.iill.top/Migu/Y13FGD
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-周雨 程靖淇,https://tv.iill.top/Migu/AZo57P
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-训练馆,https://tv.iill.top/Migu/mTPAV0
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-候场区,https://tv.iill.top/Migu/knVMzE
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-混采区,https://tv.iill.top/Migu/DOIUtM
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-丁宁 刘国正,https://tv.iill.top/Migu/jTRStv
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-1号桌,https://tv.iill.top/Migu/boeczi
-「多哈世乒赛」17:00 -多哈世乒赛：男双、女单决赛-孙颖莎决赛对战王曼昱-1号桌英文解说,https://tv.iill.top/Migu/ElGqnB
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-1号桌,https://tv.iill.top/Migu/hrZwwe
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-2号桌,https://tv.iill.top/Migu/zZ7Oq3
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-3号桌,https://tv.iill.top/Migu/S8reoi
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-4号桌,https://tv.iill.top/Migu/ORZxV2
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-6号桌,https://tv.iill.top/Migu/BzSOW3
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-5号桌,https://tv.iill.top/Migu/i5Z2YP
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-7号桌,https://tv.iill.top/Migu/BiOiKW
-「斯诺克」17:00 -欧洲Q-School第一站第四轮及第五轮-第四轮及第五轮-8号桌,https://tv.iill.top/Migu/6MvG1C
-「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：女子10米跳台决赛-女子十米台 陈芋汐领衔冲金-清流播出,https://tv.iill.top/Migu/esLacO
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-邓亚萍 刘国正 周雨,https://tv.iill.top/Migu/3cNrtT
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-周冠达 邓亚萍 刘国正,https://tv.iill.top/Migu/siS8ce
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-周雨 程靖淇,https://tv.iill.top/Migu/l7Aea7
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-训练馆,https://tv.iill.top/Migu/m9oGCn
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-候场区,https://tv.iill.top/Migu/XKvfPX
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-混采区,https://tv.iill.top/Migu/XtKS3D
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-邓亚萍 刘国正,https://tv.iill.top/Migu/JyzQF0
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-1号桌,https://tv.iill.top/Migu/bTUHVA
-「多哈世乒赛」20:30 -多哈世乒赛：男单、女双决赛-争冠！王楚钦决赛迎战雨果-1号桌英文解说,https://tv.iill.top/Migu/mqyfxF
+「意甲」02:45 -联赛-恩波利 vs 维罗纳-吴奕博,https://tv.iill.top/FB/EvBmVO
+「意甲」02:45 -联赛-都灵 vs 罗马-谭逸雄,https://tv.iill.top/FB/8lvdDo
+「意甲」02:45 -联赛-都灵 vs 罗马-吴桐、刘腾,https://tv.iill.top/FB/EGYT2J
+「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-吴桐 刘腾,https://tv.iill.top/FB/qRRtH6
+「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-谭逸雄,https://tv.iill.top/FB/ORx09W
+「意甲」02:45 -联赛-乌迪内斯 vs 佛罗伦萨-鲁靖明,https://tv.iill.top/FB/CkUmxB
+「意甲」02:45 -联赛-拉齐奥 vs 莱切-刘焕,https://tv.iill.top/FB/VRGhVi
+「意甲」02:45 -联赛-亚特兰大 vs 帕尔马-乔迁,https://tv.iill.top/FB/FiFCBh
+「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/IRw6co
+「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/jcZYr3
+「中甲」15:00 -联赛-延边龙鼎 vs 定南赣联-解说,https://tv.iill.top/FB/1hxZry
+「中甲」15:30 -联赛-青岛红狮 vs 南通支云-解说,https://tv.iill.top/FB/y9sfI4
+「中甲」19:30 -联赛-深圳青年人 vs 广东广州豹-解说,https://tv.iill.top/FB/JNcSAx
+「NBA」08:00 -季后赛-尼克斯VS步行者-连睿 周琦 周鹏,https://tv.iill.top/NBA/Ek7VCu
+「NBA」08:00 -季后赛-尼克斯VS步行者-英文原声,https://tv.iill.top/NBA/OBBFCF
+「NBA」08:00 -季后赛-尼克斯VS步行者-球场十倍镜,https://tv.iill.top/NBA/UljoBy
+「NBA」08:00 -季后赛-尼克斯VS步行者-VIP前排视角,https://tv.iill.top/NBA/0yAFCA
+「中乙」15:00 -联赛-北京理工vs兰州陇原竞技-解说,https://tv.iill.top/Migu/aPrn2s
+「全国跳水冠军赛」15:00 -2025全国跳水冠军赛：男子3米跳板决赛-男子3米跳板决赛-清流播出,https://tv.iill.top/Migu/kYMsu5
+「中乙」16:00 -联赛-上海海港富盛经开vs无锡吴钩-解说,https://tv.iill.top/Migu/l1LZjE
+「中乙」16:00 -联赛-杭州临平吴越vs长春喜都-解说,https://tv.iill.top/Migu/cc0Ben
+「LPL」16:30 -WE vs LGD-WE vs LGD-官方解说,https://tv.iill.top/Migu/BWExxL
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-1号桌,https://tv.iill.top/Migu/2z9WJr
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-2号桌,https://tv.iill.top/Migu/1clmtG
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-3号桌,https://tv.iill.top/Migu/8mM1iW
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-4号桌,https://tv.iill.top/Migu/g14YEz
+「中乙」19:00 -联赛-山东泰山B队vs江西庐山-解说,https://tv.iill.top/Migu/lkZ2q9
+「中乙」19:30 -联赛-成都蓉城B队vs深圳二零二八-解说,https://tv.iill.top/Migu/hQOqNT
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
