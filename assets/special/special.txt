@@ -3912,34 +3912,25 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「意甲」02:45 -联赛-恩波利 vs 维罗纳-吴奕博,https://tv.iill.top/FB/EvBmVO
-「意甲」02:45 -联赛-都灵 vs 罗马-谭逸雄,https://tv.iill.top/FB/8lvdDo
-「意甲」02:45 -联赛-都灵 vs 罗马-吴桐、刘腾,https://tv.iill.top/FB/EGYT2J
-「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-吴桐 刘腾,https://tv.iill.top/FB/qRRtH6
-「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-谭逸雄,https://tv.iill.top/FB/ORx09W
-「意甲」02:45 -联赛-乌迪内斯 vs 佛罗伦萨-鲁靖明,https://tv.iill.top/FB/CkUmxB
-「意甲」02:45 -联赛-拉齐奥 vs 莱切-刘焕,https://tv.iill.top/FB/VRGhVi
-「意甲」02:45 -联赛-亚特兰大 vs 帕尔马-乔迁,https://tv.iill.top/FB/FiFCBh
-「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/IRw6co
-「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/jcZYr3
-「中甲」15:00 -联赛-延边龙鼎 vs 定南赣联-解说,https://tv.iill.top/FB/1hxZry
-「中甲」15:30 -联赛-青岛红狮 vs 南通支云-解说,https://tv.iill.top/FB/y9sfI4
-「中甲」19:30 -联赛-深圳青年人 vs 广东广州豹-解说,https://tv.iill.top/FB/JNcSAx
-「NBA」08:00 -季后赛-尼克斯VS步行者-连睿 周琦 周鹏,https://tv.iill.top/NBA/Ek7VCu
-「NBA」08:00 -季后赛-尼克斯VS步行者-英文原声,https://tv.iill.top/NBA/OBBFCF
-「NBA」08:00 -季后赛-尼克斯VS步行者-球场十倍镜,https://tv.iill.top/NBA/UljoBy
-「NBA」08:00 -季后赛-尼克斯VS步行者-VIP前排视角,https://tv.iill.top/NBA/0yAFCA
-「中乙」15:00 -联赛-北京理工vs兰州陇原竞技-解说,https://tv.iill.top/Migu/aPrn2s
-「全国跳水冠军赛」15:00 -2025全国跳水冠军赛：男子3米跳板决赛-男子3米跳板决赛-清流播出,https://tv.iill.top/Migu/kYMsu5
-「中乙」16:00 -联赛-上海海港富盛经开vs无锡吴钩-解说,https://tv.iill.top/Migu/l1LZjE
-「中乙」16:00 -联赛-杭州临平吴越vs长春喜都-解说,https://tv.iill.top/Migu/cc0Ben
-「LPL」16:30 -WE vs LGD-WE vs LGD-官方解说,https://tv.iill.top/Migu/BWExxL
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-1号桌,https://tv.iill.top/Migu/2z9WJr
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-2号桌,https://tv.iill.top/Migu/1clmtG
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-3号桌,https://tv.iill.top/Migu/8mM1iW
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-4号桌,https://tv.iill.top/Migu/g14YEz
-「中乙」19:00 -联赛-山东泰山B队vs江西庐山-解说,https://tv.iill.top/Migu/lkZ2q9
-「中乙」19:30 -联赛-成都蓉城B队vs深圳二零二八-解说,https://tv.iill.top/Migu/hQOqNT
+「德甲」02:30 -升降级附加赛-艾禾斯堡vs海登海姆-王子睿,https://tv.iill.top/FB/TN9COz
+「NBA」08:30 -季后赛-雷霆VS森林狼-庄宁宇 刘家成 陈正昊,https://tv.iill.top/NBA/PVAVIW
+「NBA」08:30 -季后赛-雷霆VS森林狼-罗森,https://tv.iill.top/NBA/J3KQgo
+「NBA」08:30 -季后赛-雷霆VS森林狼-邢晨,https://tv.iill.top/NBA/zg6w8b
+「NBA」08:30 -季后赛-雷霆VS森林狼-英文原声,https://tv.iill.top/NBA/BpbblW
+「NBA」08:30 -季后赛-雷霆VS森林狼-VIP前排视角,https://tv.iill.top/NBA/YoXKEW
+「NBA」08:30 -季后赛-雷霆VS森林狼-球场十倍镜,https://tv.iill.top/NBA/s9dKUY
+「足协杯」15:00 -足协杯-2025中国足协杯抽签仪式-解说,https://tv.iill.top/Migu/flLl8I
+「全国跳水冠军赛」15:30 -2025全国跳水冠军赛：女子3米跳板决赛-女子3米跳板决赛-解说,https://tv.iill.top/Migu/ajCMZv
+「全国跳水冠军赛」15:30 -2025全国跳水冠军赛：女子3米跳板决赛-女子3米跳板决赛-清流播出,https://tv.iill.top/Migu/yAY8Nd
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-1号桌,https://tv.iill.top/Migu/eqaHk2
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-2号桌,https://tv.iill.top/Migu/YpOX0C
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-3号桌,https://tv.iill.top/Migu/A9Yqwg
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-4号桌,https://tv.iill.top/Migu/VrgBVh
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-5号桌,https://tv.iill.top/Migu/UbrerT
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-6号桌,https://tv.iill.top/Migu/Q9q9xQ
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-7号桌,https://tv.iill.top/Migu/FD9bCJ
+「斯诺克」16:00 -欧洲Q-School第二站第一轮-中国选手陈志春、廖予生出战-8号桌,https://tv.iill.top/Migu/jWUYGQ
+「LPL」16:30 -WBG vs TT-WBG vs TT-官方解说,https://tv.iill.top/Migu/JdrweS
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
