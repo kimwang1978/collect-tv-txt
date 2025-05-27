@@ -382,7 +382,9 @@ def process_url(url):
             lines = text.split('\n')
             print(f"行数: {len(lines)}")
             for line in lines:
-                if  "#genre#" not in line and "," in line and "://" in line and "tvbus://" not in line:
+                if  "#genre#" not in line and "," in line and "://" in line and "tvbus://" not in line and "/udp/" not in line:
+                    # tvbus://剔除tvbus
+                    # /udp/剔除组播
                     # 拆分成频道名和URL部分
                     channel_name, channel_address = line.split(',', 1)
                     #需要加处理带#号源=予加速源

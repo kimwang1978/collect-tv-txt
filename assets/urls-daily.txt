@@ -1,5 +1,7 @@
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+http://live.nctv.top/x.txt
+https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 http://wx.thego.cn/ak.m3u
 --http://aktv.top/live.txt
 --http://8.138.7.223/live.txt

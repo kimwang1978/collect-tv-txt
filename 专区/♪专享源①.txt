@@ -2,39 +2,25 @@
 🐼直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
-龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-龙华电影,http://211.72.65.236:8556/.m3u8
-
-龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 
-AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
-CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
-美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
+电影解说01,http://3501776.xyz:35455/douyu/8413092
+电影解说02,http://3501776.xyz:35455/douyu/562225
+电影解说03,http://3501776.xyz:35455/douyu/8867878
+电影解说04,http://3501776.xyz:35455/douyu/8799435
+电影解说05,http://3501776.xyz:35455/douyu/4258555
+电影解说06,http://3501776.xyz:35455/douyu/8014467
+电影解说07,http://3501776.xyz:35455/douyu/8788687
 
-强森,http://cdn.jdshipin.com:8880/huya.php?id=21059581
-洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
-梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
-
-我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
-国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
-唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
-唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
-逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
-鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
-97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
-审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
-望夫成龙,https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
 ▶️哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
+🔀复仇者联盟1,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2021/0426/video/5fd85575e23f40379d319f455fde9351.m3u8
+🔀复仇者联盟2,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0722/video/bce6e4ce6a3a4c9989837b58486cc777.m3u8
+🔀复仇者联盟3,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2022/0117/video/f81c8dd998ee41a9aa4788bdefe9f921.m3u8
+🔀复仇者联盟4,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0716/video/5012ea0aa0c34d6ba5880236c503df1a.m3u8
 ▶️后天,https://m3u8.hmrvideo.com/play/0c8022a5af3d452698ff2f32d2a4a3de.m3u8
 ▶️2012,https://m3u8.hmrvideo.com/play/a9f7a721d9eb4c76b74790f719996a29.m3u8
 ▶️铃芽之旅（日语原声）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
@@ -65,3 +51,24 @@ CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 ▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 ▶️哈利波特：神秘的魔法石,https://s2.fsvod1.com/20220301/A2jwRRDZ/index.m3u8
 ▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
+▶️我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+▶️让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+🔀功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
+🔀国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
+🔀唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
+🔀唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
+🔀逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+🔀食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
+🔀鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
+🔀97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
+🔀审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
+🔀望夫成龙,https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
+🔀九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
+疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
+霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
