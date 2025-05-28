@@ -3906,20 +3906,20 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「NBA」08:00 -季后赛-尼克斯VS步行者-王冠证 刘家成 张兆旭,https://tv.iill.top/NBA/5os5bN
-「NBA」08:00 -季后赛-尼克斯VS步行者-英文原声,https://tv.iill.top/NBA/9gKu0m
-「NBA」08:00 -季后赛-尼克斯VS步行者-VIP前排视角,https://tv.iill.top/NBA/AjPiyr
-「NBA」08:00 -季后赛-尼克斯VS步行者-球场十倍镜,https://tv.iill.top/NBA/z4KMc7
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-1号桌,https://tv.iill.top/Migu/cNSVyf
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-2号桌,https://tv.iill.top/Migu/Oy0c4T
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-3号桌,https://tv.iill.top/Migu/TZYJ1H
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-4号桌,https://tv.iill.top/Migu/Spefwc
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-5号桌,https://tv.iill.top/Migu/A3qvjl
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-6号桌,https://tv.iill.top/Migu/pr5wy2
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-7号桌,https://tv.iill.top/Migu/9nFcQN
-「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-8号桌,https://tv.iill.top/Migu/pIvSpa
-「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子10米跳台决赛-男子10米跳台决赛-解说,https://tv.iill.top/Migu/15HbOu
-「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子10米跳台决赛-男子10米跳台决赛-清流播出,https://tv.iill.top/Migu/F4P0rX
+「NBA」08:00 -季后赛-尼克斯VS步行者-王冠证 刘家成 张兆旭,https://tv.iill.top/NBA/rB6fKq
+「NBA」08:00 -季后赛-尼克斯VS步行者-英文原声,https://tv.iill.top/NBA/PAxy7a
+「NBA」08:00 -季后赛-尼克斯VS步行者-VIP前排视角,https://tv.iill.top/NBA/v3wu7S
+「NBA」08:00 -季后赛-尼克斯VS步行者-球场十倍镜,https://tv.iill.top/NBA/3qKtBJ
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-1号桌,https://tv.iill.top/Migu/ghoGPf
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-2号桌,https://tv.iill.top/Migu/SEj5vX
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-3号桌,https://tv.iill.top/Migu/D2Hrah
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-4号桌,https://tv.iill.top/Migu/YxD8b0
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-5号桌,https://tv.iill.top/Migu/4hepzL
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-6号桌,https://tv.iill.top/Migu/VbFi9G
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-7号桌,https://tv.iill.top/Migu/V57FGv
+「斯诺克」16:00 -欧洲Q-School第二站第二轮-韩国选手李大奎出战-8号桌,https://tv.iill.top/Migu/Qg8O3g
+「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子10米跳台决赛-男子10米跳台决赛-解说,https://tv.iill.top/Migu/KqgRop
+「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子10米跳台决赛-男子10米跳台决赛-清流播出,https://tv.iill.top/Migu/AOjXPv
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
