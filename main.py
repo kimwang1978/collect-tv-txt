@@ -53,6 +53,7 @@ sh_lines = []
 ys_lines = [] #CCTV
 ws_lines = [] #卫视频道
 ty_lines = [] #体育频道
+tyss_lines = [] #体育赛事
 dy_lines = []
 dsj_lines = []
 gat_lines = [] #港澳台
@@ -247,6 +248,8 @@ def process_channel_line(line):
                 ws_lines.append(process_name_string(line.strip()))
             elif channel_name in ty_dictionary and check_url_existence(ty_lines, channel_address):  #体育频道
                 ty_lines.append(process_name_string(line.strip()))
+            elif any(tyss_dictionary in channel_name for tyss_dictionary in tyss_dictionary) and check_url_existence(tyss_lines, channel_address):  #体育赛事（2025新增）
+                tyss_lines.append(process_name_string(line.strip()))
             elif channel_name in dy_dictionary and check_url_existence(dy_lines, channel_address):  #电影频道
                 dy_lines.append(process_name_string(line.strip()))
             elif channel_name in dsj_dictionary and check_url_existence(dsj_lines, channel_address):  #电视剧频道
@@ -371,11 +374,14 @@ def process_url(url):
             data = response.read()
             # 将二进制数据解码为字符串
             text = data.decode('utf-8')
+            text = text.strip()
             # channel_name=""
             # channel_address=""
 
             #处理m3u和m3u8，提取channel_name和channel_address
-            if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
+            #增加扩展名非m3u和m3u8为扩展名的m3u格式            
+            is_m3u = text.startswith("#EXTM3U") or text.startswith("#EXTINF")
+            if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8" or is_m3u:
                 text=convert_m3u_to_txt(text)
 
             # 逐行处理内容
@@ -410,6 +416,7 @@ ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
 sh_dictionary=read_txt_to_array('主频道/shanghai.txt') #过滤+排序
 ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
+tyss_dictionary=read_txt_to_array('主频道/体育赛事.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 dsj_dictionary=read_txt_to_array('主频道/电视剧.txt') #过滤
 gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
@@ -653,7 +660,8 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('专区/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
+             ["🏀体育赛事🆕,#genre#"] + sorted(set(tyss_lines)) + ['\n'] + \
+             ["⚽️SPORTS,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🍹定制台☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
              ["🍹定制P3P☕️,#genre#"] + read_txt_to_array('专区/p3p.txt') + ['\n'] + \
              ["💓英语频道,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
@@ -680,7 +688,8 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('专区/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
+             ["🏀体育赛事🆕,#genre#"] + sorted(set(tyss_lines)) + ['\n'] + \
+             ["⚽️SPORTS,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🍹定制台☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
              ["🍹定制P3P☕️,#genre#"] + read_txt_to_array('专区/p3p.txt') + ['\n'] + \
              ["💓英语频道,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
