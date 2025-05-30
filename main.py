@@ -646,6 +646,8 @@ about="关于本源(iptv365.org),"+about_video2
 print(f"处理手工区...")
 zj_lines = zj_lines + read_txt_to_array('手工区/浙江频道.txt')
 gd_lines = gd_lines + read_txt_to_array('手工区/广东频道.txt')
+hb_lines = hb_lines + read_txt_to_array('手工区/湖北频道.txt')
+sh_lines = sh_lines + read_txt_to_array('手工区/上海频道.txt')
 
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \

@@ -4,3 +4,16 @@
 宁波宁海新闻,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 台州温岭综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 台州温岭民生,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
+杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+衢州开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+金华兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
