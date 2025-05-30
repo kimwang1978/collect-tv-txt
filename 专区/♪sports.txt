@@ -11,6 +11,9 @@ ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN,http://38.96.178.201:80/live/ESPNHD/index.m3u8
 緯來體育,http://live4play.uk/livehttpplay?channel_id=20120
 緯來體育,rtmp://60.248.77.83/sat/tv721
+ELEVEN体育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
+ELEVEN体育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+ELEVEN体育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 ELTA體育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 ELTA體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b

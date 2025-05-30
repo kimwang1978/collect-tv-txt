@@ -75,7 +75,6 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 
-美亚电影HK(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
@@ -87,6 +86,8 @@ ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 创世电视,https://live.tvfix.org/live/chuangshi/index.m3u8
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
 
+美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+美亚电影HK(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 

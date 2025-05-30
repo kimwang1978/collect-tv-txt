@@ -1,3 +1,4 @@
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
