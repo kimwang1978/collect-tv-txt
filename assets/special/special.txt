@@ -3906,27 +3906,29 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「中甲」18:50 联赛 辽宁铁人 vs 石家庄功夫 解说,https://tv.iill.top/FB/ZQWAON
-「中甲」19:20 联赛 佛山南狮 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/ti4Lfk
-「中甲」19:20 联赛 南京城市 vs 广东广州豹 解说,https://tv.iill.top/FB/hmy1Bd
-「中甲」19:20 联赛 广西平果 vs 青岛红狮 解说,https://tv.iill.top/FB/tmesSd
-「LPL」13:30 TES vs FPX TES vs FPX 官方解说,https://tv.iill.top/Migu/Dl4AMl
-「中乙」14:50 中乙联赛 山西崇德荣海vs江西庐山 解说,https://tv.iill.top/Migu/VD6Uqo
-「中乙」14:50 中乙联赛 泰安天贶vs上海海港富盛经开 解说,https://tv.iill.top/Migu/YnlzLi
-「中乙」15:20 中乙联赛 海门珂缔缘vs山东泰山B队 解说,https://tv.iill.top/Migu/QujG2W
-「中乙」15:50 中乙联赛 赣州瑞狮vs泉州亚新 解说,https://tv.iill.top/Migu/udys6V
-「中乙」15:50 中乙联赛 广州蒲公英德桦绿建vs成都蓉城B队 解说,https://tv.iill.top/Migu/c7TcVH
-「中乙」15:50 中乙联赛 昆明城星vs贵州筑城竞技 解说,https://tv.iill.top/Migu/cYE7U4
-「中乙」15:50 中乙联赛 杭州临平吴越vs兰州陇原竞技 解说,https://tv.iill.top/Migu/ayDm6u
-「LPL」17:00 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/LVD9YH
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 1号桌,https://tv.iill.top/Migu/Dr5lGK
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 2号桌,https://tv.iill.top/Migu/j9SP6h
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 3号桌,https://tv.iill.top/Migu/zjGLDE
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 4号桌,https://tv.iill.top/Migu/0tLOMM
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 5号桌,https://tv.iill.top/Migu/C74r0N
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 6号桌,https://tv.iill.top/Migu/Ohvy2z
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 7号桌,https://tv.iill.top/Migu/k3x1Bk
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 8号桌,https://tv.iill.top/Migu/VYXxvN
+「中甲」14:50 联赛 延边龙鼎 vs 苏州东吴 解说,https://tv.iill.top/FB/gKSXOu
+「中甲」15:20 联赛 陕西联合 vs 深圳青年人 解说,https://tv.iill.top/FB/b5YDNP
+「中甲」18:50 联赛 上海嘉定汇龙 vs 大连鲲城 解说,https://tv.iill.top/FB/cupOcP
+「中甲」19:20 联赛 南通支云 vs 定南赣联 解说,https://tv.iill.top/FB/nsZ5SG
+「NBA」07:30 季后赛 尼克斯VS步行者 孙博 李根 苏群,https://tv.iill.top/NBA/kRdpnk
+「NBA」07:55 季后赛 尼克斯VS步行者 英文原声,https://tv.iill.top/NBA/ZuZYOw
+「NBA」07:55 季后赛 尼克斯VS步行者 VIP前排视角,https://tv.iill.top/NBA/zxwAGQ
+「NBA」07:55 季后赛 尼克斯VS步行者 球场十倍镜,https://tv.iill.top/NBA/53nZxG
+「UFC格斗之夜」06:25 UFC格斗之夜：布兰奇菲尔德VS巴伯 UFC格斗之夜：布兰奇菲尔德VS巴伯 陈瑞阳 汪乐,https://tv.iill.top/Migu/oqoVxW
+「UFC格斗之夜」06:25 UFC格斗之夜：布兰奇菲尔德VS巴伯 UFC格斗之夜：布兰奇菲尔德VS巴伯 英文原声,https://tv.iill.top/Migu/tzk50V
+「世俱杯」10:20 世俱杯附加赛 洛杉矶vs美洲 涂远,https://tv.iill.top/Migu/FiKlIS
+「LPL」13:30 AL vs WE AL vs WE 官方解说,https://tv.iill.top/Migu/Ef3Kbx
+「中乙」15:50 中乙联赛 长春喜都vs湖北青年星 解说,https://tv.iill.top/Migu/JpRhu2
+「中乙」15:50 中乙联赛 无锡吴钩vs北京理工 解说,https://tv.iill.top/Migu/bIERzG
+「LPL」17:00 JDG vs WBG JDG vs WBG 官方解说,https://tv.iill.top/Migu/MnSiHm
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 1号桌,https://tv.iill.top/Migu/Tvo8JO
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 2号桌,https://tv.iill.top/Migu/LGTFEZ
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 3号桌,https://tv.iill.top/Migu/mcjkyB
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 4号桌,https://tv.iill.top/Migu/7wZlsI
+「国际马联场地障碍世界杯」18:30 第一比赛日 第一比赛日 清流播出,https://tv.iill.top/Migu/0YKd5V
+「中乙」19:20 中乙联赛 温州俱乐部中胤vs广西蓝航 解说,https://tv.iill.top/Migu/Ds6XDT
+「中乙」19:20 中乙联赛 武汉三镇B队vs广西恒宸 解说,https://tv.iill.top/Migu/8FqDU1
+「中乙」19:20 中乙联赛 深圳二零二八vs广东铭途 解说,https://tv.iill.top/Migu/fVYsDT
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
