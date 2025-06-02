@@ -3900,13 +3900,12 @@ bang派,https://live.metshop.top/huya/11336719
 1338.hk,https://m1.m3u8111222333.com/G0130/e094/e094.m3u8
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
-维护时间：2025-4-8 #佛系维护...,https://epg.iill.top/v/301.mp4
+维护时间：2025-5-20 #佛系维护...,https://epg.iill.top/v/301.mp4
 维护内容：维护内容：维护 Gather「恢复 •咪咕源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「时间段 0:00-6:00 关闭」,https://epg.iill.top/v/301.mp4
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「国际马联场地障碍世界杯」16:00 第二比赛日 第二比赛日 清流播出,https://tv.iill.top/Migu/qhjUDH
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
@@ -4044,11 +4043,11 @@ i-Fun 動漫,https://tv.iill.top/litv/litv-ftv15
 東森購物 四,https://tv.iill.top/4gtv/286
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广州综合,https://tv.iill.top/gztv/zhonghe
-广州新闻,https://tv.iill.top/gztv/xinwen
-广州法治,https://tv.iill.top/gztv/fazhi
-广州影视,https://tv.iill.top/gztv/yingshi
-广州南国都市,https://tv.iill.top/gztv/shenghuo
+广州综合,http://dns.yiandrive.com:13571/gztv/zhonghe
+广州新闻,http://dns.yiandrive.com:13571/gztv/xinwen
+广州法治,http://dns.yiandrive.com:13571/gztv/fazhi
+广州影视,http://dns.yiandrive.com:13571/gztv/yingshi
+广州南国都市,http://dns.yiandrive.com:13571/gztv/shenghuo
 斯诺克 𝟙,https://live.iill.top/huya/880214
 斯诺克 𝟚,https://live.iill.top/huya/880625
 UFC,https://live.iill.top/huya/880223
