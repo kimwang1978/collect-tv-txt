@@ -1,0 +1,4 @@
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+无线淮安,http://live1.habctv.com/ggpdsl/sd/live.m3u8
+淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8

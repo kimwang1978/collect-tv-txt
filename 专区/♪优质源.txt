@@ -1,4 +1,3 @@
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-探索科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a

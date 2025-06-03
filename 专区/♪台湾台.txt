@@ -27,6 +27,8 @@ Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liv
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
+
+TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts

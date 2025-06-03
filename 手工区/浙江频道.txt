@@ -6,6 +6,7 @@
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 宁波宁海新闻,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 台州温岭综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 台州温岭民生,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
@@ -22,3 +23,5 @@
 金华兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed

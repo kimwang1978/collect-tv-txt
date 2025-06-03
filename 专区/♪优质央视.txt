@@ -68,6 +68,23 @@ CCTV14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
 CCTV16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
 CCTV17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8 
 
+CCTV1,http://live.nctv.top/DJlio/migu.php?id=cctv1
+CCTV2,http://live.nctv.top/DJlio/migu.php?id=cctv2
+CCTV3,http://live.nctv.top/DJlio/migu.php?id=cctv3
+CCTV4,http://live.nctv.top/DJlio/migu.php?id=cctv4
+CCTV5,http://live.nctv.top/DJlio/migu.php?id=cctv5
+CCTV6,http://live.nctv.top/DJlio/migu.php?id=cctv6
+CCTV7,http://live.nctv.top/DJlio/migu.php?id=cctv7
+CCTV8,http://live.nctv.top/DJlio/migu.php?id=cctv8
+CCTV9,http://live.nctv.top/DJlio/migu.php?id=cctv9
+CCTV10,http://live.nctv.top/DJlio/migu.php?id=cctv10
+CCTV11,http://live.nctv.top/DJlio/migu.php?id=cctv11
+CCTV12,http://live.nctv.top/DJlio/migu.php?id=cctv12
+CCTV13,http://live.nctv.top/DJlio/migu.php?id=cctv13
+CCTV14,http://live.nctv.top/DJlio/migu.php?id=cctv14
+CCTV15,http://live.nctv.top/DJlio/migu.php?id=cctv15
+CCTV17,http://live.nctv.top/DJlio/migu.php?id=cctv17
+
 CCTV1,http://221.213.91.64:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://221.213.91.64:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://221.213.91.64:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0

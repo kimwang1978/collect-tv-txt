@@ -2,74 +2,14 @@
 猫和老鼠剧集,http://103.193.151.146/huya.php?id=11352879
 蜡笔小新剧集,http://103.193.151.146/huya.php?id=11352970
 Q版三国剧集,http://103.193.151.146/huya.php?id=29465871
-蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30837590
-海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
-哆啦A梦,http://dns.yiandrive.com:15907/bilibili/14745943
-名侦探柯南,http://dns.yiandrive.com:15907/bilibili/1712960281
 CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
-CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
-龙华卡通,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
-青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
-青春动漫BestTV,https://stream1.freetv.fun/f76fcb63fb8411dcdbaf2436fe6c56ae2ff9f84ff3286b60a2c673d65de670ca.ctv
 
-黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-黑莓动画,http://183.255.10.80:6610/200000001898/460000089800010002/1.m3u8?IASHttpSessionId=ACE
-嘉佳卡通,http://183.255.10.74:6610/200000001898/460000089800010102/1.m3u8?IASHttpSessionId=ACE
-金鹰卡通,http://183.255.10.72:6610/200000001898/460000089800010107/1.m3u8?IASHttpSessionId=ACE
-哈哈炫动,http://183.255.10.76:6610/200000001898/460000089800010117/1.m3u8?IASHttpSessionId=ACE
-优漫卡通,http://183.255.10.78:6610/200000001898/460000089800010118/1.m3u8?IASHttpSessionId=ACE
-
-卡酷少儿,http://114.249.5.110:4022/rtp/239.3.1.189:8000?
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-卡酷少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225654/2.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-优漫卡通,http://106.111.74.38:10001/rtp/239.49.8.119:8000
-优漫卡通,http://ygbh.live/js.php?id=ymkt
-优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8
-金鹰卡通,http://124.231.213.16:9999/tsfile/live/1101_1.m3u8
-金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
-金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
-金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
-嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
-靖洋卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
-龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
-靖洋卡通,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv057
-哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
-哈哈炫动,http://kxrj.site:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
-动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
-动漫秀场,http://kxrj.site:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
-哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
-哆啦A梦,http://120.77.28.4:8648/huya.php?id=11601963
-哆啦A梦：大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
-哆啦A梦：大雄与天空的理想乡（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
-哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
-
-七龙珠,http://dns.yiandrive.com:15907/huya/11601966
-猫和老鼠,http://dns.yiandrive.com:15907/huya/11352879
-
-猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
-蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970
-iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-小猪佩奇,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV64.m3u8
-YOYO TV,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-YOYO TV,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
-
 
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-PBS儿童台(EN),https://stream1.freetv.fun/mei-guo-ce-shi-pbs-kids-1.ctv
+
 Japanim TV,https://foxkidstv.be:3369/stream/play.m3u8
 Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8

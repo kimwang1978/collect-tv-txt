@@ -8,13 +8,6 @@
 
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 
-电影解说01,http://3501776.xyz:35455/douyu/8413092
-电影解说02,http://3501776.xyz:35455/douyu/562225
-电影解说03,http://3501776.xyz:35455/douyu/8867878
-电影解说04,http://3501776.xyz:35455/douyu/8799435
-电影解说05,http://3501776.xyz:35455/douyu/4258555
-电影解说06,http://3501776.xyz:35455/douyu/8014467
-电影解说07,http://3501776.xyz:35455/douyu/8788687
 
 ▶️哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 🔀复仇者联盟1,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2021/0426/video/5fd85575e23f40379d319f455fde9351.m3u8
@@ -53,6 +46,9 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 ▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
 ▶️我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 ▶️让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+▶️英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+▶️英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+🔀西游降魔篇,https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
 🔀功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 🔀国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 🔀唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
@@ -61,14 +57,16 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 🔀食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
 🔀鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 🔀97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
+🔀97家有喜事,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
 🔀审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
 🔀望夫成龙,https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
 🔀九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
-疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
-疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
-疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
-霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
-卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
-无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
-无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+🔀算死草,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
+▶️疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+▶️疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+▶️疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
+▶️霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+▶️卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+▶️无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+▶️无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+▶️无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8

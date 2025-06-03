@@ -8,6 +8,7 @@ CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
 TVN,https://stream1.freetv.fun/tvn-3.m3u8
 贝爷MAX厅,http://zzy789.xyz/douyu1.php?id=4332
