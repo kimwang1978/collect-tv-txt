@@ -1,3 +1,7 @@
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+
 CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -17,10 +21,6 @@ CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA
 CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 CCTV1,http://58.39.190.143:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV2,http://58.39.190.143:35455/bptv/10000100000000050000000003870745.m3u8

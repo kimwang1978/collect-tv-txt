@@ -490,9 +490,17 @@ corrections_name = load_corrections_name('assets/corrections_name.txt')
 def correct_name_data(corrections, data):
     corrected_data = []
     for line in data:
+        line = line.strip()
+        if ',' not in line:
+            # 行格式错误：跳过或记录
+            continue
+
         name, url = line.split(',', 1)
+
+        # 空 name 处理（可选）
         if name in corrections and name != corrections[name]:
             name = corrections[name]
+
         corrected_data.append(f"{name},{url}")
     return corrected_data
 

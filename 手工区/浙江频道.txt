@@ -23,5 +23,3 @@
 金华兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
-
-http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
