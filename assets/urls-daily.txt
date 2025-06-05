@@ -8,8 +8,11 @@ https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
 http://wx.thego.cn/ak.m3u
 http://gg.7749.org/z/i/5788.txt
 http://php.cqshushu.ggff.net/515001.php?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
+https://3043.kstore.space/bhvip/bhzb.txt
 --http://aktv.top/live.txt
 --http://8.138.7.223/live.txt
+https://live.izbds.com/tv/iptv4.txt
+https://tv.850930.xyz/kdsb.txt
 http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
 https://gitee.com/xx68/x6/raw/master/iqy.m3u

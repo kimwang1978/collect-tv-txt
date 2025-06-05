@@ -7,6 +7,7 @@ Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f56e90&tk=922ba46651d3
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
 咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8

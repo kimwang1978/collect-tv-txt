@@ -22,6 +22,8 @@ CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA
 CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
+CCTV13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+
 CCTV1,http://58.39.190.143:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV2,http://58.39.190.143:35455/bptv/10000100000000050000000003870745.m3u8
 CCTV3,http://58.39.190.143:35455/bptv/10000100000000050000000003870746.m3u8
@@ -41,6 +43,26 @@ CCTV15,http://58.39.190.143:35455/bptv/10000100000000050000000003870757.m3u8
 CCTV16,http://58.39.190.143:35455/bptv/10000100000000050000000004972604.m3u8
 CCTV17,http://58.39.190.143:35455/bptv/10000100000000050000000003870758.m3u8
 
+CCTV1,http://8.138.7.223/tv/migu.php?id=cctv1
+CCTV2,http://8.138.7.223/tv/migu.php?id=cctv2
+CCTV3,http://8.138.7.223/tv/migu.php?id=cctv3
+CCTV4,http://8.138.7.223/tv/migu.php?id=cctv4
+CCTV4,http://8.138.7.223/tv/migu.php?id=cctv4a
+CCTV4,http://8.138.7.223/tv/migu.php?id=cctv4o
+CCTV5,http://8.138.7.223/tv/migu.php?id=cctv5
+CCTV5+,http://8.138.7.223/tv/migu.php?id=cctv5p
+CCTV6,http://8.138.7.223/tv/migu.php?id=cctv6
+CCTV7,http://8.138.7.223/tv/migu.php?id=cctv7
+CCTV8,http://8.138.7.223/tv/migu.php?id=cctv8
+CCTV9,http://8.138.7.223/tv/migu.php?id=cctv9
+CCTV10,http://8.138.7.223/tv/migu.php?id=cctv10
+CCTV11,http://8.138.7.223/tv/migu.php?id=cctv11
+CCTV12,http://8.138.7.223/tv/migu.php?id=cctv12
+CCTV13,http://8.138.7.223/tv/migu.php?id=cctv13
+CCTV14,http://8.138.7.223/tv/migu.php?id=cctv14
+CCTV15,http://8.138.7.223/tv/migu.php?id=cctv15
+CCTV17,http://8.138.7.223/tv/migu.php?id=cctv17
+
 CCTV1,http://39.137.75.234/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV4,http://39.137.75.234/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
 CCTV5+,http://39.137.75.234/000000001000/reallive-cctv5plus/index.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=no
@@ -51,22 +73,22 @@ CCTV14,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?channel-
 CCTV15,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
 CCTV17,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
 
-CCTV1,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8 
-CCTV2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8 
-CCTV3,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8 
-CCTV4,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8 
-CCTV5,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8 
-CCTV5+,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8 
-CCTV6,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8 
-CCTV7,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8 
-CCTV8,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8 
-CCTV9,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8 
-CCTV10,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8 
-CCTV12,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8 
-CCTV13,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8 
-CCTV14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8 
-CCTV16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
-CCTV17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8 
+CCTV1,http://www.cdnstv.com:6398/hls/1/index.m3u8
+CCTV2,http://www.cdnstv.com:6398/hls/2/index.m3u8
+CCTV3,http://www.cdnstv.com:6398/hls/3/index.m3u8
+CCTV4,http://www.cdnstv.com:6398/hls/4/index.m3u8
+CCTV5,http://www.cdnstv.com:6398/hls/5/index.m3u8
+CCTV6,http://www.cdnstv.com:6398/hls/6/index.m3u8
+CCTV7,http://www.cdnstv.com:6398/hls/7/index.m3u8
+CCTV8,http://www.cdnstv.com:6398/hls/8/index.m3u8
+CCTV9,http://www.cdnstv.com:6398/hls/9/index.m3u8
+CCTV10,http://www.cdnstv.com:6398/hls/10/index.m3u8
+CCTV11,http://www.cdnstv.com:6398/hls/11/index.m3u8
+CCTV12,http://www.cdnstv.com:6398/hls/12/index.m3u8
+CCTV13,http://www.cdnstv.com:6398/hls/13/index.m3u8
+CCTV14,http://www.cdnstv.com:6398/hls/14/index.m3u8
+CCTV15,http://www.cdnstv.com:6398/hls/15/index.m3u8
+CCTV17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 
 CCTV1,http://live.nctv.top/DJlio/migu.php?id=cctv1
 CCTV2,http://live.nctv.top/DJlio/migu.php?id=cctv2
@@ -295,21 +317,10 @@ CCTV央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 CCTV央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 CCTV电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 
-CCTV兵器科技,http://175.22.226.131:888/hls/90/index.m3u8
-CCTV第一剧场,http://175.22.226.131:888/hls/83/index.m3u8
-CCTV电视指南,http://175.22.226.131:888/hls/96/index.m3u8
-CCTV风云剧场,http://175.22.226.131:888/hls/95/index.m3u8
-CCTV风云音乐,http://175.22.226.131:888/hls/87/index.m3u8
-CCTV风云足球,http://175.22.226.131:888/hls/85/index.m3u8
-CCTV高尔夫网球,http://175.22.226.131:888/hls/97/index.m3u8
-CCTV怀旧剧场,http://175.22.226.131:888/hls/88/index.m3u8
-CCTV女性时尚,http://175.22.226.131:888/hls/81/index.m3u8
-CCTV世界地理,http://175.22.226.131:888/hls/84/index.m3u8
-CCTV央视台球,http://175.22.226.131:888/hls/86/index.m3u8
-CCTV央视文化精品,http://175.22.226.131:888/hls/89/index.m3u8
+CCTV发现之旅,http://8.138.7.223/tv/migu.php?id=fxzl
+CCTV老故事,http://8.138.7.223/tv/migu.php?id=lgs
+CCTV中学生,http://8.138.7.223/tv/migu.php?id=zxs
 
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV第一剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.86:5140
 CCTV风云剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.89:5140
 CCTV怀旧剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.90:5140
@@ -321,3 +332,6 @@ CCTV央视文化精品,http://www.xiaomo520.cn:4020/udp/239.252.219.81:5140
 CCTV世界地理,http://www.xiaomo520.cn:4020/udp/239.252.219.93:5140
 CCTV高尔夫网球,http://www.xiaomo520.cn:4020/udp/239.252.219.95:5140
 CCTV风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
+
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8

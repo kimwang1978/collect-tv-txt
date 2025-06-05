@@ -2,11 +2,19 @@
 猫和老鼠剧集,http://103.193.151.146/huya.php?id=11352879
 蜡笔小新剧集,http://103.193.151.146/huya.php?id=11352970
 Q版三国剧集,http://103.193.151.146/huya.php?id=29465871
+七龙珠,http://103.193.151.146/huya.php?id=11601966
+哆啦A梦,http://103.193.151.146/huya.php?id=11601963
+喜羊羊与灰太狼,http://103.193.151.146/huya.php?id=23865080
+精灵宝可梦,http://103.193.151.146/huya.php?id=23749096
+航海王,http://103.193.151.146/huya.php?id=16913382
+
 CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+
 
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
