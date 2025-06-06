@@ -71,6 +71,12 @@ PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
 TVB Plus,http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
 ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
 
+翡翠台,https://ali.hlspull.yximgs.com/live/xiangjiaoge15131132145.flv
+TVB Plus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
+HOY77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
+HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
+
+
 翡翠台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476935.m3u8
 
 TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -99,12 +105,12 @@ ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
-HOY TV76,http://bziyunshao.synology.me:8891/bysid/76
-HOY TV77,http://bziyunshao.synology.me:8891/bysid/77
-HOY TV78,http://bziyunshao.synology.me:8891/bysid/78
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY77,http://bziyunshao.synology.me:8891/bysid/77
+HOY78,http://bziyunshao.synology.me:8891/bysid/78
 
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 

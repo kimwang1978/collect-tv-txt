@@ -3,3 +3,7 @@
 (箱)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
 Music Channel,https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 周杰伦MV,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+音乐_AT_KroneHit,http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+音乐_捷克_Ocko,https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+音乐_捷克_Ocko Star,https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+音乐_捷克_Ocko Expres,https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
