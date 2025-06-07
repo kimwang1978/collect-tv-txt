@@ -287,3 +287,5 @@ MTv,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
 
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
+
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8

@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 http://live.nctv.top/x.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
+https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
 https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
@@ -9,6 +10,7 @@ http://wx.thego.cn/ak.m3u
 http://gg.7749.org/z/i/5788.txt
 http://php.cqshushu.ggff.net/515001.php?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 https://3043.kstore.space/bhvip/bhzb.txt
+https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 --http://aktv.top/live.txt
 --http://8.138.7.223/live.txt
 https://live.izbds.com/tv/iptv4.txt
@@ -40,7 +42,7 @@ https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
 --http://ttkx.live:567/gggg.nzk
 --http://kxrj.site:567/gggg.nzk
-http://rihou.cc:555/gggg.nzk
+--http://rihou.cc:555/gggg.nzk
 --http://rihou.cc:567/gggg.nzk
 --https://2883.kstore.vip/gggg.nzk
 --http://ttkx.cc:55/lib/kx2024.txt
@@ -52,7 +54,7 @@ https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/myDS.txt
 --https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/ysv/raw/live.txt
 --https://2912.kstore.space/520.txt
-https://github.com/frxz751113/IPTVzb1/blob/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
+--https://github.com/frxz751113/IPTVzb1/blob/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/{MMdd-1}%E7%BB%BC%E5%90%88%E6%BA%90.txt
 --https://gitlab.com/tvtg/vip/-/raw/main/log.txt
