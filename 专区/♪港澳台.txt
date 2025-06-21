@@ -73,6 +73,7 @@ ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
 
 翡翠台,https://ali.hlspull.yximgs.com/live/xiangjiaoge15131132145.flv
 TVB Plus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
+TVB Plus,http://ali.hlspull.yximgs.com/live/awei_j2.flv
 HOY77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 
@@ -88,7 +89,13 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 
+NOW爆谷,http://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
+
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
 
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
@@ -111,6 +118,10 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
+
+HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+
 
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -261,3 +272,9 @@ astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 
 astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+
+
+RTHK-31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK-32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
+astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd

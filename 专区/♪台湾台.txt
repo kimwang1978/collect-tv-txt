@@ -20,6 +20,9 @@ Taiwan Good TV General,http://live.streamingfast.net/hls-live/goodtv/_definst_/l
 Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 
+中天新闻+,http://ali.hlspull.yximgs.com/live/167ztxw2.flv
+ELTA娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
+
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
