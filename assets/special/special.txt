@@ -3901,7 +3901,7 @@ bang派,https://live.metshop.top/huya/11336719
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 维护时间：2025-6-4 #佛系维护...,https://epg.iill.top/v/301.mp4
-公告说明：推流源·「时间段 0:00-6:00 关闭」,https://epg.iill.top/v/301.mp4
+公告说明：推流源·「已倒闭」,https://epg.iill.top/v/301.mp4
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 东南卫视,https://tv.iill.top/migu/dnws
@@ -3925,61 +3925,58 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「世俱杯」01:45 小组赛 弗拉门戈 vs 切尔西 吴桐 贺宇,https://tv.iill.top/FB/4hHO2M
-「世俱杯」01:45 小组赛 弗拉门戈 vs 切尔西 赛场原声,https://tv.iill.top/FB/wGGDNr
-「世俱杯」01:45 小组赛 弗拉门戈 vs 切尔西 吴桐 贺宇,https://tv.iill.top/FB/Ack1pl
-「世俱杯」05:45 小组赛 洛杉矶 vs 突尼斯希望 乔迁,https://tv.iill.top/FB/N7uVcv
-「世俱杯」05:45 小组赛 洛杉矶 vs 突尼斯希望 赛场原声,https://tv.iill.top/FB/w1ZOZn
-「世俱杯」06:00 小组赛 洛杉矶 vs 突尼斯希望 乔迁,https://tv.iill.top/FB/XuzK9W
-「世俱杯」08:00 小组赛 拜仁慕尼黑 vs 博卡青年 黄健翔 徐阳,https://tv.iill.top/FB/lSBaQ9
-「世俱杯」08:45 小组赛 拜仁慕尼黑 vs 博卡青年 赛场原声,https://tv.iill.top/FB/2bPSeR
-「世俱杯」08:00 小组赛 拜仁慕尼黑 vs 博卡青年 黄健翔 徐阳,https://tv.iill.top/FB/tRiiM1
-「中甲」19:20 联赛 石家庄功夫 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/2zIOdu
-「中甲」19:20 联赛 南通支云 vs 辽宁铁人 解说,https://tv.iill.top/FB/8N8jLk
-「世俱杯」23:45 小组赛 马梅洛迪日落 vs 多特蒙德 涂远 马延峰,https://tv.iill.top/FB/oho88S
-「世俱杯」23:45 小组赛 马梅洛迪日落 vs 多特蒙德 赛场原声,https://tv.iill.top/FB/psB4AQ
-「世俱杯」23:45 小组赛 马梅洛迪日落 vs 多特蒙德 涂远 马延峰,https://tv.iill.top/FB/rBU3Og
-「超三联赛」12:50 德清赛区第1站 小组赛第一轮及第二轮 德清赛区第1站 小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/c7B4dD
-「KPL」13:40 上海RNG.M vs 武汉eStarPro 上海RNG.M vs 武汉eStarPro 官方解说,https://tv.iill.top/Migu/KBragf
-「超三联赛」13:55 3WL武汉赛区第2站Day1下午场 3WL武汉赛区第2站Day1下午场 清流播出,https://tv.iill.top/Migu/v1vkmi
-「中乙」15:50 联赛 上海海港富盛经开vs北京理工 解说,https://tv.iill.top/Migu/tgvUHa
-「江苏城市足球联赛」15:50 宿迁队vs盐城队 解说,https://tv.iill.top/Migu/S6fYEJ
-「中女超」15:50 联赛 江苏无锡女足VS武汉车谷江大女足 清流播出,https://tv.iill.top/Migu/PD1SoB
-「中乙」16:20 联赛 湖北青年星vs兰州陇原竞技 解说,https://tv.iill.top/Migu/N8J3BA
-「KPL」17:00 杭州LGD.NBW vs 西安WE 杭州LGD.NBW vs 西安WE 官方解说,https://tv.iill.top/Migu/9hex9N
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 1号桌,https://tv.iill.top/Migu/T1jYsX
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 2号桌,https://tv.iill.top/Migu/rd1HGw
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 3号桌,https://tv.iill.top/Migu/c7hfAG
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 4号桌,https://tv.iill.top/Migu/plDu3W
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 1号桌英文解说,https://tv.iill.top/Migu/yKA5jA
-「WTT」17:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 周冠达,https://tv.iill.top/Migu/cW8CkD
-「WTT」23:00 国乒德比！向鹏PK周启豪 薛飞出战 国乒德比！向鹏PK周启豪 薛飞出战 周泽昊,https://tv.iill.top/Migu/hZkWse
-「中乙」17:20 联赛 泉州亚新vs昆明城星 解说,https://tv.iill.top/Migu/Ub3x5Z
-「中乙」17:50 联赛 江西庐山vs长春喜都 解说,https://tv.iill.top/Migu/KSIK3g
-「WTA」18:00 柏林站半决赛 柏林站半决赛 赛场原声,https://tv.iill.top/Migu/CKtexo
-「WTA」18:00 柏林站半决赛 柏林站半决赛 英文原声,https://tv.iill.top/Migu/00JTDM
-「WTA」18:00 柏林站半决赛 柏林站半决赛 房朕,https://tv.iill.top/Migu/iphKkE
-「WTA」20:00 柏林站半决赛 柏林站半决赛 刘钟鸣,https://tv.iill.top/Migu/Utl75c
-「WTA」18:00 诺丁汉站半决赛 诺丁汉站半决赛 赛场原声,https://tv.iill.top/Migu/ecqbAs
-「WTA」18:00 诺丁汉站半决赛 诺丁汉站半决赛 英文原声,https://tv.iill.top/Migu/VQR1ds
-「足协杯」18:50 第四轮比赛 陕西联合 vs 云南玉昆 张昊泽,https://tv.iill.top/Migu/VQ7JTz
-「足协杯」18:50 第四轮比赛 陕西联合 vs 云南玉昆 赛场原声,https://tv.iill.top/Migu/gu68mP
-「足协杯」18:45 第四轮比赛 大连英博 vs 北京国安 石庆圣 李彦 孙蕊,https://tv.iill.top/Migu/4tpYgd
-「足协杯」18:45 第四轮比赛 大连英博 vs 北京国安 赛场原声,https://tv.iill.top/Migu/jqEShC
-「江苏城市足球联赛」18:50 常州队vs南京队 解说,https://tv.iill.top/Migu/sjepg3
-「超三联赛」18:55 3WL武汉赛区第2站Day1晚间场 3WL武汉赛区第2站Day1晚间场 清流播出,https://tv.iill.top/Migu/wN7RXx
-「超三联赛」18:50 德清赛区第1站 小组赛第三轮 德清赛区第1站 小组赛第三轮 王冠证,https://tv.iill.top/Migu/sDHhdL
-「中乙」19:20 联赛 深圳二零二八vs赣州瑞狮 解说,https://tv.iill.top/Migu/r4t6a5
-「足协杯」19:20 第四轮比赛 广东广州豹 vs 天津津门虎 王子睿,https://tv.iill.top/Migu/Hixqaq
-「足协杯」19:20 第四轮比赛 广东广州豹 vs 天津津门虎 赛场原声,https://tv.iill.top/Migu/KeVRjW
-「足协杯」19:25 第四轮比赛 青岛海牛 vs 广西恒宸 梁祥宇,https://tv.iill.top/Migu/4g4jw2
-「足协杯」19:25 第四轮比赛 青岛海牛 vs 广西恒宸 赛场原声,https://tv.iill.top/Migu/SfjNIv
-「KPL」20:00 重庆狼队 vs 北京JDG 重庆狼队 vs 北京JDG 官方解说,https://tv.iill.top/Migu/urQ9Ev
-「UFC格斗之夜」20:00 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 UFC激战前夜(王琰博),https://tv.iill.top/Migu/K59j7x
-「UFC格斗之夜」23:55 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 陈瑞阳 汪乐,https://tv.iill.top/Migu/kQdT3s
-「UFC格斗之夜」23:55 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 20时播激战前夜 0时播格斗之夜：希尔VS朗特里 英文原声,https://tv.iill.top/Migu/N3bMb5
-翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
+「世俱杯」02:00 小组赛 国际米兰 vs 浦和红钻 娄一晨 刘越 邵凌霄,https://tv.iill.top/FB/uwhwOe
+「世俱杯」02:00 小组赛 国际米兰 vs 浦和红钻 赛场原声,https://tv.iill.top/FB/nCOGDT
+「世俱杯」02:00 小组赛 国际米兰 vs 浦和红钻 娄一晨 刘越 邵凌霄,https://tv.iill.top/FB/ho4U8T
+「西甲」02:50 西乙升级决赛次回合 奥维耶多vs米兰德斯 周楚雄,https://tv.iill.top/FB/eMnXBL
+「世俱杯」05:45 小组赛 弗卢米嫩塞 vs 蔚山HD 张天翼,https://tv.iill.top/FB/ZPxzBP
+「世俱杯」05:45 小组赛 弗卢米嫩塞 vs 蔚山HD 赛场原声,https://tv.iill.top/FB/FlniFg
+「世俱杯」05:45 小组赛 弗卢米嫩塞 vs 蔚山HD 张天翼,https://tv.iill.top/FB/1Ov2i3
+「世俱杯」08:45 小组赛 河床 vs 蒙特雷 谭逸雄,https://tv.iill.top/FB/PMOOZD
+「世俱杯」08:45 小组赛 河床 vs 蒙特雷 赛场原声,https://tv.iill.top/FB/4Z0lRJ
+「世俱杯」08:45 小组赛 河床 vs 蒙特雷 谭逸雄,https://tv.iill.top/FB/6m7GxN
+「中甲」14:50 联赛 延边龙鼎 vs 广西平果 解说,https://tv.iill.top/FB/nr3UrR
+「中甲」18:50 联赛 上海嘉定汇龙 vs 佛山南狮 解说,https://tv.iill.top/FB/pMGUo0
+「中甲」18:50 联赛 苏州东吴 vs 深圳青年人 解说,https://tv.iill.top/FB/G9lV78
+「中甲」19:20 联赛 南京城市 vs 青岛红狮 解说,https://tv.iill.top/FB/S7mwxA
+「世俱杯」23:45 小组赛 尤文图斯 vs 卡萨布兰卡维达德 石庆圣 李彦,https://tv.iill.top/FB/fqunVE
+「世俱杯」23:45 小组赛 尤文图斯 vs 卡萨布兰卡维达德 赛场原声,https://tv.iill.top/FB/uF6gke
+「世俱杯」23:45 小组赛 尤文图斯 vs 卡萨布兰卡维达德 石庆圣 李彦,https://tv.iill.top/FB/K6kVCU
+「NBA」09:55 《周刊》总决赛G7特别节目 《周刊》总决赛G7特别节目 佳依 管维佳 孔德昕,https://tv.iill.top/NBA/o4xzgH
+「KPL」13:40 深圳DYG vs 广州TTG 深圳DYG vs 广州TTG 官方解说,https://tv.iill.top/Migu/MWlwZB
+「超三联赛」13:55 3WL武汉赛区第2站Day2下午场 3WL武汉赛区第2站Day2下午场 清流播出,https://tv.iill.top/Migu/afX32Q
+「中乙」15:50 联赛 泰安天贶vs海门珂缔缘 解说,https://tv.iill.top/Migu/2Hp7kj
+「中乙」15:50 联赛 无锡吴钩vs山东泰山B队 解说,https://tv.iill.top/Migu/wWiY0p
+「中乙」16:20 联赛 广州蒲公英德桦绿建vs广东铭途 解说,https://tv.iill.top/Migu/PN4bii
+「KPL」17:00 南通Hero久竞 vs 北京WB 南通Hero久竞 vs 北京WB 官方解说,https://tv.iill.top/Migu/0CNNNH
+「WTT」17:00 冲决赛！陈熠PK长崎美柚 朱雨玲出战 冲决赛！陈熠PK长崎美柚 朱雨玲出战 1号桌,https://tv.iill.top/Migu/wi3F8S
+「WTT」17:00 冲决赛！陈熠PK长崎美柚 朱雨玲出战 冲决赛！陈熠PK长崎美柚 朱雨玲出战 1号桌英文解说,https://tv.iill.top/Migu/o7aGym
+「WTT」17:00 冲决赛！陈熠PK长崎美柚 朱雨玲出战 冲决赛！陈熠PK长崎美柚 朱雨玲出战 骆宾,https://tv.iill.top/Migu/yUV0Xw
+「WTT」23:00 冲决赛！陈熠PK长崎美柚 朱雨玲出战 冲决赛！陈熠PK长崎美柚 朱雨玲出战 周冠达,https://tv.iill.top/Migu/wGOWMC
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 1号桌,https://tv.iill.top/Migu/DTS84I
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 2号桌,https://tv.iill.top/Migu/IT4dXe
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 3号桌,https://tv.iill.top/Migu/jAleaY
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 4号桌,https://tv.iill.top/Migu/rPt3nu
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 5号桌,https://tv.iill.top/Migu/CiOHz1
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 6号桌,https://tv.iill.top/Migu/51eSA4
+「斯诺克」17:00 周跃龙吴宜泽出战 希金斯PK黄佳浩 周跃龙吴宜泽出战 希金斯PK黄佳浩 7号桌,https://tv.iill.top/Migu/hrhaz4
+「足协杯」17:50 第四轮比赛 大连鲲城 vs 青岛西海岸 鲁靖明,https://tv.iill.top/Migu/aWx616
+「足协杯」17:50 第四轮比赛 大连鲲城 vs 青岛西海岸 赛场原声,https://tv.iill.top/Migu/aw9gXD
+「足协杯」17:45 第四轮比赛 上海海港 vs 上海申花 娄一晨 刘越 姚安妮,https://tv.iill.top/Migu/DCDjNx
+「足协杯」17:45 第四轮比赛 上海海港 vs 上海申花 赛场原声,https://tv.iill.top/Migu/wlWX2h
+「WTA」18:00 柏林站决赛 柏林站决赛 赛场原声,https://tv.iill.top/Migu/vUnLlZ
+「WTA」18:00 柏林站决赛 柏林站决赛 英文原声,https://tv.iill.top/Migu/6NqlEo
+「WTA」18:00 柏林站决赛 柏林站决赛 单文强 李宁,https://tv.iill.top/Migu/zFAgsO
+「超三联赛」17:50 德清赛区第1站 淘汰赛及决赛 德清赛区第1站 淘汰赛及决赛 王冠证,https://tv.iill.top/Migu/qLI6Df
+「WTA」19:00 诺丁汉站决赛 诺丁汉站决赛 赛场原声,https://tv.iill.top/Migu/LY2BXc
+「WTA」19:00 诺丁汉站决赛 诺丁汉站决赛 英文原声,https://tv.iill.top/Migu/E6sdmj
+「超三联赛」18:55 3WL武汉赛区第2站Day2晚间场 3WL武汉赛区第2站Day2晚间场 清流播出,https://tv.iill.top/Migu/mk0aLB
+「中乙」19:20 联赛 温州俱乐部中胤vs武汉三镇B队 解说,https://tv.iill.top/Migu/2tPbVI
+「中乙」19:20 联赛 广西蓝航vs贵州筑城竞技 解说,https://tv.iill.top/Migu/OxgTJX
+「中乙」19:20 联赛 杭州临平吴越vs山西崇德荣海 解说,https://tv.iill.top/Migu/yFFD5I
+「足协杯」19:20 第四轮比赛 河南 vs 浙江 涂远,https://tv.iill.top/Migu/vL7x5a
+「足协杯」19:20 第四轮比赛 河南 vs 浙江 赛场原声,https://tv.iill.top/Migu/CTL6Hv
+「KPL」20:00 成都AG超玩会 vs 长沙TES.A 成都AG超玩会 vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/8V7ig2
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「限UA」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「限UA」,https://tv.iill.top/phenix/fhhk
