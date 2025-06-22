@@ -47,6 +47,17 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『�
 
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
 
+中天新闻,http://ali.hlspull.yximgs.com/live/167_ztxw.flv
+民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
+民视闽南,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
+东森超视,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
+东森综合,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
+中天亚洲,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
+中天综合,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
+中天娱乐,http://ali.hlspull.yximgs.com/live/167ztyl.flv
+八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
+八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
+
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -98,6 +109,7 @@ MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
 
 美亞電影TW,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8

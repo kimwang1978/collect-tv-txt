@@ -9,6 +9,9 @@
 翡翠台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
 翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
 
+翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
+TVB无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
+
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -237,6 +240,7 @@ RTHK-35(CGTN),https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 
 天映,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+天映经典,http://bx.757888.xyz/api.php?id=tyjd
 
 凤凰中文,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰资讯,http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
