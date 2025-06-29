@@ -12,3 +12,6 @@ Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
 咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+
+CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8

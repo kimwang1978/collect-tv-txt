@@ -1,12 +1,12 @@
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-http://live.nctv.top/x.txt
+--http://live.nctv.top/x.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
 https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
-http://wx.thego.cn/ak.m3u
+--http://wx.thego.cn/ak.m3u
 http://gg.7749.org/z/i/5788.txt
 http://php.cqshushu.ggff.net/515001.php?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 https://3043.kstore.space/bhvip/bhzb.txt
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 --http://8.138.7.223/live.txt
 https://live.izbds.com/tv/iptv4.txt
 https://tv.850930.xyz/kdsb.txt
-http://61.160.112.102:35455/tv.m3u
+--http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
 http://ys.my.to//i/?T=HK
 http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://tzdr.com/iptv.txt
 --http://ww.weidonglong.com/dsj.txt
-http://wx.thego.cn/hk.txt
+--http://wx.thego.cn/hk.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 --https://livetv.wqwqwq.sbs/tv.m3u
 --https://tvv.wqwqwq.sbs/iptv.m3u
