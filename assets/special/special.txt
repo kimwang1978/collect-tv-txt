@@ -3925,22 +3925,25 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「世俱杯」03:00 八分之一决赛 弗拉门戈 vs 拜仁慕尼黑 李欣 徐阳 林梦鸽,https://tv.iill.top/FB/h1aMJw
-「世俱杯」03:45 八分之一决赛 弗拉门戈 vs 拜仁慕尼黑 赛场原声,https://tv.iill.top/FB/6m1oYB
-「世俱杯」03:00 八分之一决赛 弗拉门戈 vs 拜仁慕尼黑 李欣 徐阳 林梦鸽,https://tv.iill.top/FB/FvTi7U
-「中超」18:30 联赛 河南 vs 山东泰山 石庆圣 李彦 邵凌霄,https://tv.iill.top/FB/ozqAIi
-「中超」18:45 联赛 河南 vs 山东泰山 赛场原声,https://tv.iill.top/FB/TgCGRJ
-「中超」19:00 联赛 北京国安 vs 云南玉昆 苏东 黄健翔 李子琪,https://tv.iill.top/FB/8kfiQI
-「中超」19:20 联赛 北京国安 vs 云南玉昆 赛场原声,https://tv.iill.top/FB/jfPnQ0
-「中超」19:20 联赛 大连英博 vs 浙江 涂远 刘越,https://tv.iill.top/FB/62pQFk
-「中超」19:20 联赛 大连英博 vs 浙江 4K赛场原声,https://tv.iill.top/FB/fgTZXk
-「中超」19:30 联赛 深圳新鹏城 vs 上海海港 李欣 董路,https://tv.iill.top/FB/BJtYzS
-「中超」19:45 联赛 深圳新鹏城 vs 上海海港 赛场原声,https://tv.iill.top/FB/Le2Sec
-「MSI」07:40 G2 vs GAM G2 vs GAM 官方解说,https://tv.iill.top/Migu/L7d5es
-「全运会体操青年资格赛」09:20 -第五日 -第五日 清流播出,https://tv.iill.top/Migu/vqEXH9
-「超三联赛」12:50 重庆赛区第1站小组赛第一轮及第二轮 重庆赛区第1站小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/QuKHi6
-「国青男篮国际挑战赛」18:55 U16 中国U16男篮vs新西兰U16男篮 清流播出,https://tv.iill.top/Migu/bygdda
-「超三联赛」18:35 重庆赛区第1站开赛仪式及小组赛第三轮 重庆赛区第1站开赛仪式及小组赛第三轮 李嘉伟,https://tv.iill.top/Migu/CbTWH8
+「世俱杯」02:00 八分之一决赛 国际米兰 vs 弗卢米嫩塞 苏东 黄健翔 李子琪,https://tv.iill.top/FB/rAlU86
+「世俱杯」02:45 八分之一决赛 国际米兰 vs 弗卢米嫩塞 赛场原声,https://tv.iill.top/FB/tBBSjH
+「世俱杯」02:00 八分之一决赛 国际米兰 vs 弗卢米嫩塞 苏东 黄健翔 李子琪,https://tv.iill.top/FB/kkNqu6
+「世俱杯」08:00 八分之一决赛 曼城 vs 利雅得新月 石庆圣 李彦 邵凌霄,https://tv.iill.top/FB/bFzR2o
+「世俱杯」08:45 八分之一决赛 曼城 vs 利雅得新月 赛场原声,https://tv.iill.top/FB/4BJslL
+「世俱杯」08:00 八分之一决赛 曼城 vs 利雅得新月 石庆圣 李彦 邵凌霄,https://tv.iill.top/FB/TiG4CP
+「全运会体操青年资格赛」14:20 -第六日 -第六日 清流播出,https://tv.iill.top/Migu/CY7loI
+「中乙」15:50 联赛 昆明城星vs成都蓉城B队 解说,https://tv.iill.top/Migu/jlopb9
+「中乙」15:50 联赛 广东铭途vs武汉三镇B队 解说,https://tv.iill.top/Migu/OJM82S
+「中乙」17:20 联赛 泉州亚新vs深圳二零二八 解说,https://tv.iill.top/Migu/IlwYa7
+「中乙」17:50 联赛 湖北青年星vs杭州临平吴越 解说,https://tv.iill.top/Migu/uLeUaB
+「超三联赛」17:50 重庆赛区第1站淘汰赛及决赛 重庆赛区第1站淘汰赛及决赛 解说,https://tv.iill.top/Migu/7bCS73
+「中乙」19:20 联赛 广西蓝航vs广西恒宸 解说,https://tv.iill.top/Migu/inxAcj
+「中乙」19:20 联赛 海门珂缔缘vs上海海港富盛经开 解说,https://tv.iill.top/Migu/EQU2a2
+「NBL」19:20 广西威壮vs长沙勇胜 解说,https://tv.iill.top/Migu/OfUoDl
+「NBL」19:20 广西威壮vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/d4iIIF
+「国青男篮国际挑战赛」19:55 U16 中国U16男篮vs斯洛文尼亚俱乐部青年队 清流播出,https://tv.iill.top/Migu/ZNMTYG
+「国际篮联U19男篮世界杯」20:25 国际篮联U19世界杯小组赛 中国vs斯洛文尼亚 王冠证,https://tv.iill.top/Migu/l0L5jr
+「国际篮联U19男篮世界杯」20:25 国际篮联U19世界杯小组赛 中国vs斯洛文尼亚 现场原声,https://tv.iill.top/Migu/nAHoX7
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「限UA」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「限UA」,https://tv.iill.top/phenix/fhhk
