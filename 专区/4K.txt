@@ -12,6 +12,19 @@ Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
 咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京IPTV4K,http://home.kuaidi521.com:35455/bptv/3221226550.m3u8
 
 CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
 CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
+
+北京卫视4K,https://migu.188766.xyz/?migutoken=39deddeb54376a0a428624282e3fdab0&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+北京卫视4K,https://migu.188766.xyz/?migutoken=265e2ed4eb3ba8313d0ae956dc7a1524&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85&type=yy
+深圳卫视4K,https://migu.188766.xyz/?migutoken=a9f94ed737f2908c5442c0baad0c57ac&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4k,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4K,http://27.184.29.189:4022/rtp/239.254.201.68:6000
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+
+
