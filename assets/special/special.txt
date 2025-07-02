@@ -3925,32 +3925,19 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「世俱杯」02:00 八分之一决赛 皇家马德里 vs 尤文图斯 詹俊 张路 林梦鸽,https://tv.iill.top/FB/MvbETL
-「世俱杯」02:45 八分之一决赛 皇家马德里 vs 尤文图斯 江忠德,https://tv.iill.top/FB/cUjItG
-「世俱杯」02:45 八分之一决赛 皇家马德里 vs 尤文图斯 洪荒,https://tv.iill.top/FB/rzNeXe
-「世俱杯」02:45 八分之一决赛 皇家马德里 vs 尤文图斯 陈渤胄,https://tv.iill.top/FB/hrd3iY
-「世俱杯」02:45 八分之一决赛 皇家马德里 vs 尤文图斯 赛场原声,https://tv.iill.top/FB/VN6jjX
-「世俱杯」02:00 八分之一决赛 皇家马德里 vs 尤文图斯 詹俊 张路 林梦鸽,https://tv.iill.top/FB/Z3vbcU
-「世俱杯」08:00 八分之一决赛 多特蒙德 vs 蒙特雷 梁祥宇 于海 姚安妮,https://tv.iill.top/FB/ZN3F3T
-「世俱杯」08:45 八分之一决赛 多特蒙德 vs 蒙特雷 赛场原声,https://tv.iill.top/FB/skysBx
-「世俱杯」08:00 八分之一决赛 多特蒙德 vs 蒙特雷 梁祥宇 于海 姚安妮,https://tv.iill.top/FB/G0uUIN
-「MSI」07:40 GEN vs G2 GEN vs G2 官方解说,https://tv.iill.top/Migu/hLlfDU
-「全运会体操青年资格赛」14:20 -第七日 -第七日 清流播出,https://tv.iill.top/Migu/2ahl1j
-「中乙」15:50 联赛 山西崇德荣海vs北京理工 解说,https://tv.iill.top/Migu/L9SLPW
-「KPL」16:40 北京WB vs 桐乡情久 北京WB vs 桐乡情久 官方解说,https://tv.iill.top/Migu/lbxBzc
-「中乙」18:50 联赛 兰州陇原竞技vs泰安天贶 解说,https://tv.iill.top/Migu/vWJBPh
-「中乙」18:50 联赛 山东泰山B队vs长春喜都 解说,https://tv.iill.top/Migu/KOnhCa
-「UFC前瞻与回顾」19:00 激战前夜：名动京城！重温18年UFC北京站 激战前夜：名动京城！重温18年UFC北京站 陈瑞阳,https://tv.iill.top/Migu/olsz4V
-「UFC前瞻与回顾」19:00 激战前夜：名动京城！重温18年UFC北京站 激战前夜：名动京城！重温18年UFC北京站 陈瑞阳,https://tv.iill.top/Migu/vDi9n0
-「中乙」19:20 联赛 温州俱乐部中胤vs广州蒲公英德桦绿建 解说,https://tv.iill.top/Migu/uxScE2
-「中乙」19:20 联赛 贵州筑城竞技vs赣州瑞狮 解说,https://tv.iill.top/Migu/Zlx8kG
-「中乙」19:20 联赛 江西庐山vs无锡吴钩 解说,https://tv.iill.top/Migu/ZiT7Nu
-「NBL」19:20 江西鲸裕清酒vs盐南汤沟国藏 解说,https://tv.iill.top/Migu/E7I0xZ
-「NBL」19:20 江西鲸裕清酒vs盐南汤沟国藏 赛场原声,https://tv.iill.top/Migu/raKtCR
-「NBL」19:20 合肥狂风峻茂vs香港金牛 解说,https://tv.iill.top/Migu/kOQnRr
-「NBL」19:20 合肥狂风峻茂vs香港金牛 赛场原声,https://tv.iill.top/Migu/wrQ1HL
-「KPL」20:00 广州TTG vs 佛山DRG 广州TTG vs 佛山DRG 官方解说,https://tv.iill.top/Migu/HkKvLz
-「国青男篮国际挑战赛」19:55 U16 中国U16男篮vs澳大利亚U16男篮 清流播出,https://tv.iill.top/Migu/FRD3qd
+「MSI」07:40 AL vs FLY AL vs FLY 官方解说,https://tv.iill.top/Migu/eCyi7d
+「全运会体操青年资格赛」14:20 -第八日 -第八日 清流播出,https://tv.iill.top/Migu/Vtpkbc
+「KPL」16:40 上海RNG.M vs 西安WE 上海RNG.M vs 西安WE 官方解说,https://tv.iill.top/Migu/mGu5xu
+「PEL」17:10 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 官方解说,https://tv.iill.top/Migu/Iz4KIV
+「PEL」17:10 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 清流,https://tv.iill.top/Migu/JM2kOD
+「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角1,https://tv.iill.top/Migu/W3Oth5
+「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角2,https://tv.iill.top/Migu/G3FwZU
+「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角3,https://tv.iill.top/Migu/VV2QB2
+「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 地图流,https://tv.iill.top/Migu/2os1n5
+「UFC前瞻与回顾」19:00 激战前夜：中国丽亮！重温19年UFC深圳站 激战前夜：中国丽亮！重温19年UFC深圳站 陈瑞阳,https://tv.iill.top/Migu/QAMq4N
+「NBL」19:20 石家庄翔蓝vs湖北文旅 解说,https://tv.iill.top/Migu/rYxZj5
+「NBL」19:20 石家庄翔蓝vs湖北文旅 赛场原声,https://tv.iill.top/Migu/5qZih6
+「KPL」20:00 长沙TES.A vs 济南RW侠 长沙TES.A vs 济南RW侠 官方解说,https://tv.iill.top/Migu/rC364U
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
