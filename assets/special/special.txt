@@ -3925,19 +3925,28 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「MSI」07:40 AL vs FLY AL vs FLY 官方解说,https://tv.iill.top/Migu/eCyi7d
-「全运会体操青年资格赛」14:20 -第八日 -第八日 清流播出,https://tv.iill.top/Migu/Vtpkbc
-「KPL」16:40 上海RNG.M vs 西安WE 上海RNG.M vs 西安WE 官方解说,https://tv.iill.top/Migu/mGu5xu
-「PEL」17:10 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 官方解说,https://tv.iill.top/Migu/Iz4KIV
-「PEL」17:10 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 清流,https://tv.iill.top/Migu/JM2kOD
-「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角1,https://tv.iill.top/Migu/W3Oth5
-「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角2,https://tv.iill.top/Migu/G3FwZU
-「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 明星视角3,https://tv.iill.top/Migu/VV2QB2
-「PEL」17:50 2025夏季赛 第一周 第一天 2025夏季赛 第一周 第一天 地图流,https://tv.iill.top/Migu/2os1n5
-「UFC前瞻与回顾」19:00 激战前夜：中国丽亮！重温19年UFC深圳站 激战前夜：中国丽亮！重温19年UFC深圳站 陈瑞阳,https://tv.iill.top/Migu/QAMq4N
-「NBL」19:20 石家庄翔蓝vs湖北文旅 解说,https://tv.iill.top/Migu/rYxZj5
-「NBL」19:20 石家庄翔蓝vs湖北文旅 赛场原声,https://tv.iill.top/Migu/5qZih6
-「KPL」20:00 长沙TES.A vs 济南RW侠 长沙TES.A vs 济南RW侠 官方解说,https://tv.iill.top/Migu/rC364U
+「MSI」02:40 BLG vs MKOI BLG vs KOI 官方解说,https://tv.iill.top/Migu/BKbf7J
+「WTT」03:00 李昱谆冲正赛 林兆恒苦战五局 李昱谆冲正赛 林兆恒苦战五局 2号桌,https://tv.iill.top/Migu/zEmIcI
+「WTT」03:00 李昱谆冲正赛 林兆恒苦战五局 李昱谆冲正赛 林兆恒苦战五局 3号桌,https://tv.iill.top/Migu/jZSM2S
+「WTT」03:00 李昱谆冲正赛 林兆恒苦战五局 李昱谆冲正赛 林兆恒苦战五局 4号桌,https://tv.iill.top/Migu/l4QB8F
+「MSI」08:00 CFO vs T1 CFO vs T1 官方解说,https://tv.iill.top/Migu/Tn3Cg1
+「WTT」09:00 吴咏琳亮相 舒麟茜迎战郑先知 吴咏琳亮相 舒麟茜迎战郑先知 2号桌,https://tv.iill.top/Migu/FFX8Pm
+「WTT」09:00 吴咏琳亮相 舒麟茜迎战郑先知 吴咏琳亮相 舒麟茜迎战郑先知 3号桌,https://tv.iill.top/Migu/xDH8UQ
+「WTT」09:00 吴咏琳亮相 舒麟茜迎战郑先知 吴咏琳亮相 舒麟茜迎战郑先知 4号桌,https://tv.iill.top/Migu/IwkkXB
+「超三联赛」12:50 重庆赛区第2站小组赛第一轮及第二轮 重庆赛区第2站小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/czy6Jp
+「KPL」13:40 北京JDG vs 桐乡情久 北京JDG vs 桐乡情久 官方解说,https://tv.iill.top/Migu/ESx4F1
+「KPL」17:00 杭州LGD.NBW vs 上海EDG.M 杭州LGD.NBW vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/7Q0ioc
+「KPL」17:00 杭州LGD.NBW vs 上海EDG.M 杭州LGD.NBW vs 上海EDG.M 第一视角7,https://tv.iill.top/Migu/9rLw41
+「PEL」17:25 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 官方解说,https://tv.iill.top/Migu/Q36WNo
+「PEL」17:25 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 清流,https://tv.iill.top/Migu/L3v1r0
+「PEL」17:50 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 明星视角1,https://tv.iill.top/Migu/K7CpXl
+「PEL」17:50 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 明星视角2,https://tv.iill.top/Migu/4JvzNV
+「PEL」17:50 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 明星视角3,https://tv.iill.top/Migu/i4B7vd
+「PEL」17:50 2025夏季赛 第一周 第二天 2025夏季赛 第一周 第二天 地图流,https://tv.iill.top/Migu/wjou4M
+「超三联赛」18:50 重庆赛区第2站小组赛第三轮 重庆赛区第2站小组赛第三轮 王港,https://tv.iill.top/Migu/TiOyFZ
+「NBL」19:20 江西鲸裕清酒vs长沙勇胜 解说,https://tv.iill.top/Migu/PoE5Gz
+「NBL」19:20 江西鲸裕清酒vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/S4htlm
+「KPL」20:00 成都AG超玩会 vs 常山UUG 成都AG超玩会 vs 常山UUG 官方解说,https://tv.iill.top/Migu/MM0tZ0
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
@@ -3996,7 +4005,7 @@ TVBS 精采「限TW」,https://tv.iill.top/litv/4gtv-4gtv067
 龍華卡通「限TW」,https://tv.iill.top/litv/litv-longturn01
 龍華戲劇「限TW」,https://tv.iill.top/litv/litv-longturn18
 龍華日韓「限TW」,https://tv.iill.top/litv/litv-longturn11
-龍華洋片「限TW」,https://tv.iill.top/litv/litv-longturn11
+龍華洋片「限TW」,https://tv.iill.top/litv/litv-longturn02
 龍華經典「限TW」,https://tv.iill.top/litv/litv-longturn21
 龍華電影「限TW」,https://tv.iill.top/litv/litv-longturn03
 八大精彩「限TW」,https://tv.iill.top/litv/4gtv-4gtv034
