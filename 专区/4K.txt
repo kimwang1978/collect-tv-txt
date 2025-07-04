@@ -16,6 +16,8 @@ Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 
 CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
 CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
+CCTV 4K,http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
 
 北京卫视4K,https://migu.188766.xyz/?migutoken=1dbcd9c95f91c9334d777279df384cbf&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=8ce0550cded5a99914a661448f843544&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
