@@ -14,6 +14,8 @@
 
 > 主页: https://iptv365.org
 
+> 体育赛事: https://live.iptv365.org/tiyu.html
+
 > M3U ⇄ TXT 转换: https://convert.iptv365.org
 
 > 源检索：https://search.iptv365.org

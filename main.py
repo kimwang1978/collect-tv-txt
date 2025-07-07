@@ -652,6 +652,98 @@ else:
     aktv_lines = read_txt_to_array('专区/AKTV.txt')
 #AKTV# ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 
+def generate_playlist_html(data_list, output_file='playlist.html'):
+    html_head = '''
+    <!DOCTYPE html>
+    <html lang="zh">
+    <head>
+        <meta charset="UTF-8">        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6061710286208572"
+     crossorigin="anonymous"></script>
+        <!-- Setup Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BS1Z4F5BDN"></script>
+        <script> 
+        window.dataLayer = window.dataLayer || []; 
+        function gtag(){dataLayer.push(arguments);} 
+        gtag('js', new Date()); 
+        gtag('config', 'G-BS1Z4F5BDN'); 
+        </script>
+        <title>最新体育赛事</title>
+        <style>
+            body { font-family: sans-serif; padding: 20px; background: #f9f9f9; }
+            .item { margin-bottom: 20px; padding: 12px; background: #fff; border-radius: 8px;
+                    box-shadow: 0 2px 4px rgba(0,0,0,0.06); }
+            .title { font-weight: bold; font-size: 1.1em; color: #333; margin-bottom: 5px; }
+            .url-wrapper { display: flex; align-items: center; gap: 10px; }
+            .url {
+                max-width: 80%;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                font-size: 0.9em;
+                color: #555;
+                background: #f0f0f0;
+                padding: 6px;
+                border-radius: 4px;
+                flex-grow: 1;
+            }
+            .copy-btn {
+                background-color: #007BFF;
+                border: none;
+                color: white;
+                padding: 6px 10px;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 0.8em;
+            }
+            .copy-btn:hover {
+                background-color: #0056b3;
+            }
+        </style>
+    </head>
+    <body>
+    <h2>📋 最新体育赛事列表</h2>
+    '''
+
+    html_body = ''
+    for idx, entry in enumerate(data_list):
+        if ',' not in entry:
+            continue
+        info, url = entry.split(',', 1)
+        url_id = f"url_{idx}"
+        html_body += f'''
+        <div class="item">
+            <div class="title">🕒 {info}</div>
+            <div class="url-wrapper">
+                <div class="url" id="{url_id}">{url}</div>
+                <button class="copy-btn" onclick="copyToClipboard('{url_id}')">复制</button>
+            </div>
+        </div>
+        '''
+
+    html_tail = '''
+    <script>
+        function copyToClipboard(id) {
+            const el = document.getElementById(id);
+            const text = el.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                alert("已复制链接！");
+            }).catch(err => {
+                alert("复制失败: " + err);
+            });
+        }
+    </script>
+    </body>
+    </html>
+    '''
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(html_head + html_body + html_tail)
+    print(f"✅ 网页已生成：{output_file}")
+
+
+generate_playlist_html(sorted(set(normalized_tyss_lines)), 'tiyu.html')
+
 # 随机取得URL
 def get_random_url(file_path):
     urls = []
