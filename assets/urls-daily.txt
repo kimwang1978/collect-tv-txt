@@ -21,14 +21,14 @@ https://live.izbds.com/tv/iptv4.txt
 https://tv.850930.xyz/kdsb.txt
 --http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
-http://ys.my.to//i/?T=HK
+--http://ys.my.to//i/?T=HK
 http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt
 --http://nas.suntao.online:35455/tv.m3u
 https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+--http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://tzdr.com/iptv.txt
 --http://ww.weidonglong.com/dsj.txt
 --http://wx.thego.cn/hk.txt

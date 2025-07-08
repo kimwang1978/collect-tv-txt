@@ -652,6 +652,18 @@ else:
     aktv_lines = read_txt_to_array('专区/AKTV.txt')
 #AKTV# ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 
+#过滤掉特定关键词的行
+keywords_to_exclude = ["玉玉软件", "榴芒电视","公众号"]
+def filter_lines(lines, exclude_keywords):
+    """
+    过滤掉包含任一关键字的行
+    :param lines: 原始字符串数组
+    :param exclude_keywords: 需要剔除的关键词列表
+    :return: 过滤后的新列表
+    """
+    return [line for line in lines if not any(keyword in line for keyword in exclude_keywords)]
+
+
 def generate_playlist_html(data_list, output_file='playlist.html'):
     html_head = '''
     <!DOCTYPE html>
@@ -741,8 +753,8 @@ def generate_playlist_html(data_list, output_file='playlist.html'):
         f.write(html_head + html_body + html_tail)
     print(f"✅ 网页已生成：{output_file}")
 
-
-generate_playlist_html(sorted(set(normalized_tyss_lines)), 'tiyu.html')
+filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude)
+generate_playlist_html(sorted(set(filtered_tyss_lines)), 'tiyu.html')
 
 # 随机取得URL
 def get_random_url(file_path):
