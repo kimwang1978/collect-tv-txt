@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
+http://38.165.20.168/js/%E7%9B%B4%E6%92%AD.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
@@ -10,9 +11,11 @@ https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
 http://gg.7749.org/z/i/5788.txt
 http://gg.7749.org/z/i/HKTV28.txt
 http://gg.7749.org//i/ds.txt
+https://free.cnlive.club/smt.m3u
 http://php.cqshushu.ggff.net/515001.php?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 https://3043.kstore.space/bhvip/bhzb.txt
 http://is.is-great.org/i/0947307.txt
+https://vip.123pan.cn/1814643527/tv/qwt.m3u
 https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/go.txt
 https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 --http://aktv.top/live.txt
