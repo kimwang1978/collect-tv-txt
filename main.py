@@ -102,6 +102,7 @@ sc_lines = [] #地方台-四川频道
 tj_lines = [] #地方台-天津频道
 xj_lines = [] #地方台-新疆频道
 
+auto_4k_lines = [] #auto_4k
 zb_lines = [] #直播中国
 mtv_lines = [] #MTV
 
@@ -344,6 +345,8 @@ def process_channel_line(line):
                 zb_lines.append(process_name_string(line.strip()))
             elif channel_name in mtv_dictionary and check_url_existence(mtv_lines, channel_address):  #MTV
                 mtv_lines.append(process_name_string(line.strip()))
+            elif channel_name in auto_4k_dictionary and check_url_existence(auto_4k_lines, channel_address):  #auto_4k
+                auto_4k_lines.append(process_name_string(line.strip()))
             else:
                 if channel_address not in other_lines_url:
                     other_lines_url.append(channel_address)   #记录已加url
@@ -433,6 +436,7 @@ yy_dictionary=read_txt_to_array('主频道/音乐频道.txt') #过滤
 game_dictionary=read_txt_to_array('主频道/游戏频道.txt') #过滤
 radio_dictionary=read_txt_to_array('主频道/收音机频道.txt') #过滤
 
+auto_4k_dictionary=read_txt_to_array('主频道/auto_4k.txt') #过滤
 zb_dictionary=read_txt_to_array('主频道/直播中国.txt') #过滤
 mtv_dictionary=read_txt_to_array('主频道/MTV.txt') #过滤
 #Olympics_2024_Paris_dictionary=read_txt_to_array('主频道/奥运频道.txt') #过滤
@@ -812,6 +816,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["🍹定制P3P☕️,#genre#"] + read_txt_to_array('专区/p3p.txt') + ['\n'] + \
              ["💓英语频道,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
              ["💓4K(Test),#genre#"] + read_txt_to_array('专区/4K.txt') + ['\n'] + \
+             ["💓4K(Auto),#genre#"] + sort_data(auto_4k_dictionary,correct_name_data(corrections_name,auto_4k_lines)) + ['\n'] + \
              ["☘️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["☘️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
              ["☘️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
@@ -842,6 +847,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["🍹定制P3P☕️,#genre#"] + read_txt_to_array('专区/p3p.txt') + ['\n'] + \
              ["💓英语频道,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
              ["💓4K(Test),#genre#"] + read_txt_to_array('专区/4K.txt') + ['\n'] + \
+             ["💓4K(Auto),#genre#"] + sort_data(auto_4k_dictionary,correct_name_data(corrections_name,auto_4k_lines)) + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,correct_name_data(corrections_name,ys_lines)) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,correct_name_data(corrections_name,ws_lines)) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,correct_name_data(corrections_name,sh_lines)) + ['\n'] + \
