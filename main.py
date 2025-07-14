@@ -623,18 +623,18 @@ def normalize_date_to_md(text):
         month = int(m.group(1))
         day = int(m.group(2))
         after = m.group(3) or ''
-        # 如果 after 不是以空格开头，就加一个空格
+        # 如果后面不是空格开头，就加空格
         if not after.startswith(' '):
             after = ' ' + after
-        return f"{month}-{day}{after}"
+        return f"{month:02d}-{day:02d}{after}"
 
-    # MM/DD
+    # MM/DD 或 M/D
     text = re.sub(r'^0?(\d{1,2})/0?(\d{1,2})(.*)', format_md, text)
 
-    # YYYY-MM-DD
+    # YYYY-MM-DD 或类似形式
     text = re.sub(r'^\d{4}-0?(\d{1,2})-0?(\d{1,2})(.*)', format_md, text)
 
-    # 中文日期
+    # 中文 M月D日
     text = re.sub(r'^0?(\d{1,2})月0?(\d{1,2})日(.*)', format_md, text)
 
     return text
@@ -761,6 +761,25 @@ keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视�
 filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu)
 generate_playlist_html(sorted(set(filtered_tyss_lines)), 'tiyu.html')
 
+# 体育赛事专用排序, 数字开头倒序排在上面，其他升序排在下面。
+def custom_tyss_sort(lines):
+    digit_prefix = []
+    others = []
+
+    for line in lines:
+        # 拆分出名称部分（逗号前部分），用于判断是否以数字开头
+        name_part = line.split(',')[0].strip()
+        if name_part and name_part[0].isdigit():
+            digit_prefix.append(line)
+        else:
+            others.append(line)
+
+    # 分别排序
+    digit_prefix_sorted = sorted(digit_prefix, reverse=True)
+    others_sorted = sorted(others)
+
+    return digit_prefix_sorted + others_sorted
+
 # 随机取得URL
 def get_random_url(file_path):
     urls = []
@@ -806,7 +825,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏈体育赛事🏆️,#genre#"] + sorted(set(normalized_tyss_lines)) + ['\n'] + \
+             ["🏈体育赛事🏆️,#genre#"] + custom_tyss_sort(set(normalized_tyss_lines)) + ['\n'] + \
              ["⚽️SPORTS🏆️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🎞️电影点播,#genre#"] + read_txt_to_array('专区/♪电影点播.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
@@ -837,7 +856,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏈体育赛事,#genre#"] + sorted(set(normalized_tyss_lines)) + ['\n'] + \
+             ["🏈体育赛事,#genre#"] + custom_tyss_sort(set(normalized_tyss_lines)) + ['\n'] + \
              ["⚽️SPORTS,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🎞️电影点播,#genre#"] + read_txt_to_array('专区/♪电影点播.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \

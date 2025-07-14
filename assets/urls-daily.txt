@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 --http://aktv.top/live.txt
 --http://8.138.7.223/live.txt
 https://live.izbds.com/tv/iptv4.txt
-https://tv.850930.xyz/kdsb.txt
+--https://tv.850930.xyz/kdsb.txt
 --http://61.160.112.102:35455/tv.m3u
 http://47.120.41.246:8899/zb.txt
 --http://ys.my.to//i/?T=HK
