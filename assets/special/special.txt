@@ -3925,39 +3925,42 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」04:25 夏季联赛 老鹰VS火箭 连睿,https://tv.iill.top/NBA/z5ay1G
-「NBA」04:25 夏季联赛 老鹰VS火箭 英文原声,https://tv.iill.top/NBA/DJ44I0
-「NBA」05:55 夏季联赛 公牛VS步行者 张泽欣,https://tv.iill.top/NBA/9c2ro4
-「NBA」05:55 夏季联赛 公牛VS步行者 英文原声,https://tv.iill.top/NBA/Neoa33
-「NBA」06:25 夏季联赛 黄蜂VS独行侠 邢晨,https://tv.iill.top/NBA/4n0wg4
-「NBA」06:25 夏季联赛 黄蜂VS独行侠 英文原声,https://tv.iill.top/NBA/Hw611k
-「NBA」07:55 夏季联赛 凯尔特人VS热火 王冠证,https://tv.iill.top/NBA/JEWlg8
-「NBA」07:55 夏季联赛 凯尔特人VS热火 英文原声,https://tv.iill.top/NBA/C4nwDj
-「NBA」08:25 夏季联赛 爵士VS马刺 王晓晨,https://tv.iill.top/NBA/JLsfic
-「NBA」08:25 夏季联赛 爵士VS马刺 英文原声,https://tv.iill.top/NBA/K5MBRI
-「NBA」09:55 夏季联赛 太阳VS国王 蔡凯臣,https://tv.iill.top/NBA/kSAWGX
-「NBA」09:55 夏季联赛 太阳VS国王 英文原声,https://tv.iill.top/NBA/N5vYFg
-「NBA」10:25 夏季联赛 快船VS湖人 郑泽鹏,https://tv.iill.top/NBA/UcT1o1
-「NBA」10:25 夏季联赛 快船VS湖人 英文原声,https://tv.iill.top/NBA/i2M638
-「上海明日之星篮球争冠赛」09:50 新北市南山高中队vs日本B联赛精英队 解说,https://tv.iill.top/Migu/mpi7gT
-「上海明日之星篮球争冠赛」12:50 中国香港邀请队vs上海青年联队 解说,https://tv.iill.top/Migu/1JjRYQ
-「女篮亚洲杯」13:20 小组赛 印度尼西亚vs新西兰 殷雪怡,https://tv.iill.top/Migu/YkpYAE
-「女篮亚洲杯」13:20 小组赛 印度尼西亚vs新西兰 现场原声,https://tv.iill.top/Migu/0ZEHN9
-「东亚杯」14:00 中国 vs 中国香港 苏东 徐云龙 李子琪,https://tv.iill.top/Migu/fd4rfx
-「东亚杯」14:00 中国 vs 中国香港 赛场原声,https://tv.iill.top/Migu/juRSDQ
-「上海明日之星篮球争冠赛」15:50 英格兰篮球UK50精英队vs澳大利亚青年选拔队 解说,https://tv.iill.top/Migu/3JRpLA
-「女篮亚洲杯」16:20 小组赛 日本vs澳大利亚 季孟年,https://tv.iill.top/Migu/0HuyOZ
-「女篮亚洲杯」16:20 小组赛 日本vs澳大利亚 现场原声,https://tv.iill.top/Migu/WnsuKP
-「KPL」16:40 西安WE vs 深圳DYG 西安WE vs 深圳DYG 官方解说,https://tv.iill.top/Migu/BpvdpQ
-「超三联赛」17:50 靖江赛区第1站 淘汰赛及决赛 靖江赛区第1站 淘汰赛及决赛 李嘉伟,https://tv.iill.top/Migu/bovXxS
-「东亚杯」18:14 韩国 vs 日本 涂远,https://tv.iill.top/Migu/XBpEPp
-「东亚杯」18:14 韩国 vs 日本 赛场原声,https://tv.iill.top/Migu/1NOolB
-「上海明日之星篮球争冠赛」18:50 西班牙富恩拉夫拉达俱乐部精英队vs中国国家U16青年队 解说,https://tv.iill.top/Migu/lEBO5E
-「女篮亚洲杯」18:45 小组赛 韩国vs中国 吕程 迪拉娜,https://tv.iill.top/Migu/ebG0r6
-「女篮亚洲杯」19:20 小组赛 韩国vs中国 现场原声,https://tv.iill.top/Migu/44kvsN
-「NBL」19:20 香港金牛vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/sNTJME
-「NBL」19:20 香港金牛vs江西鲸裕清酒 现场原声,https://tv.iill.top/Migu/4Ljo8a
-「KPL」20:00 常山UUG vs 佛山DRG 常山UUG vs 佛山DRG 官方解说,https://tv.iill.top/Migu/606K8Q
+「NBA」04:25 夏季联赛 森林狼VS活塞 蔡凯臣,https://tv.iill.top/NBA/i71Vza
+「NBA」04:25 夏季联赛 森林狼VS活塞 英文原声,https://tv.iill.top/NBA/BhOsk2
+「NBA」05:55 夏季联赛 篮网VS尼克斯 王冠证,https://tv.iill.top/NBA/cuUG1w
+「NBA」05:55 夏季联赛 篮网VS尼克斯 英文原声,https://tv.iill.top/NBA/GliB7W
+「NBA」06:25 夏季联赛 雷霆VS魔术 罗森,https://tv.iill.top/NBA/pDo5ux
+「NBA」06:25 夏季联赛 雷霆VS魔术 英文原声,https://tv.iill.top/NBA/DBAjZN
+「NBA」07:55 夏季联赛 猛龙VS掘金 邢晨,https://tv.iill.top/NBA/ODSyDV
+「NBA」07:55 夏季联赛 猛龙VS掘金 英文原声,https://tv.iill.top/NBA/p6Fni3
+「NBA」08:25 夏季联赛 76人VS奇才 王凯,https://tv.iill.top/NBA/JCWuFj
+「NBA」08:25 夏季联赛 76人VS奇才 英文原声,https://tv.iill.top/NBA/4DO8W2
+「NBA」09:55 夏季联赛 开拓者VS鹈鹕 连睿 孔德昕,https://tv.iill.top/NBA/fXzQoW
+「NBA」09:55 夏季联赛 开拓者VS鹈鹕 英文原声,https://tv.iill.top/NBA/NWyYYK
+「NBA」10:25 夏季联赛 勇士VS灰熊 陈鑫隆,https://tv.iill.top/NBA/qOIEMh
+「NBA」10:25 夏季联赛 勇士VS灰熊 英文原声,https://tv.iill.top/NBA/dyC5N0
+「上海明日之星篮球争冠赛」09:50 澳大利亚青年选拔队vs中国香港邀请队 解说,https://tv.iill.top/Migu/rhRRj5
+「上海明日之星篮球争冠赛」12:50 日本B联赛精英队vs西班牙富恩拉夫拉达俱乐部精英队 解说,https://tv.iill.top/Migu/GrAAwT
+「超三联赛」12:50 3WL靖江赛区第1站 Day1下午场 3WL靖江赛区第1站 Day1下午场 清流播出,https://tv.iill.top/Migu/sMa0JQ
+「女篮亚洲杯」13:20 小组赛 菲律宾vs黎巴嫩 殷雪怡,https://tv.iill.top/Migu/AT5XWI
+「女篮亚洲杯」13:20 小组赛 菲律宾vs黎巴嫩 现场原声,https://tv.iill.top/Migu/nsoykF
+「女足东亚杯」14:30 日本 vs 中国 鹿中原 贺宇,https://tv.iill.top/Migu/PTgKHs
+「女足东亚杯」14:50 日本 vs 中国 赛场原声,https://tv.iill.top/Migu/TCfS9M
+「上海明日之星篮球争冠赛」15:50 中国国家U16青年队vs新北市南山高中队 解说,https://tv.iill.top/Migu/O9m4Ki
+「女篮亚洲杯」16:20 小组赛 韩国vs印度尼西亚 张泽欣,https://tv.iill.top/Migu/GIWk8F
+「女篮亚洲杯」16:20 小组赛 韩国vs印度尼西亚 现场原声,https://tv.iill.top/Migu/gq1mWq
+「KPL」16:40 上海EDG.M vs 桐乡情久 上海EDG.M vs 桐乡情久 官方解说,https://tv.iill.top/Migu/idTVOu
+「女足东亚杯」18:20 韩国 vs 中国台北 张天翼,https://tv.iill.top/Migu/dRcI4u
+「女足东亚杯」18:20 韩国 vs 中国台北 赛场原声,https://tv.iill.top/Migu/kzmc60
+「上海明日之星篮球争冠赛」18:50 上海青年联队vs英格兰篮球UK50精英队 解说,https://tv.iill.top/Migu/OMnUYP
+「超三联赛」18:50 3WL 靖江赛区第1站 Day1晚间场 3WL 靖江赛区第1站 Day1晚间场 清流播出,https://tv.iill.top/Migu/0BSY9X
+「女篮亚洲杯」18:45 小组赛 中国vs新西兰 吕程 迪拉娜,https://tv.iill.top/Migu/Nw6y5p
+「女篮亚洲杯」19:20 小组赛 中国vs新西兰 现场原声,https://tv.iill.top/Migu/kz5Ncq
+「NBL」19:20 盐南苏科雄狮vs合肥狂风峻茂 解说,https://tv.iill.top/Migu/Pw7ojE
+「NBL」19:20 盐南苏科雄狮vs合肥狂风峻茂 现场原声,https://tv.iill.top/Migu/mXBuW8
+「NBL」19:20 长沙勇胜vs湖北文旅 解说,https://tv.iill.top/Migu/rEC2F8
+「NBL」19:20 长沙勇胜vs湖北文旅 现场原声,https://tv.iill.top/Migu/Ct5tK7
+「KPL」20:00 南通Hero久竞 vs 济南RW侠 南通Hero久竞 vs 济南RW侠 官方解说,https://tv.iill.top/Migu/QqlqHd
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
