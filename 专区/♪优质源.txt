@@ -1,3 +1,25 @@
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+纪录|Natgeo_,http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236
+纪录|NatGeo_Wild ,http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236
+纪录|Animal_Planet,http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236
+纪录|Discovery Asia,http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236
+纪录|CI,http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236
+纪录|Asia Travel,http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
+纪录|Discovery ,http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236
+纪录|亚洲美食,http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236
+纪录|美食星球,http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236
+纪录|亚洲TLC,http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
+纪录|NatGeo ,http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236
+纪录|Fashion TV,http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236
+纪录|History,http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236
+纪录|BBC Earth ,http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236
+纪录|BBC Earth Lifestyle,http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236
+纪录|MTV Live,http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236
+纪录|NatGeo Wild ,http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236
+纪录|Animal Planet (Eng),http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236
+纪录|TLC,http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236
+纪录|Foodnetwork Hd,http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236
+纪录|HGTV,http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
+纪录|亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236

@@ -40,3 +40,47 @@ NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+体育|Astro Premier League 1,http://free.cnlive.club/channel/6b9a7458/index.m3u8?q=1752629214236
+体育|Astro EPL 1 backup,http://free.cnlive.club/channel/5bdf2334/index.m3u8?q=1752629214236
+体育|Astro Premier League 2,http://free.cnlive.club/channel/6b9a7459/index.m3u8?q=1752629214236
+体育|Astro Grandstand,http://free.cnlive.club/channel/n19794632/index.m3u8?q=1752629214236
+体育|Astro Football,http://free.cnlive.club/channel/29962bf1/index.m3u8?q=1752629214236
+体育|Astro Sports Plus,http://free.cnlive.club/channel/17502b7/index.m3u8?q=1752629214236
+体育|Astro Badminton 1,http://free.cnlive.club/channel/1de1e193/index.m3u8?q=1752629214236
+体育|Astro Badminton 2,http://free.cnlive.club/channel/1de1e194/index.m3u8?q=1752629214236
+体育|Astro W-Sports,http://free.cnlive.club/channel/3c34fa39/index.m3u8?q=1752629214236
+体育|Supersports 1,http://free.cnlive.club/channel/64ef1648/index.m3u8?q=1752629214236
+体育|Supersports 2,http://free.cnlive.club/channel/64ef1649/index.m3u8?q=1752629214236
+体育|Supersports 3,http://free.cnlive.club/channel/64ef164a/index.m3u8?q=1752629214236
+体育|Supersports 4,http://free.cnlive.club/channel/64ef164b/index.m3u8?q=1752629214236
+体育|WWE,http://free.cnlive.club/channel/n52e4e43e/index.m3u8?q=1752629214236
+体育|Fight Sports,http://free.cnlive.club/channel/n5a7ddbee/index.m3u8?q=1752629214236
+体育|NBA TV,http://free.cnlive.club/channel/751e5af8/index.m3u8?q=1752629214236
+体育|Astro Cricket,http://free.cnlive.club/channel/n670c7d13/index.m3u8?q=1752629214236
+体育|Astro Golf,http://free.cnlive.club/channel/n7fc29d1a/index.m3u8?q=1752629214236
+体育|Tnt Sports 1,http://free.cnlive.club/channel/1fe0e79/index.m3u8?q=1752629214236
+体育|TNT Sports 2,http://free.cnlive.club/channel/n23c66d86/index.m3u8?q=1752629214236
+体育|TNT Sports 3,http://free.cnlive.club/channel/n23c66d85/index.m3u8?q=1752629214236
+体育|TNT Sports 4,http://free.cnlive.club/channel/n23c66d84/index.m3u8?q=1752629214236
+体育|Sony Ten 1,http://free.cnlive.club/channel/n248a5048/index.m3u8?q=1752629214236
+体育|Sony Ten 2,http://free.cnlive.club/channel/n248a5047/index.m3u8?q=1752629214236
+体育|Sony Ten 3,http://free.cnlive.club/channel/n248a5046/index.m3u8?q=1752629214236
+体育|SPOTV 1 ,http://free.cnlive.club/channel/6d1675a/index.m3u8?q=1752629214236
+体育|SPO TV 2,http://free.cnlive.club/channel/n552b885b/index.m3u8?q=1752629214236
+体育|Skysports F1,http://free.cnlive.club/channel/n57ed90b2/index.m3u8?q=1752629214236
+体育|Skysports Cricket,http://free.cnlive.club/channel/5863830e/index.m3u8?q=1752629214236
+体育|Skysports EPL,http://free.cnlive.club/channel/5a3b7abe/index.m3u8?q=1752629214236
+体育|Skysports Main Event,http://free.cnlive.club/channel/5acb9d16/index.m3u8?q=1752629214236
+体育|Skysports News,http://free.cnlive.club/channel/n12c7b72a/index.m3u8?q=1752629214236
+体育|Skysports Mix,http://free.cnlive.club/channel/5a3b9bf9/index.m3u8?q=1752629214236
+体育|爱尔达体育2,http://free.cnlive.club/channel/723ab075/index.m3u8?q=1752629214236
+体育|爱尔达体育3,http://free.cnlive.club/channel/723ab094/index.m3u8?q=1752629214236
+体育|Rugby Pass TV,http://free.cnlive.club/channel/8c42189/index.m3u8?q=1752629214236
+体育|RTM Sports ,http://free.cnlive.club/channel/n1624505b/index.m3u8?q=1752629214236
+体育|Arena,http://free.cnlive.club/channel/n2e6605fc/index.m3u8?q=1752629214236
+体育|Arena 2,http://free.cnlive.club/channel/n2cfc72ea/index.m3u8?q=1752629214236
+体育|BolaArena 1,http://free.cnlive.club/channel/n30b4b24d/index.m3u8?q=1752629214236
+体育|BolaArena 2,http://free.cnlive.club/channel/n30b4b24c/index.m3u8?q=1752629214236
+体育|Astro Beinsports 1,http://free.cnlive.club/channel/n44210d04/index.m3u8?q=1752629214236
+体育|Astro Beinsports 2,http://free.cnlive.club/channel/n44210d03/index.m3u8?q=1752629214236
+体育|Astro Beinsports 3,http://free.cnlive.club/channel/n44210d02/index.m3u8?q=1752629214236

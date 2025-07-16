@@ -23,3 +23,16 @@ Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 FanpopTV,https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
+儿童|Baby TV Eng,http://free.cnlive.club/channel/n59903092/index.m3u8?q=1752629214236
+儿童|CBeebies,http://free.cnlive.club/channel/33dc4490/index.m3u8?q=1752629214236
+儿童|Kids TV,http://free.cnlive.club/channel/n149d9627/index.m3u8?q=1752629214236
+儿童|Momo TV,http://free.cnlive.club/channel/5fe8f622/index.m3u8?q=1752629214236
+儿童|Animax,http://free.cnlive.club/channel/7af110c4/index.m3u8?q=1752629214236
+儿童|Baby TV,http://free.cnlive.club/channel/18a1ad0/index.m3u8?q=1752629214236
+儿童|MiaoMi,http://free.cnlive.club/channel/n70dedb3e/index.m3u8?q=1752629214236
+儿童|靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1752629214236
+儿童|东森幼幼,http://free.cnlive.club/channel/798aeeee/index.m3u8?q=1752629214236
+儿童|Cartoon Network,http://free.cnlive.club/channel/n38060fe0/index.m3u8?q=1752629214236
+儿童|Nickelodeon,http://free.cnlive.club/channel/n6a165737/index.m3u8?q=1752629214236
+儿童|Nick Jr,http://free.cnlive.club/channel/n75fc9ff7/index.m3u8?q=1752629214236
+

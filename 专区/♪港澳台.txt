@@ -290,6 +290,19 @@ astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 凤凰香港,https://fenghuang.tv12.xyz/171.m3u8
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 
+凤凰中文,http://free.cnlive.club/channel/n496e6eec/index.m3u8?q=1752629214236
+凤凰资讯,http://free.cnlive.club/channel/n4966a4fb/index.m3u8?q=1752629214236
+凤凰香港,http://free.cnlive.club/channel/n49654430/index.m3u8?q=1752629214236
+翡翠台,http://free.cnlive.club/channel/n7549189d/index.m3u8?q=1752629214236
+明珠台,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1752629214236
+无线新闻,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1752629214236
+TVBPLUS,http://free.cnlive.club/channel/6429ae4c/index.m3u8?q=1752629214236
+ViuTV,http://free.cnlive.club/channel/78204936/index.m3u8?q=1752629214236
+ViuTV 6,http://free.cnlive.club/channel/necd2834/index.m3u8?q=1752629214236
+RTHK 31,http://free.cnlive.club/channel/n8badbb5/index.m3u8?q=1752629214236
+RTHK 32,http://free.cnlive.club/channel/n8badbb4/index.m3u8?q=1752629214236
+HOY TV,http://free.cnlive.club/channel/7289243e/index.m3u8?q=1752629214236
+
 澳视澳门,https://fenghuang.tv12.xyz/181.m3u8
 澳视葡文,https://fenghuang.tv12.xyz/182.m3u8
 澳视卫星,https://fenghuang.tv12.xyz/183.m3u8
