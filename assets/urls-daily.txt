@@ -6,6 +6,7 @@ http://38.165.20.168/js/%E7%9B%B4%E6%92%AD.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
+https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mgg.m3u
 https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
 --http://wx.thego.cn/ak.m3u
 http://gg.7749.org/z/i/5788.txt

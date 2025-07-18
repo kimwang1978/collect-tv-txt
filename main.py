@@ -757,10 +757,6 @@ def generate_playlist_html(data_list, output_file='playlist.html'):
         f.write(html_head + html_body + html_tail)
     print(f"✅ 网页已生成：{output_file}")
 
-keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视通"]
-filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu)
-generate_playlist_html(sorted(set(filtered_tyss_lines)), 'tiyu.html')
-
 # 体育赛事专用排序, 数字开头倒序排在上面，其他升序排在下面。
 def custom_tyss_sort(lines):
     digit_prefix = []
@@ -779,6 +775,12 @@ def custom_tyss_sort(lines):
     others_sorted = sorted(others)
 
     return digit_prefix_sorted + others_sorted
+
+normalized_tyss_lines = custom_tyss_sort(set(normalized_tyss_lines))
+
+keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视通"]
+filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu)
+generate_playlist_html(sorted(set(filtered_tyss_lines)), 'tiyu.html')
 
 # 随机取得URL
 def get_random_url(file_path):
@@ -825,7 +827,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏈体育赛事🏆️,#genre#"] + custom_tyss_sort(set(normalized_tyss_lines)) + ['\n'] + \
+             ["🏈体育赛事🏆️,#genre#"] + normalized_tyss_lines + ['\n'] + \
              ["⚽️SPORTS🏆️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🎞️电影点播,#genre#"] + read_txt_to_array('专区/♪电影点播.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
@@ -856,7 +858,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏈体育赛事,#genre#"] + custom_tyss_sort(set(normalized_tyss_lines)) + ['\n'] + \
+             ["🏈体育赛事,#genre#"] + normalized_tyss_lines + ['\n'] + \
              ["⚽️SPORTS,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
              ["🎞️电影点播,#genre#"] + read_txt_to_array('专区/♪电影点播.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
