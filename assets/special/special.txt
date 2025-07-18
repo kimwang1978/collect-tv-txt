@@ -3925,57 +3925,72 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「中超」16:00 联赛 长春亚泰 vs 上海海港 娄一晨 刘越 孙蕊,https://tv.iill.top/FB/ex42VI
-「中超」16:15 联赛 长春亚泰 vs 上海海港 赛场原声,https://tv.iill.top/FB/Zi6PeV
-「中超」18:45 联赛 武汉三镇 vs 青岛西海岸 孙雨轩 雷腾龙,https://tv.iill.top/FB/7PECVA
-「中超」18:45 联赛 武汉三镇 vs 青岛西海岸 赛场原声,https://tv.iill.top/FB/CwcdTD
-「中甲」19:20 联赛 广东广州豹 vs 大连鲲城 解说,https://tv.iill.top/FB/zPMADZ
-「中超」19:00 联赛 天津津门虎 vs 成都蓉城 苏东 徐阳 林梦鸽,https://tv.iill.top/FB/eOxknd
-「中超」19:20 联赛 天津津门虎 vs 成都蓉城 赛场原声,https://tv.iill.top/FB/OAHYxD
-「中超」19:45 联赛 浙江 vs 云南玉昆 石庆圣 李彦,https://tv.iill.top/FB/r05v2o
-「中超」19:45 联赛 浙江 vs 云南玉昆 赛场原声,https://tv.iill.top/FB/OFSTPl
-「NBA」03:55 夏季联赛 活塞VS热火 王冠证,https://tv.iill.top/NBA/xTKVr2
-「NBA」03:55 夏季联赛 活塞VS热火 英文原声,https://tv.iill.top/NBA/zasZ6o
-「NBA」04:25 夏季联赛 步行者VS尼克斯 陈鑫隆,https://tv.iill.top/NBA/L1d2BR
-「NBA」04:25 夏季联赛 步行者VS尼克斯 英文原声,https://tv.iill.top/NBA/oIpwDk
-「NBA」05:55 夏季联赛 老鹰VS灰熊 王琰博,https://tv.iill.top/NBA/vzDehb
-「NBA」05:55 夏季联赛 老鹰VS灰熊 英文原声,https://tv.iill.top/NBA/arc0yp
-「NBA」06:55 夏季联赛 马刺VS黄蜂 王晓晨,https://tv.iill.top/NBA/x6Jxlq
-「NBA」06:55 夏季联赛 马刺VS黄蜂 英文原声,https://tv.iill.top/NBA/Y585ld
-「NBA」07:55 夏季联赛 火箭VS开拓者 连睿 孔德昕,https://tv.iill.top/NBA/sr21HM
-「NBA」07:55 夏季联赛 火箭VS开拓者 英文原声,https://tv.iill.top/NBA/boUpS6
-「NBA」08:55 夏季联赛 凯尔特人VS湖人 郑泽鹏,https://tv.iill.top/NBA/rcGReC
-「NBA」08:55 夏季联赛 凯尔特人VS湖人 英文原声,https://tv.iill.top/NBA/ZXG0b9
-「NBA」09:55 夏季联赛 勇士VS猛龙 罗森,https://tv.iill.top/NBA/PiBfGg
-「NBA」09:55 夏季联赛 勇士VS猛龙 英文原声,https://tv.iill.top/NBA/pemoVw
-「NBA」10:55 夏季联赛 掘金VS快船 邢晨,https://tv.iill.top/NBA/rhRvtQ
-「NBA」10:55 夏季联赛 掘金VS快船 英文原声,https://tv.iill.top/NBA/mc4UAx
-「张继科杯全民乒乓球争霸赛」08:30 开幕式 开幕式 开幕式,https://tv.iill.top/Migu/8KJgrJ
-「上海明日之星篮球争冠赛」08:50 跃界星途长三角国际青少年篮球邀请赛Day2 跃界星途长三角国际青少年篮球邀请赛Day2 解说,https://tv.iill.top/Migu/ZQN0pp
-「超三联赛」12:50 北京争霸赛 小组赛Day1下午场 北京争霸赛 小组赛Day1下午场 李月擎 蔡凯臣,https://tv.iill.top/Migu/T9kHcM
-「女篮亚洲杯」13:20 7-8名排位赛 印度尼西亚vs黎巴嫩 殷雪怡,https://tv.iill.top/Migu/WdJfZj
-「女篮亚洲杯」13:20 7-8名排位赛 印度尼西亚vs黎巴嫩 现场原声,https://tv.iill.top/Migu/k5mrcJ
-「KPL」13:40 上海RNG.M vs 长沙TES.A 上海RNG.M vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/yg4DwK
-「WTA」15:30 雅西站第五日 雅西站第五日 清流,https://tv.iill.top/Migu/g3zjTJ
-「WTA」15:30 雅西站第五日 雅西站第五日 英文原声,https://tv.iill.top/Migu/2CFrPH
-「女篮亚洲杯」16:20 四强资格赛 日本vs新西兰 季孟年,https://tv.iill.top/Migu/oqo9fm
-「女篮亚洲杯」16:20 四强资格赛 日本vs新西兰 现场原声,https://tv.iill.top/Migu/1mYfZ9
-「KPL」17:00 北京WB vs 杭州LGD.NBW 北京WB vs 杭州LGD.NBW 官方解说,https://tv.iill.top/Migu/gRFuLo
-「KPL」17:00 北京WB vs 杭州LGD.NBW 北京WB vs 杭州LGD.NBW 裸眼3D01不播出,https://tv.iill.top/Migu/nGsat9
-「KPL」17:00 北京WB vs 杭州LGD.NBW 北京WB vs 杭州LGD.NBW 裸眼3D02不播出,https://tv.iill.top/Migu/3uQI77
-「WTA」17:00 汉堡站第五日 汉堡站第五日 清流,https://tv.iill.top/Migu/mScvyY
-「WTA」17:00 汉堡站第五日 汉堡站第五日 英文原声,https://tv.iill.top/Migu/kG2dNt
-「PEL」17:25 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 官方解说,https://tv.iill.top/Migu/glEXK2
-「PEL」17:25 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 清流,https://tv.iill.top/Migu/kZC0tv
-「PEL」17:50 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 明星视角1,https://tv.iill.top/Migu/sMEhej
-「PEL」17:50 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 明星视角2,https://tv.iill.top/Migu/XTsKKn
-「PEL」17:50 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 明星视角3,https://tv.iill.top/Migu/o1QC1n
-「PEL」17:50 2025夏季赛 第三周 第二天 2025夏季赛 第三周 第二天 地图流,https://tv.iill.top/Migu/PuzzH6
-「超三联赛」18:25 北京争霸赛 开赛仪式及小组赛Day1晚间场 北京争霸赛 开赛仪式及小组赛Day1晚间场 李月擎 蔡凯臣,https://tv.iill.top/Migu/Zs9Lvb
-「女篮亚洲杯」19:20 四强资格赛 韩国vs菲律宾 张泽欣,https://tv.iill.top/Migu/NmspxS
-「女篮亚洲杯」19:20 四强资格赛 韩国vs菲律宾 现场原声,https://tv.iill.top/Migu/U6Ur5q
-「KPL」20:00 重庆狼队 vs 常山UUG 重庆狼队 vs 常山UUG 官方解说,https://tv.iill.top/Migu/9gvMKQ
-「国际马联」22:00 欧锦赛团体决赛 欧锦赛团体决赛 解说,https://tv.iill.top/Migu/HMEB8d
+「中甲」17:50 联赛 延边龙鼎 vs 青岛红狮 解说,https://tv.iill.top/FB/XwM5de
+「中超」18:30 联赛 大连英博 vs 山东泰山 李欣 李壮飞,https://tv.iill.top/FB/6cOZsY
+「中超」18:45 联赛 大连英博 vs 山东泰山 赛场原声,https://tv.iill.top/FB/VoSqEN
+「中超」18:30 联赛 大连英博 vs 山东泰山 李欣 李壮飞,https://tv.iill.top/FB/3dyynG
+「中甲」18:50 联赛 苏州东吴 vs 佛山南狮 解说,https://tv.iill.top/FB/6eM9yB
+「中甲」18:50 联赛 辽宁铁人 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/lqkr3W
+「中甲」19:20 联赛 石家庄功夫 vs 南通支云 解说,https://tv.iill.top/FB/kaUC9f
+「中超」18:00 联赛 北京国安 vs 上海申花 袁甲 黄健翔,https://tv.iill.top/FB/78tDbo
+「中超」18:00 联赛 北京国安 vs 上海申花 刘腾 徐云龙 王伟,https://tv.iill.top/FB/RZZApm
+「中超」19:20 联赛 北京国安 vs 上海申花 4K赛场原声,https://tv.iill.top/FB/Xuivly
+「中超」19:20 联赛 北京国安 vs 上海申花 涂远,https://tv.iill.top/FB/W3MQBU
+「中超」19:20 联赛 深圳新鹏城 vs 青岛海牛 鹿中原 冯潇霆,https://tv.iill.top/FB/KQ3wum
+「中超」19:20 联赛 深圳新鹏城 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/HMvDoK
+「中超」19:45 联赛 河南 vs 梅州客家 鲁靖明 于海,https://tv.iill.top/FB/Ei8MLx
+「中超」19:45 联赛 河南 vs 梅州客家 赛场原声,https://tv.iill.top/FB/jnivE5
+「NBA」03:55 夏季联赛 独行侠VS魔术 罗森,https://tv.iill.top/NBA/bvnGzI
+「NBA」03:55 夏季联赛 独行侠VS魔术 英文原声,https://tv.iill.top/NBA/XTOitj
+「NBA」05:55 夏季联赛 76人VS篮网 徐秦威,https://tv.iill.top/NBA/PJwDYY
+「NBA」05:55 夏季联赛 76人VS篮网 英文原声,https://tv.iill.top/NBA/7XfrnC
+「NBA」06:55 夏季联赛 热火VS雄鹿 刘沛元,https://tv.iill.top/NBA/C5OGG7
+「NBA」06:55 夏季联赛 热火VS雄鹿 英文原声,https://tv.iill.top/NBA/l2x0T9
+「NBA」07:55 夏季联赛 爵士VS公牛 王琰博,https://tv.iill.top/NBA/c3RiGu
+「NBA」07:55 夏季联赛 爵士VS公牛 英文原声,https://tv.iill.top/NBA/p364Xw
+「NBA」08:55 夏季联赛 步行者VS鹈鹕 王凯,https://tv.iill.top/NBA/SDYJE6
+「NBA」08:55 夏季联赛 步行者VS鹈鹕 英文原声,https://tv.iill.top/NBA/wwhbRv
+「NBA」09:55 夏季联赛 掘金VS湖人 邢晨,https://tv.iill.top/NBA/TtSoOv
+「NBA」09:55 夏季联赛 掘金VS湖人 英文原声,https://tv.iill.top/NBA/CxLHyJ
+「上海明日之星篮球争冠赛」08:50 跃界星途长三角国际青少年篮球邀请赛Day3 跃界星途长三角国际青少年篮球邀请赛Day3 解说,https://tv.iill.top/Migu/AS6kl5
+「上海明日之星篮球争冠赛」09:50 中国香港邀请队vs新北市南山高中队 解说,https://tv.iill.top/Migu/Z0SPbw
+「上海明日之星篮球争冠赛」12:50 上海青年联队vs日本B联赛精英队 解说,https://tv.iill.top/Migu/DcTyzg
+「超三联赛」12:50 3WL 靖江赛区第2站 Day1下午场 3WL 靖江赛区第2站 Day1下午场 清流播出,https://tv.iill.top/Migu/OooCz7
+「超三联赛」12:50 北京争霸赛 小组赛Day2下午场 北京争霸赛 小组赛Day2下午场 蔡凯臣 李嘉伟,https://tv.iill.top/Migu/AqcU6s
+「逐马计划」14:00 六盘水站大咖分享会 六盘水站大咖分享会 清流播出,https://tv.iill.top/Migu/mUrtOi
+「LPL」14:30 EDG vs UP EDG vs UP 官方解说,https://tv.iill.top/Migu/iwalmD
+「UFC格斗之夜」14:30 UFC激战前夜：霍洛威特辑 人型加特林火力合集 UFC激战前夜：霍洛威特辑 人型加特林火力合集 王琰博,https://tv.iill.top/Migu/K0mvYx
+「中乙」15:50 联赛 无锡吴钩vs长春喜都 解说,https://tv.iill.top/Migu/SMSfvY
+「上海明日之星篮球争冠赛」15:50 英格兰篮球UK50精英队vs西班牙富恩拉夫拉达俱乐部精英队 解说,https://tv.iill.top/Migu/3bssmH
+「中乙」16:20 联赛 上海海港富盛经开vs山东泰山B队 解说,https://tv.iill.top/Migu/gmJfhG
+「上海明日之星篮球争冠赛」16:50 跃界星途长三角国际青少年篮球邀请赛排名赛 跃界星途长三角国际青少年篮球邀请赛排名赛 解说,https://tv.iill.top/Migu/RJXWYn
+「LPL」17:00 WBG vs FPX WBG vs FPX 官方解说,https://tv.iill.top/Migu/hN2n59
+「PEL」17:05 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 官方解说,https://tv.iill.top/Migu/MG4Ia1
+「PEL」17:05 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 清流,https://tv.iill.top/Migu/tpbQLK
+「PEL」17:50 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 明星视角1,https://tv.iill.top/Migu/RF7Ipl
+「PEL」17:50 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 明星视角2,https://tv.iill.top/Migu/C5r5kB
+「PEL」17:50 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 明星视角3,https://tv.iill.top/Migu/hSARHt
+「PEL」17:50 2025夏季赛 第三周 第三天 2025夏季赛 第三周 第三天 地图流,https://tv.iill.top/Migu/cqb2jA
+「中乙」15:50 联赛 泰安天贶vs杭州临平吴越 解说,https://tv.iill.top/Migu/gkiKxY
+「UFC格斗之夜」18:30 UFC激战前夜：普瓦里尔特辑 钻石恒久远 UFC激战前夜：普瓦里尔特辑 钻石恒久远 陈瑞阳,https://tv.iill.top/Migu/hwauXn
+「中乙」18:50 联赛 赣州瑞狮vs广东铭途 解说,https://tv.iill.top/Migu/SyMmOK
+「上海明日之星篮球争冠赛」18:50 中国国家U16青年队vs澳大利亚青年选拔队 解说,https://tv.iill.top/Migu/ZjVVjk
+「LPL」19:00 TES vs IG TES vs IG 官方解说,https://tv.iill.top/Migu/MnfI3o
+「超三联赛」18:50 3WL 靖江赛区第2站 Day1晚间场 3WL 靖江赛区第2站 Day1晚间场 清流播出,https://tv.iill.top/Migu/knX9Jz
+「超三联赛」18:50 北京争霸赛 小组赛Day2晚间场 北京争霸赛 小组赛Day2晚间场 王冠证,https://tv.iill.top/Migu/PAACJN
+「中乙」19:20 联赛 广西蓝航vs深圳二零二八 解说,https://tv.iill.top/Migu/3uyYie
+「中乙」19:20 联赛 温州俱乐部中胤vs广西恒宸 解说,https://tv.iill.top/Migu/wfu8jz
+「中乙」19:20 联赛 武汉三镇B队vs昆明城星 解说,https://tv.iill.top/Migu/kPJzC4
+「江苏城市足球联赛」19:20 泰州队vs宿迁队 解说,https://tv.iill.top/Migu/ZWg8XD
+「NBL」19:20 湖北文旅vs香港金牛 解说,https://tv.iill.top/Migu/GIAwjk
+「NBL」19:20 湖北文旅vs香港金牛 现场原声,https://tv.iill.top/Migu/kJWobH
+「NBL」19:20 江西鲸裕清酒vs合肥狂风峻茂 解说,https://tv.iill.top/Migu/cy0FK0
+「NBL」19:20 江西鲸裕清酒vs合肥狂风峻茂 现场原声,https://tv.iill.top/Migu/Z6UowS
+「江苏城市足球联赛」19:25 南通队vs盐城队 解说,https://tv.iill.top/Migu/03Nysh
+「WTA」20:00 汉堡站半决赛 汉堡站半决赛 清流,https://tv.iill.top/Migu/hVj8zE
+「WTA」20:00 汉堡站半决赛 汉堡站半决赛 英文原声,https://tv.iill.top/Migu/oQsFvl
+「WTA」22:00 雅西站半决赛 雅西站半决赛 清流,https://tv.iill.top/Migu/kuXObt
+「WTA」22:00 雅西站半决赛 雅西站半决赛 英文原声,https://tv.iill.top/Migu/HpMLXX
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
