@@ -780,7 +780,7 @@ normalized_tyss_lines = custom_tyss_sort(set(normalized_tyss_lines))
 
 keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视通"]
 filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu)
-generate_playlist_html(sorted(set(filtered_tyss_lines)), 'tiyu.html')
+generate_playlist_html(filtered_tyss_lines, 'tiyu.html')
 
 # 随机取得URL
 def get_random_url(file_path):
