@@ -3925,16 +3925,25 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」05:55 夏季联赛 老鹰VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/rNGhGv
-「NBA」05:55 夏季联赛 老鹰VS凯尔特人 英文原声,https://tv.iill.top/NBA/fZs532
-「NBA」07:55 夏季联赛 灰熊VS快船 罗森,https://tv.iill.top/NBA/i2VPeX
-「NBA」07:55 夏季联赛 灰熊VS快船 英文原声,https://tv.iill.top/NBA/ceSMLy
-「NBA」09:55 夏季联赛 国王VS黄蜂 陈鑫隆,https://tv.iill.top/NBA/1pJdOi
-「NBA」09:55 夏季联赛 国王VS黄蜂 英文原声,https://tv.iill.top/NBA/nJmoDE
-「LPL」16:30 UP vs TT UP vs TT 官方解说,https://tv.iill.top/Migu/ljkgGr
-「LPL」19:00 LNG vs NIP LNG vs NIP 官方解说,https://tv.iill.top/Migu/fJKgZB
-「WTA」23:00 华盛顿站第一日 华盛顿站第一日 清流,https://tv.iill.top/Migu/51FbfI
-「WTA」23:00 华盛顿站第一日 华盛顿站第一日 英文原声,https://tv.iill.top/Migu/roSqZr
+「LPL」16:30 LGD vs NIP LGD vs NIP 官方解说,https://tv.iill.top/Migu/2DDRDD
+「WTT」17:00 男女单打资格赛第一、二轮 男女单打资格赛第一、二轮 1号桌,https://tv.iill.top/Migu/EnSQAy
+「WTT」17:00 男女单打资格赛第一、二轮 男女单打资格赛第一、二轮 2号桌,https://tv.iill.top/Migu/icjKUK
+「WTT」17:00 男女单打资格赛第一、二轮 男女单打资格赛第一、二轮 3号桌,https://tv.iill.top/Migu/0RhEB2
+「WTT」17:00 男女单打资格赛第一、二轮 男女单打资格赛第一、二轮 4号桌,https://tv.iill.top/Migu/tMrBXm
+「足协杯」18:50 四分之一决赛 青岛西海岸 vs 北京国安 刘腾,https://tv.iill.top/Migu/KXOw4G
+「足协杯」18:50 四分之一决赛 青岛西海岸 vs 北京国安 赛场原声,https://tv.iill.top/Migu/hJOeTU
+「LPL」19:00 IG vs WE IG vs WE 官方解说,https://tv.iill.top/Migu/2Jx4Ua
+「超三联赛」18:30 3WL 总决赛 开赛仪式及四分之一决赛 3WL 总决赛 开赛仪式及四分之一决赛 清流播出,https://tv.iill.top/Migu/yZVlIP
+「NBL」19:20 石家庄翔蓝vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/6eXFmU
+「NBL」19:20 石家庄翔蓝vs江西鲸裕清酒 现场原声,https://tv.iill.top/Migu/Di7wiJ
+「NBL」19:20 合肥狂风峻茂vs长沙勇胜 解说,https://tv.iill.top/Migu/cwYao4
+「NBL」19:20 合肥狂风峻茂vs长沙勇胜 现场原声,https://tv.iill.top/Migu/EvcQfY
+「足协杯」19:50 四分之一决赛 云南玉昆 vs 广东广州豹 鲁靖明,https://tv.iill.top/Migu/eXiJd7
+「足协杯」19:50 四分之一决赛 云南玉昆 vs 广东广州豹 赛场原声,https://tv.iill.top/Migu/TjdyXL
+「WTT」20:30 男女单打资格赛第一轮 男女单打资格赛第一轮 1号桌,https://tv.iill.top/Migu/JF4lAG
+「WTT」20:30 男女单打资格赛第一轮 男女单打资格赛第一轮 2号桌,https://tv.iill.top/Migu/ACc7j4
+「WTT」20:30 男女单打资格赛第一轮 男女单打资格赛第一轮 3号桌,https://tv.iill.top/Migu/iOpLl0
+「WTT」20:30 男女单打资格赛第一轮 男女单打资格赛第一轮 4号桌,https://tv.iill.top/Migu/XFkB06
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
