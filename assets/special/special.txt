@@ -3900,8 +3900,11 @@ bang派,https://live.metshop.top/huya/11336719
 1338.hk,https://m1.m3u8111222333.com/G0130/e094/e094.m3u8
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
-维护时间：2025-6-4 #佛系维护...,https://epg.iill.top/v/301.mp4
-公告说明：推流源·「面临倒闭」,https://epg.iill.top/v/301.mp4
+免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
+維護時間：2025-7-22 #佛系維護...,https://epg.iill.top/v/301.mp4
+維護内容：維護 Gather「增加 翡翠/無綫新聞-随时拉闸」,https://epg.iill.top/v/302.mp4
+公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
+限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 东南卫视,https://tv.iill.top/migu/dnws
@@ -3925,36 +3928,26 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「WTT」04:00 菲奥雷、陈琦媗出战 菲奥雷、陈琦媗出战 1号桌,https://tv.iill.top/Migu/I67bD7
-「WTT」04:00 菲奥雷、陈琦媗出战 菲奥雷、陈琦媗出战 2号桌,https://tv.iill.top/Migu/Ebpzz4
-「WTT」04:00 菲奥雷、陈琦媗出战 菲奥雷、陈琦媗出战 3号桌,https://tv.iill.top/Migu/WFdODT
-「WTA」01:00 华盛顿站第二日赛场原声 华盛顿站第二日赛场原声 清流,https://tv.iill.top/Migu/xem4Y5
-「WTA」01:00 华盛顿站第二日赛场原声 华盛顿站第二日赛场原声 英文原声,https://tv.iill.top/Migu/fKkOGy
-「超三联赛」13:50 3WL 总决赛 排位赛及半决赛 3WL 总决赛 排位赛及半决赛 清流播出,https://tv.iill.top/Migu/Oyy2pz
-「LPL」16:30 FPX vs TES FPX vs TES 官方解说,https://tv.iill.top/Migu/euiPzD
-「WTA」17:00 布拉格站第三日 布拉格站第三日 清流,https://tv.iill.top/Migu/jnPaZX
-「WTA」17:00 布拉格站第三日 布拉格站第三日 英文原声,https://tv.iill.top/Migu/lSYsSw
-「WTT」17:00 朱尔斯·罗兰/帕瓦德冲混双正赛 朱尔斯·罗兰/帕瓦德冲混双正赛 1号桌,https://tv.iill.top/Migu/bbskVL
-「WTT」17:00 朱尔斯·罗兰/帕瓦德冲混双正赛 朱尔斯·罗兰/帕瓦德冲混双正赛 2号桌,https://tv.iill.top/Migu/5UpuNa
-「WTT」17:00 朱尔斯·罗兰/帕瓦德冲混双正赛 朱尔斯·罗兰/帕瓦德冲混双正赛 3号桌,https://tv.iill.top/Migu/1B0cIU
-「WTT」17:00 朱尔斯·罗兰/帕瓦德冲混双正赛 朱尔斯·罗兰/帕瓦德冲混双正赛 4号桌,https://tv.iill.top/Migu/aBs8Yc
-「足协杯」18:50 四分之一决赛 上海申花 vs 河南 涂远,https://tv.iill.top/Migu/c29I5q
-「足协杯」18:50 四分之一决赛 上海申花 vs 河南 赛场原声,https://tv.iill.top/Migu/JUQrLo
-「LPL」19:00 WE vs WBG WE vs WBG 官方解说,https://tv.iill.top/Migu/DFZTiF
-「超三联赛」18:50 3WL 总决赛 排位赛及决赛 3WL 总决赛 排位赛及决赛 清流播出,https://tv.iill.top/Migu/2ps2n7
-「NBL」19:20 广西威壮vs香港金牛 解说,https://tv.iill.top/Migu/yPTw63
-「NBL」19:20 广西威壮vs香港金牛 现场原声,https://tv.iill.top/Migu/YnlbVF
-「NBL」19:20 湖北文旅vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/I4Grsz
-「NBL」19:20 湖北文旅vs盐南苏科雄狮 现场原声,https://tv.iill.top/Migu/p10053
-「中女超」19:20 联赛 武汉车谷江大女足VS江苏无锡女足 清流播出,https://tv.iill.top/Migu/J717VH
-「足协杯」19:25 四分之一决赛 青岛海牛 vs 成都蓉城 袁甲,https://tv.iill.top/Migu/UI2JqL
-「足协杯」19:25 四分之一决赛 青岛海牛 vs 成都蓉城 赛场原声,https://tv.iill.top/Migu/NlatgE
-「WTT」21:00 篠塚大登/大藤沙月混双冲正赛 篠塚大登/大藤沙月混双冲正赛 1号桌,https://tv.iill.top/Migu/4YrgAg
-「WTT」21:00 篠塚大登/大藤沙月混双冲正赛 篠塚大登/大藤沙月混双冲正赛 2号桌,https://tv.iill.top/Migu/Q5q3yL
-「WTT」21:00 篠塚大登/大藤沙月混双冲正赛 篠塚大登/大藤沙月混双冲正赛 3号桌,https://tv.iill.top/Migu/7yYpv5
-「WTT」21:00 篠塚大登/大藤沙月混双冲正赛 篠塚大登/大藤沙月混双冲正赛 4号桌,https://tv.iill.top/Migu/cY4XZW
-「WTA」23:00 华盛顿站第三日 华盛顿站第三日 清流,https://tv.iill.top/Migu/ACgZ5q
-「WTA」23:00 华盛顿站第三日 华盛顿站第三日 英文原声,https://tv.iill.top/Migu/2tGOAC
+「超三联赛」12:50 靖江赛区第2站 小组赛第一轮及第二轮 靖江赛区第2站 小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/mJzRLj
+「LPL」16:30 JDG vs IG JDG vs IG 官方解说,https://tv.iill.top/Migu/LEksUU
+「WTA」17:00 布拉格站第四日 布拉格站第四日 清流,https://tv.iill.top/Migu/6M5hS4
+「WTA」17:00 布拉格站第四日 布拉格站第四日 英文原声,https://tv.iill.top/Migu/Dq2UtW
+「WTT」17:00 孟凡博出战 早田希娜迎战阿库拉 孟凡博出战 早田希娜迎战阿库拉 1号桌,https://tv.iill.top/Migu/ITPrJ9
+「WTT」17:00 孟凡博出战 早田希娜迎战阿库拉 孟凡博出战 早田希娜迎战阿库拉 2号桌,https://tv.iill.top/Migu/NgIMr2
+「WTT」17:00 孟凡博出战 早田希娜迎战阿库拉 孟凡博出战 早田希娜迎战阿库拉 3号桌,https://tv.iill.top/Migu/hzWTTi
+「WTT」17:00 孟凡博出战 早田希娜迎战阿库拉 孟凡博出战 早田希娜迎战阿库拉 4号桌,https://tv.iill.top/Migu/qJMATK
+「WTT」17:00 孟凡博出战 早田希娜迎战阿库拉 孟凡博出战 早田希娜迎战阿库拉 英文解说,https://tv.iill.top/Migu/TDZmhF
+「LPL」19:00 TT vs LNG TT vs LNG 官方解说,https://tv.iill.top/Migu/0P7sNF
+「超三联赛」18:50 靖江赛区第2站 小组赛第三轮 靖江赛区第2站 小组赛第三轮 解说,https://tv.iill.top/Migu/b5N6bH
+「NBL」19:20 石家庄翔蓝vs合肥狂风峻茂 解说,https://tv.iill.top/Migu/2zpwnk
+「NBL」19:20 石家庄翔蓝vs合肥狂风峻茂 现场原声,https://tv.iill.top/Migu/R4RNiQ
+「中国男篮系列热身赛」19:20 中国vs委内瑞拉 连睿 周鹏,https://tv.iill.top/Migu/3uhblK
+「中国男篮系列热身赛」19:20 中国vs委内瑞拉 现场原声,https://tv.iill.top/Migu/0NTgz0
+「WTT」21:00 雨果情侣组合迎首战冲刺混双八强 雨果情侣组合迎首战冲刺混双八强 1号桌,https://tv.iill.top/Migu/8BCFbB
+「WTT」21:00 雨果情侣组合迎首战冲刺混双八强 雨果情侣组合迎首战冲刺混双八强 2号桌,https://tv.iill.top/Migu/5Mov7W
+「WTT」21:00 雨果情侣组合迎首战冲刺混双八强 雨果情侣组合迎首战冲刺混双八强 3号桌,https://tv.iill.top/Migu/ENVyXy
+「WTT」21:00 雨果情侣组合迎首战冲刺混双八强 雨果情侣组合迎首战冲刺混双八强 4号桌,https://tv.iill.top/Migu/nGXFUZ
+「WTT」21:00 雨果情侣组合迎首战冲刺混双八强 雨果情侣组合迎首战冲刺混双八强 英文解说,https://tv.iill.top/Migu/AoTE7y
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
