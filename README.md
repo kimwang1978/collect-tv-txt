@@ -1,6 +1,6 @@
 # collect-tv-txt
 
-## TV源
+## 源
 > 声明：内容均来自网络，仅供个人测试学习技术交流使用，严禁商用，如有侵权，请联系删除。
 
 | 类别  | 文件名  | 更新频率                                       | LINK |
@@ -20,7 +20,7 @@
 
 > 源检索：https://search.iptv365.org
 
->电台：https://radio.iptv365.org 
+> 电台：https://radio.iptv365.org 
 
 ## 公众号・赞赏（请作者喝咖啡！）
 
